@@ -1,67 +1,813 @@
 ---
 description: Jesus preached the Kingdom of God throughout His ministry. What is this present Kingdom that extends beyond churches? Discover this fundamental Gospel truth.
-keywords:
-  - kingdom of heaven
-  - salvation
-  - righteousness
-  - gospel
-  - eternal life
+keywords: kingdom of heaven, salvation, righteousness, gospel, eternal life
 ---
 
 # Kingdom of God
 
+Also known as "the Kingdom of Heaven" according to Matthew's gospel.
 
-Also known as "the Kingdom of Heaven" according to Matthew.
+Have you ever wondered who really controls our world? When I look at the suffering, injustice, and wickedness around us, it's tempting to conclude that evil has won. Many people struggle with this question:
 
-## Where is the Kingdom of God?
+> If God is sovereign, why does the devil seem so powerful?
 
-It is not a physical territory:
+> What does Jesus mean when He constantly preached about "the Kingdom of God"?
 
-> Being asked by the Pharisees when the kingdom of God would come, he *(Jesus)* answered them, “**The kingdom of God is not coming in ways that can be observed**, nor will they say, ‘Look, here it is!’ or ‘There!’ for behold, the kingdom of God is in the midst of you.” -- Luke 17:20-21 (ESV)
+This article explores what Scripture reveals about God's Kingdom, Satan's actual power, and most importantly: Your role in this cosmic battle.
 
-It spans across multiple realms:
+## The Owner of our world
 
-> Your kingdom come, Your will be done, on **earth as it is in heaven**. -- Matthew 6:10 (ESV)
+If one considers all the suffering, injustice and wickedness in our world, it is easy to believe that the devil is reigning over our world. However, the Bible scriptures say otherwise:
 
-## Why do we need the Kingdom of God?
+### God owns everything
 
-> * Whoever believes in the Son has eternal life.
-> * Whoever does not obey the Son shall not see life, but the wrath of God remains on him.
+> **The earth is [the LORD](https://eternal.family.co.za/god/father/name#yhvh)’s, and all its fullness, the world and those who dwell therein.** -- Psalms 24:1 (NKJV)
+
+And King David believed God is the supreme ruler:
+
+> [The LORD](https://eternal.family.co.za/god/father/name#yhvh) has established His throne in heaven, and **His kingdom rules over all**.  
+> Bless the LORD, you His angels, who excel in strength, who do His word, heeding the voice of His word.  
+> Bless the LORD, all you His hosts, you ministers of His, who do His pleasure.  
+> Bless the LORD, all His works, in all places of His dominion.  
+> Bless the LORD, O my soul!
 >
-> -- John 3:36 (ESV)
+> -- Psalms 103:19-22 (NKJV)
 
 and
 
-> Then the King will say to those on his right, "Come, you who are blessed by my Father, **inherit the kingdom prepared for you** from the foundation of the world." -- Matthew 25:34 (ESV)
-
-Paul taught:
-
-> And we know that for those who love God **all things work together for good**, for those who are called according to his purpose. -- Romans 8:28 (ESV)
-
-and
-
-> To the saints and faithful brothers *[in (with)](/content/kingdom/bible/translations/differences/en.md)* Christ at Colossae...
+> Therefore David blessed [The LORD](https://eternal.family.co.za/god/father/name#yhvh) before all the assembly; and David said:
 >
-> And so, from the day we heard, we have not ceased to pray for you, asking that
-> * you may be **filled with the knowledge of his will in all spiritual wisdom and understanding**,
-> * so as to walk in a manner worthy of the Lord, fully pleasing to him, **bearing fruit in every good work** and
-> * **increasing in the knowledge of God**.
-> * May you **be strengthened with all power**, according to His glorious might,
-> * for all **endurance and patience with joy**,
-> * giving thanks to the Father, who has qualified you to **share in the inheritance of the saints in light**.
-> * He has **delivered us from the domain of darkness** and
-> * **transferred us to the kingdom of His beloved son**,
-> * in whom **we have redemption**, the forgiveness of sins. -- Colossians 1:2,11-14 (ESV)
+> “Blessed are You, Lord God of Israel, our [Father](https://eternal.family.co.za/god/father), forever and ever.  
+> Yours, O Lord, is the greatness: the power and the glory, the victory and the majesty;  
+> For **all that is in heaven and in earth is Yours**;  
+> **Yours is the kingdom**, O Lord, and **You are exalted as head over all**.  
+> Both riches and honor come from You, and **You reign over all**.
+> In Your hand is power and might;
+> In Your hand it is to make great and to give strength to all.
+>
+> -- 1 Chronicles 29:10-12 (NKJV)
 
-In short, it is privilege to be able to "dwell" with the trustworthy Almighty God:
+This teaching was also echoed by Jehoshaphat (2 Chronicles 20:5-9).
+
+In addition, Jesus also implied that God is in control even to the smallest detail:
+
+> Are not two sparrows sold for a copper coin?
+>
+> And not one of them falls to the ground apart from your Father’s will.
+>
+> But the very hairs of your head are all numbered.
+>
+> -- Matthew 10:29-30 (NKJV)
+
+### Delegated authority to humanity
+
+Though God is the absolute sovereign and owner, He chose to delegate real authority to humanity:
+
+> Then God said, “Let Us make man in Our image, according to Our likeness; **let them have dominion**
+>
+> - over the fish of the sea,
+> - over the birds of the air, and
+> - over the cattle, over all the earth and over every creeping thing that creeps on the earth.”
+>
+> -- Genesis 1:26 (NKJV)
+
+Some reason that [the fall of man](https://eternal.family.co.za/eternal) cancelled this privilege based on the devil's own words:
+
+> And the devil took him up and showed him all the kingdoms of the world in a moment of time, and said to him _(Jesus)_,
+>
+> “To you I will give all this authority and their glory, for **it has been delivered to me**, and I give it to whom I will.
+>
+> -- Luke 4:5-6 ESV
+
+Jesus never challenged this claim. However, in the same book of Genesis we also read:
+
+> God blessed Noah and his sons, and said to them:
+>
+> “Be fruitful and multiply, and fill the earth. And the fear of you and the dread of you shall be on every beast of the earth, on every bird of the air, on all that move on the earth, and on all the fish of the sea. **They are given into your hand**.”
+>
+> -- Genesis 9:1-2 (NKJV)
+
+This means that the original command God gave Adam and Eve never expired. Noah and his sons were still authorized to have dominion. God never delivered the world to the devil. We, as humans who are supposed to have dominion, but we forfeit it when we choose to submit to our own selfish desires (motivied by the devil's temptations), instead of acting in obedience under the authority of the Sovereign God.
+
+King David also wrote:
+
+> What is man that You are mindful of him?
+> And the son of man that You visit him?
+>
+> For You have made him a little lower than the angels,
+> And You have crowned him with glory and honor.
+> **You have made him to have dominion** over the works of Your hands;
+> **You have put all things under his feet**, all sheep and oxen — even the beasts of the field, the birds of the air, and the fish of the sea that pass through the paths of the seas.
+>
+> -- Psalms 8:4-8 (NKJV)
+
+God gave humans genuine dominion - authority that could be used properly or abused. This sets the stage for understanding how evil entered the world.
+
+## The Battle for Control
+
+We were given dominion, but we lost it. How? Through idolatry - the root of all sin:
+
+> Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, **which is idolatry**. -- Colossians 3:5 (NKJV)
+
+[Sin](https://eternal.family.co.za/bible/concepts/sin) is caused by [idolatry](https://eternal.family.co.za/bible/concepts/idolatry).
+
+> Then his mind changes, and he **transgresses; He commits offense, ascribing this [power](https://biblehub.com/hebrew/3581.htm) to his god**. -- Habakkuk 1:11 (NKJV)
+
+According to Habakkuk, idolatry is "ascribing power" [(ability, might, strength, wealth)](https://biblehub.com/hebrew/3581.htm) to another "god". Simply put:
+
+**Prioritizing anything above God is the root of all sin.**
+
+> **No one can serve two masters**; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. **You cannot serve God and mammon.**. Therefore I say to you, **do not worry** about your life, what you will eat or what you will drink; nor about your body, what you will put on. Is not life more than food and the body more than clothing? -- Matthew 6:24-25 (NKJV)
+
+The reason why we worry or serve two masters is because we don't trust God.
+
+### 1. Doubting God
+
+Jesus explained through the parable of the sower why we fail to trust God (Mark 4:2-20; Matthew 13:3-23; Luke 8:4-18):
+
+- Deception (wayside) (1 Timothy 4:1-2):
+  - Ignorance: We become vulnerable to deception when uninformed about God (for example the Athenes (Acts 17:22-23))
+  - Lies: We may know about God but have a distorted view (for example the samaritan woman (John 4:1-42))
+  - Skepticism: We may know the truth but won't commit until we see evidence (for example Moses (Exodus 3-4), Gideon (Judges 6-7), Thomas (John 20:24-29))
+  - Rejection: We may refuse to believe despite evidence (for example the "fools" mentioned in Psalm 14:1; 53:1)
+- Convenience (rocky ground): We trust God as long as it's comfortable, but when persecution comes, we abandon Him (for example the Israelites (Exodus 32), Peter (Matthew 26:69-75), Demas (2 Timothy 4:10))
+- Distractions (thorny ground): Our distractions come in different forms:
+  - Obligations: We prioritize "the cares of this world" above God (for example the refuser (Luke 9:59-62))
+  - Wealth: We prioritize "the riches of this world" above God (for example the rich man (Luke 18:18-25))
+  - Popularity: We prioritize "the desires of others" above God (for example Adam (Genesis 3), King Saul (1 Samuel 13, 15), King Solomon (1 Kings 11), King Ahab (1 Kings 18))
+
+#### Consequences of doubt
+
+When we doubt God, we seek **independance from God** because **we do not trust** that God will meet our needs.
+
+When we are independant from God:
+
+- We lack God's **provision**, therefore we become **discontent**, because we become discontent with what we have.
+- We lack God's **protection**, therefore we become **fearful**, because we are insecure.
+- We lack God's **authority**, therefore we become **proud**, because we seek acknowledgement by self elevation or entitlement.
+
+Even Jesus had to face these same temptations (Matthew 4; Luke 4):
+
+- "command that these stones become bread" (challenge God's provision by requesting Jesus to provide for himself)
+- "throw yourself down" (challenge God's protection by testing God)
+- "all these things I will give you" (challenge God's authority by providing an alternative to the crucifixion)
+
+> **Trust in the LORD** with all your heart, and lean not on your own understanding; In all your ways acknowledge Him, And He shall direct your paths. Do not be wise in your own eyes; **Fear the LORD and depart from evil**. -- Proverbs 3:5-7 (NKJV)
+
+Our lack of trust in God makes us vulnerable to temptations (James 1:14-15).
+
+### 2. Coping mechanisms
+
+We are all mortal beings that need godly provision, protection and acknowledgement. We were not meant to live independantly from God (John 15:5). Without God, we have to resort to coping mechanisms.
+
+It would be impossible to list every single sin here. These are just some over-simplified scenarios to illustrate that every coping mechanism leads to some sort of sin.
+
+#### Coping with discontentment
+
+- Jealousy: Discontent with God's provision, therefore they covet what other people have - this often leads to envy, slander, theft or murder
+- Gluttony: Discontent with situation, therefore resorting to overconsumption as a coping mechanism - often at the cost of their health
+- Lust: Discontent with the level of intimacy with God, therefore they resort to sexual gratification as a substitute which leads to sexual fantasies, seduction, kidnapping or rape.
+- Greed: Discontent with God's provision, therefore they hoard resources - often at the cost of others
+- Slothfulness: Often associated with people who gave up hope (Proverbs 21:25–26) - often leads to despair
+
+#### Coping with fear
+
+- Wrath: Fear they need to defend themselves against an offender by responding with wrath which may lead to malice.
+- Manipulation: Fear they need to control others which may lead to betrayal, extortion, deception, bribery, witchcraft, rebellion, etc.
+- Compromise: Some fear rejections by people more than God's authority. This often leads to disobedience.
+- Apostasy: Fear of divine abandonment, therefore they create substitute gods or systems to replace God
+- Greed: Fear that they may lack in the future, therefore they hoard resources - often at the cost of others
+- Slothfulness: Some fear failure (Proverbs 22:13; Ecclesiastes 11:4) - leads to unnecessary procrastination and damage
+
+#### Pride
+
+Pride is present when we do not acknowledge God's authority.
+
+- Arrogance: Disregard God's authority by self-idolization may lead to disrespectful behavior which may encourage others to retaliate in response.
+- Impatience: Disregard God's timing because they believe they know better than God - this often leads to theft, disobedience, rebellion or violence
+- Revenge: Disregard God's judgement, therefore they choose to execute their own justice to "get even" which leads to an active sin like spite, slander, theft, vandalism, murder, etc.
+- Resentment: Disregard God's judgement, but cannot execute own justice, so they resort to passive sin like envy, bitterness and unforgiveness.
+- Slothfulness: Caused by entitlement or pride (Proverbs 26:16) - leads to neglecting responsibilities and damage
+
+### 3. Defilement
+
+Sin always defiles what God declared [holy](https://eternal.family.co.za/bible/concepts/holy) or honoured like:
+
+- Time: Dedicated time for special events or sabaths (Genesis 2:3; Exodus 16:22-26, 31:14-15, 35:2; Deuteronomy 5:12)
+- Environment: Land, cities, water and air (Exodus 3:4-5, 15:13, 26:33-34, 28:35, 28:42-43, 29:31, 40:9-11, Joshua 5:15).
+- Life: Human and animal bodies or lifes (Exodus 12:16-17; 19:3-6; 29:21, 29:32-33, 30:29-30; Leviticus 11:44-45; 19:1-2; 20:7; 21:1-9; 2 Peter 3:1-2)
+- Objects: Sacred items (Exodus 28:2-4,36; 29:21,29; 29:6; 30:33; 39:30; 40:10; Numbers 5:17; Joshua 6:19; 2 Chronicles 35:3)
+- Data: Truth, knowledge and wisdom (Proverbs 9:10; Daniel 11:32; Hosea 4:6; John 17:17)
+- Sound: Praise and music (Hebrews 13:15; Psalm 99:5, Psalm 150:6)
+- Relationship: Marriage and covenants (Hebrews 13:4; Malachi 2:14-15)
+
+| Person/Group                      | Doubted God's | Coping Mechanism                                                  | Sin Committed                                    | Defilement         | Consequence                            |
+| --------------------------------- | ------------- | ----------------------------------------------------------------- | ------------------------------------------------ | ------------------ | -------------------------------------- |
+| Eve (Genesis 3)                   | Authority     | Arrogance - desired to be like God                                | Ate forbidden fruit                              | Data               | Expelled from Eden                     |
+| Adam (Genesis 3)                  | Protection    | Compromise - chose Eve's approval over God's command              | Ate forbidden fruit                              | Environment        | Ground cursed, expelled from Eden      |
+| Cain (Genesis 4)                  | Provision     | Jealousy - coveted Abel's favor with God                          | Murder of Abel                                   | Life, Environment  | Marked as wanderer, ground cursed      |
+| Noah (Genesis 9:20-21)            | Provision     | Gluttony - excessive drinking                                     | Drunkenness, exposed himself                     | Relationship       | Shame, cursed Ham's lineage            |
+| Babel builders (Genesis 11)       | Authority     | Arrogance - disregarded God's authority by self-glorification     | Built tower to make a name                       | Environment        | Forced to scattered                    |
+| Sodom (Genesis 19)                | Provision     | Lust - discontent with God's design for intimacy                  | Sexual perversion/violence                       | Life, Environment  | City destroyed by fire                 |
+| Jacob (Genesis 27)                | Protection    | Manipulation - feared losing inheritance                          | Stole Esau's blessing                            | Relationship       | Brothers estranged for years           |
+| Simeon & Levi (Genesis 34)        | Authority     | Revenge - executed their own justice                              | Massacred whole city                             | Life, Relationship | Family endangered, cursed              |
+| Joseph's brothers (Genesis 37-45) | Provision     | Jealousy - coveted father's favor                                 | Betrayal, human trafficking                      | Relationship       | Family broken for decades              |
+| Israel (Exodus 32)                | Protection    | Apostasy - feared divine abandonment so created substitute god    | Idolatry, broke covenant                         | Objects            | 3000 died, plague struck               |
+| Nadab & Abihu (Leviticus 10:1-2)  | Authority     | Arrogance - disregarded God's authority by doing their own way    | Offered strange fire                             | Objects            | Both died instantly                    |
+| Israelites (Numbers 14)           | Protection    | Slothfulness - gave up hope due to fear                           | Refused to enter Promised Land                   | Time               | 40 years wandering in wilderness       |
+| Moses (Numbers 20)                | Protection    | Wrath - feared need to defend against complainers                 | Struck rock in anger                             | Objects            | Denied entry to Promised Land          |
+| Achan (Joshua 7)                  | Protection    | Greed - feared future lack so hoarded resources                   | Stole devoted things                             | Objects            | Israel defeated, family destroyed      |
+| Eli's sons (1 Samuel 2:12-36)     | Authority     | Arrogance - disregard God's laws for personal desires             | Despised offerings, lay with women               | Objects, Life      | Both died same day                     |
+| King Saul (1 Samuel 13)           | Authority     | Impatience - disregarded God's timing believing he knew better    | Unlawful sacrifice                               | Time               | Lost kingdom                           |
+| Uzzah (2 Samuel 6:6-7)            | Protection    | Manipulation - feared need to control situation                   | Touched the ark                                  | Objects            | Died instantly                         |
+| David (2 Samuel 11-12)            | Provision     | Lust - saw Bathsheba and coveted her                              | Adultery with Bathsheba, murdered Uriah          | Relationship, Life | Child died, sword never left his house |
+| Absalom (2 Samuel 13-18)          | Authority     | Revenge - didn't trust God's judgment so executed his own justice | Fratricide and rebellion                         | Relationship, Life | Father-son destroyed, civil war        |
+| Jonah (Jonah 1-4)                 | Authority     | Resentment - wanted Nineveh destroyed for their wickedness        | Fled from God, angry at His compassion           | Relationship       | Swallowed by fish, bitter isolation    |
+| False prophets (Jeremiah 23:16)   | Protection    | Manipulation - feared losing control so deceived people           | Spoke lies in God's name                         | Data               | Corrupted truth, led nation astray     |
+| Nebuchadnezzar (Daniel 4)         | Authority     | Arrogance - disregarded God's authority by self-idolization       | Pride: "Is not this great Babylon that I built?" | Sound              | Lived like animal, ate grass           |
+| Belshazzar (Daniel 5)             | Authority     | Arrogance - disregarded God's authority by abusing sacred vessels | Drank from temple vessels                        | Objects            | Kingdom fell that night                |
+| Peter (Matthew 26)                | Protection    | Compromise - feared people's rejection more than God's authority  | Denied Jesus three times                         | Sound              | Wept bitterly                          |
+| Judas (Matthew 26:14-16)          | Protection    | Greed - discontent with God's provision so hoarded silver         | Betrayed Jesus for 30 pieces of silver           | Objects            | Hanged himself                         |
+| Herod (Acts 12:21-23)             | Authority     | Arrogance - disregarded God's authority by accepting worship      | Blasphemy - didn't give God glory                | Sound              | Eaten by worms, died                   |
+
+There are many more examples in the Bible.
+
+### 4. Separation from God
+
+Our sins create a cascade of defilement which separates us from our Holy God.
+
+> Behold, the LORD’s hand is not shortened, that it cannot save; Nor His ear heavy, that it cannot hear.
+>
+> But **your iniquities have separated you from your God**; And **your sins have hidden His face from you**, so that **He will not hear**.
+>
+> - For **your hands are defiled with blood**,
+> - And **your fingers with iniquity**;
+> - **Your lips have spoken lies**,
+> - **Your tongue has muttered perversity**.
+>
+> -- Isaiah 59:1-3 (NKJV)
+
+### 5. Guilt
+
+The universal principle is that when someone was wronged, someone needs to "pay" for the damage (for example: Exodus 22:1-15; Numbers 5:6-7; Leviticus 6:1-5).
+
+> But in accordance with your hardness and your impenitent heart **you are treasuring up for yourself wrath** in the day of wrath and revelation of the righteous judgment of God, who
+>
+> > “will render to each one according to his deeds”:
+>
+> - eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;
+> - but to those who are **self-seeking** and do not obey the truth, but obey unrighteousness—indignation and wrath, tribulation and anguish, on every soul of man who does evil
+>
+> -- Romans 2:5-9 (NKJV)
+
+That is why the accuser as the right to condemn sinners (for example Job 1:6-12; 2:1-7 and Zechariah 3:1-5). Therefore sinners experience condemning emotions like anxiety, guilt and shame (Numbers 32:23). Genesis 3 provides a detailed illustration how this played out for the first humans who committed the first sin.
+
+To cope with condemnation, we resort to more coping mechanisms, creating more sin. It's like trying to extinguish fire with oil. We believe the lie that we have "no choice" or must "temporarily" do wrong.
+
+## How the devil rules
+
+While it might seem like the devil is the god of this world, he technically does not own anyone or even have any dominion by himself.
+
+> Satan [the adversary] stood up against Israel and incited David to count [the population of] Israel. -- 1 Chronicles 21:1 (AMP)
+
+The devil doesn't rule through raw power because God hasn't granted him that. Instead this is how the devil "rules" the world:
+
+1. The devil tempts us to **doubt God** usually by:
+
+- deception: ignorance, lies, skepticism or rejection of the truth
+- convenience: prioritize comfort above obedience
+- distractions: proritize wordly obligrations, wealth, popularity above God
+
+2. When we doubt God, we seek **independance from God**
+3. When we are independant from God, we:
+
+- lack God's provision, therefore we become **discontent** with what we have
+- lack God's protection, therefore we become **fearful** because we are insecure
+- lack God's acknowledgement, therefore we become **proud** because we elevate ourselves
+
+4. Our discontent, fear or pride leads to **coping mechanisms** (selfish desires) like jealousy, gluttony, lust, greed, slothfulness, wrath, manipulation, compromise, apastasy, greed, arrogance, impatience, revenge, resentment, etc.
+5. All these selfish desires leads to **sin**
+6. All sin causes **defilement** of time, environment, life, objects, data, sound, relationships
+7. Defilement has 3 consequences:
+   - God is holy and do not compromise on defilement. Therefore we are **separated from God** ([unrighteousness](https://eternal.family.co.za/bible/concepts/righteousness))
+   - Defilement causes corruption, damage, pain and death to God's creation
+   - Guilt leads to condemnation which leads to destruction and death
+8. To compensate for these consequences, we apply **more coping mechanisms** independant from God
+9. The more coping mechanisms we apply, the **more we sin**
+10. The more we sin, the more **enslaved** we become to the devices of the devil like:
+
+- abusive relationships
+- addiction
+- bitterness
+- depression
+- illness (mental or physical)
+- isolation
+- loneliness
+- poverty
+- self deception
+- and so forth...
+
+This vicious cycle keeps the devil in control of our lives.
+
+```
+doubt God
+    |
+    v
+independance/separation from God -> discontent/fear/pride -> coping mechanisms -> sin -> defilement
+          ^                                                                                 |
+          |                                                                                 |
+          +---------------------------------------------------------------------------------+
+```
+
+> No one calls for justice, nor does any plead for truth. They trust in empty words and speak lies;
+>
+> **They conceive evil and bring forth iniquity**. They hatch vipers' eggs and weave the spider's web; He who eats of their eggs dies, and from that which is crushed a viper breaks out.
+>
+> Their webs will not become garments, nor will they **cover themselves with their works**; **Their works are works of iniquity**, and the act of violence is in their hands. Their feet **run to evil**, and they **make haste** to shed innocent blood;
+>
+> Their thoughts are **thoughts of iniquity**; Wasting and destruction are in their paths. The way of **peace they have not known**, and there is **no justice** in their ways; They have **made themselves crooked paths**; Whoever takes that way shall **not know peace**. Therefore **justice is far** from us, nor does righteousness overtake us;
+>
+> We look for light, but there is **darkness**! For brightness, but we walk in **blackness**! We grope for the wall like the **blind**, and we grope as if we had **no eyes**; We **stumble at noonday as at twilight**; We are as **dead men in desolate places**.
+>
+> We all growl like bears, and moan sadly like doves;
+>
+> We **look for justice, but there is none**; For salvation, but it is far from us.
+>
+> For our **transgressions are multiplied** before You, and **our sins testify against us**; For our transgressions are with us, and as for our iniquities, we know them: In transgressing and lying against the LORD, and **departing from our God**, speaking oppression and revolt, Conceiving and uttering from the heart words of falsehood.
+>
+> -- Isaiah 59:4-13 (NKJV)
+
+Isaiah noticed the same pattern we experience: iniquity -> cover up by (running to more evil) -> even more iniquity
+
+We become trapped in this vicious cycle experiencing no peace, no justice, spiritual blindness (deception) because our sin separates us from God.
+
+> Jesus answered them, "Most assuredly, I say to you, whoever commits sin **is a slave of sin**." -- John 8:34 (NKJV)
+
+According to (Luke 4:18-21), Jesus also quoted:
+
+> “The Spirit of the Lord God is upon me, because the Lord has anointed me to preach good tidings to **the poor**; He has sent me to
+>
+> - heal **the brokenhearted**,
+> - to proclaim liberty to **the captives**, and
+> - the opening of the prison to **those who are bound**;
+>
+> -- Isaiah 61:1 (NKJV)
+
+### The Kingdom of Darkness
+
+Scripture does not reveals two competing gods, but one sovereign God and a rebellious creature who exploits human disobedience. Paul clarifies:
+
+> But even if our gospel is veiled, it is veiled to those who are perishing, **whose minds the god of this age has blinded**, who do not [believe](https://eternal.family.co.za/life/faith)... -- 2 Corinthians 4:3-4 (NKJV)
+
+However, in this context it means that "those whose minds are blinded" follow a false "god" instead of the true God. Paul explains it more clearly in Ephesians:
+
+> And you were dead in trespasses and sins, in which **you once walked according to the course of this world**, according to **[the ruler](https://biblehub.com/greek/758.htm) of [the authority](https://biblehub.com/greek/1849.htm)** of the air, of **the spirit that is now working in the sons of disobedience**, among whom also we all once lived:
+>
+> - in **the lusts of our flesh**, doing the desires of the flesh and of the mind, and
+>   were by nature children of **wrath**, as also the rest.
+>
+> -- Eph`siyim / Ephesians 2:1-3 TS2009
+
+_Note: Some [bible translations](https://eternal.family.co.za/bible/translations) like the NIV replace "authority" with "kingdom" which is an incorrect translation of the book of Ephesians according to the Strong's Concordance. Other bible translations like the KJV or ESV replaces "authority" with "power" which could be correct as long as we understand that the devil received his "power" by "the authority" that we gave him in our disobedience to God._
+
+"The ruler" is an evil spirit that tempt us to be disobedient by lust and wrath so that we may loose our God given authority. Sin makes us vulnerable to "the wicked one"'s influence according to John:
+
+> We know that **whoever is born of God does not sin**; but he who has been born of God keeps himself, and **the wicked one does not touch him**. We know that we are of God, and **the whole world lies under the sway of the wicked one**. -- 1 John 5:18-19 (NKJV)
+
+Jesus identified the devil's primary weapon against us: deception
+
+> Jesus said to them,
+>
+> “If God were your Father, you would love me, for I came from God and I am here. I came not of my own accord, but he sent me.
+>
+> Why do you not understand what I say?
+>
+> It is because you cannot bear to hear my word. You are of **your father the devil**, and your will is to **do your father’s desires**.
+>
+> - **He was a murderer** from the beginning, and
+> - **does not stand in the truth**, because there is no truth in him.
+> - When **he lies**, he speaks out of his own character, for he is a liar and the father of lies.
+>
+> But because **I tell the truth**, you do not believe me.
+>
+> Which one of you convicts me of sin?  
+> If I tell the truth, why do you not believe me?
+>
+> Whoever is of God hears the words of God. The reason why you do not hear them is that you are not of God.”
+>
+> -- John 8:42-47 ESV
+
+A few chapters further, Jesus calls himself "the shepherd" (also a ruler) and then contrast himself with "the thief" in John 10:1-16 which we can assume is "the devil".
+
+> The thief does not come except to steal, and to kill, and to destroy. -- John 10:10 (NKJV)
+
+Then a few chapters later Jesus announced:
+
+> Now is the judgment of this world; now **the ruler of this world** will be cast out. -- John 12:31 (NKJV)
+
+This implies, that "the ruler of this world" has no legal right to own a kingdom in this world. In John 16:7-11 Jesus explained that the Holy Spirit will judge "the ruler of this world".
+
+> I will no longer talk much with you, for **the ruler of this world** is coming. He has no claim on me, but **I do as the Father has commanded me**, so that the world may know that I love the Father. Rise, let us go from here. -- John 14:30-31 ESV
+
+This implies, that "the ruler of this world" was trying to get Jesus to disobey the Father to break down his relationship with his Father.
+
+Jesus also prayed:
+
+> I do not pray that You should take them out of the world, but that You should keep them from **the evil one**. They are **not of the world**, just as **I am not of the world**. -- John 17:15-16 (NKJV)
+
+Jesus was not referring to the devil's kingdom, but instead he addressed the people who were trapped in the deceptions of the world, because after this statement he prayed:
+
+> As You sent me into the world, **I also have sent them into the world**. -- John 17:18 (NKJV)
+
+Jesus would never sent his disciples away to join "the evil one's" kingdom. Instead, "the world" are the people who are deceived and by "the evil one".
+
+> When he _(Jesus)_ saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep **without a shepherd**. Then he said to his disciples, “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest **to send out laborers into his harvest**.” -- Matthew 9:36-38 ESV
+
+One of these disciples were Paul, who explained that he saw in his vision where Jesus told him:
+
+> I will deliver you from the Jewish people, as well as from the Gentiles, to whom I now send you, to open their eyes, in order to **turn them from darkness to light**, and **from the power of Satan to God**, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in me.’ -- Acts 26:17 (NKJV)
+
+We have not been left under the mercy of evil rulers who are under the influence of "the evil one". Paul testified it in Acts 26:17 and well as Daniel who were exiled to Babilon said:
+
+> He _(God)_ removes kings and raises up kings. -- Daniel 2:21 (NKJV)
+
+## Defeating darkness
+
+### Test the Spirit
+
+> Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.
+>
+> By this you know the Spirit of God:
+>
+> |                                                                                                                           |                                                                                                                                                                                                       |
+> | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | Every spirit that confesses that Jesus Christ has come in the flesh is of God, and                                        | every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world. |
+> | You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world. | They are of the world. Therefore they speak as of the world, and the world hears them.                                                                                                                |
+> | We are of God. He who knows God hears us.                                                                                 | He who is not of God does not hear us.                                                                                                                                                                |
+>
+> By this we know the spirit of truth and the spirit of error.
+>
+> -- 1 John 4:1-6 (NKJV)
+
+### Deliverance
+
+> He _(God, the Father)_ has **delivered us from the power of darkness** and conveyed us into [the kingdom of the Son](https://eternal.family.co.za/kingdom) of His love, in whom we have [redemption through his blood](https://eternal.family.co.za/god/covenants/christ), the forgiveness of sins. -- Colossians 1:13-14 (NKJV)
+
+"The power" that the devil have is nothing but a "legal demand" of "debt":
+
+> And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, by **canceling the record of debt that stood against us with its legal demands**. This He set aside, nailing it to the cross. **He disarmed the rulers and authorities** and put them to open shame, by triumphing over them in him. -- Colossians 2:13-15 ESV
+
+Our enemy is not the president, the boss, or parent or any other person. Our enemy is the evil spirits that influence them (especially those in authority) to make bad decisions.
+
+While our primary battle is against our own sinful nature, Scripture also reveals demonic influences operate at levels beyond the individual and also affecting families, communities, and nations. This is why Paul commands prayer for all in authority, recognizing that spiritual forces seek to corrupt human leadership.
+
+> Therefore I exhort first of all that [supplications, prayers, intercessions](#the-armor-of-god), and giving of thanks be made for all men, **for kings and all who are in authority**, that we may lead a quiet and peaceable life in all godliness and reverence. For this is good and acceptable in the sight of God our Savior, **Who desires all men to be saved** and to come to the knowledge of the truth. -- 1 Timothy 2:1-4 (NKJV)
+
+Evil spirit are not limited to temptation, they could also cause disabilities:
+
+> And behold, there was a woman who had had **a disabling spirit** for eighteen years. She was bent over and could not fully straighten herself.
+>
+> When Jesus saw her, he called her over and said to her, “Woman, you are freed from your disability.”
+>
+> And he laid his hands on her, and immediately she was made straight, and she glorified God.
+>
+> -- Luke 13:11-13 ESV
+
+This authority was not limited to Jesus only:
+
+> And he (Jesus) called to him his twelve disciples and gave them **authority over unclean spirits**:
+>
+> - to cast them out, and
+> - to heal every disease and every affliction.
+>
+> The names of the twelve apostles are these:
+
+1. first, Simon, who is called Peter, and
+2. Andrew his brother;
+3. James the son of Zebedee, and
+4. John his brother;
+5. Philip and
+6. Bartholomew;
+7. Thomas and
+8. Matthew the tax collector;
+9. James the son of Alphaeus, and
+10. Thaddaeus;
+11. Simon the Zealot, and
+12. **Judas Iscariot, who betrayed him**.
+    > -- Matthew 10:1-4 (ESV)
+
+If Judas the betrayer was given this authority, then it means that this authority was not based on the person's character.
+
+> Proclaim as you go, saying,
+>
+> ‘The kingdom of heaven is at hand.’
+>
+> **Heal the sick, raise the dead, cleanse lepers, cast out demons**.
+>
+> You received without paying; give without pay.
+>
+> -- Matthew 10:7-8 (ESV); Mark 6:7; Luke 10:17
+
+Some argue that this command was only given to Jesus' direct disciples, but Mark 6 and Luke 10 clearly shows that this authority was also given to the "72 others":
+
+> After this the Lord appointed seventy-two others and sent them on ahead of him, two by two, into every town and place where he himself was about to go
+>
+> ...
+>
+> The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your [name _(authority)_](https://eternal.family.co.za/bible/concepts/name)!”
+>
+> -- Luke 10:1,17 (ESV)
+
+John witnessed that Jesus taught:
+
+> “Truly, truly, I say to you, **whoever** believes in me **will also do the works that I do; and greater works than these will he do**, because I am going to the Father. Whatever you ask in my [name _(authority)_](https://eternal.family.co.za/bible/concepts/name), this I will do, that the Father may be glorified in the Son. If you ask me anything in my [name _(authority)_](https://eternal.family.co.za/bible/concepts/name), I will do it. -- John 14:12-14 ESV
+
+The name "Jesus" is not some magic word that forces demons into submission. The key is to ask in Jesus' authority. Authority is received by humility:
+
+> Do you not know that friendship with the world is enmity with God?
+>
+> Whoever therefore wants to be a friend of the world makes himself an enemy of God. Or do you think that the Scripture says in vain,
+>
+> > “The Spirit who dwells in us yearns jealously”?
+>
+> But He gives more grace. Therefore He says:
+>
+> > “God resists the proud, But gives grace to the humble.”
+>
+> Therefore:
+>
+> - **submit to God**: **Resist the devil and he will flee from you**.
+> - **Draw near to God and He will draw near to you**.
+> - **Cleanse your hands**, you sinners; and **purify your hearts**, you double-minded. Lament and mourn and weep! Let your laughter be turned to mourning and your joy to gloom.
+> - **Humble yourselves** in the sight of the Lord, and **He will lift you up**.
+>
+> -- James 4:4-10 (NKJV)
+
+Submission is often associated with weakness. Ironically when we submit to God, He gives us the authority to resist the devil such that he will flee from us. Submission to God means to set ourselves apart for God's purposes which often conflicts with "friendship with the world". We cannot be "double-minded" and expect the devil to "flee" from us.
+
+However, chasing devils around should never be our main focus. After the 72 disciples reported to Jesus their success, Jesus responded:
+
+> Nevertheless do not rejoice in this, that the spirits are subject to you, but **rather rejoice because your names are written in heaven**.” -- Luke 10:20 (NKJV)
+
+Your goal should be to "draw near to God": This means you need to "cleanse" (repent) from our sin, "purify your heart" (thoughts) in humility.
+
+Humility is often associated with powerlessness, but ironically it is the humble that "the Lord will lift up".
+
+### Changing Your Thoughts
+
+> **Be anxious for nothing**, but in everything **by prayer and supplication, with thanksgiving, let your requests be made known to God**; and the peace of God, which surpasses all understanding, will **guard your hearts and minds** through Christ Jesus. Finally, brethren,
+>
+> - whatever things are true,
+> - whatever things are noble,
+> - whatever things are just,
+> - whatever things are pure,
+> - whatever things are lovely,
+> - whatever things are of good report,
+>   if there is any virtue and if there is anything praiseworthy — **meditate on these things**. The things which you learned and received and heard and saw in me, these do, and **the God of peace will be with you**.
+>
+> -- Philippians 4:6-7 (NKJV)
+
+You need to guard your thoughts ("heart"):
+
+> **Watch over your heart** with all diligence, for from it flow the springs of life. -- Proverbs 4:23 (AMP)
+
+Paul advises:
+
+> If then you were raised with Christ, **seek those things which are above**, where Christ is, sitting at the right hand of God. **Set your mind on things above**, not on things on the earth. -- Colossians 3:1-2 (NKJV)
+
+However, a positive attitude is not enough. You must also get rid of anything that even tempts you to commit sin in your thoughts:
+
+> But I say to you that whoever looks at a woman to lust for her **has already committed adultery with her in his heart**. If your right eye causes you to sin, pluck it out and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell. And if your right hand causes you to sin, cut it off and cast it from you; for **it is more profitable for you that one of your members perish, than for your whole body to be cast into hell**. -- Matthew 5:28-30 (NKJV)
+
+For example, you should avoid bad company who tempt you to commit sin and instead focus on God's teachings:
+
+> Blessed is the man who walks not in the counsel of the ungodly, nor stands in the path of sinners, nor sits in the seat of the scornful;  
+> But his **delight is in the law _[(teachings)](https://biblehub.com/hebrew/8451.htm)_ of the LORD**, and **in His law _[(teachings)](https://biblehub.com/hebrew/8451.htm)_ he meditates day and night**.
+>
+> -- Psalm 1:1-2 (NKJV)
+
+God personally said to Job that we should "depart from evil".
+
+> Behold, the fear of the Lord, that is wisdom, and to **depart from evil** is understanding. -- Job 28:28 (NKJV)
+
+### The armor of God
+
+None of us is invincible. We all need to be on guard and willing to fight back for God's Kingdom.
+
+> For we **do not wrestle against flesh and blood**, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places.
+>
+> Therefore take up [the whole armor of God](https://eternal.family.co.za/life/armor), that you may be able to withstand in the evil day, and having done all, to stand.
+>
+> -- Ephesians 6:12-13 (NKJV)
+
+The "armor of God" is:
+
+1. [truth](https://eternal.family.co.za/bible/metaphors/light): Guard your [reputation](https://eternal.family.co.za/bible/concepts/name) by speaking the truth (2 Corinthians 6:7)
+2. [righteousness](https://eternal.family.co.za/bible/concepts/righteousness): Guard your heart against [idols](https://eternal.family.co.za/bible/concepts/idolatry) by [loving God instead](https://eternal.family.co.za/eternal/saved/love) (1 Thessalonians 5:8; 2 Corinthians 6:6)
+3. [the good news](https://eternal.family.co.za/bible/concepts/testimony): [Spread the revelation of God's Kingdom](https://eternal.family.co.za/bible/concepts/testimony)
+4. [faith/trust](https://eternal.family.co.za/life/faith): [Trust God](https://eternal.family.co.za/bible/concepts/faith) when under attack in difficult times
+5. [salvation](https://eternal.family.co.za/bible/concepts/salvation): Guard your mind against temptations, [sin](https://eternal.family.co.za/bible/concepts/sin) and condemnation (1 Thessalonians 5:8-9; Romans 12:2)
+6. [word of God](https://eternal.family.co.za/bible/concepts/word): Obey God's word (1 John 2:3-6)
+7. [prayer & supplication](https://eternal.family.co.za/life/prayer): Persevere by earnestly and [humbly](https://eternal.family.co.za/bible/concepts/humility) praying for all the saints (Romans 12:12)
+
+### The Importance of Prayer
+
+> **Watch and pray**, **lest you enter into temptation**. The spirit indeed is willing, but the flesh is weak. -- Matthew 26:41 (NKJV)
+
+And Jesus taught his disciples to pray:
+
+> In this manner, therefore, pray:
+>
+> Our Father in heaven, Hallowed be **Your name _[(authority)](https://eternal.family.co.za/bible/concepts/name)_**.
+>
+> **Your kingdom come. Your will be done** on earth as it is in heaven.
+>
+> **Give us this day our daily bread**.
+>
+> And forgive us our debts,
+> As we forgive our debtors.
+>
+> And **do not lead us into temptation, but deliver us from the evil one**.
+>
+> **For Yours** is the kingdom and the power and the glory forever.
+>
+> Amen.
+>
+> -- Matthew 6:9-13 (NKJV)
+
+Jesus' first recorded sermon was about fighting for God's Kingdom so that His "kingdom come" and His "will be done". You were not called to live a comfortable life, but you were called to honor "Our Father" in obedience.
+
+In contrast, "the evil one" tempts you to do things according to his will:
+
+- Instead of doubting God's protection, submit to "Your will be done"
+- Instead of doubting God's provision, ask for "your daily bread"
+- Instead of doubting God's authority, ask God to forgive you
+- Instead of being bitter towards offenders, forgive your "debtors"
+- Instead of being proud, glorify: "**For Yours** is the kingdom and the power and the glory".
+
+Paul also advises:
+
+> **Be anxious for nothing**, but in everything **by prayer and supplication, with thanksgiving, let your requests be made known to God**; and the peace of God, which surpasses all understanding, will **guard your hearts and minds** through Christ Jesus. -- Philippians 4:6-7 (NKJV)
+
+### The Importance of the Kingdom of God
+
+When you doubt God and try to handle things yourself, Jesus advises:
+
+> **Seek first the kingdom of God and His righteousness**, and all these things shall be added to you. Therefore **do not worry** about tomorrow, for tomorrow will worry about its own things. Sufficient for the day is its own trouble. -- Matthew 6:34 (NKJV)
+
+That is why Jesus' first recorded sermon was "preaching [the gospel of the kingdom](https://eternal.family.co.za/kingdom)" (Matthew 4:23 NKJV)
+
+### Eternal life through obedience
+
+We need to obey God according to Jesus's word (John 14:23-24) and be taught by the Holy Spirit (John 14:26) so that we can live in union with the Father and Jesus (John 14:20) as Jesus repeatedly taught in John 14, confirmed with the parable of the vine in John 15, explained in John 16 and prayed in John 17. This obedience is not the means of earning salvation. Rather, obedience is the evidence of salvation.
+
+Where Adam's **disobedience** brought death (Romans 5:12), Christ's **obedience** brings life (Romans 5:17). Paul explains the choice before us:
+
+> Do you not know that to whom you present yourselves slaves to obey, **you are that one’s slaves whom you obey**, whether
+>
+> - of sin leading to death, or
+> - of obedience leading to righteousness?
+>
+> But God be thanked that though you were slaves of sin, yet you obeyed from the heart that form of doctrine to which you were delivered. And having been set **free from sin**, you became slaves of **righteousness**.
+>
+> I speak in human terms because of the weakness of your flesh. For just as you presented your members as **slaves of uncleanness**, and of **lawlessness leading to more lawlessness**, so now present your members as slaves of righteousness for holiness. For when you were slaves of sin, you were free in regard to righteousness.
+>
+> What fruit did you have then in the things of which you are now ashamed?
+>
+> For the end of those things is death. But now having been set **free from sin**, and having become slaves of God, you have your fruit to holiness, and the end, everlasting life. For **the wages of sin is death**, but **the gift of God is eternal life** in Christ Jesus our Lord.
+>
+> -- Romans 6:16-23 (NKJV)
+
+James summarized [the devil's strategy](#how-the-devil-rules):
+
+> 1. Each one is **tempted** when he is drawn away by his own **desires and enticed**.
+> 2. Then, when desire has conceived, it gives birth to **sin**;
+> 3. and **sin**, when it is full-grown, brings forth **death**.
+>
+> -- James 1:14-15 (NKJV)
+
+Then James, provide 5 practical defenses against sin:
+
+#### 1. Addressing Discontentment
+
+Instead of focusing on what you lack, focus on "every perfect gift from the Father" (James 1:16-18).
+
+Habakkuk shows you can choose to focus on your lack or choose to rejoice in God:
+
+> Though the fig tree may not blossom, nor fruit be on the vines;  
+> Though the labor of the olive may fail, and the fields yield no food;  
+> Though the flock may be cut off from the fold, and there be no herd in the stalls
+> —
+> Yet I will rejoice in the Lord, I will joy in the God of my salvation.
+>
+> -- Habakkuk 3:17-18 (NKJV)
+
+Moses even commanded:
+
+> When you have eaten and are full, then you shall bless the Lord your God for the good land which He has given you. -- Deuteronomy 8:10 (NKJV)
+
+#### 2. Addressing Wrath
+
+Instead of focusing on retaliation, stay calm and focus on understanding the offender's view in "meekness" to resolve the conflict (James 1:19-21).
+
+The book of Proverbs contains many wise sayings like:
+
+> A **soft answer** turns away wrath, but a **harsh word** stirs up anger. -- Proverbs 15:1 (NKJV)
+
+> He who is **slow to anger** is better than the mighty, and he who **rules his spirit** than he who takes a city. -- Proverbs 16:32 (NKJV)
+
+> The **discretion** of a man makes him **slow to anger**, and his glory is to **overlook a transgression**. -- Proverbs 19:11 (NKJV)
+
+The reason you usually want to retaliate is because you either doubt God's judgment or become impatient with His judgment:
+
+> Cease from anger, and forsake wrath; **Do not fret — it only causes harm**.
+> For evildoers shall be cut off, but **those who wait** on the LORD, they shall inherit the earth.
+>
+> -- Psalm 37:8-9 (NKJV)
+
+#### 3. Addressing Slothfulness
+
+Instead of being slothful, be a "doer of the word" because God "blesses" obedience (James 1:22-25).
+
+Slothfulness is condemned by multiple proverbs like Proverbs 10:4, 12:24, 13:4, 15:19, 18:9, 19:15 and Ecclesiastes 10:18 and so forth.
+
+Slothfulness is caused by:
+
+- hopelessness - a form of discontentment (Proverbs 21:25–26)
+- fear of failure (Proverbs 22:13; Ecclesiastes 11:4)
+- self-deception - a form of pride (Proverbs 26:16) which may include
+  - lack of discipline (Proverbs 6:6-11, 20:13, 24:30-34)
+  - avoiding discomfort (Proverbs 20:4, 21:17, 26:13-16)
+
+#### 4. Addressing Pride
+
+Instead of being proud, seek your reward by serving the weak (James 1:26-27)
+
+> A haughty look, a proud heart, and the plowing of the wicked **are sin**. -- Proverbs 21:4 (NKJV)
+
+Moses commands:
+
+> Beware that you **do not forget** the LORD your God by not keeping His commandments, His judgments, and His statutes which I command you today, lest —
+>
+> when you have eaten and are full, and have built beautiful houses and dwell in them; and when your herds and your flocks multiply, and your silver and your gold are multiplied, and all that you have is multiplied; when your heart is lifted up, and **you forget the LORD your God** Who brought you out of the land of Egypt, from the house of bondage; Who led you through that great and terrible wilderness, in which were fiery serpents and scorpions and thirsty land where there was no water; Who brought water for you out of the flinty rock; Who fed you in the wilderness with manna, which your fathers did not know, that **He might humble you** and that **He might test you**, to do you good in the end — then **you say in your heart**,
+>
+> > ‘My power and the might of my hand have gained me this wealth.’
+>
+> “And **you shall remember** the LORD your God, for it is He Who gives you power to get wealth, that He may establish His covenant which He swore to your fathers, as it is this day.
+>
+> Then it shall be, if you **by any means forget** the LORD your God, and follow other gods, and serve them and worship them, I testify against you this day that **you shall surely perish**.
+>
+> -- Deuteronomy 8:11-19 (NKJV)
+
+Peter advised:
+
+> **Humble yourselves**, therefore, under the mighty hand of God so that at the proper time He may exalt you, **casting all your anxieties on Him**, because He cares for you.
+>
+> **Be sober-minded; be watchful**. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. **Resist him**, **firm in your faith [_(trust in God)_](https://eternal.family.co.za/life/faith)**, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world. And after you have suffered a little while, the God of all grace, Who has called you to his eternal glory in Christ, will Himself restore, confirm, strengthen, and establish you.
+>
+> To Him be the dominion forever and ever. Amen.
+>
+> -- 1 Peter 5:6-11 (ESV)
+
+#### 5. Addressing Partiality
+
+Instead of favoring the rich, be impartial (James 2:1-11).
+
+> If you show partiality, **you commit sin**, and are convicted by the law as transgressors. -- James 2:9 (NKJV)
+
+### Accountability
+
+The kingdom of God is not a Jesus fan-club for convenience. It's a place where you are accountable to God and to one another.
+
+> “If your brother sins against you:
+>
+> 1. go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother.
+> 2. But if he does not listen, take one or two others along with you, that every charge may be established by the evidence of two or three witnesses.
+> 3. If he refuses to listen to them, tell it to the church.
+>
+> And if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector.
+>
+> Truly, I say to you, whatever **you** bind on earth shall be bound in heaven, and whatever **you** loose on earth shall be loosed in heaven. Again I say to you, if two of **you agree** on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my _name ([authority](https://eternal.family.co.za/bible/concepts/name))_, there am I [among](https://biblehub.com/greek/3319.htm) them.”
+>
+> Then Peter came up and said to him, “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?”  
+> Jesus said to him, “I do not say to you seven times, but seventy-seven times. Therefore the kingdom of heaven may be compared to...”
+>
+> -- Matthew 18:15-23 (ESV)
+
+Then Jesus tells the parable of the servant who refused to forgive his debtor as a warning of how important it is to forgive others. Therefore, you need to intercede ("bind on earth" and "bind in heaven") for those who sin against you, instead of condemning them.
+
+The kingdom of God advances in the light of community and accountability. When you walk in the light together, you expose darkness not to shame, but to heal and restore.
+
+## The Kingdom of God
 
 > He who **dwells in the shelter of the Most High will abide in the shadow of the Almighty**. I will say to the LORD, “My refuge and my fortress, my God, **in whom I trust**.” -- Psalm 91:1-2 (ESV)
 
 and this is how God respond:
 
 > “Because he holds fast to Me in love,
+>
 > 1. I will **deliver** him;
-> 2. I will **protect** him, because he knows My [name](/content/kingdom/god/name.md).
+> 2. I will **protect** him, because he knows My [name](https://eternal.family.co.za/god/name).
 > 3. When he calls to me, **I will answer** him;
 > 4. I will **be with him** in trouble;
 > 5. I will **rescue him** and honor him.
@@ -70,509 +816,45 @@ and this is how God respond:
 >
 > -- Psalm 91:14-16 (ESV)
 
-## Who is part of the Kingdom of God?
+In contrast to those who live in darkness, Paul wrote:
 
-Jesus very first teaching recorded by Matthew 5-7, was about "the Kingdom of Heaven" and he opens with the statement:
-
-> Blessed are [the poor in spirit](/content/kingdom/bible/idioms.md#poor-in-the-spirit): **for theirs is the kingdom of heaven**. -- Matthew 5:3 (ESV)
-
-This is perhaps a reference to:
-
-> In just a little while, the wicked will be no more;    
-> though you look carefully at his place, he will not be there.    
-> But **the *meek (humble/lowly/poor)* shall inherit the land and delight themselves in abundant peace**.
+> To the saints and faithful brothers _[in (with)](https://eternal.family.co.za/bible/translations/differences/en)_ Christ at Colossae...
 >
-> -- Psalm 37:10 (ESV)
-
-James also warned:
-
-> You adulterous people!
-> Do you not know that friendship with the world is enmity with God?
+> And so, from the day we heard, we have not ceased to pray for you, asking that
 >
-> Therefore whoever wishes to be a friend of the world makes himself an enemy of God.
+> - you may be **filled with the knowledge of his will in all spiritual wisdom and understanding**,
+> - so as to walk in a manner worthy of the Lord, fully pleasing to him, **bearing fruit in every good work** and
+> - **increasing in the knowledge of God**.
+> - May you **be strengthened with all power**, according to His glorious might,
+> - for all **endurance and patience with joy**,
+> - giving thanks to the Father, who has qualified you to **share in the inheritance of the saints in light**.
+> - He has **delivered us from the domain of darkness** and
+> - **transferred us to the kingdom of His beloved son**,
+> - in whom **we have redemption**, the forgiveness of sins.
 >
-> Or do you suppose it is to no purpose that the Scripture says, “He yearns jealously over the spirit that he has made to dwell in us”?
+> -- Colossians 1:2,11-14 (ESV)
+
+Jesus very first and most important teaching was:
+
+> He _(Jesus)_ went throughout all Galilee, teaching in their synagogues and proclaiming **the gospel of the kingdom** and healing every disease and every affliction among the people.
 >
-> But He gives more grace. Therefore it says,
->
->> “God opposes the proud, but gives **grace to the humble**.”
->
-> * Submit yourselves therefore to God.
-> * Resist the devil, and he will flee from you.
-> * Draw near to God, and he will draw near to you.
-> * Cleanse your hands, you sinners, and purify your hearts, you double-minded.
-> * Be wretched and mourn and weep.
-> * Let your laughter be turned to mourning and your joy to gloom.
->
-> **Humble yourselves before the Lord**, and he will exalt you.
->
-> -- James 4:4-10 (ESV)
+> So his fame spread throughout all Syria, and they brought him all the sick, those afflicted with various diseases and pains, those oppressed by demons, those having seizures, and paralytics, and he healed them. And great crowds followed him from Galilee and the Decapolis, and from Jerusalem and Judea, and from beyond the Jordan. -- Matthew 4:23-25 (ESV)
 
-"Poor in spirit" or "the meek" could also refer to those who are convicted of their sin and willing to repent. For example:
+## Your Kingdom Assignment
 
-> Now when they heard this **they were cut to the heart**, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
->
-> And Peter said to them, “[Repent](/content/kingdom/eternal/saved/repent.md) and [be baptized](/content/kingdom/eternal/saved/baptize.md) every one of you in [the name](/content/kingdom/bible/concepts/name.md) of [Jesus](/content/kingdom/god/son.md) [Christ](/content/kingdom/god/son/christ.md) for the forgiveness of your [sins](/content/kingdom/bible/concepts/sin.md), and you will receive [the gift](/content/kingdom/god/spirit/gifts.md) of [the Holy Spirit](/content/kingdom/god/spirit.md). For [the promise](/content/kingdom/god/covenants/christ.md) is for you and for your children and for all who are far off, everyone whom [the Lord](/content/kingdom/god/father/name.md#lord) our [God](/content/kingdom/god.md) calls to himself.”
->
-> And with many other words he bore witness and continued to exhort them, saying, [“Save yourselves from this crooked generation.”](/content/kingdom/eternal/saved.md)
->
-> So those who received his word were baptized, and there were **added that day about three thousand souls**.
->
-> -- Acts 2:37-41 (ESV)
+Now that you understand how the enemy gains influence through our doubts and disobedience, what will you do?
 
-## Who rules over the Kingdom of God?
+You are not a passive victim in this spiritual battle. God has given you dominion (Genesis 1:26), authority to resist the devil (James 4:7), and the armor you need to stand firm (Ephesians 6:10-18). But these gifts require action.
 
-> **The LORD ([YHVH](/content/kingdom/god/name.md#yhvh)) has established his throne in the heavens, and His kingdom rules over all.**
->
-> Bless the LORD, O you His angels, you mighty ones who do His word, obeying the voice of His word!  
-> Bless the LORD, all His hosts, His ministers, who do His will!  
-> Bless the LORD, all His works, in all places of His dominion.  
-> Bless the LORD, O my soul!
->
-> -- Psalm 103:19-22 (ESV)
+Ask yourself:
 
-However, many centuries later, Jesus claim that he received all authority from God:
+- Which area of doubt makes you most vulnerable—God's provision, protection, or
+  authority?
+- What coping mechanisms have you relied on instead of trusting God?
+- Are you seeking first God's Kingdom (Matthew 6:33), or have other priorities taken
+  His place?
 
-> And Jesus came and said to them, “**All authority in heaven and on earth has been given to me.**” -- Matthew 28:18 (ESV)
+The Kingdom of God is not a distant future hope alone. It advances now, through your obedience, your prayers, and your testimony. The question is not whether God reigns,
+but whether you will submit to His reign in every area of your life.
 
-and
-
-> All things have been handed over to me by my Father... -- Luke 10:22 (ESV)
-
-and
-
-> The Father loves the Son and has given all things into his hand. -- John 3:35 (ESV)
-
-Paul also wrote:
-
-> I do not cease to give thanks for you, remembering you in my prayers, that **the God of our Lord Jesus Christ**, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of Him, having the eyes of your hearts enlightened, that you may know what is the hope to which He has called you, what are the riches of His glorious inheritance in the saints, and what is the immeasurable greatness of His power toward us who believe, according to the working of His great might that He worked in Christ when
-> 1. He raised him from the dead and
-> 2. seated him at His right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.
-> 3. And He put all things under his feet and gave him as head over all things to the church, which is [his body](/content/kingdom/body.md), the fullness of Him who fills all in all. -- Ephesians 1:16-23 (ESV)
-
-According to Paul, Jesus did not replace God, but instead that Jesus acts as a delegate under the authority of his God. (1 Corinthians 3:23, 11:3)
-
-> Now when all things are made subject to him, then **the Son himself will also be subject to Him** who put all things under him, that God may be all in all. -- 1 Corinthians 15:28 (NKJV)
-
-## When is the Kingdom of God?
-
-> Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “**The time is fulfilled, and the kingdom of God is at hand** *[near or has approached]*; [repent](/content/kingdom/eternal/saved/repent.md) and [believe in the gospel](/content/kingdom/eternal/saved/belief.md).” -- Mark 1:14 (ESV)
-
-## What is the Kingdom of God?
-
-> Why do you pass judgment on your brother?   
-> Or you, why do you despise your brother?
->
-> For we will all stand before the judgment seat of God;
->
-> for it is written,
->
->> “As I live, says [the LORD](/content/kingdom/god/father/name.md#lord), every knee shall bow to me, and every tongue shall confess to God.” -- Isaiah 45:23
->
-> So then [each of us will give an account of himself to God](/content/kingdom/eternal/judgement.md).
->
-> Therefore let us not pass judgment on one another any longer, but rather decide never to put a stumbling block or hindrance in the way of a brother. I know and am persuaded in the Lord Jesus that nothing is unclean in itself, but it is unclean for anyone who thinks it unclean. For if your brother is grieved by what you eat, you are no longer walking in love. By what you eat, do not destroy the one for whom Christ died. So do not let what you regard as good be spoken of as evil.
->
-> For **the kingdom of God** is not a matter of eating and drinking but of **righteousness and peace and joy** *[in [by]](/bible/translations/differences/en)* the Holy Spirit.
->
-> Whoever thus serves [Christ](/content/kingdom/god/son/christ.md) is **acceptable to God** and approved by men. So then let us pursue what makes for **peace and for mutual upbuilding**.
->
-> -- Romans 14:10-19 (ESV)
-
-Jesus explains the Kingdom of God with parables (Matthew 13:10-17; Mark 4:10-12).
-
-### The parable of the wedding invitation
-
-> And again Jesus spoke to them in parables, saying, 
-> 
-> “**The kingdom of heaven** may be compared to a king who gave a wedding feast for his son, and sent his servants to call those who were invited to the wedding feast, but they would not come. 
-> 
-> Again he sent other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready. Come to the wedding feast.”’ 
-> 
-> But they paid no attention and went off, one to his farm, another to his business, while the rest seized his servants, treated them shamefully, and killed them. 
-> 
-> The king was angry, and he sent his troops and destroyed those murderers and burned their city. 
-> 
-> Then he said to his servants, ‘The wedding feast is ready, but those invited were not worthy. Go therefore to the main roads and invite to the wedding feast as many as you find.’ 
-> 
-> And those servants went out into the roads and gathered all whom they found, both bad and good. So the wedding hall was filled with guests.
-> 
-> But when the king came in to look at the guests, he saw there a man who had no wedding garment. 
-> 
-> And he said to him, ‘Friend, how did you get in here without a wedding garment?’  
-> And he was speechless.  
-> Then the king said to the attendants, ‘Bind him hand and foot and cast him into the outer darkness’. 
-> 
-> In that place there will be weeping and gnashing of teeth. For many are called, but few are chosen.” 
-> 
-> -- Matthew 22:1-14 (ESV)
-
-Comparison:
-
-| Parable                        | Reality                                                                                               |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| The king                       | [God the Father](/content/kingdom/god/father.md) (Matthew 25:34)                                                         |
-| The king's son                 | [The Son of God](/content/kingdom/god/son.md) (Matthew 3:17)                                                             |
-| The feast                      | God the Father's rewards (Matthew 5:12)                                                               |
-| The king's servants            | God's servants like John (Matthew 3:1-3), Jesus (Matthew 4:17) and their disciples (Matthew 28:19-20) |
-| Those who were invited         | Israel (Matthew 3:5-6)                                                                                |
-| Those who seized the servants  | The scribes and pharisees (Matthew 21:45-46, 23:13-36)                                                |
-| The city which got burned      | Jerusalem (in 70 AD) (Matthew 23:37-38)                                                               |
-| Those who are not worthy       | The "gentiles" who accept Christ's authority (Matthew 21:43-45, 23:39)                                |
-| The king looking at the guests | The judgement day (John 12:48)                                                                        |
-| A man with no wedding garment  | The "wicked servants" that dishonor God's son (Matthew 24:48-51)                                      |
-| Outer darkness                 | [Hell](/content/kingdom/bible/concepts/hell.md) (Matthew 24:51)                                                          |
-| The few chosen                 | The "faithful servants" of God (Matthew 24:45-47)                                                     |
-
-Explanation:
-
-1. God the Father ([YHVH](/content/kingdom/god/name.md#yhvh)) originally chosen Israel to be His nation.
-2. The Father's invitation is [the Gospel of Salvation](/content/kingdom/eternal/saved.md) which leads people to [repentance](/content/kingdom/eternal/saved/repent.md) so that they could live in [righteousness with God](/content/kingdom/bible/concepts/righteousness.md). 
-3. The purpose of the Gospel to prepare a people group to serve His Son.
-4. This was initially proclaimed by God's servants like John the Baptist, but he was persecuted for doing so.
-5. The scribes and pharisees stirred up the Jews to persecute God's servants in Jerusalem, therefore Jerusalem were condemned.
-6. This persecution caused the Gospel to spread to foreign non-Jewish regions like the Greek and Roman territories who known by the Jews as the "gentiles" which were previously not considered "worthy" of the Gospel according to the Jews.
-7. The "faithful servants" are the disciples who trusted God by risking their lives to spread the Gospel and who stayed faithful in the face of persecution.
-8. The "wicked servants" are those who dishonor God's Son, the Christ. They often consider themselves ["Christians"](/content/kingdom/bible/concepts/christian.md) but refuse to obey Christ who is supposed to be their Lord. This pride dishonors the Son of God like the man with the wrong wedding garment.
-9. Jesus also warned that God will judge all "guests" and that the "wicked" will be cast into "outer darkness" which is a place of "weeping and gnashing of teeth".
-
-When the almighty God of the universe invite guests to His son's special occasion, He expects them to be:
-    * to be ready on time (see other parables)
-    * clean (of sin)
-    * with the proper garment (to honor His son)
-    * to live in "[righteousness](/content/kingdom/bible/concepts/righteousness.md), peace and joy" with the other attendees which is God Himself, His son and the other guests
-
-Only these will be "chosen" for "the wedding feast". In other words, God, the Father will selectively reward (Matthew 5:44-6:20) those who honored His invitation.
-
-Earlier in the same book, Matthew recorded Jesus first teaching:
-
-> Blessed are the [poor in spirit](/content/kingdom/bible/idioms.md#poor-in-the-spirit), for [theirs is **the kingdom of heaven**](#who-is-part-of-the-kingdom-of-god).  
-> Blessed are those who mourn, for they shall be comforted.  
-> Blessed are the meek, for they shall inherit the earth.  
-> Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.  
-> Blessed are the merciful, for they shall receive mercy.  
-> Blessed are the pure in heart, for they shall see God.  
-> Blessed are the peacemakers, for they shall be called [sons of God](/content/kingdom/god/sons-of-god.md).  
->
-> -- Matthew 5:3-9 (ESV)
-
-God's children are humble, genuine, merciful, pure and be peacemakers. Someone cannot be a "son of God", but not be part of God's kingdom.
-
-But then Jesus warns:
-
-> Blessed are those who are persecuted for righteousness' sake, for theirs is **the kingdom of heaven**.  
-> Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account.
->
-> Rejoice and be glad, for **your reward is great in [heaven](/content/kingdom/bible/concepts/heaven.md)**, for so they persecuted the prophets who were before you.
->
-> -- Matthew 5:3-12 (ESV)
-
-As explained by the above parable, those who are serving God's kingdom will be "persecuted" by the world.  But then Jesus also warned that the persecution should be "for righteousness' sake" and not because we lost our ability to "preserve" the Jesus' gospel: 
-
-> "You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be **thrown out and trampled under people's feet**." -- Matthew 5:13 (ESV)
-
-Our goal should not be to get persecuted, but to be effective on Earth.
-
-Then Jesus explains with the parable...
-
-### Parable of the lamp
-
-> You are [the light](/content/kingdom/bible/metaphors/light.md) of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. 
-> 
-> In the same way, let your light shine before others, so that they may **see your good works** and **give glory to your Father** Who is in heaven.
-> 
-> -- Matthew 5:14-16 (ESV)
-
-Because of the way that many modern bibles are divided into sections, people often think this is where Jesus' teaching stops with an open ending. However, if you consider that the original text of Matthew continued with the statement:
-
-> Do not think that I have come to abolish **the Law or the Prophets**; I have not come to abolish them but to fulfill them. For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from **the Law** until all is accomplished. -- Matthew 5:17-18 (ESV)
-
-The world will measure "the good works" of "the sons of God" according to "the laws or the prophets". If their works are not good, it cannot "give glory to the Father". This means there is a moral standard for "the sons of God".
-
-Now some Christians would argue, these laws were only relevant to the Jews in Jesus' time, because Jesus "fulfilled the laws" at his [crucifixion](/content/kingdom/god/son/crucifixion.md) which happened only a few year later. Therefore, they assume these "laws" are deprecated and may be ignored today. 
-
-There are 3 problems with this assumption:
-
-1. Jesus' condition was "until heaven and earth pass away". This did not happen yet.
-2. Jesus was not teaching the general Jewish population or "the world", but instead he was specifically teaching his disciples (Matthew 5:1). Therefore, these "laws" applied to his disciples.
-3. If Jesus was about to deprecate the laws, the following warning would make no sense:
-
-> Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least **in the kingdom of heaven**, but whoever does them and teaches them will be called great **in the kingdom of heaven**. -- Matthew 5:19 (ESV)
-
-Note, that both those who "relaxes" and those who "teaches" these commandments are "in the kingdom of heaven". This implies that "good works" is not a condition for [salvation](/content/kingdom/eternal/saved.md). [You cannot earn your salvation](/content/kingdom/god/son/crucifixion.md), no matter how hard you try. Jesus also makes this point in the next verse:
-
-> For I tell you, unless your [righteousness](/content/kingdom/bible/concepts/righteousness.md) exceeds that of the scribes and Pharisees, **you will never enter the kingdom of heaven**. -- Matthew 5:20 (ESV)
-
-Preachers, translators and commentators often have difficulty to explain what "righteousness" mean. In perhaps an over simplified layman's terms it simply mean, to be in a right standing (good relationship) with God. However, you cannot be in right standing with any person if you do not trust the person or if there are unforgiven issues between you. The same applies to God. 
-
-"Righteousness" with God is only possible if we at least:
-1. [trust (belief) God](/content/kingdom/eternal/saved/belief.md), and
-2. [repented](/content/kingdom/eternal/saved/repent.md) from our [sin](/content/kingdom/bible/concepts/sin.md) against God
-
-Obviously this requires [humility](#who-is-part-of-the-kingdom-of-god). 
-
-Then in the next few chapters Jesus what he meant by "the laws and the prophets" (Matthew 7:12). He starts by explaining that righteousness is not limited to our relationship with God, but we should also live in right standing with other (Matthew 6:14-15):
-
-> “You have heard that it was said to those of old, 
-> 
->> You shall not murder -- Exodus 20:13; Deuteronomy 5:17
-> 
-> and whoever murders will be liable to judgment. 
-> 
-> But I say to you that everyone who is angry with his brother will be liable to judgment;   
-> whoever insults his brother will be liable to the council; and   
-> whoever says, ‘You fool!’ will be liable to the hell of fire.   
-> 
-> So if you are offering your gift at the altar and there remember that your brother has something against you, **leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift.** Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison. Truly, I say to you, you will never get out until you have paid the last penny.
-> 
-> -- Matthew 5:21-26 (ESV)
-
-This is not limited to strive, but also include lust (Matthew 5:27-30), divorce (Matthew 5:31-32), breaking commitments (Matthew 5:33-37) and retaliation (Matthew 5:38-42). All of these destroy relationships, and we should guard against those so that we can live in right standing with other as well.
-
-But staying out of trouble is not Jesus' standard. He goes even another step further, and teach:
-
-> You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ 
-> 
-> But I say to you, 'Love your enemies and pray for those who persecute you', so that you may be [sons of your Father Who is in heaven](/content/kingdom/god/sons-of-god.md). 
-> 
-> For He makes His sun rise on the evil and on the good, and sends rain on the just and on the unjust. 
-> 
-> For if you love those who love you, what reward do you have? 
-> Do not even the tax collectors do the same? 
-> And if you greet only your brothers, what more are you doing than others? 
-> Do not even the Gentiles do the same? 
-> 
-> **You therefore must be *perfect [complete or mature](https://biblehub.com/greek/5046.htm)***, as your heavenly Father is *perfect*.
-> 
-> -- Matthew 5:43-48 (ESV)
-
-This is God's standard for His sons.
-
-Then Jesus warns that God does not approve hypocrisy (Matthew 6:1-5; 16-18) and explains that our relationship of God is not something to boast about (Matthew 6:6-8).
-
-Jesus also warns against distractions from God's kingdom work, like greed (Matthew 6:19-24), anxiety (Matthew 6:25-34), judgemental behaviour (Matthew 7:1-6) or any attempt to live independent of God (Matthew 7:7-11). If you take God out of His kingdom, it is no longer God's kingdom.
-
-Then Jesus summarizes his teaching by saying:
-
-> So whatever you wish that others would do to you, do also to them, for **this is the Law and the Prophets**. -- Matthew 7:12 (ESV)
-
-These "laws" are not comfortable. It is hard but worth it because it leads to life (Matthew 7:13-14).
-
-### Parable of the good and bad fruit
-
-> Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will **recognize them by their fruits**. 
-> 
-> Are grapes gathered from thornbushes, or figs from thistles? 
-> 
-> So, every healthy tree bears good fruit, but the diseased tree bears bad fruit. A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit. 
-> 
-> Every tree that does not bear good fruit is cut down and thrown into the fire. 
-> 
-> Thus you will **recognize them by their fruits**.
-> 
-> -- Matthew 7:15-20 (ESV)
-
-This is also the reason why those who do no bear "good fruit" (will of God) are [ineffective in God's kingdom](#parable-of-the-lamp).
-
-Jesus will also judge people according to their "fruit":
-
-> “Not everyone who says to me, ‘Lord, Lord,’ will enter **the kingdom of heaven**, but the one who **does the will of My Father** Who is in heaven. 
-> 
-> On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ 
-> 
-> And then will I declare to them, ‘I never knew you; depart from me, you workers of lawlessness.’
-> 
-> -- Matthew 7:21-23 (ESV)
-
-### Parable of the house on the rock
-
-To guard against [false teachings](#parable-of-the-good-and-bad-fruit), we aught to anchor ourselves his teachings by living it:
-
-> Everyone then who hears these words of mine and **does them** will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. 
-> 
-> And everyone who hears these words of mine and **does not do them** will be like a foolish man who built his house on the sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it.
-> 
-> And when Jesus finished these sayings, the crowds were astonished at his teaching, for he was teaching them as one who had authority, and not as their scribes.
-> 
-> -- Matthew 7:24-28 (ESV)
-
-Any theory, whether secular or spiritual, require some proof. 
-
-If you only rely on someone else's proofs (only hearing Jesus words, but you have no practical experience), you will be easily convinced by false teachings or to compromise in storms (persecution). 
-
-On the other hand, if you have tested Jesus words in your life, you have seen how God provided for you in times when you obeyed Him, you have first hand seen the effect that obedience had on yourself and others, then nothing will convince you to belief otherwise.
-
-Matthew 8-9 records how Jesus ministered to people. Often modern ministries are limited to preaching, but Matthew records that Jesus healed people, council individuals, saved his disciples from a storm, visit sinners, cast out demons and raised a girl from the dead.
-
-After Jesus set these examples, he instructed his 12 disciples in Matthew 10 to continue the ministry he had started.
-
-Matthew 11-12 records how John, Jesus and his disciples experienced resistence from some citizens and Pharisees.
-
-Then Jesus explains why their ministry is ineffective in some cases.
-
-### Parable of the sower
-
-> And great crowds gathered about him *[Jesus]*, so that he got into a boat and sat down. And the whole crowd stood on the beach. And he told them many things in parables, saying: 
-> 
-> “A sower went out to sow. And as he sowed, 
-> 
-> 1. some seeds fell along the path, and the birds came and devoured them. 
-> 2. Other seeds fell on rocky ground, where they did not have much soil, and immediately they sprang up, since they had no depth of soil, but when the sun rose they were scorched. And since they had no root, they withered away. 
-> 3. Other seeds fell among thorns, and the thorns grew up and choked them. 
-> 4. Other seeds fell on good soil and produced grain, some a hundredfold, some sixty, some thirty. 
-> 
-> He who has ears, let him hear.”
-> 
-> -- Matthew 13:3-9 (ESV)
-
-Then Jesus explain the parable:
-
-> Hear then the parable of the sower: 
-> 
-> When anyone hears the word of **the kingdom** and  
-> 1. does not *understand [[put together / to comprehend](https://biblehub.com/greek/4920.htm)]* it, the evil one comes and snatches away what has been sown in his heart. This is what was sown along the path. 
-> 2. As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy, yet he has no root in himself, but endures for a while, and when tribulation or persecution arises on account of the word, immediately he falls away.
-> 3. As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful. 
-> 4. As for what was sown on good soil, this is the one who hears the word and *understand [[put together / to comprehend](https://biblehub.com/greek/4920.htm)]* it. He indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.
-> 
-> -- Matthew 13:18-23 (ESV)
-
-The English definition of "understand" is to become aware..., to know..., to learn... This seems unfair towards the audience who failed to understand what Jesus had said. Was Jesus a bad teacher?
-
-But the Greek definition of "understand" is to "put together" or "to comprehend". In other words, the audience also has a responsibility to put together or to put in an effort to comprehend what they just learned. In other words to practically apply the teaching to their own lives.  
-
-### Parable of the unexpected thief
-
-Jesus also warns that [God's judgement](/content/kingdom/eternal/judgement.md), will be unexpected:
-
-> “But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only. For as were the days of Noah, so will be the coming of the Son of Man. For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man.
->
-> Then two men will be in the field; one will be taken and one left.   
-> Two women will be grinding at the mill; one will be taken and one left.
->
-> -- Matthew 24:36-42 (ESV)
-
-Jesus warns that the Lord's judgement will come at an unexpected time:
-
-> Therefore, stay awake, for **you do not know on what day your Lord is coming**. 
-> 
-> But know this, that if the master of the house had known in what part of the night the thief was coming, he would have stayed awake and would not have let his house be broken into. 
-> 
-> Therefore **you also must be ready, for the Son of Man is coming at an hour you do not expect**.
-> 
-> -- Matthew 24:43-44 (ESV)
-
-According to what will we be judged?
-
-Jesus' next parables give the answer.
-
-### Parable of the servants
-
-> Who then is the faithful and wise servant?
-> 
-> Whom his master has set over his household, to **give them their food at the proper time**. Blessed is that servant whom his master will find so doing when he comes. Truly, I say to you, he will set him over all his possessions. 
-> 
-> But if that wicked servant says to himself, ‘My master is delayed,’ and begins to beat his fellow servants and eats and drinks with drunkards, the master of that servant will come on a day when he does not expect him and at an hour he does not know and will cut him in pieces and put him with the hypocrites. In that place there will be weeping and gnashing of teeth. 
-> 
-> -- Matthew 24:45-51 (ESV)
-
-### Parable of the virgins
-
-> Then **the kingdom of heaven** will be like ten virgins who took their lamps and went to meet the bridegroom. Five of them were foolish, and five were wise. For when the foolish took their lamps, they took no oil with them, but the wise took flasks of oil with their lamps. As the bridegroom was delayed, they all became drowsy and slept. 
-> 
-> But at midnight there was a cry, ‘Here is the bridegroom! Come out to meet him.’ 
-> 
-> Then all those virgins rose and trimmed their lamps. 
-> 
-> And the foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’ 
-> But the wise answered, saying, ‘Since there will not be enough for us and for you, go rather to the dealers and buy for yourselves.’ 
-> 
-> And while they were going to buy, the bridegroom came, and those who were ready went in with him to the marriage feast, and the door was shut. 
-> 
-> Afterward the other virgins came also, saying, ‘Lord, lord, open to us.’   
-> But he answered, ‘Truly, I say to you, I do not know you.’ 
-> 
-> Watch therefore, for **you know neither the day nor the hour**.
-> 
-> -- Matthew 25:1-13 (ESV)
-
-### Parable of the stewards
-
-> For it will be like a man going on a journey, who called his servants and entrusted to them his property. To one he gave five talents, to another two, to another one, to each according to his ability. Then he went away. 
-> 
-> He who had received the five talents went at once and traded with them, and he made five talents more. 
-> 
-> So also he who had the two talents made two talents more. 
-> 
-> But he who had received the one talent went and dug in the ground and hid his master's money. 
-> 
-> Now after a long time the master of those servants came and settled accounts with them. 
-> 
-> And he who had received the five talents came forward, bringing five talents more, saying, ‘Master, you delivered to me five talents; here I have made five talents more.’ His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.’ 
-> 
-> And he also who had the two talents came forward, saying, ‘Master, you delivered to me two talents; here I have made two talents more.’ His master said to him, ‘Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.’ 
-> 
-> He also who had received the one talent came forward, saying, ‘Master, I knew you to be a hard man, reaping where you did not sow, and gathering where you scattered no seed, so I was afraid, and I went and hid your talent in the ground. Here you have what is yours.’ But his master answered him, ‘You wicked and slothful servant! You knew that I reap where I have not sown and gather where I scattered no seed? Then you ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest. So take the talent from him and give it to him who has the ten talents. 
-> 
-> For to everyone who has will more be given, and he will have an abundance. But from the one who has not, even what he has will be taken away. And cast the worthless servant into the outer darkness. In that place there will be weeping and gnashing of teeth.
-> 
-> -- Matthew 25:14-30 (ESV)
-
-### Meaning of the parables
-
-> When [the Son of Man](/content/kingdom/god/son/essence/of-man.md) comes in his glory, and all the angels with him, then [he will sit on his glorious throne](#who-rules-over-the-kingdom-of-god). 
-> 
-> Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. And he will place the sheep on his right, but the goats on the left. 
-> 
-> Then the king will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For 
-> * I was hungry and you gave me food, 
-> * I was thirsty and you gave me drink, 
-> * I was a stranger and you welcomed me, 
-> * I was naked and you clothed me, 
-> * I was sick and you visited me, I was in prison and you came to me.’ 
->
-> Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? And when did we see you a stranger and welcome you, or naked and clothe you? And when did we see you sick or in prison and visit you?’ 
-> 
-> And the king will answer them, ‘Truly, I say to you, as you did it to one of the least of these [my brothers](/content/kingdom/god/family.md), you did it to me.’
-> 
-> “Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. For 
-> * I was hungry and you gave me no food, 
-> * I was thirsty and you gave me no drink, 
-> * I was a stranger and you did not welcome me, 
-> * *[I was]* naked and you did not clothe me, 
-> * *[I was]* sick and in prison and you did not visit me.’
->
-> Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’ 
-> 
-> Then he will answer them, saying, ‘Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.’ 
-> 
-> And these will go away into eternal punishment, but the righteous into eternal life.”
->
-> -- Matthew 25:31-46 (ESV)
-
-## What is the counter of the Kingdom of God?
-
-Inherently all humans have a need of belonging to a community and to have a greater purpose than merely surviving. Sometimes non-religious clubs try to fulfil this need without God. 
-
-Clubs often give their members a purpose, a sense of belonging or recognition and often some sort of security. While clubs are often healthy for social interaction, collaboration, knowledge or resource sharing, it should never be considered the ultimate goal in life as a replacement for the Kingdom of God.
-
-The same could also be said about [churches](/content/kingdom/church.md). There are many members of the body of Christ that meet in the name of a church as a religious club. Depending on the culture and circumstances it is often more practical to meet in a public place than a private home. 
-
-Some church denomination even claims to be [the body of Christ](/content/kingdom/body.md). While in reality the body of Christ is much bigger than any church. This is evident when spirit filled believers from different places in the world often move in the same direction with prayers or support complementing each other without having physical contact or knowledge of each other.
-
-| The body of Christ                                                         | Some Churches                                                                     |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Worship [the almighty God, the Father](/content/kingdom/god/father.md)                        | May idolise the church leader                                                     |
-| Submit to [the Lord Jesus Christ](/content/kingdom/god/son.md)'s commands                     | Submit to the human church authority instead. Jesus is often reduced to a mascot. |
-| Guided by [the Holy Spirit of God](/content/kingdom/god/spirit.md)                            | Guided by institutional church [creeds](/content/kingdom/church/history.md) or rules         |
-| Decentralised body                                                         | Centralised church membership                                                     |
-| Meet wherever practical                                                    | Meet in expensive church buildings                                                |
-| Focus on expanding God's Kingdom (saving the lost, serving the community)  | Focus on attracting more church members or financial income                       |
-| Praises glorifies God (with a pure motive)                                 | Praises entertain members (often in the form of "worship" musical concerts)       |
-| Contributions are focussed on supporting the body or serving non-believers | Contributions are focussed to maintain the church system                          |
-| Often God's Spirit deliver a message through multiple members as He guides | Usually a single preacher deliver a planned sermon                                |
-| Meetings are interactive, flexible and informal                            | Church services are non-interactive, structured and formal                        |
-| Serve in humility with often no recognition                                | Serve a hierarchical system recognized by titles, special seats and public honour  |
-| Often doing dangerous tasks or suffer persecution                          | Often convenient in the safety of the church                                      |
-
-When any group of people meet, it is natural for a leader to arise and to guide the group such that there is order and collaboration. But this does not mean that the leader owns the group or is more important than the group. It is only a function in "the body" (Ephesians 4:11-12). Jesus warned that leaders should serve the group in humility, instead of claiming special titles (Matthew 23:1-12).
+Will you choose to walk in the light of His Kingdom today?
