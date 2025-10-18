@@ -21,11 +21,11 @@ If one considers all the suffering, injustice and wickedness in our world, it is
 
 ### God owns everything
 
-> **The earth is [the LORD](https://eternal.family.co.za/god/father/name#yhvh)’s, and all its fullness, the world and those who dwell therein.** -- Psalms 24:1 (NKJV)
+> **The earth is [the LORD](https://eternal.family.net.za/god/father/name#yhvh)’s, and all its fullness, the world and those who dwell therein.** -- Psalms 24:1 (NKJV)
 
 And King David believed God is the supreme ruler:
 
-> [The LORD](https://eternal.family.co.za/god/father/name#yhvh) has established His throne in heaven, and **His kingdom rules over all**.  
+> [The LORD](https://eternal.family.net.za/god/father/name#yhvh) has established His throne in heaven, and **His kingdom rules over all**.  
 > Bless the LORD, you His angels, who excel in strength, who do His word, heeding the voice of His word.  
 > Bless the LORD, all you His hosts, you ministers of His, who do His pleasure.  
 > Bless the LORD, all His works, in all places of His dominion.  
@@ -35,9 +35,9 @@ And King David believed God is the supreme ruler:
 
 and
 
-> Therefore David blessed [The LORD](https://eternal.family.co.za/god/father/name#yhvh) before all the assembly; and David said:
+> Therefore David blessed [The LORD](https://eternal.family.net.za/god/father/name#yhvh) before all the assembly; and David said:
 >
-> “Blessed are You, Lord God of Israel, our [Father](https://eternal.family.co.za/god/father), forever and ever.  
+> “Blessed are You, Lord God of Israel, our [Father](https://eternal.family.net.za/god/father), forever and ever.  
 > Yours, O Lord, is the greatness: the power and the glory, the victory and the majesty;  
 > For **all that is in heaven and in earth is Yours**;  
 > **Yours is the kingdom**, O Lord, and **You are exalted as head over all**.  
@@ -71,7 +71,7 @@ Though God is the absolute sovereign and owner, He chose to delegate real author
 >
 > -- Genesis 1:26 (NKJV)
 
-Some reason that [the fall of man](https://eternal.family.co.za/eternal) cancelled this privilege based on the devil's own words:
+Some reason that [the fall of man](https://eternal.family.net.za/eternal) cancelled this privilege based on the devil's own words:
 
 > And the devil took him up and showed him all the kingdoms of the world in a moment of time, and said to him _(Jesus)_,
 >
@@ -109,7 +109,7 @@ We were given dominion, but we lost it. How? Through idolatry - the root of all 
 
 > Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, **which is idolatry**. -- Colossians 3:5 (NKJV)
 
-[Sin](https://eternal.family.co.za/bible/concepts/sin) is caused by [idolatry](https://eternal.family.co.za/bible/concepts/idolatry).
+[Sin](https://eternal.family.net.za/bible/concepts/sin) is caused by [idolatry](https://eternal.family.net.za/bible/concepts/idolatry).
 
 > Then his mind changes, and he **transgresses; He commits offense, ascribing this [power](https://biblehub.com/hebrew/3581.htm) to his god**. -- Habakkuk 1:11 (NKJV)
 
@@ -191,7 +191,7 @@ Pride is present when we do not acknowledge God's authority.
 
 ### 3. Defilement
 
-Sin always defiles what God declared [holy](https://eternal.family.co.za/bible/concepts/holy) or honoured like:
+Sin always defiles what God declared [holy](https://eternal.family.net.za/bible/concepts/holy) or honoured like:
 
 - Time: Dedicated time for special events or sabaths (Genesis 2:3; Exodus 16:22-26, 31:14-15, 35:2; Deuteronomy 5:12)
 - Environment: Land, cities, water and air (Exodus 3:4-5, 15:13, 26:33-34, 28:35, 28:42-43, 29:31, 40:9-11, Joshua 5:15).
@@ -289,7 +289,7 @@ The devil doesn't rule through raw power because God hasn't granted him that. In
 5. All these selfish desires leads to **sin**
 6. All sin causes **defilement** of time, environment, life, objects, data, sound, relationships
 7. Defilement has 3 consequences:
-   - God is holy and do not compromise on defilement. Therefore we are **separated from God** ([unrighteousness](https://eternal.family.co.za/bible/concepts/righteousness))
+   - God is holy and do not compromise on defilement. Therefore we are **separated from God** ([unrighteousness](https://eternal.family.net.za/bible/concepts/righteousness))
    - Defilement causes corruption, damage, pain and death to God's creation
    - Guilt leads to condemnation which leads to destruction and death
 8. To compensate for these consequences, we apply **more coping mechanisms** independant from God
@@ -357,7 +357,7 @@ According to (Luke 4:18-21), Jesus also quoted:
 
 Scripture does not reveals two competing gods, but one sovereign God and a rebellious creature who exploits human disobedience. Paul clarifies:
 
-> But even if our gospel is veiled, it is veiled to those who are perishing, **whose minds the god of this age has blinded**, who do not [believe](https://eternal.family.co.za/life/faith)... -- 2 Corinthians 4:3-4 (NKJV)
+> But even if our gospel is veiled, it is veiled to those who are perishing, **whose minds the god of this age has blinded**, who do not [believe](https://eternal.family.net.za/life/faith)... -- 2 Corinthians 4:3-4 (NKJV)
 
 However, in this context it means that "those whose minds are blinded" follow a false "god" instead of the true God. Paul explains it more clearly in Ephesians:
 
@@ -368,7 +368,7 @@ However, in this context it means that "those whose minds are blinded" follow a 
 >
 > -- Eph`siyim / Ephesians 2:1-3 TS2009
 
-_Note: Some [bible translations](https://eternal.family.co.za/bible/translations) like the NIV replace "authority" with "kingdom" which is an incorrect translation of the book of Ephesians according to the Strong's Concordance. Other bible translations like the KJV or ESV replaces "authority" with "power" which could be correct as long as we understand that the devil received his "power" by "the authority" that we gave him in our disobedience to God._
+_Note: Some [bible translations](https://eternal.family.net.za/bible/translations) like the NIV replace "authority" with "kingdom" which is an incorrect translation of the book of Ephesians according to the Strong's Concordance. Other bible translations like the KJV or ESV replaces "authority" with "power" which could be correct as long as we understand that the devil received his "power" by "the authority" that we gave him in our disobedience to God._
 
 "The ruler" is an evil spirit that tempt us to be disobedient by lust and wrath so that we may loose our God given authority. Sin makes us vulnerable to "the wicked one"'s influence according to John:
 
@@ -451,7 +451,7 @@ We have not been left under the mercy of evil rulers who are under the influence
 
 ### Deliverance
 
-> He _(God, the Father)_ has **delivered us from the power of darkness** and conveyed us into [the kingdom of the Son](https://eternal.family.co.za/kingdom) of His love, in whom we have [redemption through his blood](https://eternal.family.co.za/god/covenants/christ), the forgiveness of sins. -- Colossians 1:13-14 (NKJV)
+> He _(God, the Father)_ has **delivered us from the power of darkness** and conveyed us into [the kingdom of the Son](https://eternal.family.net.za/kingdom) of His love, in whom we have [redemption through his blood](https://eternal.family.net.za/god/covenants/christ), the forgiveness of sins. -- Colossians 1:13-14 (NKJV)
 
 "The power" that the devil have is nothing but a "legal demand" of "debt":
 
@@ -514,13 +514,13 @@ Some argue that this command was only given to Jesus' direct disciples, but Mark
 >
 > ...
 >
-> The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your [name _(authority)_](https://eternal.family.co.za/bible/concepts/name)!”
+> The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your [name _(authority)_](https://eternal.family.net.za/bible/concepts/name)!”
 >
 > -- Luke 10:1,17 (ESV)
 
 John witnessed that Jesus taught:
 
-> “Truly, truly, I say to you, **whoever** believes in me **will also do the works that I do; and greater works than these will he do**, because I am going to the Father. Whatever you ask in my [name _(authority)_](https://eternal.family.co.za/bible/concepts/name), this I will do, that the Father may be glorified in the Son. If you ask me anything in my [name _(authority)_](https://eternal.family.co.za/bible/concepts/name), I will do it. -- John 14:12-14 ESV
+> “Truly, truly, I say to you, **whoever** believes in me **will also do the works that I do; and greater works than these will he do**, because I am going to the Father. Whatever you ask in my [name _(authority)_](https://eternal.family.net.za/bible/concepts/name), this I will do, that the Father may be glorified in the Son. If you ask me anything in my [name _(authority)_](https://eternal.family.net.za/bible/concepts/name), I will do it. -- John 14:12-14 ESV
 
 The name "Jesus" is not some magic word that forces demons into submission. The key is to ask in Jesus' authority. Authority is received by humility:
 
@@ -596,19 +596,19 @@ None of us is invincible. We all need to be on guard and willing to fight back f
 
 > For we **do not wrestle against flesh and blood**, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places.
 >
-> Therefore take up [the whole armor of God](https://eternal.family.co.za/life/armor), that you may be able to withstand in the evil day, and having done all, to stand.
+> Therefore take up [the whole armor of God](https://eternal.family.net.za/life/armor), that you may be able to withstand in the evil day, and having done all, to stand.
 >
 > -- Ephesians 6:12-13 (NKJV)
 
 The "armor of God" is:
 
-1. [truth](https://eternal.family.co.za/bible/metaphors/light): Guard your [reputation](https://eternal.family.co.za/bible/concepts/name) by speaking the truth (2 Corinthians 6:7)
-2. [righteousness](https://eternal.family.co.za/bible/concepts/righteousness): Guard your heart against [idols](https://eternal.family.co.za/bible/concepts/idolatry) by [loving God instead](https://eternal.family.co.za/eternal/saved/love) (1 Thessalonians 5:8; 2 Corinthians 6:6)
-3. [the good news](https://eternal.family.co.za/bible/concepts/testimony): [Spread the revelation of God's Kingdom](https://eternal.family.co.za/bible/concepts/testimony)
-4. [faith/trust](https://eternal.family.co.za/life/faith): [Trust God](https://eternal.family.co.za/bible/concepts/faith) when under attack in difficult times
-5. [salvation](https://eternal.family.co.za/bible/concepts/salvation): Guard your mind against temptations, [sin](https://eternal.family.co.za/bible/concepts/sin) and condemnation (1 Thessalonians 5:8-9; Romans 12:2)
-6. [word of God](https://eternal.family.co.za/bible/concepts/word): Obey God's word (1 John 2:3-6)
-7. [prayer & supplication](https://eternal.family.co.za/life/prayer): Persevere by earnestly and [humbly](https://eternal.family.co.za/bible/concepts/humility) praying for all the saints (Romans 12:12)
+1. [truth](https://eternal.family.net.za/bible/metaphors/light): Guard your [reputation](https://eternal.family.net.za/bible/concepts/name) by speaking the truth (2 Corinthians 6:7)
+2. [righteousness](https://eternal.family.net.za/bible/concepts/righteousness): Guard your heart against [idols](https://eternal.family.net.za/bible/concepts/idolatry) by [loving God instead](https://eternal.family.net.za/eternal/saved/love) (1 Thessalonians 5:8; 2 Corinthians 6:6)
+3. [the good news](https://eternal.family.net.za/bible/concepts/testimony): [Spread the revelation of God's Kingdom](https://eternal.family.net.za/bible/concepts/testimony)
+4. [faith/trust](https://eternal.family.net.za/life/faith): [Trust God](https://eternal.family.net.za/bible/concepts/faith) when under attack in difficult times
+5. [salvation](https://eternal.family.net.za/bible/concepts/salvation): Guard your mind against temptations, [sin](https://eternal.family.net.za/bible/concepts/sin) and condemnation (1 Thessalonians 5:8-9; Romans 12:2)
+6. [word of God](https://eternal.family.net.za/bible/concepts/word): Obey God's word (1 John 2:3-6)
+7. [prayer & supplication](https://eternal.family.net.za/life/prayer): Persevere by earnestly and [humbly](https://eternal.family.net.za/bible/concepts/humility) praying for all the saints (Romans 12:12)
 
 ### The Importance of Prayer
 
@@ -618,7 +618,7 @@ And Jesus taught his disciples to pray:
 
 > In this manner, therefore, pray:
 >
-> Our Father in heaven, Hallowed be **Your name _[(authority)](https://eternal.family.co.za/bible/concepts/name)_**.
+> Our Father in heaven, Hallowed be **Your name _[(authority)](https://eternal.family.net.za/bible/concepts/name)_**.
 >
 > **Your kingdom come. Your will be done** on earth as it is in heaven.
 >
@@ -655,7 +655,7 @@ When you doubt God and try to handle things yourself, Jesus advises:
 
 > **Seek first the kingdom of God and His righteousness**, and all these things shall be added to you. Therefore **do not worry** about tomorrow, for tomorrow will worry about its own things. Sufficient for the day is its own trouble. -- Matthew 6:34 (NKJV)
 
-That is why Jesus' first recorded sermon was "preaching [the gospel of the kingdom](https://eternal.family.co.za/kingdom)" (Matthew 4:23 NKJV)
+That is why Jesus' first recorded sermon was "preaching [the gospel of the kingdom](https://eternal.family.net.za/kingdom)" (Matthew 4:23 NKJV)
 
 ### Eternal life through obedience
 
@@ -763,7 +763,7 @@ Peter advised:
 
 > **Humble yourselves**, therefore, under the mighty hand of God so that at the proper time He may exalt you, **casting all your anxieties on Him**, because He cares for you.
 >
-> **Be sober-minded; be watchful**. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. **Resist him**, **firm in your faith [_(trust in God)_](https://eternal.family.co.za/life/faith)**, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world. And after you have suffered a little while, the God of all grace, Who has called you to his eternal glory in Christ, will Himself restore, confirm, strengthen, and establish you.
+> **Be sober-minded; be watchful**. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. **Resist him**, **firm in your faith [_(trust in God)_](https://eternal.family.net.za/life/faith)**, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world. And after you have suffered a little while, the God of all grace, Who has called you to his eternal glory in Christ, will Himself restore, confirm, strengthen, and establish you.
 >
 > To Him be the dominion forever and ever. Amen.
 >
@@ -787,7 +787,7 @@ The kingdom of God is not a Jesus fan-club for convenience. It's a place where y
 >
 > And if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector.
 >
-> Truly, I say to you, whatever **you** bind on earth shall be bound in heaven, and whatever **you** loose on earth shall be loosed in heaven. Again I say to you, if two of **you agree** on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my _name ([authority](https://eternal.family.co.za/bible/concepts/name))_, there am I [among](https://biblehub.com/greek/3319.htm) them.”
+> Truly, I say to you, whatever **you** bind on earth shall be bound in heaven, and whatever **you** loose on earth shall be loosed in heaven. Again I say to you, if two of **you agree** on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my _name ([authority](https://eternal.family.net.za/bible/concepts/name))_, there am I [among](https://biblehub.com/greek/3319.htm) them.”
 >
 > Then Peter came up and said to him, “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?”  
 > Jesus said to him, “I do not say to you seven times, but seventy-seven times. Therefore the kingdom of heaven may be compared to...”
@@ -807,7 +807,7 @@ and this is how God respond:
 > “Because he holds fast to Me in love,
 >
 > 1. I will **deliver** him;
-> 2. I will **protect** him, because he knows My [name](https://eternal.family.co.za/god/name).
+> 2. I will **protect** him, because he knows My [name](https://eternal.family.net.za/god/name).
 > 3. When he calls to me, **I will answer** him;
 > 4. I will **be with him** in trouble;
 > 5. I will **rescue him** and honor him.
@@ -818,7 +818,7 @@ and this is how God respond:
 
 In contrast to those who live in darkness, Paul wrote:
 
-> To the saints and faithful brothers _[in (with)](https://eternal.family.co.za/bible/translations/differences/en)_ Christ at Colossae...
+> To the saints and faithful brothers _[in (with)](https://eternal.family.net.za/bible/translations/differences/en)_ Christ at Colossae...
 >
 > And so, from the day we heard, we have not ceased to pray for you, asking that
 >
