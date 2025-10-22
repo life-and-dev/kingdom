@@ -1,10 +1,10 @@
 ---
-description: About the main author of this website
+description: Learn about the author's journey from doubt to faith and the mission behind this website exploring God's Kingdom.
 ---
 
 # About the author
 
-My journey with faith has been anything but conventional. From atheism to exploring various Christian traditions including megachurches to house churches with envolvement in various traditional protestants, charismatic and messianic congregations. I've spent years asking questions about God, the Bible, and what it truly means to follow Christ.
+My journey with faith has been anything but conventional. From atheism to exploring various Christian traditions including megachurches to house churches with involvement in various traditional protestants, charismatic and messianic congregations. I've spent years asking questions about God, the Bible, and what it truly means to follow Christ.
 
 ## A Shared Journey of Discovery
 
@@ -26,7 +26,7 @@ You'll find here careful attention to [biblical texts](https://word.ofgod.info),
 
 I write independently, not affiliated with any church or organization, and without sponsorship. This freedom allows me to follow where God's word leads without institutional constraints.
 
-I encourage you to critically evaluate everything your read. Not just on this website, but always pray about any Christian content from any source you receive. I admit that I have been [wrong before](disclaimer.md), and I'll likely make more mistakes. That's why I genuinely invite you to [correct my errors](edit.md) when you spot them. Your wisdom, your insights, and your questions make this a richer resource for everyone who visits.
+I encourage you to critically evaluate everything you read. Not just on this website, but always pray about any Christian content from any source you receive. I admit that I have been [wrong before](disclaimer.md), and I'll likely make more mistakes. That's why I genuinely invite you to [correct my errors](edit.md) when you spot them. Your wisdom, your insights, and your questions make this a richer resource for everyone who visits.
 
 ### An Invitation to Explore
 
@@ -40,4 +40,4 @@ As you explore this site, I encourage you to:
 
 Whether you read one article or explore the entire site, my prayer is that it draws you closer to God's love and your position in His eternal Kingdom.
 
-Join me in this journey of discovery, exploring together what it means be a citizen of the Kingdom of God.
+Join me in this journey of discovery, exploring together what it means to be a citizen of the Kingdom of God.
