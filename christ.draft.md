@@ -63,7 +63,7 @@ Christians but only some Jewish groups view these passages as messianic:
 10. Isaiah 9:6-7: "Of the increase of his GOVERNMENT... no end... over his KINGDOM"
 11. Daniel 7:13-14: "To him was given dominion and glory and a KINGDOM... everlasting dominion"
 
-Christians reject Psalm of Solomon 17 which describe the Messiah as a conquering warrior-king.
+Christians reject Psalms of Solomon 17 which describes the Messiah as a conquering warrior-king.
 
 In general, the Jewish people expected the Messiah primarily to **rule**, not to suffer and die.
 
@@ -90,25 +90,28 @@ Even after dying and rising, Jesus emphasized **the Kingdom of God**, not atonem
 
 ### A Common Misconception
 
-Many Christians focus primarily on Jesus' death. 
+Many Christians focus primarily on "The Cross", a shorter term for cruxificion which refers to Jesus' suffering and death. 
 
-Jesus message was not *"I came to die for your sins"* but instead Jesus taught ***"the kingdom of God is at hand."***
+However, Jesus's message was not *"I came to die for your sins"* but instead Jesus taught ***"the kingdom of God is at hand."***
 
-While the crucifixion was necessary, it's not the ONLY purpose. Consider this:
+While the crucifixion was necessary, it was not the ONLY purpose. If Jesus' ONLY purpose was to die as a sacrifice, 
 
-**If Jesus' ONLY purpose was to die as a sacrifice, why didn't God allow King Herod to kill him as a baby?**
+**Why didn't God allow King Herod to kill him as a baby if his blood would accomplish the same sacrificial purpose?**
 
-King Herod tried to kill Jesus shortly after his birth (Matthew 2:16). God intervened, sending the family to Egypt (Matthew 2:13-15). Why? Why protect Jesus if a baby's blood would accomplish the same sacrificial purpose?
+Instead God intervened by provision (gifts from the Wise Men - Matthew 2:11) to fund the journey, and by supernaturally warning Joseph in a dream to flee to Egypt (Matthew 2:13-15), protecting Jesus until Herod's death (Matthew 2:19-20).
 
-**Because Jesus' mission was multi-faceted, not single-purpose:**
+Some would argue that Jesus' secondary objective was to preach the Gospel. However, the gospel message could have come through John the Baptist or the other disciples or even another prophet. Why risk contamination with sin during Jesus' temptations in the wilderness (Matthew 4:1-11) if his only purpose was to die?
 
-1. **Establish the Kingdom of God** (primary mission)
-2. Reveal the Father's character (John 14:9)
-3. Train disciples to continue Kingdom work (Matthew 28:19-20)
-4. Demonstrate Kingdom power (healings, deliverances, victory over evil)
+**Because establishing the Kingdom required a king who would live, teach, demonstrate his authority in the Kingdom of God.**
+
+Jesus' mission was multi-faceted, not single-purpose:
+
+1. **Establish the Kingdom of God** (Luke 4:43; Mark 1:38; John 18:36-37)
+2. Reveal [God the Father](https://ofgod.info)'s character (John 14:9)
+3. Demonstrate Kingdom power (healings, demonic deliverances, natural miracles, etc.)
+4. Train disciples to continue Kingdom work (Matthew 28:19-20)
 5. Provide covenant blood enabling Kingdom entry (Matthew 26:28)
-
-The gospel message could have come through John the Baptist or the other disciples or another prophet. There was no necessity for Jesus himself to preach if dying was his sole purpose. Yet Jesus spent three years teaching before going to the cross. Why? Because establishing the Kingdom required more than a death—it required a King who would live, teach, demonstrate, and then triumph over death.
+6. Warn people about future judgement with prophecies of God (Matthew 25:31-46; John 5:22,27-29)
 
 ### What Is the Kingdom of God?
 
@@ -274,8 +277,6 @@ If Jesus was God, his example is meaningless to us. We cannot be God. But if Jes
 The question of Jesus' exact nature (fully human vs. God incarnate vs. both) has been debated for centuries. While this article emphasizes Jesus' humanity—which Scripture clearly and repeatedly affirms (1 Timothy 2:5, 1 Corinthians 15:21-22,45, Romans 5:19, Hebrews 4:15)—we recognize that sincere believers hold different views.
 
 What matters most is recognizing that Jesus' humanity is **essential**, not incidental. Without genuine humanity, Jesus cannot be the "Last Adam," cannot truly be tempted, cannot reclaim human dominion, and cannot set an example we can follow.
-
-For a thorough exploration of Jesus' nature, see [son.ofgod.info](https://son.ofgod.info).
 
 ## How Do You Enter the Kingdom?
 
@@ -479,8 +480,6 @@ In their gatherings, everyone participated:
 
 The "Body of Christ" is this **organic, Spirit-led community** of believers functioning together—not institutional structures or religious systems. The Kingdom of God operates through transformed people living out Kingdom values, not through buildings or denominations.
 
-For more on the nature and purpose of the church, see [church.ofgod.info](https://church.ofgod.info).
-
 ### Summary: How Jesus Reigns
 
 Jesus reigns through:
@@ -534,8 +533,6 @@ Across cultures and backgrounds, people report encountering Jesus:
 - Near-death experiences consistently mentioning Jesus
 
 *The evidence keeps growing. History supports the Gospels. Lives continue transforming.*
-
-For detailed examination of the evidence, see [Evidence for Jesus - Contemporary & Historical](./evidence.md).
 
 ## Why Follow Jesus?
 
