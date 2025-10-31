@@ -90,32 +90,63 @@ Even after dying and rising, Jesus emphasized **the Kingdom of God**, not atonem
 
 ### A Common Misconception
 
-Many Christians focus primarily on "The Cross", a shorter term for cruxificion which refers to Jesus' suffering and death. 
+Many Christians focus primarily on "The Cross", a shorter term for crucifixion which refers to Jesus' suffering and death.
 
-However, Jesus's message was not *"I came to die for your sins"* but instead Jesus taught ***"the kingdom of God is at hand."***
+However, Jesus's message was not *"I came to die for your sins"* but instead Jesus taught ***"the kingdom of God is at hand."*** (Mark 1:15)
 
 While the crucifixion was necessary, it was not the ONLY purpose. If Jesus' ONLY purpose was to die as a sacrifice, 
 
-**Why didn't God allow King Herod to kill him as a baby if his blood would accomplish the same sacrificial purpose?**
+**Why didn't God allow King Herod to kill him as a baby if his blood would accomplish the same sacrificial purpose?** (See Matthew 2:13-18 for Herod episode)
 
 Instead God intervened by provision (gifts from the Wise Men - Matthew 2:11) to fund the journey, and by supernaturally warning Joseph in a dream to flee to Egypt (Matthew 2:13-15), protecting Jesus until Herod's death (Matthew 2:19-20).
 
 Some would argue that Jesus' secondary objective was to preach the Gospel. However, the gospel message could have come through John the Baptist or the other disciples or even another prophet. Why risk contamination with sin during Jesus' temptations in the wilderness (Matthew 4:1-11) if his only purpose was to die?
 
-**Because establishing the Kingdom required a king who would live, teach, demonstrate his authority in the Kingdom of God.**
+### Establishing the Kingdom of God
 
-Jesus' mission was multi-faceted, not single-purpose:
+Jesus' purpose was to **establish the Kingdom of God** (Luke 4:43; Mark 1:38; John 18:36-37)
 
-1. **Establish the Kingdom of God** (Luke 4:43; Mark 1:38; John 18:36-37)
-2. Reveal [God the Father](https://ofgod.info)'s character (John 14:9)
-3. Demonstrate Kingdom power (healings, demonic deliverances, natural miracles, etc.)
-4. Train disciples to continue Kingdom work (Matthew 28:19-20)
-5. Provide covenant blood enabling Kingdom entry (Matthew 26:28)
-6. Warn people about future judgement with prophecies of God (Matthew 25:31-46; John 5:22,27-29)
+Why?
+
+To reconcile humanity with God:
+* by making God known (John 1:18) 
+* to be part of God's blood covenant with humanity (Matthew 26:28)
+
+Why?
+
+To save the lost sinners (Matthew 1:21; Luke 19:10; John 3:16-17; Acts 4:12) of this broken world from future judgement (Matthew 25:31-46; John 5:22,27-29):
+* by training disciples (Matthew 28:19-20)
+* demonstrating God's power by demonic deliverances, healings, resurrections, supernatural miracles (Luke 4:18-19; Acts 10:38)
+* sending disciples on his behalf in his authority to continue his work (Matthew 28:18-20) 
+
+Why?
+
+* Because God is merciful (Ephesians 2:4-5)
+* Because God loves us (John 3:16)
+* Because God wants to adopt us as his children (Romans 8:15)
+
+Why?
+
+Because God wants to restore our purpose He created us for which is to have dominion over His creation (Genesis 1:26-28; Psalm 8:6)
+
+Why?
+
+To expand Eden (God's Kingdom)
+
+Why?
+
+* So that more may get to know and love God (John 17:3)
+* So that more people may get to know and love each other (God's creation) (John 13:34-35)
+
+Why?
+
+So that this Kingdom will glorify God (John 17:1-5).
+
+Otherwise it would have been called *the Kingdom of **Man***, but instead it is about [God](https://ofgod.info).
 
 ### What Is the Kingdom of God?
 
-To understand why Jesus came, we must understand what the "Kingdom of God" means.
+To better understand why Jesus came, we must understand what the "Kingdom of God" means.
 
 #### What Adam Had (The Original Kingdom)
 
@@ -127,9 +158,9 @@ In the beginning, God created humanity with a specific purpose:
 
 Adam and Eve enjoyed:
 - **God's presence** (walking with God in the garden - Genesis 3:8)
-- **God's rule** (humans obeying naturally, doing God's will)
-- **Dominion over creation** (authority to rule under God)
-- **Peace, life, harmony, purpose**
+- **God's rule** (humans obeying naturally, doing God's will) (Genesis 2:15)
+- **Dominion over creation** (authority to rule under God) (Genesis 1:26-28)
+- **Peace, life, harmony, purpose** (Genesis 2:9; Psalm 8:6)
 
 This was the Kingdom of God: Humans willingly ruling creation under God's authority, His presence with His people.
 
@@ -138,9 +169,9 @@ This was the Kingdom of God: Humans willingly ruling creation under God's author
 > "Therefore the LORD God sent him out from the garden of Eden... He drove out the man." (Genesis 3:23-24)
 
 Through disobedience, Adam forfeited:
-- **God's presence** (expelled from the garden)
-- **Relationship with God** (broken, hiding in fear)
-- **Dominion over creation** (ground cursed, authority lost)
+- **God's presence** (expelled from the garden) (Genesis 3:23-24)
+- **Relationship with God** (broken, hiding in fear) (Genesis 3:8-10)
+- **Dominion over creation** (ground cursed, authority lost) (Genesis 3:17-19)
 - **Life** (death entered - Romans 5:12)
 
 Adam was supposed to be the lord of God's Kingdom on earth, ruling creation under God's authority. He failed the test.
@@ -179,11 +210,11 @@ From Adam to Christ, humanity tried every conceivable form of governance:
 
 4. **Kings**: Human monarchs ruling God's people
    - Result: Kingdom divided, idolatry, exile
-   - Even the best kings (David, Solomon) committed serious sins
+   - Even the best kings (David, Solomon) committed serious sins (2 Samuel 11; 1 Kings 11)
    - Conclusion: **Failed**
 
 5. **Empires** (Babylon, Persia, Greece, Rome): World powers governing nations
-   - Result: All rose and fell, all oppressive, all temporary
+   - Result: All rose and fell, all oppressive, all temporary (Daniel 2 illustrates succession of empires)
    - Daniel's vision (Daniel 2): God's Kingdom will crush human empires
    - Conclusion: **Failed**
 
@@ -222,15 +253,15 @@ Notice the repeated emphasis: "by a **man**" ... "one **man's** obedience."
 - Born as fully human (1 Timothy 2:5)
 - Faced temptation just like Adam (Matthew 4:1-11)
 - **Passed the test** through obedience (Philippians 2:8)
-- Reclaimed human right to rule (Acts 2:36, Matthew 28:18)
+- Reclaimed human right to rule (Acts 2:36; Matthew 28:18)
 
 **Here's the profound point:** If Jesus was God, nothing is proven. God cannot fail, cannot be tempted (James 1:13), cannot disobey Himself. A divine being resisting temptation tells us nothing about human potential.
 
 But if Jesus was fully **HUMAN** (empowered by the Holy Spirit, just as we can be), then everything is proven:
-- Humans CAN obey God by His Spirit
-- Humans CAN resist temptation by His power
-- Humans CAN fulfill their original purpose
-- Humans CAN be restored to dominion under God
+- Humans CAN obey God by His Spirit (Romans 8:4)
+- Humans CAN resist temptation by His power (1 Corinthians 10:13)
+- Humans CAN fulfill their original purpose (Matthew 5:16)
+- Humans CAN be restored to dominion under God (Psalm 8:6)
 
 > "God anointed Jesus of Nazareth **with the Holy Spirit and with power**. He went about doing good and healing all who were oppressed by the devil, for God was with him." (Acts 10:38)
 
@@ -274,7 +305,7 @@ If Jesus was God, his example is meaningless to us. We cannot be God. But if Jes
 
 ### A Note on Jesus' Nature
 
-The question of Jesus' exact nature (fully human vs. God incarnate vs. both) has been debated for centuries. While this article emphasizes Jesus' humanity—which Scripture clearly and repeatedly affirms (1 Timothy 2:5, 1 Corinthians 15:21-22,45, Romans 5:19, Hebrews 4:15)—we recognize that sincere believers hold different views.
+The question of Jesus' exact nature (fully human vs. God incarnate vs. both) has been debated for centuries. While this article emphasizes Jesus' humanity—which Scripture clearly and repeatedly affirms (1 Timothy 2:5; 1 Corinthians 15:21-22,45; Romans 5:19; Hebrews 4:15)—we recognize that sincere believers hold different views.
 
 What matters most is recognizing that Jesus' humanity is **essential**, not incidental. Without genuine humanity, Jesus cannot be the "Last Adam," cannot truly be tempted, cannot reclaim human dominion, and cannot set an example we can follow.
 
@@ -299,9 +330,9 @@ Centuries earlier, God had promised through the prophet Jeremiah:
 > For this is the covenant that I will make with the house of Israel after those days, declares the LORD: **I will put my law within them, and I will write it on their hearts**. And I will be their God, and they shall be my people. And no longer shall each one teach his neighbor and each his brother, saying, 'Know the LORD,' for **they shall all know me**, from the least of them to the greatest, declares the LORD. For **I will forgive their iniquity, and I will remember their sin no more**." (Jeremiah 31:31-34)
 
 The New Covenant promises:
-- **Internal transformation** (law written on hearts, not stone tablets)
-- **Direct relationship with God** (all shall know Him personally)
-- **Complete forgiveness** (sins remembered no more)
+- **Internal transformation** (law written on hearts, not stone tablets) (Jeremiah 31:33; Ezekiel 36:26)
+- **Direct relationship with God** (all shall know Him personally) (Jeremiah 31:34)
+- **Complete forgiveness** (sins remembered no more) (Jeremiah 31:34)
 - **New heart and God's Spirit within** (Ezekiel 36:26-27)
 
 Jesus' blood establishes this covenant, creating the **framework** for Kingdom entry. The covenant is the door; we must walk through it.
@@ -367,19 +398,19 @@ With the debt removed and the relationship restored:
 > "All this is from God, who through Christ **reconciled us to himself**... that is, in Christ God was **reconciling the world to himself**, not counting their trespasses against them." (2 Corinthians 5:18-19)
 
 **Peace** (*shalom* in Hebrew) means more than absence of conflict. It means:
-- Wholeness
-- Harmony with God
-- Restored relationship
-- Everything in right order
+- Wholeness (Psalm 85:10)
+- Harmony with God (Romans 5:1)
+- Restored relationship (Ephesians 2:14-16)
+- Everything in right order (Isaiah 9:7)
 
 You are now at peace with God, living in the Kingdom, empowered by His Spirit.
 
 ### Summary: The Four Steps
 
-1. **New Covenant** → The possibility of Kingdom entry (Jesus' blood establishes the covenant)
-2. **Adoption** → Acceptance into the Kingdom (you become God's child)
-3. **Forgiveness** → Removal of the barrier (debt paid, cleansing begins)
-4. **Peace** → Reconciliation complete (harmony restored)
+1. **New Covenant** → The possibility of Kingdom entry (Jesus' blood establishes the covenant) (Jeremiah 31:31-34; Luke 22:20)
+2. **Adoption** → Acceptance into the Kingdom (you become God's child) (John 1:12; Romans 8:15)
+3. **Forgiveness** → Removal of the barrier (debt paid, cleansing begins) (Ephesians 1:7; 1 John 1:9)
+4. **Peace** → Reconciliation complete (harmony restored) (Romans 5:1; Ephesians 2:14)
 
 This is not earning salvation through works—it's receiving a gift through faith. But receiving requires action: believing, repenting, committing to Jesus as King.
 
@@ -435,8 +466,8 @@ The implication? Acts records what Jesus **CONTINUED** to do—through his disci
 > "And he put all things under his feet and gave him as **head over all things to the church, which is his body**, the fullness of him who fills all in all." (Ephesians 1:22-23)
 
 Think of it this way:
-- **Head** (Jesus) → Directs, commands, controls
-- **Body** (Believers) → Executes, acts, makes visible
+- **Head** (Jesus) → Directs, commands, controls (Ephesians 1:22)
+- **Body** (Believers) → Executes, acts, makes visible (1 Corinthians 12:12-27)
 
 Jesus is the Head in heaven, giving direction through the Holy Spirit. Believers are the Body on earth, carrying out his direction. The Body makes the Head's will visible and tangible.
 
@@ -451,16 +482,16 @@ Throughout his ministry, Jesus:
 - **Proclaimed** the good news (Mark 1:14)
 - **Healed** the sick (Luke 4:40)
 - **Delivered** people from demons (Matthew 12:28)
-- **Met needs** (John 6:5-13, feeding 5000)
-- **Demonstrated** Kingdom values (love, compassion, justice)
+- **Met needs** (John 6:5-13; feeding 5000)
+- **Demonstrated** Kingdom values (love, compassion, justice) (Matthew 22:37-40; Luke 10:25-37)
 
 Believers continue these exact works:
 - **Teaching**: "Go therefore and make disciples... **teaching them** to observe all that I have commanded you" (Matthew 28:19-20)
 - **Proclaiming**: "But when they believed Philip as he preached good news about **the kingdom of God**" (Acts 8:12)
-- **Healing**: Peter healed a lame man (Acts 3:6-7), "they were all healed" (Acts 5:16)
+- **Healing**: Peter healed a lame man (Acts 3:6-8), "they were all healed" (Acts 5:16)
 - **Delivering**: Paul cast out a demon (Acts 16:18)
 - **Meeting needs**: "There was not a needy person among them" (Acts 4:34)
-- **Demonstrating Kingdom values**: "See how they love one another!" (early church reputation)
+- **Demonstrating Kingdom values**: "See how they love one another!" (John 13:35; Acts 2:46-47)
 
 The Kingdom advances through believers doing the works Jesus began.
 
@@ -483,10 +514,10 @@ The "Body of Christ" is this **organic, Spirit-led community** of believers func
 ### Summary: How Jesus Reigns
 
 Jesus reigns through:
-1. **The Holy Spirit** dwelling in and empowering believers
-2. **Believers** (the Body) continuing the works Jesus began
-3. **Organic community** (not institutional religion)
-4. **Spiritual authority** (not political or military power)
+1. **The Holy Spirit** dwelling in and empowering believers (John 16:7; Acts 1:8)
+2. **Believers** (the Body) continuing the works Jesus began (1 Corinthians 12:27; Matthew 28:18-20)
+3. **Organic community** (not institutional religion) (Acts 2:42-47)
+4. **Spiritual authority** (not political or military power) (John 18:36)
 
 > "Jesus answered, '**My kingdom is not of this world**. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.'" (John 18:36)
 
@@ -501,10 +532,10 @@ Jesus isn't merely a historical figure studied in dusty books. People today enco
 Award-winning journalist Lee Strobel, an atheist with a Yale Law degree, set out to disprove Christianity when his wife converted. His investigative research led to an unexpected conclusion.
 
 Over two years (1980-1982), Strobel interviewed leading scholars:
-- **Eyewitness testimony**: Gospels written within one generation
-- **Documentary evidence**: 5,800+ Greek manuscripts, 99.5% textually accurate
-- **Corroborating sources**: 10+ non-Christian historians confirm Jesus' existence, crucifixion, and resurrection claims
-- **Scientific evidence**: Medical analysis confirms Jesus truly died; resurrection best explains evidence
+- **Eyewitness testimony**: Gospels written within one generation (Luke 1:1-4; eyewitness testimony affirmed in Acts 1:21-22)
+- **Documentary evidence**: 5,800+ Greek manuscripts, 99.5% textually accurate (See textual manuscript tradition and Acts 6:14 for early attention to Scripture)
+- **Corroborating sources**: 10+ non-Christian historians confirm Jesus' existence, crucifixion, and resurrection claims (See Josephus; Tacitus; Pliny the Younger)
+- **Scientific evidence**: Medical analysis confirms Jesus truly died; resurrection best explains evidence (See John 19:33-37 for details of crucifixion; Luke 24 for resurrection accounts)
 
 Strobel's conclusion: "I had seen enough. The evidence was absolutely convincing."
 
@@ -550,7 +581,7 @@ Jesus is not merely a good teacher or moral example. He is the appointed King, c
 
 > "He has delivered us from the domain of darkness and **transferred us to the kingdom of his beloved Son**, in whom we have redemption, the forgiveness of sins." (Colossians 1:13-14)
 
-The Kingdom isn't just a future hope—it's a present reality. Believers are already citizens of this Kingdom, already living under Jesus' reign.
+The Kingdom isn't just a future hope—it's a present reality. Believers are already citizens of this Kingdom, already living under Jesus' reign (Philippians 3:20).
 
 ### Because of What He Promises
 
@@ -584,11 +615,8 @@ The Kingdom isn't just a future hope—it's a present reality. Believers are alr
 Following the four-step process we explored earlier:
 
 1. **Recognize your separation from God** - "For all have sinned and fall short of the glory of God" (Romans 3:23)
-
 2. **Believe in Jesus as King** - "If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved" (Romans 10:9)
-
 3. **Repent** - Turn from sin toward God - "Repent therefore, and turn back, that your sins may be blotted out" (Acts 3:19)
-
 4. **Receive Jesus and the Kingdom** - "But to all who did receive him... he gave the right to become children of God" (John 1:12)
 
 The invitation stands:
@@ -606,9 +634,9 @@ The question remains. Who is Jesus to YOU?
 **1. Ask God to reveal truth**
 > "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him." (James 1:5)
 
-- Identify your specific objections—don't generalize
-- Research answers with intellectual honesty
-- Consider: What evidence would convince you?
+- Identify your specific objections—don't generalize (Acts 17:11)
+- Research answers with intellectual honesty (Proverbs 18:13)
+- Consider: What evidence would convince you? (Luke 16:31)
 
 **2. Be willing to follow evidence wherever it leads**
 
