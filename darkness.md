@@ -103,7 +103,15 @@ God gave humans genuine dominion - authority that could be used properly or abus
 
 ## The Battle for Control
 
-We were given dominion, but we lost it. How? Through idolatry - the root of all sin:
+We were given dominion, but we lost it. How? Paul explains the consequence of Adam's choice:
+
+> Therefore, just as through one man sin entered the world, and death through sin, and thus death spread to all men, because all sinned — Romans 5:12 (NKJV)
+
+Adam's sin didn't just affect humanity, it corrupted all of creation:
+
+> For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God. For we know that the whole creation has been groaning together in the pains of childbirth until now. — Romans 8:20-22 (ESV)
+
+We lost dominion through idolatry - the root of all sin:
 
 > Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, **which is idolatry**. — Colossians 3:5 (NKJV)
 
@@ -117,7 +125,15 @@ According to Habakkuk, idolatry is "ascribing power" [(ability, might, strength,
 
 > **No one can serve two masters**; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. **You cannot serve God and mammon.**. Therefore I say to you, **do not worry** about your life, what you will eat or what you will drink; nor about your body, what you will put on. Is not life more than food and the body more than clothing? — Matthew 6:24-25 (NKJV)
 
-The reason why we worry or serve two masters is because we don't trust God.
+Paul warns specifically about the enslaving power of money:
+
+> For the **love of money is a root of all kinds of evil**, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows. — 1 Timothy 6:10 (NKJV)
+
+The antidote is contentment in God's provision:
+
+> Let your conduct be without covetousness; be content with such things as you have. For He Himself has said, "I will never leave you nor forsake you." — Hebrews 13:5 (NKJV)
+
+The reason we worry or serve two masters is because we don't trust God.
 
 ### 1. Doubting God
 
@@ -232,9 +248,11 @@ There are many more examples in the Bible.
 
 ### 4. Separation from God
 
-Our sins create a cascade of defilement which separates us from our Holy God.
+Our sins create a cascade of defilement which separates us from our Holy God. 
 
-> Behold, the LORD’s hand is not shortened, that it cannot save; Nor His ear heavy, that it cannot hear.
+Isaiah prophesied this separation:
+
+> Behold, the LORD's hand is not shortened, that it cannot save; Nor His ear heavy, that it cannot hear.
 >
 > But **your iniquities have separated you from your God**; And **your sins have hidden His face from you**, so that **He will not hear**.
 >
@@ -244,6 +262,14 @@ Our sins create a cascade of defilement which separates us from our Holy God.
 > - **Your tongue has muttered perversity**.
 >
 > — Isaiah 59:1-3 (NKJV)
+
+James makes this incompatibility clear:
+
+> Do you not know that friendship with the world is enmity with God? 
+>
+> Whoever therefore wants to be **a friend of the world makes himself an enemy of God**. 
+> 
+> — James 4:4 (NKJV)
 
 ### 5. Guilt
 
@@ -264,11 +290,11 @@ To cope with condemnation, we resort to more coping mechanisms, creating more si
 
 ## How the devil rules
 
-While it might seem like the devil is the god of this world, he technically does not own anyone or even have any dominion by himself.
+Understanding the devil's tactics is crucial for spiritual warfare. While it might seem like he is the god of this world, he technically does not own anyone or have any dominion by himself.
 
 > Satan [the adversary] stood up against Israel and incited David to count [the population of] Israel. — 1 Chronicles 21:1 (AMP)
 
-The devil doesn't rule through raw power because God hasn't granted him that. Instead this is how the devil "rules" the world:
+The devil doesn't rule through raw power because God hasn't granted him that authority. Instead, he exploits human weakness through a specific pattern:
 
 1. The devil tempts us to **doubt God** usually by:
   - deception: ignorance, lies, skepticism or rejection of the truth
@@ -349,7 +375,7 @@ According to (Luke 4:18-21), Jesus also quoted:
 
 ### The Kingdom of Darkness
 
-Scripture does not reveals two competing gods, but one sovereign God and a rebellious creature who exploits human disobedience. Paul clarifies:
+This brings us to an important clarification about the devil's so-called "kingdom." Scripture does not reveal two competing gods, but one sovereign God and a rebellious creature who exploits human disobedience. Paul clarifies:
 
 > But even if our gospel is veiled, it is veiled to those who are perishing, **whose minds the god of this age has blinded**, who do not [believe](https://eternal.family.net.za/life/faith)... — 2 Corinthians 4:3-4 (NKJV)
 
@@ -368,7 +394,15 @@ _Note: Some [bible translations](https://eternal.family.net.za/bible/translation
 
 > We know that **whoever is born of God does not sin**; but he who has been born of God keeps himself, and **the wicked one does not touch him**. We know that we are of God, and **the whole world lies under the sway of the wicked one**. — 1 John 5:18-19 (NKJV)
 
-The devil's primary weapon against us is **deception**.
+The devil's primary weapon against us is **deception**. His lies can appear righteous:
+
+> And no wonder! For Satan himself transforms himself into an angel of light. Therefore it is no great thing if his ministers also transform themselves into ministers of righteousness, whose end will be according to their works. — 2 Corinthians 11:14-15 (NKJV)
+
+Paul warned Timothy about religious deception specifically:
+
+> Now the Spirit expressly says that in latter times some will depart from the faith, giving heed to deceiving spirits and doctrines of demons, speaking lies in hypocrisy, having their own conscience seared with a hot iron — 1 Timothy 4:1-2 (NKJV)
+
+This deception extends to moral confusion:
 
 > Or do you not know that the unrighteous will not inherit the kingdom of God?
 >
@@ -434,6 +468,12 @@ We have not been left under the mercy of evil rulers who are under the influence
 > He _(God)_ removes kings and raises up kings. — Daniel 2:21 (NKJV)
 
 ## Defeating darkness
+
+Now that we understand how darkness operates, we can address the practical question: 
+
+***How do we fight back?*** 
+
+The battle against darkness requires both discernment and action. Let's explore the weapons God has given us.
 
 ### Test the Spirit
 
@@ -639,13 +679,13 @@ And Jesus taught his disciples to pray:
 
 Jesus' first recorded sermon was about fighting for God's Kingdom so that His "kingdom come" and His "will be done". You were not called to live a comfortable life, but you were called to honor "Our Father" in obedience.
 
-In contrast, "the evil one" tempts you to do things according to his will:
+This prayer directly confronts the devil's temptations:
 
-- Instead of doubting God's protection, submit to "Your will be done"
-- Instead of doubting God's provision, ask for "your daily bread"
-- Instead of doubting God's authority, ask God to forgive you
-- Instead of being bitter towards offenders, forgive your "debtors"
-- Instead of being proud, glorify: "**For Yours** is the kingdom and the power and the glory".
+- When tempted to doubt God's protection → Submit to "Your will be done"
+- When tempted to doubt God's provision → Trust Him for "your daily bread"
+- When tempted to doubt God's authority → Seek His forgiveness
+- When tempted toward bitterness → Choose to forgive your "debtors"
+- When tempted by pride → Declare: "**For Yours** is the kingdom and the power and the glory"
 
 Paul also advises:
 
@@ -716,7 +756,7 @@ Moses even commanded:
 
 #### 2. Addressing Wrath
 
-Instead of focusing on retaliation, stay calm and focus on understanding the offender's view in "meekness" to resolve the conflict (James 1:19-21).
+When offended, resist the urge to retaliate. Stay calm and seek to understand the offender's perspective with meekness, working toward genuine resolution (James 1:19-21).
 
 The book of Proverbs contains many wise sayings like:
 
@@ -735,7 +775,7 @@ The reason you usually want to retaliate is because you either doubt God's judgm
 
 #### 3. Addressing Slothfulness
 
-Instead of being slothful, be a "doer of the word" because God "blesses" obedience (James 1:22-25).
+God calls us to be "doers of the word," not mere hearers. He blesses those who act on what they know (James 1:22-25).
 
 Slothfulness is condemned by multiple proverbs like Proverbs 10:4, 12:24, 13:4, 15:19, 18:9, 19:15 and Ecclesiastes 10:18 and so forth.
 
@@ -749,7 +789,7 @@ Slothfulness is caused by:
 
 #### 4. Addressing Pride
 
-Instead of being proud, seek your reward by serving the weak (James 1:26-27)
+True greatness comes through humble service to those in need. This is where God's reward is found (James 1:26-27).
 
 > A haughty look, a proud heart, and the plowing of the wicked **are sin**. — Proverbs 21:4 (NKJV)
 
