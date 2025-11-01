@@ -1,3 +1,10 @@
+---
+description: Understand why evil exists despite God's sovereignty, how darkness operates through deception, and your authority to shine light as a citizen of God's kingdom.
+keywords: kingdom of darkness, spiritual warfare, authority, deliverance, light and darkness, sin, temptation, spiritual armor
+---
+
+# Why Darkness Reigns
+
 Have you ever wondered who really controls our world? When I look at the suffering, injustice, and wickedness around us, it's tempting to conclude that evil has won. Many people struggle with this question:
 
 > If God is sovereign, why does the devil seem so powerful?
@@ -117,8 +124,8 @@ The reason why we worry or serve two masters is because we don't trust God.
 Jesus explained through the parable of the sower why we fail to trust God (Mark 4:2-20; Matthew 13:3-23; Luke 8:4-18):
 
 - Deception (wayside) (1 Timothy 4:1-2):
-  - Ignorance: We become vulnerable to deception when uninformed about God (for example the Athenes (Acts 17:22-23))
-  - Lies: We may know about God but have a distorted view (for example the samaritan woman (John 4:1-42))
+  - Ignorance: We become vulnerable to deception when uninformed about God (for example the Athenians (Acts 17:22-23))
+  - Lies: We may know about God but have a distorted view (for example the Samaritan woman (John 4:1-42))
   - Skepticism: We may know the truth but won't commit until we see evidence (for example Moses (Exodus 3-4), Gideon (Judges 6-7), Thomas (John 20:24-29))
   - Rejection: We may refuse to believe despite evidence (for example the "fools" mentioned in Psalm 14:1; 53:1)
 - Convenience (rocky ground): We trust God as long as it's comfortable, but when persecution comes, we abandon Him (for example the Israelites (Exodus 32), Peter (Matthew 26:69-75), Demas (2 Timothy 4:10))
@@ -264,19 +271,15 @@ While it might seem like the devil is the god of this world, he technically does
 The devil doesn't rule through raw power because God hasn't granted him that. Instead this is how the devil "rules" the world:
 
 1. The devil tempts us to **doubt God** usually by:
-
-- deception: ignorance, lies, skepticism or rejection of the truth
-- convenience: prioritize comfort above obedience
-- distractions: proritize wordly obligrations, wealth, popularity above God
-
+  - deception: ignorance, lies, skepticism or rejection of the truth
+  - convenience: prioritize comfort above obedience
+  - distractions: prioritize worldly obligations, wealth, popularity above God
 2. When we doubt God, we seek **independance from God**
 3. When we are independant from God, we:
-
-- lack God's provision, therefore we become **discontent** with what we have
-- lack God's protection, therefore we become **fearful** because we are insecure
-- lack God's acknowledgement, therefore we become **proud** because we elevate ourselves
-
-4. Our discontent, fear or pride leads to **coping mechanisms** (selfish desires) like jealousy, gluttony, lust, greed, slothfulness, wrath, manipulation, compromise, apastasy, greed, arrogance, impatience, revenge, resentment, etc.
+  - lack God's provision, therefore we become **discontent** with what we have
+  - lack God's protection, therefore we become **fearful** because we are insecure
+  - lack God's acknowledgement, therefore we become **proud** because we elevate ourselves
+4. Our discontent, fear or pride leads to **coping mechanisms** (selfish desires) like jealousy, gluttony, lust, greed, slothfulness, wrath, manipulation, compromise, apostasy, greed, arrogance, impatience, revenge, resentment, etc.
 5. All these selfish desires leads to **sin**
 6. All sin causes **defilement** of time, environment, life, objects, data, sound, relationships
 7. Defilement has 3 consequences:
@@ -365,7 +368,15 @@ _Note: Some [bible translations](https://eternal.family.net.za/bible/translation
 
 > We know that **whoever is born of God does not sin**; but he who has been born of God keeps himself, and **the wicked one does not touch him**. We know that we are of God, and **the whole world lies under the sway of the wicked one**. — 1 John 5:18-19 (NKJV)
 
-Jesus identified the devil's primary weapon against us: deception
+The devil's primary weapon against us is **deception**.
+
+> Or do you not know that the unrighteous will not inherit the kingdom of God?
+>
+> **Do not be deceived**: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God.
+>
+> — 1 Corinthians 6:9-10 (ESV); Galatians 5:19-21
+
+This is also aligned with Jesus teaching:
 
 > Jesus said to them,
 >
@@ -386,7 +397,7 @@ Jesus identified the devil's primary weapon against us: deception
 >
 > Whoever is of God hears the words of God. The reason why you do not hear them is that you are not of God.”
 >
-> — John 8:42-47 ESV
+> — John 8:42-47 (ESV)
 
 A few chapters further, Jesus calls himself "the shepherd" (also a ruler) and then contrast himself with "the thief" in John 10:1-16 which we can assume is "the devil".
 
@@ -648,6 +659,12 @@ When you doubt God and try to handle things yourself, Jesus advises:
 
 That is why Jesus' first recorded sermon was "preaching [the gospel of the kingdom](https://eternal.family.net.za/kingdom)" (Matthew 4:23 NKJV)
 
+Jesus also warned about the danger of wealth becoming a barrier to entering God's kingdom:
+
+> And Jesus said to his disciples, "Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God." — Matthew 19:23-24 (ESV)
+
+Those who trust in riches rather than God are often hold back by their responsibilities to maintain their wealth like a camel under the load trying to enter a very narrow gate.
+
 ### Eternal life through obedience
 
 We need to obey God according to Jesus's word (John 14:23-24) and be taught by the Holy Spirit (John 14:26) so that we can live in union with the Father and Jesus (John 14:20) as Jesus repeatedly taught in John 14, confirmed with the parable of the vine in John 15, explained in John 16 and prayed in John 17. This obedience is not the means of earning salvation. Rather, obedience is the evidence of salvation.
@@ -789,39 +806,25 @@ Then Jesus tells the parable of the servant who refused to forgive his debtor as
 
 The kingdom of God advances in the light of community and accountability. When you walk in the light together, you expose darkness not to shame, but to heal and restore.
 
-## Shining light
+## Let Your Light Shine
 
-> He who **dwells in the shelter of the Most High will abide in the shadow of the Almighty**. I will say to the LORD, “My refuge and my fortress, my God, **in whom I trust**.” — Psalm 91:1-2 (ESV)
+You now understand the battle. Evil exists not because God is weak, but because humanity has exchanged God's authority for independence. The darkness you see around you (the suffering, injustice, and wickedness) is the fruit of humanity doubting God's provision, protection, and authority.
 
-and this is how God respond:
+But here's the truth you must embrace: **You are not powerless.**
 
-> “Because he holds fast to Me in love,
->
-> 1. I will **deliver** him;
-> 2. I will **protect** him, because he knows My [name](https://eternal.family.net.za/god/name).
-> 3. When he calls to me, **I will answer** him;
-> 4. I will **be with him** in trouble;
-> 5. I will **rescue him** and honor him.
-> 6. With **long life** I will satisfy him and
-> 7. **show him** My salvation.”
->
-> — Psalm 91:14-16 (ESV)
+When you trust God instead of your own understanding, when you submit to His authority instead of seeking independence, when you draw near to Him through prayer and obedience, darkness has no choice but to flee. You have been delivered from the domain of darkness and transferred into the kingdom of God's beloved Son (Colossians 1:13-14).
 
-In contrast to those who live in darkness, Paul wrote:
+As a citizen of God's kingdom, you carry authority. Not just the authority to resist temptation, but the authority to shine light into the darkness around you. [Light represents revelation, good works, truth, righteousness, salvation, guidance, and God's glory](light.md). Everything that exposes and defeats the lies that keep people enslaved.
 
-> To the saints and faithful brothers _[in (with)](https://eternal.family.net.za/bible/translations/differences/en)_ Christ at Colossae...
->
-> And so, from the day we heard, we have not ceased to pray for you, asking that
->
-> - you may be **filled with the knowledge of his will in all spiritual wisdom and understanding**,
-> - so as to walk in a manner worthy of the Lord, fully pleasing to him, **bearing fruit in every good work** and
-> - **increasing in the knowledge of God**.
-> - May you **be strengthened with all power**, according to His glorious might,
-> - for all **endurance and patience with joy**,
-> - giving thanks to the Father, who has qualified you to **share in the inheritance of the saints in light**.
-> - He has **delivered us from the domain of darkness** and
-> - **transferred us to the kingdom of His beloved son**,
-> - in whom **we have redemption**, the forgiveness of sins.
->
-> — Colossians 1:2,11-14 (ESV)
+The world desperately needs you to stop living in fear, discontentment, and pride. It needs you to:
 
+- **Shine revelation** where deception blinds people to God's character
+- **Shine good works** that demonstrate God's love and point others to your Father in heaven
+- **Shine truth** that exposes injustice and brings fair judgment
+- **Shine righteousness** where sin separates people from God's holy presence
+- **Shine the Gospel** to guide the lost toward eternal salvation through Jesus Christ
+- **Shine God's glory** by reflecting His image in everything you do
+
+This is not optional for followers of Christ. Jesus commanded:
+
+> [Let your light shine](light.md) before others, so that they may see your good works and give glory to your Father who is in heaven. — Matthew 5:16 (ESV).

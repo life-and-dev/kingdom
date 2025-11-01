@@ -1,4 +1,13 @@
-# Light
+---
+description: Understanding biblical light as revelation, truth, and righteousness—and how you become a lamp for God's light in a dark world
+keywords: light, darkness, revelation, truth, righteousness, good works, salvation, guidance, glory
+---
+
+# What is Light?
+
+I often hear Christians talk about "walking in the light" or "being the light of the world." But what does that actually mean? When Jesus calls us to be light, what is He asking us to do? And more troubling, why do so many believers seem to live in darkness despite knowing the truth? The confusion surrounding this metaphor leaves many of us unsure how to fulfill Christ's command to let our light shine.
+
+## What is light in the Bible?
 
 God Himself is not light as He created light on the first day:
 
@@ -357,4 +366,14 @@ Therefore, we shine our light by:
 
 Jesus said:
 
-> “No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those who enter may **see the light**. For nothing is hidden that will not be made manifest, nor is anything secret that will not be known and **come to light**. -- Luke 8:16-17 (ESV)
+> "No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those who enter may **see the light**. For nothing is hidden that will not be made manifest, nor is anything secret that will not be known and **come to light**. -- Luke 8:16-17 (ESV)
+
+## What Will You Do with Your Lamp?
+
+You now understand what light truly means: revelation, truth, righteousness, good works, salvation, guidance, and God's glory. You also know that you become a lamp when you reflect Christ's image by serving others, speaking truth, living righteously, and glorifying God.
+
+But knowledge alone does not make you a light. A lamp that sits in the closet provides no illumination. The question is not whether you **have** light, but whether you are **letting it shine**.
+
+Look at your life today. Are you hiding your lamp under a basket? Are you calling evil good and good evil? Are you walking in darkness while claiming to abide in the light? Or are you actively reflecting Christ's image through sacrificial service, bold truth-telling, and righteous living?
+
+God has lit your lamp. The choice to put it on a stand is yours. **What will you do with the light you have been given?**
