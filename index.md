@@ -23,6 +23,54 @@ It spans across multiple realms:
 
 ## Why do we need the Kingdom of God?
 
+In the beginning, God created humanity with a specific purpose:
+
+> Then God said, “Let us make man in our image, after our likeness: and **let them have dominion** over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.” **So God created man in His own image**, in the image of God He created him;
+male and female he created them. And God blessed them. And God said to them, “Be fruitful and multiply and **fill the earth and subdue it, and have dominion** over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.” — Genesis 1:26-28 (ESV)
+
+and
+
+> The LORD God took the man and put him in the garden of Eden **to work it and keep it.** — Genesis 2:15 (ESV)
+
+[Eden means "delight"](https://biblehub.com/hebrew/5731.htm) and was a perfect environment created by God for Adam and Eve to live in harmony with Him and creation. In a sense, Eden was the original version of the Kingdom of God.
+
+### What Adam Lost
+
+Adam used to enjoy:
+- **Dominion over creation** (authority to rule under God) (Genesis 1:26-28; Psalm 8:6)
+- **Peace and harmony** (Genesis 2:9)
+- **Eternal life** (Genesis 2:9)
+- **God's presence** (walking with God in the garden - Genesis 3:8)
+
+This was the Kingdom of God: Humans willingly ruling creation under God's authority in His presence and provision to expand and maintain it.
+
+However, because of Adam's disobedience,
+
+> The LORD God said, “Behold, the man has become like one of us in **knowing** good and **evil**. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever⁠—” therefore **the LORD God sent him out from the garden of Eden** to work the ground from which he was taken. **He drove out the man**... — Genesis 3:22-24 (ESV)
+
+Adam forfeited:
+- **Dominion over creation** (work all days on cursed ground) (Genesis 3:17-19)
+- **Peace and harmony** (pain, thorns and sweat) (Genesis 3:17-19)
+- **Eternal life** (death) (Genesis 2:17; Romans 5:12)
+- **God's presence** (hiding in fear, expelled from the garden) (Genesis 3:8-10,23-24)
+
+Adam was supposed to be the lord of Eden, ruling creation under God's authority, but failed.
+
+### What Jesus Restored
+
+> ... giving thanks to the Father, Who has **qualified you to share in the inheritance** of [the saints in light](light.md). He has delivered us from the domain of darkness and **transferred us to the kingdom of His beloved Son**, in whom we have redemption, the forgiveness of sins. — Colossians 1:12-14 (ESV)
+
+Jesus restored (Romans 5:12-19):
+
+- **Dominion over creation** (all authority was given to Jesus, but followers may share it) (Matthew 28:18; Phillippians 2:9-11; Luke 10:19; Romans 8:17; Ephesians 2:6)
+- **Peace and harmony** (righteouness, peace, joy in the Holy Spirit) (John 14:27; Romans 5:1, 14:17; Philippians 4:7)
+- **Eternal life** (John 3:16, 10:28, 11:25-26; Romans 6:23; 1 Corinthians 15:22; 1 John 5:11-12; Revelation 22:2,14)
+- **God's presence** (John 14:23; 2 Corinthians 6:16; Revelation 21:3)
+
+The Kingdom of God is God's rule/reign restored in human hearts, His presence with His people. Jesus came to restore what Adam lost.
+
+### Who qualifies for the Kingdom of God?
+
 > * Whoever believes in the Son has eternal life.
 > * Whoever does not obey the Son shall not see life, but the wrath of God remains on him.
 >
@@ -222,9 +270,9 @@ Jesus explains the Kingdom of God with parables (Matthew 13:10-17; Mark 4:10-12)
 Comparison:
 
 | Parable                        | Reality                                                                                               |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| The king                       | [God the Father](https://eternal.family.net.za/god/father) (Matthew 25:34)                                                         |
-| The king's son                 | [The Son of God](https://eternal.family.net.za/god/son) (Matthew 3:17)                                                             |
+|--------------------------------|-------------------------------------------------------------------------------------------------------|
+| The king                       | [God the Father](https://eternal.family.net.za/god/father) (Matthew 25:34)                            |
+| The king's son                 | [The Son of God](https://eternal.family.net.za/god/son) (Matthew 3:17)                                |
 | The feast                      | God the Father's rewards (Matthew 5:12)                                                               |
 | The king's servants            | God's servants like John (Matthew 3:1-3), Jesus (Matthew 4:17) and their disciples (Matthew 28:19-20) |
 | Those who were invited         | Israel (Matthew 3:5-6)                                                                                |
@@ -233,7 +281,7 @@ Comparison:
 | Those who are not worthy       | The "gentiles" who accept Christ's authority (Matthew 21:43-45, 23:39)                                |
 | The king looking at the guests | The judgement day (John 12:48)                                                                        |
 | A man with no wedding garment  | The "wicked servants" that dishonor God's son (Matthew 24:48-51)                                      |
-| Outer darkness                 | [Hell](https://eternal.family.net.za/bible/concepts/hell) (Matthew 24:51)                                                          |
+| Outer darkness                 | [Hell](https://eternal.family.net.za/bible/concepts/hell) (Matthew 24:51)                             |
 | The few chosen                 | The "faithful servants" of God (Matthew 24:45-47)                                                     |
 
 Explanation:
@@ -592,20 +640,20 @@ The same could also be said about [churches](https://eternal.family.net.za/kingd
 
 Some church denomination even claims to be [the body of Christ](https://eternal.family.net.za/kingdom/body). While in reality the body of Christ is much bigger than any church. This is evident when spirit filled believers from different places in the world often move in the same direction with prayers or support complementing each other without having physical contact or knowledge of each other.
 
-| The body of Christ                                                         | Some Churches                                                                     |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| Worship [the almighty God, the Father](https://eternal.family.net.za/god/father)                        | May idolise the church leader                                                     |
-| Submit to [the Lord Jesus Christ](https://eternal.family.net.za/god/son)'s commands                     | Submit to the human church authority instead. Jesus is often reduced to a mascot. |
-| Guided by [the Holy Spirit of God](https://eternal.family.net.za/god/spirit)                            | Guided by institutional church [creeds](https://eternal.family.net.za/kingdom/church/history) or rules         |
-| Decentralised body                                                         | Centralised church membership                                                     |
-| Meet wherever practical                                                    | Meet in expensive church buildings                                                |
-| Focus on expanding God's Kingdom (saving the lost, serving the community)  | Focus on attracting more church members or financial income                       |
-| Praises glorifies God (with a pure motive)                                 | Praises entertain members (often in the form of "worship" musical concerts)       |
-| Contributions are focussed on supporting the body or serving non-believers | Contributions are focussed to maintain the church system                          |
-| Often God's Spirit deliver a message through multiple members as He guides | Usually a single preacher deliver a planned sermon                                |
-| Meetings are interactive, flexible and informal                            | Church services are non-interactive, structured and formal                        |
-| Serve in humility with often no recognition                                | Serve a hierarchical system recognized by titles, special seats and public honour  |
-| Often doing dangerous tasks or suffer persecution                          | Often convenient in the safety of the church                                      |
+| The body of Christ                                                                  | Some Churches                                                                                          |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Worship [the almighty God, the Father](https://eternal.family.net.za/god/father)    | May idolise the church leader                                                                          |
+| Submit to [the Lord Jesus Christ](https://eternal.family.net.za/god/son)'s commands | Submit to the human church authority instead. Jesus is often reduced to a mascot.                      |
+| Guided by [the Holy Spirit of God](https://eternal.family.net.za/god/spirit)        | Guided by institutional church [creeds](https://eternal.family.net.za/kingdom/church/history) or rules |
+| Decentralised body                                                                  | Centralised church membership                                                                          |
+| Meet wherever practical                                                             | Meet in expensive church buildings                                                                     |
+| Focus on expanding God's Kingdom (saving the lost, serving the community)           | Focus on attracting more church members or financial income                                            |
+| Praises glorifies God (with a pure motive)                                          | Praises entertain members (often in the form of "worship" musical concerts)                            |
+| Contributions are focussed on supporting the body or serving non-believers          | Contributions are focussed to maintain the church system                                               |
+| Often God's Spirit deliver a message through multiple members as He guides          | Usually a single preacher deliver a planned sermon                                                     |
+| Meetings are interactive, flexible and informal                                     | Church services are non-interactive, structured and formal                                             |
+| Serve in humility with often no recognition                                         | Serve a hierarchical system recognized by titles, special seats and public honour                      |
+| Often doing dangerous tasks or suffer persecution                                   | Often convenient in the safety of the church                                                           |
 
 When any group of people meet, it is natural for a leader to arise and to guide the group such that there is order and collaboration. But this does not mean that the leader owns the group or is more important than the group. It is only a function in "the body" (Ephesians 4:11-12). Jesus warned that leaders should serve the group in humility, instead of claiming special titles (Matthew 23:1-12).
 

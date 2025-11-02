@@ -106,85 +106,43 @@ Some would argue that Jesus' secondary objective was to preach the Gospel. Howev
 
 Jesus' purpose was to **establish the Kingdom of God** (Luke 4:43; Mark 1:38; John 18:36-37)
 
-Why?
+*Why?*
 
 To reconcile humanity with God:
 * by making God known (John 1:18) 
 * to be part of God's blood covenant with humanity (Matthew 26:28)
 
-Why?
+*Why?*
 
 To save the lost sinners (Matthew 1:21; Luke 19:10; John 3:16-17; Acts 4:12) of this broken world from future judgement (Matthew 25:31-46; John 5:22,27-29):
 * by training disciples (Matthew 28:19-20)
 * demonstrating God's power by demonic deliverances, healings, resurrections, supernatural miracles (Luke 4:18-19; Acts 10:38)
 * sending disciples on his behalf in his authority to continue his work (Matthew 28:18-20) 
 
-Why?
+*Why?*
 
 * Because God is merciful (Ephesians 2:4-5)
 * Because God loves us (John 3:16)
 * Because God wants to adopt us as his children (Romans 8:15)
 
-Why?
+*Why?*
 
 Because God wants to restore our purpose He created us for which is to have dominion over His creation (Genesis 1:26-28; Psalm 8:6)
 
-Why?
+*Why?*
 
-To expand Eden (God's Kingdom)
+To *"work and keep"* Eden (which could be considered an ancient version of the Kingdom of God) (Genesis 2:15)
 
-Why?
+*Why?*
 
-* So that more may get to know and love God (John 17:3)
 * So that more people may get to know and love each other (God's creation) (John 13:34-35)
+* So that more may get to know and love God (John 17:3)
 
-Why?
+*Why?*
 
 So that this Kingdom will glorify God (John 17:1-5).
 
 Otherwise it would have been called *the Kingdom of **Man***, but instead it is about [God](https://ofgod.info).
-
-### What Is the Kingdom of God?
-
-To better understand why Jesus came, we must understand what the "Kingdom of God" means.
-
-#### What Adam Had (The Original Kingdom)
-
-In the beginning, God created humanity with a specific purpose:
-
-> "Then God said, 'Let us make man in our image, after our likeness. And **let them have dominion** over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.'" (Genesis 1:26)
-
-> "And God said to them, 'Be fruitful and multiply and fill the earth and **subdue it and have dominion**...'" (Genesis 1:28)
-
-Adam and Eve enjoyed:
-- **God's presence** (walking with God in the garden - Genesis 3:8)
-- **God's rule** (humans obeying naturally, doing God's will) (Genesis 2:15)
-- **Dominion over creation** (authority to rule under God) (Genesis 1:26-28)
-- **Peace, life, harmony, purpose** (Genesis 2:9; Psalm 8:6)
-
-This was the Kingdom of God: Humans willingly ruling creation under God's authority, His presence with His people.
-
-#### What Adam Lost
-
-> "Therefore the LORD God sent him out from the garden of Eden... He drove out the man." (Genesis 3:23-24)
-
-Through disobedience, Adam forfeited:
-- **God's presence** (expelled from the garden) (Genesis 3:23-24)
-- **Relationship with God** (broken, hiding in fear) (Genesis 3:8-10)
-- **Dominion over creation** (ground cursed, authority lost) (Genesis 3:17-19)
-- **Life** (death entered - Romans 5:12)
-
-Adam was supposed to be the lord of God's Kingdom on earth, ruling creation under God's authority. He failed the test.
-
-#### What Jesus Came to Restore
-
-> "The kingdom of God is not a matter of eating and drinking but **righteousness and peace and joy in the Holy Spirit**." (Romans 14:17)
-
-> "The kingdom of God is not coming in ways that can be observed, nor will they say, 'Look, here it is!' or 'There!' for behold, **the kingdom of God is in the midst of you**." (Luke 17:20-21)
-
-> "He has delivered us from the domain of darkness and **transferred us to the kingdom of his beloved Son**." (Colossians 1:13)
-
-The Kingdom of God is God's rule/reign restored in human hearts, His presence with His people. Jesus came to restore what Adam lost.
 
 ### Why Did God Wait Thousands of Years?
 
