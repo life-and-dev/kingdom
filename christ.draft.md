@@ -102,47 +102,58 @@ Instead God intervened by provision (gifts from the Wise Men - Matthew 2:11) to 
 
 Some would argue that Jesus' secondary objective was to preach the Gospel. However, the gospel message could have come through John the Baptist or the other disciples or even another prophet. Why risk contamination with sin during Jesus' temptations in the wilderness (Matthew 4:1-11) if his only purpose was to die?
 
-### Establishing the Kingdom of God
+### Jesus' Purpose
 
 Jesus' purpose was to **establish the Kingdom of God** (Luke 4:43; Mark 1:38; John 18:36-37)
 
 *Why?*
 
-To reconcile humanity with God:
+To **reconcile humanity with God** (1 Timothy 2:5; 2 Corinthians 5:18-21; Ephesians 2:14-16):
 * by making God known (John 1:18) 
-* to be part of God's blood covenant with humanity (Matthew 26:28)
+* to be part of God's blood covenant with humanity (Jeremiah 31:31-34; Matthew 26:28; Luke 22:20)
 
 *Why?*
 
-To save the lost sinners (Matthew 1:21; Luke 19:10; John 3:16-17; Acts 4:12) of this broken world from future judgement (Matthew 25:31-46; John 5:22,27-29):
-* by training disciples (Matthew 28:19-20)
-* demonstrating God's power by demonic deliverances, healings, resurrections, supernatural miracles (Luke 4:18-19; Acts 10:38)
-* sending disciples on his behalf in his authority to continue his work (Matthew 28:18-20) 
+To save the lost sinners (Matthew 1:21; Luke 19:10; John 3:16-17; Acts 4:12; Colossians 2:11-15) of this broken world from future **judgement** (Matthew 25:31-46; John 5:22,27-29; Acts 10:42; 2 Corinthians 5:10):
+* by demonstrating God's power by demonic deliverances, healings, resurrections, supernatural miracles (Matthew 4:23; Luke 4:18-19, 7:22; Acts 10:38)
+* by interceding for us (Romans 8:34) 
 
 *Why?*
 
+So that **we can live forever** (John 10:10, 14:6; Romans 6:23; 1 John 5:11-13)
 * Because God is merciful (Ephesians 2:4-5)
 * Because God loves us (John 3:16)
 * Because God wants to adopt us as his children (Romans 8:15)
 
 *Why?*
 
-Because God wants to restore our purpose He created us for which is to have dominion over His creation (Genesis 1:26-28; Psalm 8:6)
+To **expand the Kingdom of God**:
+* by training disciples with the truth (Matthew 7:28-29, 28:19-20; Luke 4:22; John 7:46)
+* by sending disciples to act in the authority of Christ to continue his work (Matthew 28:18-20; Luke 10:1) to be witnesses to the lost
 
 *Why?*
 
-To *"work and keep"* Eden (which could be considered an ancient version of the Kingdom of God) (Genesis 2:15)
+* So that **more people may get to know and love each other** (God's creation) (John 13:34-35)
+* So that **more people may get to know and love God** (John 17:3)
 
 *Why?*
 
-* So that more people may get to know and love each other (God's creation) (John 13:34-35)
-* So that more may get to know and love God (John 17:3)
-
-*Why?*
-
-So that this Kingdom will glorify God (John 17:1-5).
+So that this Kingdom will **glorify God** (John 17:1-5).
 
 Otherwise it would have been called *the Kingdom of **Man***, but instead it is about [God](https://ofgod.info).
+
+You will notice that Jesus's purpose also aligns with the purpose of the Kingdom of God.
+
+### The Kingdom of God's Purpose
+
+* To create an environment where people can **live in relationship with God** (John 17:3; Revelation 21:3-4)
+* To **judge evil**
+* To **enjoy eternal life**
+* To **expand Eden** (the original Kingdom of God) (Genesis 2:15; Romans 8:19-23) by by empowering disciples (Acts 1:8).
+* To restore our purpose He created us for which is to have dominion over His creation (Genesis 1:26-28; Psalm 8:6)
+* To reach more people so they can **know and love each other** (John 13:34-35)
+* To **reach more people so they can know and love God** (John 17:3)
+* To **glorify God**
 
 ### Why Did God Wait Thousands of Years?
 
