@@ -102,7 +102,7 @@ Instead God intervened by provision (gifts from the Wise Men - Matthew 2:11) to 
 
 Some would argue that Jesus' secondary objective was to preach the Gospel. However, the gospel message could have come through John the Baptist or the other disciples or even another prophet. Why risk contamination with sin during Jesus' temptations in the wilderness (Matthew 4:1-11) if his only purpose was to die?
 
-### Jesus' Purpose
+### The Purpose of Jesus
 
 Jesus' purpose was to **establish the Kingdom of God** (Luke 4:43; Mark 1:38; John 18:36-37)
 
@@ -114,13 +114,15 @@ To **reconcile humanity with God** (1 Timothy 2:5; 2 Corinthians 5:18-21; Ephesi
 
 *Why?*
 
-To save the lost sinners (Matthew 1:21; Luke 19:10; John 3:16-17; Acts 4:12; Colossians 2:11-15) of this broken world from future **judgement** (Matthew 25:31-46; John 5:22,27-29; Acts 10:42; 2 Corinthians 5:10):
+To save the lost sinners (Matthew 1:21; Luke 19:10; John 3:16-17; Acts 4:12; Colossians 2:11-15) of this broken world from **judgement** (Isaiah 11:1-5; Matthew 25:31-46; John 5:22-30; Acts 10:42; 2 Corinthians 5:10):
+* by the forgiveness of sin (Mark 2:10-11)
 * by demonstrating God's power by demonic deliverances, healings, resurrections, supernatural miracles (Matthew 4:23; Luke 4:18-19, 7:22; Acts 10:38)
 * by interceding for us (Romans 8:34) 
 
 *Why?*
 
 So that **we can live forever** (John 10:10, 14:6; Romans 6:23; 1 John 5:11-13)
+* Because God is patient (2 Peter 3:9)
 * Because God is merciful (Ephesians 2:4-5)
 * Because God loves us (John 3:16)
 * Because God wants to adopt us as his children (Romans 8:15)
@@ -129,7 +131,7 @@ So that **we can live forever** (John 10:10, 14:6; Romans 6:23; 1 John 5:11-13)
 
 To **expand the Kingdom of God**:
 * by training disciples with the truth (Matthew 7:28-29, 28:19-20; Luke 4:22; John 7:46)
-* by sending disciples to act in the authority of Christ to continue his work (Matthew 28:18-20; Luke 10:1) to be witnesses to the lost
+* by sending disciples to act in the authority of Christ to continue his work (Matthew 28:18-20; Luke 10:1; Acts 1:8) to be witnesses to the lost
 
 *Why?*
 
@@ -140,20 +142,13 @@ To **expand the Kingdom of God**:
 
 So that this Kingdom will **glorify God** (John 17:1-5).
 
-Otherwise it would have been called *the Kingdom of **Man***, but instead it is about [God](https://ofgod.info).
+This was not a new idea of Jesus, it was prophecied by the prophet Daniel many centuries ago:
 
-You will notice that Jesus's purpose also aligns with the purpose of the Kingdom of God.
+> “I saw in the night visions, and behold, with the clouds of heaven
+there came one like a **son of man**, and he came to the Ancient of Days
+and was presented before Him. And to him was given **dominion and glory and a kingdom**, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and **his kingdom** one that shall not be destroyed. -- Daniel 7:13-14 (ESV)
 
-### The Kingdom of God's Purpose
-
-* To create an environment where people can **live in relationship with God** (John 17:3; Revelation 21:3-4)
-* To **judge evil**
-* To **enjoy eternal life**
-* To **expand Eden** (the original Kingdom of God) (Genesis 2:15; Romans 8:19-23) by by empowering disciples (Acts 1:8).
-* To restore our purpose He created us for which is to have dominion over His creation (Genesis 1:26-28; Psalm 8:6)
-* To reach more people so they can **know and love each other** (John 13:34-35)
-* To **reach more people so they can know and love God** (John 17:3)
-* To **glorify God**
+Jesus was not a victim we should pity. He is the king we should honor and serve.
 
 ### Why Did God Wait Thousands of Years?
 

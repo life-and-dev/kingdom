@@ -95,9 +95,30 @@ Jesus is the eternal king from David's line.
 
 Isaiah specified the Messiah's lineage through Jesse (David's father):
 
-> There shall come forth **a shoot from the stump of Jesse, and a branch from his roots** shall bear fruit. And **the Spirit of the LORD shall rest upon him**, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of the LORD. — Isaiah 11:1-2 (ESV)
+> There shall come forth **a shoot from the stump of Jesse, and a branch from his roots** shall bear fruit. And **the Spirit of the LORD shall rest upon him**:
+> * the Spirit of wisdom and understanding, 
+> * the Spirit of counsel and might,
+> * the Spirit of knowledge and the fear of the LORD. 
+> And his delight shall be in the fear of the LORD.
+>
+> He shall not judge by what his eyes see, or decide disputes by what his ears hear, but with righteousness he shall judge the poor, and decide with equity for the meek of the earth; and he shall strike the earth with the rod of his mouth,
+and with the breath of his lips he shall kill the wicked. Righteousness shall be the belt of his waist, and faithfulness the belt of his loins. 
+>
+> — Isaiah 11:1-5 (ESV)
 
 The Messiah would be Spirit-empowered and from David's family line.
+
+Regarding the judgement Isaiah prophecied, Jesus warned:
+
+> For the Father judges no one, but has given **all judgment to [the Son](https://son.ofgod.info)**, that all may honor the Son, just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.
+>
+> Truly, truly, I say to you, **whoever hears my word and believes Him who sent me has eternal life. He does not come into judgment**, but has passed from death to life.
+>
+> Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of [the Son of God](https://son.ofgod.info), and **those who hear will live**. For as the Father has life in himself, so **He has granted the Son** also to have life in himself. And **He has given him authority to execute judgment**, because he is [the Son of Man](https://son.ofgod.info/son-of-man). Do not marvel at this, for an hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to **the resurrection of life**, and those who have done evil to **the resurrection of judgment**. 
+>
+> I can do nothing on my own. **As I hear, I judge, and my judgment is just**, because I seek not my own will but the will of Him who sent me.
+>
+> — John 5:22-30 (ESV)
 
 #### Fulfillment
 
