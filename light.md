@@ -5,11 +5,13 @@ keywords: light, darkness, revelation, truth, righteousness, good works, salvati
 
 # What is Light?
 
-I often hear Christians talk about "walking in the light" or "being the light of the world." But what does that actually mean? When Jesus calls us to be light, what is He asking us to do? And more troubling, why do so many believers seem to live in darkness despite knowing the truth? The confusion surrounding this metaphor leaves many of us unsure how to fulfill Christ's command to let our light shine.
+I often hear Christians talk about "walking in the light" or "being the light of the world." But what does that actually mean? When Jesus calls us to be light, what is He asking us to do? If we should shine, what is [darkness](darkness.md)?
+
+The confusion surrounding these metaphors leaves many of us unsure how to fulfill Christ's command to let our light shine.
 
 ## What is light in the Bible?
 
-God Himself is not light as He created light on the first day:
+God created physical light on the first day:
 
 > And God said, "Let there be light"
 >
@@ -22,7 +24,11 @@ God Himself is not light as He created light on the first day:
 >
 > -- Genesis 1:3-5 (KJV)
 
-However, [God's glory or presence causes light](#glory).
+However, Scripture also teaches that God **is** light in a metaphorical sense. This represents His truth, holiness, and revelation:
+
+> This is the message we have heard from him and proclaim to you, that **God is light**, and in him is no darkness at all. -- 1 John 1:5 (ESV)
+
+These two truths complement each other: God created **physical light** as part of creation, yet God **is** light metaphorically. He is the source of all truth, revelation, and righteousness. Just as Jesus was sent as "the light of the world" to spread the good news of the Kingdom in a [world of darkness](darkness.md).
 
 ## What is the light?
 
@@ -80,7 +86,7 @@ John wrote:
 
 > At the same time, it is a new commandment that I am writing to you, which is true in him and in you, because the darkness is passing away and **the true light** is already shining.
 >
-> Whoever says he is in **the light** and** hates his brother is still in darkness**. Whoever loves his brother abides in **the light**, and in him there is **no cause for stumbling**. But **whoever hates his brother is in the darkness and walks in the darkness**, and does not know where he is going, because the darkness has blinded his eyes.
+> Whoever says he is in **the light** and **hates his brother is still in darkness**. Whoever loves his brother abides in **the light**, and in him there is **no cause for stumbling**. But **whoever hates his brother is in the darkness and walks in the darkness**, and does not know where he is going, because the darkness has blinded his eyes.
 >
 > -- 1 John 2:8-11 (ESV)
 
@@ -316,7 +322,7 @@ This is also quoted by Paul:
 >
 >> “ ‘**I have made you a light** for the Gentiles, that **you may bring [salvation](https://eternal.family.net.za/eternal/saved)** to the ends of the earth.’ ”
 >
-> And when the Gentiles heard this, they began rejoicing and glorifying [the word](https://eternal.family.net.za/bible/concepts/word) of the Lord, and as many as were appointed to [eternal life](https://eternal.family.net.za/eternal/new-earth) [believed](https://eternal.family.net.za/life/faith). And **[the word](https://eternal.family.net.za/bible/concepts/word) of the Lord was spreading** throughout the whole region.
+> And when the Gentiles heard this, they began rejoicing and glorifying [the word](https://son.ofgod.info/word) of the Lord, and as many as were appointed to [eternal life](https://eternal.family.net.za/eternal/new-earth) [believed](https://eternal.family.net.za/life/faith). And **[the word](https://son.ofgod.info/word) of the Lord was spreading** throughout the whole region.
 >
 > -- Acts 13:47-49 (ESV)
 
@@ -334,23 +340,27 @@ One becomes a lamp by reflecting the image of God as Christ did:
 
 > But even if our good news is veiled, it is veiled to those who are perishing, in whom the god of this age has blinded the minds of those who do not believe, to keep them from seeing and shining forth **the light of the good news of the glory of Christ, who is the image of God**.
 >
-> For we do not preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus' sake, because it is God Who said "**Light will shine out of darkness**", Who has shined in our hearts, to **provide illumination by way of the knowledge of the glory of God**, which is on the face of Jesus Christ. -- 2 Corinthians 4:3-6 (REV)
+> For we do not preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus' sake, because it is God Who said "**Light will shine out of darkness**", Who has shined in our hearts, to **provide illumination by way of the knowledge of the glory of God**, which is on the face of Jesus Christ. 
+>
+> -- 2 Corinthians 4:3-6 (REV)
 
-Some bible translations vastly differ from this quoted translation. However, I believe that message that Paul tried to communicate is that:
+Some Bible translations vastly differ from this quoted translation. However, I believe the message that Paul tried to communicate is that:
 
-Everyone (including unbelievers whose "minds are blinded" by "the veil" of "the god of this age") has the ability to "shine forth" (spread) "the light of the good news of the glory of Christ" (Gospel) just as Christ reflect "the image of God".
+Everyone (including unbelievers whose "minds are blinded" by "the veil" of "the god of this age") has the ability to "shine forth" (spread) "the light of the good news of the glory of Christ" (Gospel) just as Christ reflects "the image of God".
 
-In other words Christ teach, demonstrated and guided his disciples according to how [God's Holy Spirit](https://eternal.family.net.za/god/spirit) lead him, likewise we need to teach, demonstrate and guide our disciples according to how Christ lead us.
+In other words Christ taught, demonstrated and guided his disciples according to how [God's Holy Spirit](https://eternal.family.net.za/god/spirit) led him. Likewise we need to teach, demonstrate and guide our disciples according to how Christ leads us.
 
-This conclusion because clear when Paul explains:
+This interpretation aligns with the broader biblical teaching about believers as witnesses and light-bearers:
 
-1. "For we do not [preach](#revelation-or-understanding) ourselves, but Christ Jesus as Lord". 
-2. "[We are] [your servants](#good-works) for Jesus' sake".
-3. God said "Light will shine out of darkness" (We used to be the darkness or deceived, but when we spread the Gospel shine forth light or [truth](#truth))
-4. "[God] shined in our hearts" by [His presence](#is-god-light) when we will [righteously](#righteousness)
-5. By turning "darkness" into "light", God is effectively [giving eternal life](#salvation) to those who would have "perished". 
-6. When we "shine" we "provide illumination" ([guidance](#guidance)) to "[the knowledge](#teaching) of the glory of God"
-7. We spread the Gospel by "the face of Jesus Christ" ([live like Jesus Christ did](#good-works)).
+Paul's message of 2 Corinthians 4:5-6 could be analyzed this way:
+
+1. "For we do not [preach](#revelation-or-understanding) ourselves, but Christ Jesus as Lord" (Philippians 2:11).
+2. "[We are] [your servants](#good-works) for Jesus' sake" (Matthew 20:28; Galatians 5:13).
+3. God said "Light will shine out of darkness" - We used to be the darkness or deceived, but when we spread the Gospel we shine forth light or [truth](#truth) (Ephesians 5:8; Colossians 1:13)
+4. "[God] shined in our hearts" by [His presence](#glory) when we live [righteously](#righteousness) (Psalm 97:11; Proverbs 4:18)
+5. By turning "darkness" into "light", God is effectively [giving eternal life](#salvation) to those who would have "perished" (Acts 26:18).
+6. When we "shine" we "provide illumination" ([guidance](#guidance)) to "[the knowledge](#teaching) of the glory of God" (Colossians 1:28; 2 Timothy 2:2)
+7. We spread the Gospel by "the face of Jesus Christ" - [live like Jesus Christ did](#good-works) (1 John 2:6; 1 Peter 2:21).
 
 > **The light** of the righteous rejoices, but **the lamp** of the wicked will be put out. -- Proverbs 13:9 (ESV)
 

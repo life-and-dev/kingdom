@@ -3,17 +3,22 @@ description: Discover how Jesus of Nazareth fulfilled hundreds of specific Old T
 keywords: messianic prophecy, Old Testament prophecies, Jesus fulfills prophecy, Isaiah 53, Psalm 22, virgin birth, Bethlehem prophecy, Davidic Messiah, prophecy fulfillment, biblical prophecy, Christ in Old Testament
 ---
 
-## Prophecies of Jesus Fulfilled
+# Fulfilled Prophecies about Jesus
 
-From the very beginning, God promised a deliverer. Not a vague hope, but specific, detailed predictions written centuries before Jesus was born. The Hebrew prophets described this coming Messiah with remarkable precision—his ancestry, birthplace, ministry, suffering, death, and resurrection.
+- To Christians, he is the Christ, [the Son of God](https://son.ofgod.info), the savior of the world
+- To Muslims, he is a revered prophet, born of a virgin, but not God's Son
+- To Jews, he was a teacher who didn't fulfill messianic prophecies
+- To secularists, he was perhaps a wise moral teacher, but nothing more
 
-The prophet himself affirmed this connection:
+According to the Bible, God made several promises about the Christ.
 
-> And beginning with **Moses and all the Prophets**, he *(Jesus)* interpreted to them in all the Scriptures the things concerning himself. — Luke 24:27 (ESV)
+If Jesus is the Christ, it changes everything. How we understand God, ourselves, history, and our eternal destiny.
 
-Jesus claimed that the Old Testament Scriptures testified about him. The question is: Do they?
+Luke, who gathered many witness accounts, recorded:
 
-This exploration examines Old Testament prophecies and demonstrates how Jesus fulfilled them—grouping each prophecy with its fulfillment evidence so you can evaluate the connection directly.
+> Beginning with **Moses and all the Prophets**, he *(Jesus)* interpreted to them in all the Scriptures the things concerning himself. — Luke 24:27 (ESV)
+
+Jesus claimed that the Old Testament Scriptures testified about him. The question is: *Do they?*
 
 ## Genealogy and Royal Lineage
 
@@ -43,8 +48,6 @@ The apostle Peter explicitly applied this promise to Jesus:
 
 Jesus is the promised offspring through whom all nations are blessed.
 
----
-
 ### The Scepter of Judah
 
 #### Prophecy
@@ -62,8 +65,6 @@ The Gospel of Matthew establishes Jesus' Judahite lineage:
 > The book of the genealogy of **Jesus Christ, the son of David, the son of Abraham**: Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of **Judah** and his brothers... — Matthew 1:1-2 (ESV)
 
 The lineage is explicitly documented: Abraham → **Judah** → David → Jesus.
-
----
 
 ### The Davidic Covenant: An Eternal Throne
 
@@ -86,8 +87,6 @@ Peter's Pentecost sermon confirmed this:
 > Being therefore a prophet, and knowing that **God had sworn with an oath to him that he would set one of his descendants on his throne**, he foresaw and spoke about the resurrection of the Christ. — Acts 2:30 (ESV)
 
 Jesus is the eternal king from David's line.
-
----
 
 ### Descended from Jesse
 
@@ -128,8 +127,6 @@ Matthew's genealogy traces Jesus through Jesse:
 
 The lineage is complete: Abraham → Judah → **Jesse** → David → Jesus.
 
----
-
 ## Birth Prophecies
 
 ### Born in Bethlehem
@@ -150,8 +147,6 @@ Though Jesus' family lived in Nazareth, a Roman census required Joseph to regist
 
 Jesus was born exactly where Micah predicted, 700 years earlier.
 
----
-
 ### Born of a Virgin
 
 #### Prophecy
@@ -170,8 +165,6 @@ Mary conceived virginally through the Holy Spirit:
 
 A miraculous, unique birth—exactly as Isaiah predicted.
 
----
-
 ### Titles of Divine Authority
 
 #### Prophecy
@@ -189,8 +182,6 @@ After his resurrection, Jesus declared the fulfillment of this governmental auth
 > And Jesus came and said to them, **"All authority in heaven and on earth has been given to me**. Go therefore and make disciples of all nations..." — Matthew 28:18-19 (ESV)
 
 Jesus received the universal authority Isaiah foretold.
-
----
 
 ## Ministry and Teaching
 
@@ -214,8 +205,6 @@ Peter explicitly identified Jesus as the prophet Moses foretold:
 
 > For Moses truly said to the fathers, 'The LORD your God will raise up for you **a prophet like me** from your brethren. Him you shall hear in all things, whatever he says to you. And it shall be that every soul who will not hear that prophet shall be utterly destroyed from among the people.'... To you first, God, having **raised up his servant Jesus, sent him** to bless you, in turning away every one of you from your iniquities. — Acts 3:22-26 (NKJV)
 
----
-
 ### Anointed to Proclaim Good News
 
 #### Prophecy
@@ -234,8 +223,6 @@ At the beginning of his ministry, Jesus read this passage in the Nazareth synago
 
 Jesus explicitly claimed to fulfill Isaiah's prophecy—and demonstrated it through healing, teaching, and liberation ministry.
 
----
-
 ### Gentle and Humble
 
 #### Prophecy
@@ -253,8 +240,6 @@ Matthew records Jesus' gentle approach:
 > But when Jesus knew it, he withdrew from there. And great multitudes followed him, and he healed them all. Yet he warned them not to make him known, that it might be fulfilled which was spoken by Isaiah the prophet, saying: "Behold! My servant whom I have chosen, my beloved in whom my soul is well pleased! I will put my Spirit upon him, and he will declare justice to the Gentiles. He will not quarrel nor cry out, nor will anyone hear his voice in the streets. **A bruised reed he will not break, and smoking flax he will not quench**, till he sends forth justice to victory; and in his name Gentiles will trust." — Matthew 12:15-21 (NKJV)
 
 Jesus' ministry was characterized by compassion, not force—healing quietly, protecting the vulnerable.
-
----
 
 ### Teaching with Authority
 
@@ -276,8 +261,6 @@ And after hearing Jesus teach, the crowds recognized this authority:
 
 > And when Jesus finished these sayings, the crowds were astonished at his teaching, for **he was teaching them as one who had authority**, and not as their scribes. — Matthew 7:28-29 (ESV)
 
----
-
 ## Divine Sonship and Priestly Office
 
 ### Divine Sonship Declared
@@ -297,8 +280,6 @@ Paul's sermon explicitly connected this to Jesus' resurrection:
 > So Paul stood up, and motioning with his hand said: ... We bring you the good news that what God promised to the fathers, this He has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, **"You are My Son, today I have begotten you."** — Acts 13:16, 32-33 (ESV)
 
 The "begetting" referred to resurrection—divine validation of Jesus as God's Son.
-
----
 
 ### The Lord at God's Right Hand
 
@@ -335,8 +316,6 @@ Regarding the eternal priesthood:
 
 Jesus serves as both king (Davidic line) and eternal priest (Melchizedek order)—a unique combination.
 
----
-
 ## The Suffering Servant (Isaiah 52-53)
 
 Isaiah 52-53 presents the most detailed prophecy of the Messiah's suffering. Written ~700 years before Jesus, it describes his mission with stunning precision. Let's examine each element with its fulfillment.
@@ -353,8 +332,6 @@ The Messiah would be both *exalted* and *disfigured*—glory through suffering.
 
 Jesus was exalted through resurrection and ascension, but only after brutal suffering during crucifixion—his appearance marred by scourging, beating, and crucifixion wounds.
 
----
-
 ### No External Beauty
 
 #### Prophecy
@@ -366,8 +343,6 @@ No external beauty or royal appearance—easily overlooked.
 #### Fulfillment
 
 Jesus grew up in humble circumstances, not in a palace. He was a carpenter's son from Nazareth, a town so insignificant it provoked the question: "Can anything good come out of Nazareth?" (John 1:46).
-
----
 
 ### Despised and Rejected
 
@@ -389,8 +364,6 @@ The Jewish leaders sought to kill him:
 
 > So the Jews sought all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God. — John 5:18 (ESV)
 
----
-
 ### Pierced for Our Transgressions
 
 #### Prophecy
@@ -411,8 +384,6 @@ Paul explained the vicarious nature:
 
 > For our sake he [God] made him [Jesus] **to be sin who knew no sin**, so that in him we might become the righteousness of God. — 2 Corinthians 5:21 (ESV)
 
----
-
 ### Silent Before Accusers
 
 #### Prophecy
@@ -428,8 +399,6 @@ Silent before accusers, led to slaughter, executed unjustly.
 Before Herod:
 
 > So he questioned him at some length, but **he made no answer**. — Luke 23:9 (ESV)
-
----
 
 ### Buried with Wicked, Yet in Rich Man's Tomb
 
@@ -462,8 +431,6 @@ Pilate declared:
 
 > I find no guilt in this man. — Luke 23:4 (ESV)
 
----
-
 ### Makes Many Righteous, Numbered with Transgressors
 
 #### Prophecy
@@ -482,8 +449,6 @@ And it happened—crucified between criminals:
 
 > And with him they crucified **two robbers, one on his right and one on his left**. — Mark 15:27 (ESV)
 
----
-
 ## Crucifixion Foretold (Psalm 22)
 
 Written by David ~1000 years before crucifixion was invented, Psalm 22 describes execution by crucifixion with eerie precision. Let's examine each element.
@@ -500,8 +465,6 @@ Written by David ~1000 years before crucifixion was invented, Psalm 22 describes
 
 Jesus quoted Psalm 22's opening words on the cross—experiencing the spiritual anguish David prophetically described.
 
----
-
 ### Mocking Words
 
 #### Prophecy
@@ -513,8 +476,6 @@ Jesus quoted Psalm 22's opening words on the cross—experiencing the spiritual 
 > And those who passed by derided him, wagging their heads and saying, "You who would destroy the temple and rebuild it in three days, save yourself! If you are the Son of God, come down from the cross." So also the chief priests, with the scribes and elders, mocked him, saying, "He saved others; he cannot save himself. He is the King of Israel; let him come down now from the cross, and we will believe in him. **He trusts in God; let God deliver him now, if he desires him**. For he said, 'I am the Son of God.'" — Matthew 27:39-43 (ESV)
 
 The mockers unknowingly quoted Psalm 22 verbatim.
-
----
 
 ### Pierced Hands and Feet
 
@@ -532,8 +493,6 @@ Crucifixion involved nails through hands and feet. After resurrection, Jesus sho
 
 Thomas could see and touch the nail wounds in Jesus' hands.
 
----
-
 ### Garments Divided by Casting Lots
 
 #### Prophecy
@@ -547,8 +506,6 @@ Thomas could see and touch the nail wounds in Jesus' hands.
 John provides more detail:
 
 > When the soldiers had crucified Jesus, they took his garments and divided them into four parts, one part for each soldier; also his tunic. But the tunic was seamless, woven in one piece from top to bottom, so they said to one another, "Let us not tear it, but **cast lots for it to see whose it shall be**." This was to fulfill the Scripture which says, "They divided my garments among them, and for my clothing they cast lots." — John 19:23-24 (ESV)
-
----
 
 ## Specific Events of Passion Week
 
@@ -566,8 +523,6 @@ A king entering Jerusalem—not on a warhorse, but humbly on a donkey.
 
 > The next day the large crowd that had come to the feast heard that Jesus was coming to Jerusalem. So they took branches of palm trees and went out to meet him, crying out, "Hosanna! Blessed is he who comes in the name of the Lord, even the King of Israel!" And Jesus found a young donkey and sat on it, just as it is written, **"Fear not, daughter of Zion; behold, your king is coming, sitting on a donkey's colt!"** — John 12:12-16 (ESV)
 
----
-
 ### Betrayed for Thirty Pieces of Silver
 
 #### Prophecy
@@ -584,8 +539,6 @@ Thirty silver pieces (the price of a slave)—a contemptuous valuation.
 
 The exact amount Zechariah predicted.
 
----
-
 ### Money Thrown in Temple, Used for Potter's Field
 
 #### Prophecy
@@ -597,8 +550,6 @@ The exact amount Zechariah predicted.
 > Then when Judas, his betrayer, saw that Jesus was condemned, he changed his mind and **brought back the thirty pieces of silver to the chief priests** and the elders, saying, "I have sinned by betraying innocent blood." They said, "What is that to us? See to it yourself." And **throwing down the pieces of silver into the temple**, he departed, and he went and hanged himself. But the chief priests, taking the pieces of silver, said, "It is not lawful to put them into the treasury, since it is blood money." So they took counsel and **bought with them the potter's field** as a burial place for strangers. — Matthew 27:3-7 (ESV)
 
 Thirty silver pieces, thrown into the temple, used to buy a potter's field—precisely as Zechariah wrote.
-
----
 
 ### Disciples Scattered
 
@@ -620,8 +571,6 @@ And it happened:
 
 > Then all the disciples **left him and fled**. — Matthew 26:56 (ESV)
 
----
-
 ### Pierced Side
 
 #### Prophecy
@@ -633,8 +582,6 @@ Zechariah saw a future mourning over one who was pierced:
 #### Fulfillment
 
 > But one of the soldiers **pierced his side with a spear**, and at once there came out blood and water. He who saw it has borne witness—his testimony is true, and he knows that he is telling the truth—that you also may believe. For these things took place that the Scripture might be fulfilled: "Not one of his bones will be broken." And again another Scripture says, **"They will look on him whom they have pierced."** — John 19:34-37 (ESV)
-
----
 
 ## Resurrection and Exaltation
 
@@ -656,8 +603,6 @@ The apostle Peter preached at Pentecost:
 
 Jesus rose from the dead before his body could decay—fulfilling David's prophecy.
 
----
-
 ### Resurrection on the Third Day
 
 #### Prophecy
@@ -675,8 +620,6 @@ Jesus rose on the third day:
 - In tomb: Saturday (Day 2)
 - Risen: Sunday (Day 3)
 
----
-
 ### Ascended to God's Right Hand
 
 #### Prophecy
@@ -693,8 +636,6 @@ Peter testified:
 
 > Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing. For David did not ascend into the heavens, but he himself says, **"The Lord said to my Lord, 'Sit at my right hand, until I make your enemies your footstool.'"** — Acts 2:33-35 (ESV)
 
----
-
 ### Given All Authority
 
 #### Prophecy
@@ -708,8 +649,6 @@ Daniel's apocalyptic vision foretold universal dominion:
 After his resurrection, Jesus declared:
 
 > And Jesus came and said to them, **"All authority in heaven and on earth has been given to me**. Go therefore and make disciples of all nations..." — Matthew 28:18-19 (ESV)
-
----
 
 ## Timeline: When the Messiah Would Come
 
@@ -738,8 +677,6 @@ Jesus appeared during the first century AD:
 
 The timing aligns with Daniel's prophecy that the Messiah would be "cut off" before Jerusalem's destruction.
 
----
-
 ## The Remarkable Precision
 
 ### Statistical Improbability
@@ -760,8 +697,6 @@ Mathematician Peter Stoner, in his book *Science Speaks*, calculated the probabi
 **To illustrate:** Cover the entire state of Texas with silver dollars two feet deep. Mark one coin. Blindfold a person and tell them to walk anywhere in Texas and pick up one coin. The chance they pick the marked coin equals the probability of fulfilling just these 8 prophecies by accident.
 
 **Jesus fulfilled not 8, but 300+ prophecies.**
-
----
 
 ### Prophecies Beyond Human Control
 
@@ -784,12 +719,9 @@ Many prophecies Jesus couldn't have manipulated:
 
 But this doesn't explain the hundreds of details he couldn't control.
 
----
-
 ### Written Centuries Before
 
 The Old Testament was completed ~400 BC (Malachi). The **Dead Sea Scrolls** (discovered 1947) contain complete copies of Isaiah and other prophetic books dating to ~200 BC—**before Jesus was born**.
 
 No one can claim the prophecies were written after the fact. They're documented in manuscripts predating Jesus by centuries.
 
----

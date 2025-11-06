@@ -649,7 +649,7 @@ The "armor of God" is:
 3. [the good news](https://eternal.family.net.za/bible/concepts/testimony): [Spread the revelation of God's Kingdom](https://eternal.family.net.za/bible/concepts/testimony)
 4. [faith/trust](https://eternal.family.net.za/life/faith): [Trust God](https://eternal.family.net.za/bible/concepts/faith) when under attack in difficult times
 5. [salvation](https://eternal.family.net.za/bible/concepts/salvation): Guard your mind against temptations, [sin](https://eternal.family.net.za/bible/concepts/sin) and condemnation (1 Thessalonians 5:8-9; Romans 12:2)
-6. [word of God](https://eternal.family.net.za/bible/concepts/word): Obey God's word (1 John 2:3-6)
+6. [word of God](https://son.ofgod.info/word): Obey God's word (1 John 2:3-6)
 7. [prayer & supplication](https://eternal.family.net.za/life/prayer): Persevere by earnestly and [humbly](https://eternal.family.net.za/bible/concepts/humility) praying for all the saints (Romans 12:12)
 
 ### The Importance of Prayer
