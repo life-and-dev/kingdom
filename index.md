@@ -240,7 +240,7 @@ Paul also wrote:
 > I do not cease to give thanks for you, remembering you in my prayers, that **the God of our Lord Jesus Christ**, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of Him, having the eyes of your hearts enlightened, that you may know what is the hope to which He has called you, what are the riches of His glorious inheritance in the saints, and what is the immeasurable greatness of His power toward us who believe, according to the working of His great might that He worked in Christ when
 > 1. He raised him from the dead and
 > 2. seated him at His right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.
-> 3. And He put all things under his feet and gave him as head over all things to the church, which is [his body](https://eternal.family.net.za/kingdom/body), the fullness of Him who fills all in all. — Ephesians 1:16-23 (ESV)
+> 3. And He put all things under his feet and gave him as head over all things to the church, which is [his body](christ/body.md), the fullness of Him who fills all in all. — Ephesians 1:16-23 (ESV)
 
 According to Paul, Jesus did not replace God, but instead that Jesus acts as a delegate under the authority of his God. (1 Corinthians 3:23, 11:3)
 

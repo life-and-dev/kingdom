@@ -30,9 +30,9 @@ When we compare messianic prophecies, a pattern emerges:
 ### Suffering Prophecies:
 1. Psalm 16:10 - "You will not abandon my soul to Sheol" (resurrection prophecy)
 2. Isaiah 50:6 - "I gave my back to those who strike, my cheeks to those who pull out the beard"
-3. Isaiah 53:3-12: "Pierced for our transgressions... crushed for our iniquities"
+3. Isaiah 53:3-12 - "Pierced for our transgressions... crushed for our iniquities"
 4. Daniel 9:26 - "Shall be cut off and have nothing"
-5. Zechariah 12:10: "Him whom they have pierced"
+5. Zechariah 12:10 - "Him whom they have pierced"
 
 However, most of these suffering/dying prophecies are disputed by Jewish interpreters. For example:
 - Psalm 16 - Jews see this as David speaking about himself, not a messianic prophecy
@@ -45,18 +45,18 @@ In general most Jews and Christians view these prophecies as messianic:
 
 1. Genesis 49:10 - "The scepter shall not depart from Judah... until tribute comes to him"
 2. Numbers 24:17 - "A star shall come out of Jacob, and a scepter shall rise out of Israel"
-3. Isaiah 11:1-10: "He shall judge the poor... righteousness shall be his belt"
-4. Jeremiah 23:5: "He shall REIGN as king and deal wisely"
-5. Micah 5:2: "One who is to be RULER in Israel"
-6. Zechariah 9:9: "Your KING is coming to you"
+3. Isaiah 11:1-10 - "He shall judge the poor... righteousness shall be his belt"
+4. Jeremiah 23:5 - "He shall REIGN as king and deal wisely"
+5. Micah 5:2 - "One who is to be RULER in Israel"
+6. Zechariah 9:9 - "Your KING is coming to you"
 
 Christians but only some Jewish groups view these passages as messianic:
 
-7. 2 Samuel 7:12-13: "I will establish the throne of his KINGDOM forever"
-8. Psalm 2:6-8: "I have set my KING on Zion... I will make the nations your heritage"
+7. 2 Samuel 7:12-13 - "I will establish the throne of his KINGDOM forever"
+8. Psalm 2:6-8 - "I have set my KING on Zion... I will make the nations your heritage"
 9. Psalm 110:1-4 - "The LORD says to my Lord: 'Sit at my right hand'
-10. Isaiah 9:6-7: "Of the increase of his GOVERNMENT... no end... over his KINGDOM"
-11. Daniel 7:13-14: "To him was given dominion and glory and a KINGDOM... everlasting dominion"
+10. Isaiah 9:6-7 - "Of the increase of his GOVERNMENT... no end... over his KINGDOM"
+11. Daniel 7:13-14 - "To him was given dominion and glory and a KINGDOM... everlasting dominion"
 
 Psalms of Solomon 17 (a non-canonical Jewish text) describes the Messiah as a conquering warrior-king, which differs from the Christian understanding of Jesus's first coming.
 
