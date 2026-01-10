@@ -1,30 +1,27 @@
 ---
-description: Explore historical and archaeological evidence for Jesus Christ, including non-Christian sources, modern investigations, and contemporary testimonies.
-keywords: Historical Jesus, archaeological evidence, Lee Strobel, Josephus, Tacitus, Pontius Pilate inscription, Pool of Bethesda, resurrection evidence, non-Christian sources
+description: Explore the cumulative case for the historicity of Jesus Christ, featuring Lee Strobel's investigative journey, breakthrough archaeological finds, and corroborating secular history.
+keywords: Historical Jesus, Lee Strobel, Case for Christ, archaeological evidence, Pontius Pilate Stone, Pool of Bethesda, Tacitus, Josephus, historicity of Christ
 ---
 
-# Contemporary Evidence: Modern Testimony and Historical Confirmation
+# Contemporary Evidence: The Search for the Historical Jesus
 
-Evidence for the life of Jesus Christ comes from a variety of sources that extend beyond the biblical narrative. While many view faith as an internal conviction, Christianity rests on historical assertions that allow for objective investigation. This article explores several lines of contemporary and historical evidence that corroborate the accounts found in the Gospels.
+For centuries, the life of Jesus Christ was viewed by many as a matter of purely religious conviction. Yet, unlike many ancient religious figures, Christianity rests upon specific historical claims that can be tested, scrutinized, and investigated. From the newsrooms of modern journalism to the dust of archaeological excavations in Jerusalem, a vast "cumulative case" has emerged that confirms the biblical narrative through physical evidence and secular testimony.
 
-## Introduction: Faith Grounded in Facts
+## Lee Strobel's Verdict: A Journalist's Investigation
 
-Christianity makes historical claims that can be investigated. These include the existence of Jesus and his performance of miracles. He was crucified under Pontius Pilate and his followers claimed he rose from the dead. These followers were also willing to die for their testimony.
+The modern search for Jesus often begins with the story of [Lee Strobel](https://leestrobel.com/about), an award-winning legal editor at the [***Chicago Tribune***](https://www.chicagotribune.com/). A Yale Law School graduate trained in legal evidence and cross-examination, Strobel was a committed atheist who viewed Christianity as nothing more than a compilation of myths and superstitions.
 
-These are not matters of blind faith. They are historical assertions subject to evidence and investigation.
+His perspective was forced to change in 1979 when his wife, Leslie, converted to Christianity. Fearing he would lose the woman he married to a "delusion," Strobel decided to apply his investigative skills to disprove the faith once and for all. Over the course of nearly two years, he interviewed leading scholars in history, archaeology, and medicine, asking the hardest questions he could devise.
 
-This article presents contemporary evidence for Jesus through multiple streams. It covers the following topics:
+His journey, documented in the 1998 bestseller [***The Case for Christ***](https://www.google.com/books/edition/The_Case_for_Christ/m6S2H0KxP_QC), moved him from skepticism to conviction. He examined several key streams of evidence that remain the foundation of historical Jesus studies today.
 
-1. [**Lee Strobel's Investigation**](#lee-strobels-investigation): How an atheist journalist's research led to conversion.
-2. [**Archaeological Discoveries**](#archaeological-discoveries): Physical evidence confirming Gospel accounts.
-3. [**Non-Christian Historical Sources**](#non-christian-historical-sources): Enemy testimony and secular confirmation.
-4. [**Modern Testimonies**](#modern-testimonies): Lives transformed today.
+### The Standard of Evidence
 
-## Lee Strobel's Investigation
+Strobel's investigation focused on the reliability of the New Testament documents compared to other ancient texts. He discovered that the New Testament is the [best-attested document from antiquity](https://en.wikipedia.org/wiki/Biblical_manuscripts#New_Testament_manuscripts). While Homer's *Iliad* has approximately 650 surviving manuscripts and Caesar's *Gallic Wars* has fewer than a dozen, there are over **5,800 Greek manuscripts** of the New Testament and more than **24,000 total copies** in various languages.
 
-### The Skeptic's Journey
+Furthermore, the "time gap" between the original writings and the earliest surviving copies is remarkably small. While centuries often separate other ancient works from their earliest copies, fragments like the [John Rylands Papyrus](https://library.manchester.ac.uk/using-the-library/special-collections/highlights/john-rylands-fragment/) (P52) date to within 30 years of the original Gospel of John.
 
-#### Background
+## The Testimony of the Earth: Archaeology
 
 Lee Strobel was an award-winning journalist and the legal editor for the *Chicago Tribune*. He was a Yale Law School graduate trained in legal evidence and cross-examination. As a committed atheist, he viewed Christianity as myth and superstition. His perspective changed after his wife Leslie converted to Christianity in 1979.
 
@@ -302,20 +299,10 @@ No single piece of evidence proves the entire narrative of the Gospels. However,
 
 As Lee Strobel concluded after two years of research, the evidence is absolutely convincing. History supports the Gospels and the archaeological record confirms their details. The enduring impact on lives today suggests that Jesus remains a figure of profound significance.
 
-## Invitation to Investigate
+## Invitation to Investigation
 
 Objective investigation is encouraged for anyone seeking truth. Several resources are available for deeper study. The book *The Case for Christ* by Lee Strobel provides a detailed journalistic account. *Evidence That Demands a Verdict* by Josh McDowell offers a comprehensive look at historical reliability. *The Historical Jesus* by Gary Habermas examines the specific evidence for the resurrection.
 
 Individuals can also examine archaeological evidence from Jerusalem sites and review the manuscript counts compared to other ancient works. Honest investigation involves asking what it would take to be convinced and whether the evidence is being examined objectively. God invites this process of reasoning:
 
 > "Come now, let us reason together," says the LORD. — Isaiah 1:18 (ESV)
-
-## Next Steps
-
-After examining the evidence, several practical questions may remain about the mission of Jesus.
-
-- **Why follow Jesus? What does it mean practically?** — Why Follow Jesus
-- **What objections exist? How are they answered?** → [Objections Answered](objections-answered.draft.md)
-- **What did Jesus accomplish?** — Reconciliation and the New Covenant
-
-The evidence points to the historical reality and divinity of Jesus. What will be done with these findings is a personal choice for every individual.
