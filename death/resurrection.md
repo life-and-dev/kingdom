@@ -10,16 +10,16 @@ Will the dead rise again? This question has been asked throughout human history.
 Daniel prophesied:
 
 > And many of **those who sleep in the dust of the earth shall awake**,
-> 1. some to [everlasting life](https://eternal.family.net.za/eternal/judgement#the-fate-of-gods-children), and
-> 2. some to [shame and everlasting contempt](https://eternal.family.net.za/eternal/judgement#the-fate-of-the-wicked).
+> 1. some to [everlasting life](judgement.md#the-fate-of-gods-children), and
+> 2. some to [shame and everlasting contempt](judgement.md#the-fate-of-the-wicked).
 >
 > — Daniel 12:2 (ESV)
 
 Jesus taught the same:
 
 > Do not marvel at this, for an hour is coming when **all who are in the tombs** will hear his voice and **come out**,
-> 1. those who have done good to [the resurrection of life](https://eternal.family.net.za/eternal/judgement#the-fate-of-gods-children), and
-> 2. those who have done evil to [the resurrection of judgment](https://eternal.family.net.za/eternal/judgement).
+> 1. those who have done good to [the resurrection of life](judgement.md#the-fate-of-gods-children), and
+> 2. those who have done evil to [the resurrection of judgment](judgement.md#the-fate-of-the-wicked).
 >
 > — John 5:28-29 (ESV)
 
