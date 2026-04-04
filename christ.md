@@ -3,7 +3,7 @@ description: Discover Jesus the Christ—the King who came to establish the King
 keywords: Jesus Christ, Messiah, Kingdom of God, Gospel of the Kingdom, reconciliation to God, suffering servant prophecies, reigning Messiah, witness to truth, Great Commission, Daniel 7:13-14, Son of Man, Last Adam, bear witness, ministry of reconciliation
 ---
 
-# The Christ
+# Christ
 
 The "LORD" (also known as [Yahweh or Jehovah](https://eternal.family.net.za/god/father/name#yhvh)) God originally [created our world](https://eternal.family.net.za/creation) to be very good (Genesis 1:31). 
 
