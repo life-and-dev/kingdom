@@ -185,7 +185,7 @@ Righteousness is therefore not measurable by outward appearances.  According to 
 
 How does a person behave that is *"led by the Spirit of God"*? 
 
-> But I say, walk by the Spirit, and you **will not gratify the desires of the flesh**. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do. 
+> But I say, walk by the Spirit, and you **will not gratify the desires of the flesh**. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.
 > 
 > But **if you are led by the Spirit**, you are not under the law. 
 > 
