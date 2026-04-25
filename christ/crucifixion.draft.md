@@ -10,7 +10,7 @@ According to Paul:
 
 According to a Psalmist:
 
-> All nations whom You have made shall come and [worship](https://ofgod.info/god/worship) before You, O [Lord](https://ofgod.info/god/father/name), and shall [glorify](https://eternal.family.net.za/bible/concepts/glory) Your [name](https://eternal.family.net.za/bible/concepts/name). For You are great, and do wondrous things; [You alone are God](https://eternal.family.net.za/bible/concepts/shema). -- Psalm 86:9-10 (NKJV)
+> All nations whom You have made shall come and [worship](https://ofgod.info/god/worship) before You, O [Lord](https://ofgod.info/god/father/name), and shall [glorify](https://eternal.family.net.za/bible/concepts/glory) Your [name](https://word.ofgod.info/terms/name). For You are great, and do wondrous things; [You alone are God](https://eternal.family.net.za/bible/concepts/shema). -- Psalm 86:9-10 (NKJV)
 
 ### The problem with mankind
 
@@ -239,7 +239,7 @@ God do not just make peace with us. He also adopts believers as his children and
 >
 > ...
 >
-> We also, when we were children, were enslaved to the elementary principles of the world. But when the fullness of time had come, **God sent forth His Son**, born of woman, born under the law, **to redeem** those who were under the law, so that we might **receive adoption as [sons](/god/sons-of-god)**. And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” So **you are no longer a slave, but a son, and if a son, then an heir** through God. Formerly, when you did not know God, **you were enslaved** to those that by nature are not gods. But now that you have come to know God, or rather to be known by God, how can you turn back again to **the weak and worthless *elementary (beggarly or poor)[https://biblehub.com/greek/4434.htm]* principles of the world**, whose **slaves** you want to be once more? -- Galatians 3:13, 4:3-9 (ESV)
+> We also, when we were children, were enslaved to the elementary principles of the world. But when the fullness of time had come, **God sent forth His Son**, born of woman, born under the law, **to redeem** those who were under the law, so that we might **receive adoption as sons**. And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” So **you are no longer a slave, but a son, and if a son, then an heir** through God. Formerly, when you did not know God, **you were enslaved** to those that by nature are not gods. But now that you have come to know God, or rather to be known by God, how can you turn back again to **the weak and worthless *elementary [beggarly or poor](https://biblehub.com/greek/4434.htm)* principles of the world**, whose **slaves** you want to be once more? -- Galatians 3:13, 4:3-9 (ESV)
 
 and
 
@@ -267,22 +267,22 @@ This payment was not limited to the Jews, but Jesus also paid for the gentiles:
 
 ## Conclusion
 
-God created us to [glorify](/god/concepts/glory) His authority with our service ([worship](/god/worship)) and [praise](/bible/concept/praise).
+God created us to [glorify](https://eternal.family.net.za/god/concepts/glory) His authority with our service ([worship](https://word.ofgod.info/terms/worship)) and [praise](https://word.ofgod.info/terms/praise).
 
 Sadly, because of our choice to disobey God, we all became sinners condemned to death [which seperated us from God](#the-purpose-of-mankind) so that we are no longer capable to fulfill our purpose.
 
-However, [God the Father](/god/father) established a [new covenant](#the-purpose-of-the-new-covenant), with the blood of [His son](/god/son), to restore [righteousness](/bible/concepts/righteousness) to us. Reconciliation would not have been possible without removing the division (cleansing of [sin](/bible/concepts/sin)) between God and us. Therefore, [the Son of God](https://son.ofgod.info) voluntarily offered himself as hero to provide [the way to eternal life with the Father](/god/son/purpose) Who loves to [adopt us as His children](/god/sons-of-god) so that we can inherit as fellow heirs with [His Son](/god/son), Jesus [Christ](/god/son/christ), whom He had resurrected like [He would also resurrect us one day](/eternal/death).
+However, [God the Father](https://ofgod.info) established a [new covenant](#the-purpose-of-the-new-covenant), with the blood of [His son](https://son.ofgod.info), to restore [righteousness](../life/righteousness.md) to us. Reconciliation would not have been possible without removing the division (cleansing of [sin](https://eternal.family.net.za/bible/concepts/sin)) between God and us. Therefore, [the Son of God](https://son.ofgod.info) voluntarily offered himself as hero to provide [the way to eternal life with the Father](https://eternal.family.net.za/god/son/purpose) Who loves to adopt us as His children so that we can inherit as fellow heirs with His son, Jesus [Christ](../christ.md), whom He had resurrected like [He would also resurrect us one day](../death/resurrection.md).
 
-[Salvation](/eternal/saved) just happen to be a by-product of God's love for us. It is a gift and not an achievement.
+Salvation just happen to be a by-product of God's love for us. It is a gift and not an achievement.
 
 Our purpose and goal should be
 
-1. to live in [righteousness](/bible/concepts/righteousness) with God,
-2. serve ([worship](/god/worship)) Him in love, and
+1. to live in [righteousness](../life/righteousness.md) with God,
+2. serve ([worship](https://word.ofgod.info/terms/worship)) Him in love, and
 3. testify the truth to others,
 4. to the glory of God, and
 5. under the authority of our Lord Jesus Christ,
-6. which would only be possible if we trust ([belief](/life/faith)) God with everything,
+6. which would only be possible if we trust ([belief](https://eternal.family.net.za/life/faith)) God with everything,
 7. in gratitude for His grace and mercy,
 
-[like Jesus demonstrated to us](/god/son/essence/of-man/standards).
+like Jesus demonstrated to us.
