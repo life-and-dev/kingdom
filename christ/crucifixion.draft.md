@@ -1,41 +1,93 @@
-# The crucifixion
+# The Crucifixion
 
-Before we can consider the crucifixion, we need to understand the bigger picture. Why did God create humans?
+The Pharisees feared that Jesus' growing influence could lead to a perceived coronation as a "new king", triggering a Roman military response and potentially resulting in the destruction of their temple and nation (John 11:45-53). Therefore they publicly crucified Jesus in an attempt to stop the "rebellion".
 
-## The purpose of mankind
+Ironically, despite crucifying, Jesus, the Romans still destroyed the temple and the nation in 70 AD.
 
-According to Paul:
+Why did God allowed this to happen and what is the real purpose of the crucifixion?
 
-> Blessed be [the God and Father](https://ofgod.info) of our Lord Jesus [Christ](christ.md), who has blessed us in Christ with every spiritual blessing in the heavenly places, even as He chose us in Him before the foundation of the world, that we should be holy and blameless before Him. In love He predestined us **for adoption to Himself as sons** through Jesus Christ, according to **the purpose of His will to [the praise](https://eternal.family.net.za/bible/concepts/praise) of His [glorious](https://eternal.family.net.za/bible/concepts/glory) grace**, with which He has blessed us in the Beloved. -- Ephesians 1:3-6 (ESV)
+## The Problem with Mankind
 
-According to a Psalmist:
+God originally created mankind to [worship](https://ofgod.info/god/worship) Him and to glorify His [name](https://word.ofgod.info/terms/name) (Psalm 86:9-10). However, according to Genesis 3 mankind choose to disobey God's commands with the consequences:
 
-> All nations whom You have made shall come and [worship](https://ofgod.info/god/worship) before You, O [Lord](https://ofgod.info/god/father/name), and shall [glorify](https://eternal.family.net.za/bible/concepts/glory) Your [name](https://word.ofgod.info/terms/name). For You are great, and do wondrous things; [You alone are God](https://eternal.family.net.za/bible/concepts/shema). -- Psalm 86:9-10 (NKJV)
+1. It causes mankind to sin and fall short of glory (Romans 3:22-23)
+2. It caused separation between us and God (Isaiah 59:1-2)
+3. It spread [death](../death.md) to all mankind (Romans 5:12)
 
-### The problem with mankind
+Therefore, mankind is incapable to fulfill their purpose:
 
-Genesis 3 [explains how mankind choose to disobey (sin) God's commands](https://eternal.family.net.za/bible/concepts/sin) and consequently God had to separate Himself form us.
+> Blessed be [the God and Father](https://ofgod.info) of our Lord Jesus [Christ](christ.md)... chose us in him before the foundation of the world, that we should **be holy and blameless** before Him. In love He predestined us **for adoption to Himself as sons** through Jesus Christ, according to **the purpose of His will to [the praise](https://eternal.family.net.za/bible/concepts/praise) of His [glorious](https://eternal.family.net.za/bible/concepts/glory) grace**, with which He has blessed us in the Beloved. -- Ephesians 1:3-6 (ESV)
 
-> Therefore, just as [sin came into the world through one man](https://eternal.family.net.za/bible/concepts/sin) (Genesis 3), and [death](../death.md) through [sin](https://eternal.family.net.za/bible/concepts/sin), and so **death spread to all men because all sinned**. -- Romans 5:12 (ESV)
+## The Solution for Mankind
 
-Therefore, mankind is incapable to fulfill [their purpose](#the-purpose-of-mankind):
+Matthew recorded:
 
-> For there is no distinction: for **all have [sinned](https://eternal.family.net.za/bible/concepts/sin) and fall short of the glory of God**. -- Romans 3:22-23 (ESV)
+> Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, “Take, eat; this is my body.” And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you, for **[this is my blood of the covenant](../covenants/christ.md), which is poured out for many for the forgiveness of sins**. -- Matthew 26:26-28 (ESV)
 
-Sin causes division between God and the world:
-
-> Behold, [the LORD](https://ofgod.info/name#lord)'s hand is not shortened, that it cannot save, or His ear dull, that it cannot hear; but **your [iniquities](https://eternal.family.net.za/bible/concepts/iniquity) have made a separation between you and your God**, and **your sins have hidden His face from you** so that he does not hear. -- Isaiah 59:1-2 (ESV)
-
-### The solution for mankind
+This [covenant of Christ](../covenants/christ.md) is also confirmed by Mark (Mark 14:22-24), Luke (Luke 22:17-20) and Paul (1 Corinthians 11:23-26) and forms the foundation of the Christianity.
 
 > For as by a man came death, **by [a man](https://son.ofgod.info/son-of-man/human) has come also the resurrection** of the dead.  
 > For as in Adam all die, so also in **[Christ](../christ.md) shall all be made alive**.
 >
 > -- 1 Corinthians 15:21-22 (ESV)
 
-Which means:
+The consequences of sin was not cancelled. Instead, the hope of resurrection after [death](../death.md) was made possible.
 
-> We know that our old self was [crucified](#the-purpose-of-the-crucifixion) with him in order that the body of sin might be brought to nothing, so that **we would no longer be enslaved** to sin. For one who has died has been **set free** from sin.
+## 2 Perspectives of the Crucifixion
+
+- **From God's perspective**: God established an Everlasting Covenant (Isaiah 61:8-9) that promises that He would resurrect us after we died, just like He did with Jesus.
+- **From Jesus' perspective**: He gave the ultimate sacrifice by giving up body and blood (life) (Peter 1:18-19) to make God's covenant possible.
+
+These two perspectives which different bible authors focus on are not contradictory but complementary.
+
+### Ultimate Sacrifice of Jesus
+
+Some people mistakenly think that Jesus made some sort of bargain with the devil by "paying" with his blood. This reasoning is often based on scriptures like:
+
+> Jesus called them and said... "[the Son of Man](https://son.ofgod.info/son-of-man) came not to be served but to serve, and to give his life as **a ransom for many**." -- Matthew 20:28 (ESV); Mark 10:45
+
+By definition "random" is:
+
+> the purchasing money for manumitting slaves, a ransom, the price of ransoming; especially the sacrifice by which expiation is effected, an offering of expiation. -- [Strong's Concordance](https://biblehub.com/greek/3083.htm)
+
+Jesus did not come to pay debt to the devil, neither was there any sort of negotiation or transaction with God. Instead Jesus presented Himself as a [sacrifice](https://word.ofgod.info/terms/sacrifice) to God  to "free" us from the enslavement of sin (Romans 6:16-23).
+
+Peter also used sacrificial language to describe Jesus' "ransom":
+
+> You were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, but with **the precious blood of [Christ](../christ.md)**, like that of a lamb without blemish or spot. -- 1 Peter 1:18-19 (ESV)
+
+Likewise John also described Jesus' sacrifice as a "propitiation":
+
+> He ***(Jesus Christ)* is the propitiation** for our sins, and not for ours only but also for the sins of the whole world.
+>
+> ...
+>
+> In this **the love of God was made manifest among us, that God sent his only Son** into the world, so that we might live through him. In this is love, not that we have loved God but that He loved us and **sent His Son to be the propitiation** for our sins.
+>
+> -- 1 John 2:2,4:9-10 (ESV)
+
+However, there are many scriptures that state that God forgave people's sin before Jesus was crucified (Isaiah 43:25; Daniel 9:19; Matthew 6:14-15). Even Jesus himself proclaimed that people were forgiven before he was crucified (Mark 2:6-12 (ESV); Matthew 9:2-8).
+
+So why was Jesus' sacrifice necessary if God could simply just forgive people?
+
+### The Everlasting Covenant of God
+
+The second and most important [perspective of the crucifixion](#2-perspectives-of-the-crucifixion) is that it was necessary for God to establish a new covenant with mankind to restore [righteousness](../life/righteousness.md) with Him.
+
+Obviously any covenant goes both ways. According to the "Everlasting Covenant" of Isaiah 55:6-7, God expects us to:
+
+1. [Turn](../life/repentance.md) (repent) from our sin
+2. Forsake our wicked ways *(habits)* and unrighteous thoughts *(plans)*
+3. Call (proclaim) Him
+4. Seek Him (presence of the LORD)
+
+Sadly, many [churches](https://church.ofgod.info) stop at the first condition. They teach that we need to repent from our sin and then we are saved.
+
+However, the remaining conditions of [the covenant](../covenants/christ.md) are just as important because we should continously seek to live in [righteousness](../life/righteousness.md) with God so that we glorify Him with our lives as that is the original purpose He created us for.
+
+That is why Paul taught:
+
+> We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that **we would no longer be enslaved** to sin. For one who has died has been **set free** from sin.
 >
 > Now if we have died with Christ, we believe that we will also live with him. We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him. For the death he died he died to sin, once for all, but the life he lives **he lives to God**.
 >
@@ -43,44 +95,7 @@ Which means:
 >
 > -- 1 Corinthians 15:6-11 (ESV)
 
-## The purpose of the crucifixion
-
-The Pharisees feared that Jesus' growing influence could lead to a perceived coronation as a "new king", triggering a Roman military response and potentially resulting in the destruction of their temple and nation. Ironically, despite crucifying, Jesus, the Romans still destroyed the temple and the nation in 70 AD.
-
-> Many of the Jews therefore, who had come with Mary and had seen what he did, believed in him, but some of them went to the Pharisees and told them what Jesus had done.
->
-> So the chief priests and the Pharisees gathered the council and said, “What are we to do? For this man performs many signs. If we let him go on like this, everyone will believe in him, and **the Romans will come and take away both our place and our nation**.”  
-> But one of them, Caiaphas, who was high priest that year, said to them, “You know nothing at all. Nor do you understand that **it is better for you that one man should die for the people, not that the whole nation should perish**.”
->
-> (He did not say this of his own accord, but being high priest that year he prophesied that Jesus would die for the nation, and not for the nation only, but also to gather into one the children of God who are scattered abroad.)
->
-> **So from that day on they made plans to put him to death**.
->
-> -- John 11:45-53 (ESV)
-
-From Jesus perspective:
-
-> Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, “Take, eat; this is my body.” And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you, for **[this is my blood of the covenant](#the-purpose-of-the-new-covenant), which is poured out** for many for the forgiveness of sins. -- Matthew 26:26-28 (ESV)
-
-or
-
-> And he took a cup, and when he had given thanks he said, “Take this, and divide it among yourselves. For I tell you that from now on I will not drink of the fruit of the vine until the kingdom of God comes.” And he took bread, and when he had given thanks, he broke it and gave it to them, saying, “This is my body, which is given for you. Do this in remembrance of me.” And likewise the cup after they had eaten, saying, “This cup that is **poured out for you is [the new covenant in my blood](#the-purpose-of-the-new-covenant)**. -- Luke 22:17-20 (ESV)
-
-or
-
-> And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.” And he took a cup, and when he had given thanks he gave it to them, and they all drank of it. And he said to them, “**[This is my blood of the covenant](#the-purpose-of-the-new-covenant), which is poured out** for many.” -- Mark 14:22-24 (ESV)
-
-Paul explains:
-
-> For I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, “This is my body which is for you. Do this in remembrance of me.” In the same way also he took the cup, after supper, saying, “**[This cup is the new covenant](#the-purpose-of-the-new-covenant) in my blood**. Do this, as often as you drink it, in **remembrance of me**.”
->
-> For as often as you eat this bread and drink the cup, you proclaim **the Lord's death** until he comes.
->
-> -- 1 Corinthians 11:23-26 (ESV)
-
-These witnesses testify that Jesus had to "pour out" his "blood" to establish the new covenant.
-
-### The purpose of the new covenant
+and
 
 > For while we were still weak, at the right time Christ died for the ungodly. For one will scarcely die for a righteous person (though perhaps for a good person one would dare even to die) but
 >
@@ -91,9 +106,7 @@ These witnesses testify that Jesus had to "pour out" his "blood" to establish th
 >
 > -- Romans 5:6-11 (ESV)
 
-### Meaning of reconciliation to God
-
-Often people mistakenly think that God can only forgive us if Jesus blood "paid" the penalty of our sin. However, there are many scriptures that state that God forgave people's sin before Jesus was crucified (Isaiah 43:25; Daniel 9:19; Matthew 6:14-15). Even Jesus himself proclaimed that people were forgiven before he was crucified (Mark 2:6-12 (ESV); Matthew 9:2-8).
+#### Meaning of reconciliation to God
 
 The Greek word translated as "reconciliation" is "katallássō":
 
@@ -107,13 +120,14 @@ The Greek word translated as "reconciliation" is "katallássō":
 
 Obviously forgiveness is necessary for reconciliation. However, forgiveness alone only neutralizes the relationship. Reconciliation take it further from "enmity to friendship" or from "divorced" to "married".
 
-It is not okay, to be barely forgiven and saved. The purpose of the new covenant is to establish an intimate [fellowship](/bible/concepts/fellowship) with God which is [often compared with a "marriage"](/bible/metaphors/bride-of-christ).
+It is not okay, to be barely forgiven and saved. The purpose of the new covenant is to restore [righteousness](../life/righteousness.md) which makes intimate [fellowship](https://eternal.family.net.za/bible/concepts/fellowship) possible with God which is [often compared with a "marriage"](../parables.md).
 
-## Explanation of the new covenant
+## Importance of the Crucifixion
 
 > *And it is needed* for this reason:
 >
 > just as
+>
 > 1. through one man sin entered the world *(Romans 5:12)* and
 > 2. death through sin, and
 > 3. so death spread to all humankind for all sinned (for sin was in the world before the law, but sin is not charged to one's account when there is no law).
@@ -153,83 +167,13 @@ God did not cancel "the reign of death" that Adam established. He provided an al
 
 Jesus was sacrificed to establish a blood covenant. If this covenant did not happen, then we would had to pay with our own blood for our own sin.
 
-Therefore, Jesus blood could also be considered a ransom payment for our sins.
+## Salvation
 
-### The new covenant prophecy
+Salvation is just a side effect of being reconciled to God.
 
-Isaiah prophesied:
+> Slaves are to submit to their own masters in all things, doing what is wanted without being argumentative, not pilfering, but showing complete faithfulness *in that which is good*, so that in all things they make the doctrine of **God our Savior** attractive. For **the grace of God has appeared, bringing salvation for all people**, instructing us to deny ungodliness and worldly lusts and to live sensibly and [righteously](../life/righteousness.md) and godly in this present age, while we wait for the blessed hope and appearing of **our great God and Savior**'s glory -- Jesus Christ, who gave himself up for us in order **to redeem us from all lawlessness** and to cleanse for himself a special people, zealous for good works. -- Titus 2:9-14 (REV)
 
-> I will make **an everlasting covenant** with them.  
-> Their offspring shall be known **among the nations**,  
-> and their descendants in **the midst of the peoples**;  
-> **all** who see them shall acknowledge them,  
-> that they are an offspring the LORD has blessed.
->
-> -- Isaiah 61:8-9 (ESV)
-
-Then Jesus said that he was fulfilling the prophecy:
-
-> And he *(Jesus)* took a cup, and when he had given thanks he said,
->
-> “Take this, and divide it among yourselves. For I tell you that from now on I will not drink of the fruit of the vine until the kingdom of God comes.”
->
-> And he took bread, and when he had given thanks, he broke it and gave it to them, saying,
->
-> “This is my body, which is given for you. Do this in remembrance of me.”
->
-> And likewise the cup after they had eaten, saying,
->
-> “This cup that is poured out for you is **the new covenant in my blood**.
->
-> -- Luke 22:17-20 (ESV)
-
-## The purpose of the ransom payment
-
-> Jesus called them and said... "[the Son of Man](/god/son/essence/of-man) came not to be served but to serve, and to give his life as **a ransom for many**." -- Matthew 20:28 (ESV); Mark 10:45
-
-## Definition of ransom
-
-> the purchasing money for manumitting slaves, a ransom, the price of ransoming; especially the sacrifice by which expiation is effected, an offering of expiation. -- [Strong's Concordance](https://biblehub.com/greek/3083.htm)
-
-> literally, the ransom-money (price) to free a slave -- [HELPS Word-studies](https://biblehub.com/greek/3083.htm)
-
-> λύτρον, λύτρου, τό (λύω), the Sept. passim for כֹּפֶר, גְּאֻלָּה, פִּדְיון, etc.; the price for redeeming, ransom (paid for slaves, Leviticus 19:20; for captives, Isaiah 45:13; for the ransom of a life, Exodus 21:30; Numbers 35:31f) -- [Thayer's Greek Lexicon](https://biblehub.com/greek/3083.htm)
-
-## The aspects of the redemption
-
-In simple terms:
-
-| Aspect      | Subject                            |
-|-------------|------------------------------------|
-| Payer       | God the Father                     |
-| Price       | The blood (life) of the Son of God |
-| Beneficiary | Us (the world)                     |
-
-> You were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, but with **the precious blood of [Christ](/god/son/christ)**, like that of a lamb without blemish or spot. -- 1 Peter 1:18-19 (ESV)
-
-and
-
-> He ***(Jesus Christ)* is the propitiation** for our sins, and not for ours only but also for the sins of the whole world.
->
-> ...
->
-> In this **the love of God was made manifest among us, that God sent his only Son** into the world, so that we might live through him. In this is love, not that we have loved God but that He loved us and **sent His Son to be the propitiation** for our sins.
->
-> -- 1 John 2:2,4:9-10 (ESV)
-
-The benefits of this redemption was:
-
-#### To restore righteousness with God
-
-> But now the *righteousness ([judicial approval](https://biblehub.com/greek/1343.htm))* of **God** has been manifested apart from the law, although the Law and the Prophets bear witness to it — the *righteousness ([judicial approval](https://biblehub.com/greek/1343.htm))* of God through *[faith (trust)](/life/faith)* in Jesus Christ for all who [believe](/life/faith). For there is no distinction: For all have sinned and fall short of the glory of God, and are justified by His grace as a gift, through **the redemption that is in Christ Jesus, whom God put forward as a propitiation by his *(Jesus')* blood**, to be received by *[faith (trust)](/life/faith)*. This was to show God's *righteousness ([judicial approval](https://biblehub.com/greek/1343.htm))*, because in His divine forbearance He had passed over former sins. It was to show His *righteousness ([judicial approval](https://biblehub.com/greek/1343.htm))* at the present time, so that He might be just and the justifier of the one who has *[faith (trust)](/life/faith)* in Jesus. -- Romans 3:21-26 (ESV)
-
-### Salvation
-
-[Salvation](/eternal/saved) is just a side effect of God's reconciliation.
-
-> Slaves are to submit to their own masters in all things, doing what is wanted without being argumentative, not pilfering, but showing complete faithfulness *in that which is good*, so that in all things they make the doctrine of **God our Savior** attractive. For **the grace of God has appeared, bringing salvation for all people**, instructing us to deny ungodliness and worldly lusts and to live sensibly and [righteously](/bible/concept/righteousness) and godly in this present age, while we wait for the blessed hope and appearing of **our great God and Savior**'s glory -- Jesus Christ, who gave himself up for us in order **to redeem us from all lawlessness** and to cleanse for himself a special people, zealous for good works. -- Titus 2:9-14 (REV)
-
-#### Adoption by God
+## Purpose of the Crucifixion
 
 God do not just make peace with us. He also adopts believers as his children and makes us heirs of God's promises.
 
@@ -247,42 +191,4 @@ and
 
 and
 
-> In love He *(God our Father)* predestined us for [adoption as sons](/god/sons-of-god) through Jesus Christ, according to the purpose of His will, to the praise of His glorious grace, with which He has blessed us in the beloved: In him we have **redemption through his *(the beloved's)* blood**, the forgiveness of our [trespasses](/bible/concepts/transgressions), according to the riches of His grace. -- Ephesians 1:7 (ESV)
-
-This payment was not limited to the Jews, but Jesus also paid for the gentiles:
-
-> Therefore, remember that at one time you, the Gentiles in the flesh, who are called "uncircumcision" by those who are called "circumcision" (*which is* done in the flesh by *human* hands); *remember* that at that time you were without Christ, excluded from the citizenship of Israel, and strangers to the covenants based on the promise, having no hope and without God in the world.
->
-> But now in Christ Jesus you who at one time were far away have been **brought near by the blood of Christ**. For he is our peace, who made both *groups into* one and has broken down the dividing wall, the partition *between us*. He made the hostility (the law consisting of commands *expressed* in regulations) of no effect by his flesh, so that in himself he could create one new man from the two *groups, thus* making peace, and *so* he could reconcile both *groups* to God in one body by means of the cross, having put to death the hostility by it. And when he came he proclaimed good news of peace to you who were far away and peace to those who were near, 18 because through him we both have access by one spirit to the Father.
->
-> So then you are no longer strangers and foreigners, but you are **fellow citizens with the holy ones and members of the household of God**, having been built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone, in whom the whole building, being fitted together, grows into a holy sanctuary in the Lord, in whom you also are being built together by means of the spirit into a dwelling place of God.
->
-> -- Ephesians 2:12-22 (REV)
-
-## Explanations of the crucifixion
-
-| Author | Audience | Explanation                                                         | Scriptures            |
-|--------|----------|---------------------------------------------------------------------|-----------------------|
-| Paul   | Greek    | Christ paid the redemption price to set those enslaved to sin free. | 1 Corinthians 15:6-22 |
-
-## Conclusion
-
-God created us to [glorify](https://eternal.family.net.za/god/concepts/glory) His authority with our service ([worship](https://word.ofgod.info/terms/worship)) and [praise](https://word.ofgod.info/terms/praise).
-
-Sadly, because of our choice to disobey God, we all became sinners condemned to death [which seperated us from God](#the-purpose-of-mankind) so that we are no longer capable to fulfill our purpose.
-
-However, [God the Father](https://ofgod.info) established a [new covenant](#the-purpose-of-the-new-covenant), with the blood of [His son](https://son.ofgod.info), to restore [righteousness](../life/righteousness.md) to us. Reconciliation would not have been possible without removing the division (cleansing of [sin](https://eternal.family.net.za/bible/concepts/sin)) between God and us. Therefore, [the Son of God](https://son.ofgod.info) voluntarily offered himself as hero to provide [the way to eternal life with the Father](https://eternal.family.net.za/god/son/purpose) Who loves to adopt us as His children so that we can inherit as fellow heirs with His son, Jesus [Christ](../christ.md), whom He had resurrected like [He would also resurrect us one day](../death/resurrection.md).
-
-Salvation just happen to be a by-product of God's love for us. It is a gift and not an achievement.
-
-Our purpose and goal should be
-
-1. to live in [righteousness](../life/righteousness.md) with God,
-2. serve ([worship](https://word.ofgod.info/terms/worship)) Him in love, and
-3. testify the truth to others,
-4. to the glory of God, and
-5. under the authority of our Lord Jesus Christ,
-6. which would only be possible if we trust ([belief](https://eternal.family.net.za/life/faith)) God with everything,
-7. in gratitude for His grace and mercy,
-
-like Jesus demonstrated to us.
+> In love He *(God our Father)* predestined us for adoption as sons through Jesus Christ, according to the purpose of His will, to the praise of His glorious grace, with which He has blessed us in the beloved: In him we have **redemption through his *(the beloved's)* blood**, the forgiveness of our [trespasses](https://eternal.family.net.za/bible/concepts/transgressions), according to the riches of His grace. -- Ephesians 1:7 (ESV)
