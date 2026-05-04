@@ -192,27 +192,31 @@ Paul explained that this offers salvation to all.
 >
 > — Isaiah 55:1-7 (ESV)
 
-The expectations according to [Isaiah 55:1-7](#prophecy-about-all-nations) can be summarized:
+Note the pattern Isaiah repeatedly uses:
 
-| What we can expect from the LORD (Isaiah 55:1-3)              | What the LORD expects from us (Isaiah 55:6-7)                                                                           | Explanation                                                                              | Example (Isaiah 55:4-5)               |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------- |
-| **Come buy and eat** (to receive the LORD's provision)        | **Seek the LORD** while He may be found                                                                                 | Rather labour for the LORD and seek His provision than own effort that does not satisfy. | David loved to served the LORD.       |
-| **Listen** or **hear** the LORD's word on what it good to eat | **Call (proclaim)** while He is near                                                                                    | Proclaim the LORD's word that you heard.                                                 | David was a witness to the peoples.   |
-| **Delight in life** (setting mind on that which brings life)  | **Forsake** wicked ways *(habits)* and unrighteous thoughts *(plans)* and **[turn](../life/repentance.md)** to the LORD | Instead sinful habits or evil plans, delight in life (turn to the LORD)                  | "run to you" or turn from wicked ways |
+1. **Approach the LORD**: "come", "love", "seek" the LORD's provision (bread, wine, milk)
+2. **Listen and proclaim the word of the LORD**: "listen", "hear", "witness", "call" or proclaim the word of the LORD
+3. **Set life/mind on the LORD's ways**: "delight yourselves", "soul may live", "run to you", "forsake wicked way... unrighteous thoughts", "return to the LORD"
 
-Then Isaiah elaborate by reflecting on the previous 3 points, but in reverse order:
+Then the prophecy reflect on the reasons why these 3 points are important in reverse order:
 
 > *3:* For **My thoughts are not your thoughts**, neither are **your ways my ways**, declares the LORD. For as the heavens are higher than the earth, so are **My ways higher than your ways** and **My thoughts than your thoughts**.
 >
-> *2:* For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and **bread to the eater**, so shall [My word](https://word.ofgod.info) be that goes out from My mouth; it shall not return to Me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it.
+> *2:* For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and bread to the eater, so shall **[My word](https://word.ofgod.info) be that goes out from My mouth; it shall not return to Me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it**.
 >
-> *1:* “For **you shall go out** in joy and **be led forth** in peace...
+> *1:* “For **you shall go out in joy** and **be led forth in peace**...
 >
 > — Isaiah 55:8-12 (ESV)
 
+In my own simple terms:
+
+1. Go where the LORD leads you, and you will find joy and peace.
+2. Listen to the LORD's word, so that you can be a witness to proclaim it, because it will accomplish what He intends.
+3. Focus on the LORD's plans and thoughts, because His plans are on a much higher level.
+
 Isaiah 55:13 explains [the sign of the covenant](#confirmation).
 
-Then Isaiah continue to describe what the LORD expect from us:
+Then Isaiah continue to describe what the LORD's ways:
 
 > Thus says the LORD:
 >
@@ -238,20 +242,15 @@ Then Isaiah continue to describe what the LORD expect from us:
 >
 > — Isaiah 56:1-8 (ESV)
 
-Some Christians may wonder why is a so called *"Jewish"* [Sabbath](https://church.ofgod.info/terms/sundays) so important to the LORD?
+Then Isaiah contrast these positive actions with negative actions that the LORD forbids:
 
-Isaiah explains that when he refers to "delight in the LORD" he refers to the concept of "honouring the Sabbath of the LORD":
+1. Instead of "coming" the LORD, "come the beasts... to devour" (Isaiah 56:9)
+2. Instead of "listening deligently to the LORD", "blind... without knowledge... dreaming... slumber... no understanding" (Isaiah 56:10-11)
+3. Instead of focussing on the LORD's plans and thoughts, "greedy dogs... turned own ways... own gain... drunkeness" (Isaiah 56:11-12)
 
-> “If you turn back your foot from the Sabbath, from doing your pleasure on My holy day, and **call the Sabbath a delight and the holy day of the LORD honorable**;
->
-> **if you honor it**, not going your own ways, or seeking your own pleasure, or talking idly: **then you shall take delight in the LORD**, and
->
-> * I will make you ride on the heights of the earth;
-> * I will feed you with the heritage of Jacob your father,
->
-> for the mouth of the LORD has spoken.”
->
-> — Isaiah 58:13-14 (ESV)
+Isaiah 57 warns about the effects of those who make "covenant with the adulterer and loose woman... children of transgression... offspring of deceit" of which Isaiah concludes:
+
+> “There is **no peace**,” says my God, “for the wicked.” — Isaiah 57:21 (ESV)
 
 ## Confirmation
 
