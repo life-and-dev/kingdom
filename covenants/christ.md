@@ -7,37 +7,9 @@ keywords: New Covenant, Christ, Isaiah prophecy, Jerusalem, salvation, biblical 
 
 The New Covenant is a significant theological concept prophesied by Isaiah. This article explores the intended audience of these prophecies, the conditions set for the covenant, and its ultimate fulfillment. It examines how this covenant extends beyond its original context to encompass all nations.
 
-## Isaiah's Prophecy
+## Isaiah's Prophecies
 
-### To the Captives of Zion
-
-> Awake, awake,  
-> put on your strength, O **Zion**;  
-> put on your beautiful garments,  
-> O **Jerusalem, the holy city**;  
-> for there shall no more come into you  
-> the uncircumcised and the unclean.  
-> Shake yourself from the dust and arise;  
-> be seated, O **Jerusalem**;  
-> loose the bonds from your neck,  
-> O **captive daughter of Zion**.  
->
-> For thus says the LORD: “**You were sold for nothing**, and you shall be redeemed without money.”  
->
-> For thus says the Lord GOD:  
-> “**My people went down at the first into Egypt to sojourn there, and the Assyrian oppressed them for nothing**. Now therefore what have I here,” declares the LORD,  
-> “seeing that **My people are taken away for nothing**? Their rulers wail,” declares the LORD,  
-> “and continually all the day My name is despised. Therefore **My people** shall know My name. Therefore in that day they shall know that it is I Who speak; here I am.”  
->
-> How beautiful upon the mountains are the feet of him who brings good news (Romans 10:15), who publishes peace, who brings good news of happiness, who publishes salvation, who says to Zion, “Your God reigns.”
->
-> — Isaiah 52:1-7 (ESV)
-
-Isaiah wrote [this prophecy](https://prophecies.ofgod.info/christian/isaiah-52-7) to the captives of Jerusalem (Zion). He wrote it to comfort them (Isaiah 52:7-9). The LORD told Isaiah that He would save Jerusalem again (Isaiah 52:10). This implied they would have to depart from their captors (Isaiah 52:11-12).
-
-Jeremiah, Hosea, and Ezekiel had similar prophecies. They predicted a full restoration of land, possessions, prosperity, and peace. History shows that a complete physical restoration has not happened yet. It makes sense to separate these prophecies from each other. This avoids confusing the audiences and expectations associated with each covenant.
-
-### God's Servant
+### Prophecy about God's Servant
 
 What sets Isaiah's prophecy apart from others is the identification of [Christ](../christ.md).
 
@@ -91,7 +63,7 @@ What sets Isaiah's prophecy apart from others is the identification of [Christ](
 
 God's servant is specifically addressed. The passage is sandwiched around the scriptures of Jerusalem in Isaiah 52 and 54. This indicates that God's servant would also act on behalf of Jerusalem. [Other messianic prophecies](https://prophecies.ofgod.info/messianic) emphasize that [the Christ](../christ.md) would be a Jew.
 
-### To Jerusalem
+### Prophecy about Jerusalem
 
 The LORD addresses the afflicted city of Jerusalem again (Isaiah 54:11-12). He calls the city "the barren one" (Isaiah 54:1). He refers to the city "like a wife" (Isaiah 54:6). The inhabitants are identified as His "servants" (Isaiah 54:17). The LORD tells the city:
 
@@ -109,37 +81,25 @@ Isaiah 52 calls the city by its name. It most likely refers to the physical Jeru
 * He mentions more children or offspring. This could point to the spreading of the Gospel to other nations.
 * The covenant concludes with a special mention of outsiders. Isaiah specifies "the foreigner who has joined himself to the LORD" (Isaiah 56:3,6) and "the outcasts of Israel" (Isaiah 56:8).
 
-### To All Nations
+### Prophecy about All Nations
 
 Isaiah makes an invitation to everyone. He lists what God expects from them.
 
-> Come, **everyone who thirsts**, come to the waters (John 7:37; Revelation 22:17);  
+> Come, **everyone** who thirsts, come to the waters...
 >
-> and he who has no money, come, buy and eat!  
+> Behold, I made him a witness to **the peoples**, a leader and commander for **the peoples**.  Behold, you shall call **a nation that you do not know**, and **a nation that did not know** you shall run to you, because of the LORD your God, and of the Holy One of Israel, for He has glorified you.
 >
-> **Come, buy wine and milk without money and without price** (Romans 3:23-24, 6:23).
+> — Isaiah 55:1 (ESV)
+
+and Isaiah 56:1-8 specifically addresses *"the foreigners who join themselves to the LORD"*:
+
+> Blessed is **the man** who does this...  
 >
-> Why do you spend your money for that which is not [bread](https://eternal.family.net.za/bible/metaphors/bread) (John 6:35), and your labor for that which does not satisfy?  
+> Let not **the foreigner** who has joined himself to the LORD...
 >
-> * **Listen diligently to me** (Romans 6:16), and  
-> * **eat what is good, and delight yourselves in *rich ([abundance of](https://biblehub.com/interlinear/isaiah/55-2.htm))* *food ([life](https://biblehub.com/hebrew/5315.htm))*** (1 Peter 1:14-16).  
-> * Incline your ear, and **come to me** (John 6:37);  
-> * hear, that **your soul may live** (John 10:10, 14:6); and
->  
-> **I will make with you an everlasting covenant**, my steadfast, sure love for [David](davidic.md) (Acts 13:34).  
+> And **the foreigners** who join themselves to the LORD... these I will bring to My holy mountain, and make them joyful in My house of prayer; their burnt offerings and their sacrifices will be accepted on my altar; for My house shall be called a house of prayer for **all peoples**.”  
 >
-> Behold, I made him a witness to the peoples, a leader and commander for the peoples.  
->
-> Behold, you shall call a nation that you do not know, and a nation that did not know you shall run to you, because of the LORD your God, and of the Holy One of Israel, for He has glorified you (Colossians 3:4).  
->
-> 1. **[Seek the LORD](../life/righteousness.md)** while He may be found (2 Chronicles 7:14; Amos 5:4; Matthew 7:7-8);  
-> 2. **call *(proclaim)* upon Him** while He is near (Psalm 50:15; Joel 2:32; Acts 22:16; Romans 10:13);  
-> 3. **let the wicked forsake his way, and the unrighteous man** his thoughts (Psalm 1:1-6; 1 Corinthians 15:33; 2 Corinthians 6:14-17; Ephesians 5:11);  
-> 4. **let him [return to the LORD](../life/repentance.md)** (2 Corinthians 3:6,16),  
->  
-> that He may have compassion on him, and to our God, for He will abundantly pardon.
->
-> — Isaiah 55:1-7 (ESV)
+> The Lord GOD, **Who gathers the outcasts of Israel**, declares, “I will gather **yet others** to him besides those already gathered.”
 
 This general invitation is not restricted to inhabitants of Jerusalem. A few chapters later, Isaiah mentions an everlasting covenant with all nations.
 
@@ -199,46 +159,111 @@ Paul explained that this offers salvation to all.
 
 [The LORD](https://ofgod.info/name#lord) ([YHVH](https://ofgod.info/name#yhvh)) [God](https://ofgod.info) Himself makes a covenant with:
 
-* [The literal captives of Zion](#to-the-captives-of-zion) (Isaiah 52:1-7)
-* [God's servant](#gods-servant) (Isaiah 52:13-53:12)
-* [Jerusalem](#to-jerusalem) (Isaiah 54:1-17), representing future generations or those who join Israel
-* [All nations](#to-all-nations) (Isaiah 55:1-2, 56:1-8, 61:8-11; Hosea 1:10, 2:23; Romans 9:1-6, 10:11-13)
+* The literal captives of Zion (Isaiah 52:1-7)
+* [God's servant](#prophecy-about-gods-servant) (Isaiah 52:13-53:12)
+* ["Jerusalem"](#prophecy-about-jerusalem) (Isaiah 54:1-17), representing future generations or those who join Israel
+* [All nations](#prophecy-about-all-nations) (Isaiah 55:1-2, 56:1-8, 61:8-11; Hosea 1:10, 2:23; Romans 9:1-6, 10:11-13)
 
 ## Conditions
 
-The expectations according to [Isaiah 55:1-7](#to-all-nations) can be summarized:
+> 1. **Come**, everyone who thirsts, **come** to the waters *(John 7:37; Revelation 22:17)*; and he who has no money, **come buy and eat! Come buy wine and milk** without money and without price *(Romans 3:23-24, 6:23)*. Why do you spend your money for that which is not [bread](https://eternal.family.net.za/bible/metaphors/bread) *(John 6:35-37)*, and your labor for that which does not satisfy?  
+> 2. **Listen diligently to me** *(Romans 6:16)* and eat what is good, and
+> 3. **delight yourselves** in *rich ([abundance of](https://biblehub.com/hebrew/1880.htm))* food *(or [life/mind](https://biblehub.com/hebrew/5315.htm))*.
+>
+> Incline your ear, and
+>
+> 1. **come to me**;
+> 2. **hear**,
+> 3. that your **soul may live** (John 10:10, 14:6); and
+>
+> **I will make with you an everlasting covenant**, my steadfast,
+>
+> 1. sure **love** for [David](davidic.md) (Acts 13:34).
+> 2. Behold, I made him a **witness** to the peoples, a leader and commander for the peoples.
+> 3. Behold, you shall call a nation that you do not know, and a nation that did not know you shall **run to you**,
+>
+> because of the LORD your God, and of the Holy One of Israel, for He has glorified you *(Colossians 3:4)*.  
+>
+> 1. **[Seek the LORD](../life/righteousness.md)** while He may be found (2 Chronicles 7:14; Amos 5:4; Matthew 7:7-8);  
+> 2. **call *(proclaim)* upon Him** while He is near (Psalm 50:15; Joel 2:32; Acts 22:16; Romans 10:13);  
+> 3. let the wicked **forsake** his **way**, and the unrighteous man **thoughts** (Psalm 1:1-6; 1 Corinthians 15:33; 2 Corinthians 6:14-17; Ephesians 5:11); let him **[return to the LORD](../life/repentance.md)** (2 Corinthians 3:6,16),  
+>  
+> that He may have compassion on him, and to our God, for He will abundantly pardon.
+>
+> — Isaiah 55:1-7 (ESV)
 
-| What we can expect from the LORD                                    | What the LORD expects from us                                                | Explanation                                                                         |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Come, into **the presence of the LORD** *(v1)*                      | **Seek** the LORD *(v6)*                                                     | The LORD will not force Himself upon anyone. **You** need to seek His presence too. |
-| Eat, **receive free water and food** to fulfill our purposes *(v2)* | **Call (proclaim)** the LORD *(v6)*                                          | Proclamation is an act of trust. The LORD provides to those who trust Him.          |
-| Listen, to the **guidance of the LORD** *(v3)*                      | **Forsake** wicked ways *(habits)* and unrighteous thoughts *(plans)* *(v7)* | Refuse sinful habits and evil plans. Follow the wise guidance of the LORD instead.  |
-| Behold, **the LORD will glorify** us *(v5)*                         | **[Turn](../life/repentance.md)** to the LORD *(v7)*                         | Commit to living a dedicated life to the glory of the LORD and He will glorify you. |
+The expectations according to [Isaiah 55:1-7](#prophecy-about-all-nations) can be summarized:
 
-How does a "dedicated life to the LORD" look?
+| What we can expect from the LORD (Isaiah 55:1-3)              | What the LORD expects from us (Isaiah 55:6-7)                                                                           | Explanation                                                                              | Example (Isaiah 55:4-5)               |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------- |
+| **Come buy and eat** (to receive the LORD's provision)        | **Seek the LORD** while He may be found                                                                                 | Rather labour for the LORD and seek His provision than own effort that does not satisfy. | David loved to served the LORD.       |
+| **Listen** or **hear** the LORD's word on what it good to eat | **Call (proclaim)** while He is near                                                                                    | Proclaim the LORD's word that you heard.                                                 | David was a witness to the peoples.   |
+| **Delight in life** (setting mind on that which brings life)  | **Forsake** wicked ways *(habits)* and unrighteous thoughts *(plans)* and **[turn](../life/repentance.md)** to the LORD | Instead sinful habits or evil plans, delight in life (turn to the LORD)                  | "run to you" or turn from wicked ways |
 
-[Isaiah 56:1-8](#warning) explicitly specifies behavioral conditions expected of those holding fast to the covenant:
+Then Isaiah elaborate by reflecting on the previous 3 points, but in reverse order:
 
-| What we must do                       | Explanation                                                                                                                        |
-| :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------- |
-| **Keep the Sabbath**                  | Dedicate time to rest and honor the LORD without profaning it (Isaiah 56:2,4,6).                                                   |
-| **Keep justice and do righteousness** | Faith must be accompanied by ethical living, fairness, and keeping hands from doing evil (Isaiah 56:1-2).                          |
-| **Love and serve the LORD**           | Actively minister to Him, love His name, and be His devoted servants (Isaiah 56:6).                                                |
-| **Choose what pleases the LORD**      | Consciously align personal decisions and lifestyle with the desires of the LORD (Isaiah 56:4).                                     |
-| **Hold fast the covenant**            | Show ongoing perseverance and loyalty, affirming the covenant as an active relationship, not simply a past event (Isaiah 56:4, 6). |
+> *3:* For **My thoughts are not your thoughts**, neither are **your ways my ways**, declares the LORD. For as the heavens are higher than the earth, so are **My ways higher than your ways** and **My thoughts than your thoughts**.
+>
+> *2:* For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and **bread to the eater**, so shall [My word](https://word.ofgod.info) be that goes out from My mouth; it shall not return to Me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it.
+>
+> *1:* “For **you shall go out** in joy and **be led forth** in peace...
+>
+> — Isaiah 55:8-12 (ESV)
+
+Isaiah 55:13 explains [the sign of the covenant](#confirmation).
+
+Then Isaiah continue to describe what the LORD expect from us:
+
+> Thus says the LORD:
+>
+> * “**Keep justice**, and **do [righteousness](../life/righteousness.md)**, for soon my salvation will come, and my righteousness be revealed.  
+> * Blessed is the man who does this, and the son of man who holds it fast, who **keeps the Sabbath**, not profaning it, and
+> * **keeps his hand from doing any evil**.”  
+>  
+> Let not the foreigner who has joined himself to the LORD say, “The LORD will surely separate me from His people”; and  
+> let not the eunuch say, “Behold, I am a dry tree.”  
+>
+> For thus says the LORD: “To the eunuchs **who keep My Sabbaths, who choose the things that please Me** and **hold fast My covenant**: I will give in My house and within My walls a monument and a [name](https://eternal.family.net.za/bible/concepts/name) better than sons and daughters; I will give them an everlasting name that shall not be cut off.  
+>
+> And the foreigners who join themselves to the LORD,
+>
+> * to **minister to Him**,
+> * to **love [the name](https://word.ofgod.info/terms/name) of the LORD**, and
+> * to **be His servants**,
+> * everyone who **keeps the Sabbath and does not profane it**, and
+> * **holds fast My covenant**:
+> these I will bring to My holy mountain, and make them joyful in My house of prayer; their burnt offerings and their sacrifices will be accepted on my altar; for my house shall be called a house of prayer for all peoples.”  
+>  
+> The Lord GOD, Who gathers the outcasts of Israel, declares, “I will gather yet others to him besides those already gathered.”
+>
+> — Isaiah 56:1-8 (ESV)
+
+Some Christians may wonder why is a so called *"Jewish"* [Sabbath](https://church.ofgod.info/terms/sundays) so important to the LORD?
+
+Isaiah explains that when he refers to "delight in the LORD" he refers to the concept of "honouring the Sabbath of the LORD":
+
+> “If you turn back your foot from the Sabbath, from doing your pleasure on My holy day, and **call the Sabbath a delight and the holy day of the LORD honorable**;
+>
+> **if you honor it**, not going your own ways, or seeking your own pleasure, or talking idly: **then you shall take delight in the LORD**, and
+>
+> * I will make you ride on the heights of the earth;
+> * I will feed you with the heritage of Jacob your father,
+>
+> for the mouth of the LORD has spoken.”
+>
+> — Isaiah 58:13-14 (ESV)
 
 ## Confirmation
 
-> For My thoughts are not your thoughts, neither are your ways My ways, declares the LORD. For as the heavens are higher than the earth, so are My ways higher than your ways and My thoughts than your thoughts.  
+The sign to confirm the new covenant is explained as;
+
+> “For you shall go out in joy and be led forth in peace:
 >
-> “For as the rain and the snow come down from heaven and do not return there but water the earth, making it bring forth and sprout, giving seed to the sower and bread to the eater, **so shall My [word](https://word.ofgod.info) be that goes out from My mouth** (Isaiah 59:21); it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it.  
->
-> * “For you shall go out in joy and be led forth in peace;  
 > * the mountains and the hills before you shall break forth into singing, and
 > * all the trees of the field shall clap their hands.  
 > * Instead of the thorn shall come up the cypress;  
 > * instead of the brier shall come up the myrtle; and
-> * it shall make a [name](https://eternal.family.net.za/bible/concepts/name) for the LORD,  
+> * it shall make a [name](https://word.ofgod.info/terms/name) for the LORD,  
 >  
 > **an everlasting sign** that shall not be cut off.”
 >
@@ -252,34 +277,7 @@ Jesus also explained this expected outcome.
 >
 > **By this all people will know that you are my disciples, if you have love for one another.** — John 13:34-35 (ESV)
 
-God's children are not recognized by [crosses](https://eternal.family.net.za/bible/symbolism/cross), special cultures, memberships, or dress codes. They are recognized by their unselfish love for one another.
-
-## Warning
-
-> Thus says the LORD:  
-> * “**Keep justice**, and do righteousness, for soon my salvation will come, and my righteousness be revealed.  
-> * Blessed is the man who does this, and the son of man who holds it fast, who **keeps the Sabbath**, not profaning it, and
-> * **keeps his hand from doing any evil**.”  
->  
-> Let not the foreigner who has joined himself to the LORD say, “The LORD will surely separate me from His people”; and  
-> let not the eunuch say, “Behold, I am a dry tree.”  
->
-> For thus says the LORD: “To the eunuchs **who keep My Sabbaths, who choose the things that please Me and hold fast My covenant**, I will give in My house and within My walls a monument and a [name](https://eternal.family.net.za/bible/concepts/name) better than sons and daughters; I will give them an everlasting name that shall not be cut off.  
->
-> And the foreigners who
-> 1. join themselves to the LORD,
-> 2. to minister to Him,
-> 3. to love the name of the LORD, and
-> 4. to be His servants,
-> 5. everyone who keeps the Sabbath and does not profane it, and
-> holds fast [My covenant](../covenants.md):  
-> * these I will bring to My holy mountain, and
-> * make them joyful in My house of prayer;  
-> * their burnt offerings and their sacrifices will be accepted on my altar; for my house shall be called a house of prayer for **all peoples**.”  
->  
-> The Lord GOD, **Who gathers the outcasts of Israel**, declares, “I will gather **yet others** to him besides those already gathered.”
->
-> — Isaiah 56:1-8 (ESV)
+The [righteousness](../life/righteousness.md) are not recognized by [crosses](https://eternal.family.net.za/bible/symbolism/cross), special cultures, [church](https://church.ofgod.info) membership, or dress codes. They are recognized by their unselfish love for one another.
 
 ## Fulfillment
 
@@ -394,6 +392,6 @@ Various apostles and early Christian leaders provided testimonies regarding the 
 >
 > But the free gift is not like the trespass. For if [many died through one man's trespass](adamic.md), much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many. And the free gift is not like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification. For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of [righteousness](../life/righteousness.md) reign in life through the one man Jesus [Christ](../christ.md).
 >
-> Therefore, as one trespass led to condemnation for all men, so [one act of righteousness leads to justification and life for all men](https://eternal.family.net.za/god/son/essence/not-god/sacrifice). For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.
+> Therefore, as one trespass led to condemnation for all men, so [one act of righteousness leads to justification and life for all men](../christ/crucifixion.md). For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.
 >
 > — Romans 5:9-19 (ESV)
