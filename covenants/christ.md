@@ -7,11 +7,34 @@ keywords: New Covenant, Christ, Isaiah prophecy, Jerusalem, salvation, biblical 
 
 The New Covenant is a significant theological concept prophesied by Isaiah. This article explores the intended audience of these prophecies, the conditions set for the covenant, and its ultimate fulfillment. It examines how this covenant extends beyond its original context to encompass all nations.
 
-## Isaiah's Prophecies
+## Parties
 
-### Prophecy about God's Servant
+[The LORD](https://ofgod.info/name#lord) ([YHVH](https://ofgod.info/name#yhvh)) [God](https://ofgod.info) Himself makes a covenant with:
 
-What sets Isaiah's prophecy apart from others is the identification of [Christ](../christ.md).
+* [Captives of Zion](#captives-of-zion) (Isaiah 52:1-7)
+* [God's servant](#gods-servant) (Isaiah 52:13-53:12)
+* [Promised Offspring](#promised-offspring) (Isaiah 54:1-17) implying future generations of God's children
+* [All nations](#all-nations) (Isaiah 55:1-2, 56:1-8, 61:8-11; Hosea 1:10, 2:23; Romans 9:1-6, 10:11-13)
+
+### Captives of Zion
+
+Isaiah first calls the literal captives of Jerusalem:
+
+> Awake, awake, put on your strength, O **Zion**; put on your beautiful garments, O **Jerusalem, the holy city**: for there shall no more **come into you the uncircumcised and the unclean**.
+>
+> Shake yourself from the dust and arise; be seated, O **Jerusalem**; loose the bonds from your neck, O **captive daughter of Zion**. For thus says the LORD: “**You were sold for nothing**, and you shall be redeemed without money” ...
+>
+> Therefore **My people** shall know My [name](https://word.ofgod.info/terms/name). Therefore in that day they shall know that it is I who speak; here I am”...
+>
+> The voice of your watchmen⁠ — they lift up their voice; together they sing for joy; for eye to eye they **see the return of the LORD to Zion**. Break forth together into singing, you **waste places of Jerusalem**, for the LORD has **comforted His people; He has redeemed Jerusalem**...
+>
+> For you shall not go out in haste, and you shall not go in flight, for the LORD will go before you, and the God of **Israel** will be your rear guard.
+>
+> — Selective verses from Isaiah 52:1-12 (ESV)
+
+### God's Servant
+
+Secondly, Isaiah identified the [Christ](../christ.md) as God's servant:
 
 > Behold, **My servant** shall **act wisely**; *(John 7:15-16)*  
 > he **shall be high and lifted up, and shall be exalted**. *(Philippians 2:5-11)*  
@@ -59,31 +82,55 @@ What sets Isaiah's prophecy apart from others is the identification of [Christ](
 > because he **poured out his soul to death** and **was numbered with the transgressors**; *(Luke 22:37)*  
 > yet **he bore the sin of many**, and makes intercession for the transgressors.
 >
-> — Isaiah 52:13-53:12 (ESV)
+> — Isaiah 52:13 - 53:12 (ESV)
 
-God's servant is specifically addressed. The passage is sandwiched around the scriptures of Jerusalem in Isaiah 52 and 54. This indicates that God's servant would also act on behalf of Jerusalem. [Other messianic prophecies](https://prophecies.ofgod.info/messianic) emphasize that [the Christ](../christ.md) would be a Jew.
+The passage about God's servant is sandwiched around the scriptures of "Jerusalem" in Isaiah 52 and 54. This indicates that God's servant would also act on behalf of Jerusalem. [Other messianic prophecies](https://prophecies.ofgod.info/messianic) also emphasize that [the Christ](../christ.md) would be a Jew.
 
-### Prophecy about Jerusalem
+### Promised Offspring
 
-The LORD addresses the afflicted city of Jerusalem again (Isaiah 54:11-12). He calls the city "the barren one" (Isaiah 54:1). He refers to the city "like a wife" (Isaiah 54:6). The inhabitants are identified as His "servants" (Isaiah 54:17). The LORD tells the city:
+Unlike the [previous Jerusalem of Isaiah 52](#captives-of-zion), Isaiah prophecies that this "Jerusalem" is called "the barren one" (Isaiah 54:1) which is identified as the one:
 
-* to prepare for many children who will possess the nations (Isaiah 54:1-3)
-* that He hid His face for a moment but still has everlasting love and compassion as her Redeemer (Isaiah 54:4-8)
-* that His "Covenant of Peace" still stands and will not be removed (Isaiah 54:9-10)
-* that all her children shall be taught by the LORD (Isaiah 54:13; John 6:45-46)
-* that she will be established in righteousness (Isaiah 54:14)
-* that she will not fear (Isaiah 54:14)
-* that no weapon formed against her shall succeed (Isaiah 54:15-17)
+* whose "offspring will possess the nations" (Isaiah 54:3)
+* whose "husband is the LORD of hosts" (Isaiah 54:5)
+* who is "called like a wife" by the LORD (Isaiah 54:6)
+* whom the LORD "will not be angry with" (Isaiah 54:9)
+* whom the LORD's "love shall not depart" (Isaiah 54:10)
+* with whom the LORD makes "a **covenant of peace**" (Isaiah 54:10)
+* whose "children shall be taught by the LORD" (Isaiah 54:13)
+* who is "established in [righteousness](../life/righteousness.md)" (Isaiah 54:14)
+* who "shall refute every tongue that rises against her in judgment" (Isaiah 54:17)
+* who shall have "the heritage of the servants of the LORD" (Isaiah 54:17)
+* who shall be "vindicated by the LORD" (Isaiah 54:17)
 
-Isaiah 52 calls the city by its name. It most likely refers to the physical Jerusalem of that time. Isaiah 54 does not name the city again. This could imply a different "city" for several reasons:
+This is unlikely to be the literal Jerusalem of Isaiah 52 because Jerusalem never possessed the nations, was destroyed in 70 AD, was cursed by God (Matthew 23:37-39) and rejected he "covenant of peace" (Luke 19:41-42).
 
-* This section appears immediately after the "servant" restores many to righteousness. This gives the impression that Isaiah is prophesying to new converts.
-* He mentions more children or offspring. This could point to the spreading of the Gospel to other nations.
-* The covenant concludes with a special mention of outsiders. Isaiah specifies "the foreigner who has joined himself to the LORD" (Isaiah 56:3,6) and "the outcasts of Israel" (Isaiah 56:8).
+Paul interpret Isaiah 54 as follows:
 
-### Prophecy about All Nations
+> For it is written that Abraham had two sons, one by a **slave woman** and one by a **free woman**.
+>
+> * But the son of the slave was born according to the flesh,
+> * while the son of the free woman was born through promise.
+>
+> Now this may be interpreted allegorically: these women are **two covenants**.
+>
+> 1. One is from Mount Sinai, bearing children for slavery; she is Hagar. Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children.
+> 2. But the Jerusalem above is free, and she is our mother.
+>
+> ...
+>
+> Now you, brothers, like Isaac, are children of promise. But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now. But what does the Scripture say?
+>
+>> “Cast out the **slave woman** and her son, for the son of the slave woman shall not inherit with the son of the **free woman**.”
+>
+> So, brothers, we are not children of the **slave** but of the **free** woman.
+>
+> — Galatians 4:22-26, 28-31 (ESV)
 
-Isaiah makes an invitation to everyone. He lists what God expects from them.
+This implies that the "barren one" of Isaiah 54 is a metaphor for those who accept the LORD's "covenant of peace".
+
+### All Nations
+
+In the next chapter Isaiah expands this invitation to everyone:
 
 > Come, **everyone** who thirsts, come to the waters...
 >
@@ -154,15 +201,6 @@ Paul explained that this offers salvation to all.
 > > For “**everyone** who calls on [the name of the LORD](https://ofgod.info/name) will be saved.” — Joel 2:32  
 >
 > — Romans 10:11-13 (ESV)
-
-## Parties
-
-[The LORD](https://ofgod.info/name#lord) ([YHVH](https://ofgod.info/name#yhvh)) [God](https://ofgod.info) Himself makes a covenant with:
-
-* The literal captives of Zion (Isaiah 52:1-7)
-* [God's servant](#prophecy-about-gods-servant) (Isaiah 52:13-53:12)
-* ["Jerusalem"](#prophecy-about-jerusalem) (Isaiah 54:1-17), representing future generations or those who join Israel
-* [All nations](#prophecy-about-all-nations) (Isaiah 55:1-2, 56:1-8, 61:8-11; Hosea 1:10, 2:23; Romans 9:1-6, 10:11-13)
 
 ## Conditions
 
