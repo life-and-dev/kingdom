@@ -421,14 +421,69 @@ Various apostles and early Christian leaders provided testimonies regarding the 
 >
 > — Acts 3:11-26 (ASV)
 
-### Explanation
+## Relevancy
 
-> Since, therefore, **we have now been [justified](https://eternal.family.net.za/bible/concepts/justification) by his blood**, much more shall we be saved by him from the wrath of God. For if while we were enemies **we were reconciled to God by the death of His son**, much more, now that we are reconciled, shall we be saved by his life. More than that, we also rejoice in God through our Lord Jesus [Christ](../christ.md), through whom we have now received reconciliation.
+> Since, therefore, **we have now been [justified](https://eternal.family.net.za/bible/concepts/justification) by his blood**, much more shall **we be saved by him from the wrath of God**. For if **while we were enemies we were reconciled to God** by **the death of His son**, much more, now that we are reconciled, shall we be saved by his life. More than that, **we also rejoice in God** *through [[because of](https://biblehub.com/greek/1223.htm)]* our Lord Jesus [Christ](../christ.md), *through [because of]* whom we have now received reconciliation. — Romans 5:9-11 (ESV)
+
+The reconciliation sequence is:
+
+1. **While we were enemies**, [Christ](../christ.md) (Lord Jesus, [the son of God](https://son.ofgod.info)) **sacrificed himself** (died) for us.
+2. Christ's sacrifice produced the [blood](#testimonies) which **[justifies](https://eternal.family.net.za/bible/concepts/justification) us**.
+3. The justification, **saves us** from the wrath of God.
+4. Because we are saved, **we are reconciled** to God.
+5. Because we are reconciled to God, we also **rejoice in God**.
+
+The Paul explain why "the law" was given:
+
+> Therefore, just as [**sin came into the world** through one man](adamic.md), and **[death](../death.md)** through sin, and [so death **spread to all men because all sinned**](../darkness.md) — for sin indeed was in the world before **the law was given**, but sin is not counted where there is no law. Yet death reigned from Adam to Moses, even over those whose sinning was not like [the transgression of Adam](adamic.md), who was a type of the one who was to come. — Romans 5:12-14 (ESV)
+
+The trespass sequence is:
+
+1. One man (Adam)'s **sin** (disobedience to God) caused **sin to come into the world**.
+2. The effect of sin in the world caused **all to sin**.
+3. Because all sinned, **death spread to all men (people)**.
+4. To protect people from death, **the law was given**.
+
+Then Paul contrast "the law" (trespass) with "the free gift" (reconciliation):
+
+> But **the free gift** is not like **the trespass**. For if [**many died** through **one man's trespass**](adamic.md), much more have **the grace of God** and the free gift by the grace of that **one man Jesus Christ** abounded **for many**. And the free gift is not like the result of that one man's sin. For the judgment following one trespass brought **condemnation**, but the free gift following many trespasses brought **justification**. For if, because of one man's trespass, **death reigned** through that one man, much more will those who receive the abundance of grace and the free gift of [righteousness](../life/righteousness.md) **reign in life** through the one man Jesus [Christ](../christ.md).
 >
-> Therefore, just as [sin came into the world through one man](adamic.md), and [death](../death.md) through sin, and [so death spread to all men because all sinned](../darkness.md) — for sin indeed was in the world before the law was given, but sin is not counted where there is no law. Yet death reigned from Adam to Moses, even over those whose sinning was not like [the transgression of Adam](adamic.md), who was a type of the one who was to come.
+> — Romans 5:15-17 (ESV)
+
+The contrast is clear:
+
+| The Law (trespass) | The Free Gift (reconciliation) |
+| ------------------ | ------------------------------ |
+| Death to many      | Grace of God for many          |
+| Condemnation       | Justification                  |
+| Death reigned      | Reign in life                  |
+
+Then Paul contrasts Adam's act against Jesus's act:
+
+> * Therefore, as **one trespass led to condemnation for all men**, so **[one act of righteousness leads to justification and life for all men**](../christ/crucifixion.md)**.
+> * For as by the **one man's disobedience the many were made sinners**, so by the **one man's obedience the many will be made righteous**.
 >
-> But the free gift is not like the trespass. For if [many died through one man's trespass](adamic.md), much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many. And the free gift is not like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification. For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of [righteousness](../life/righteousness.md) reign in life through the one man Jesus [Christ](../christ.md).
+> — Romans 5:18-19 (ESV)
+
+Then Paul explain why God's grace is still relevant:
+
+> Now **the law** came in to **increase the trespass**, but where **sin increased**, **grace abounded all the more**, so that:
 >
-> Therefore, as one trespass led to condemnation for all men, so [one act of righteousness leads to justification and life for all men](../christ/crucifixion.md). For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous.
+> * as sin reigned in death,
+> * grace also might reign through righteousness leading to eternal life *through [[because of](https://biblehub.com/greek/1223.htm)]* Jesus Christ our Lord.
 >
-> — Romans 5:9-19 (ESV)
+> — Romans 5:20-21 (ESV)
+
+This covenant does not automatically apply to everyone. Paul warns in the next chapter that we have a choice "to continue in sin" (Romans 6:1) or to "be united with Christ" (Romans 6:5).
+
+> * Do not present your **members to sin as instruments for unrighteousness**,
+> * but present yourselves to God as those who have been brought from death to life, and your **members to God as instruments for righteousness**.
+>
+> — Romans 6:13 (ESV)
+
+The result of our choices are:
+
+> * For **the wages of sin** is **[death](../death.md)**, but
+> * **the free gift of God** is **[eternal life](../life.md)** *~~in~~ [[with](https://word.ofgod.info/translation/en)]* Christ Jesus our Lord.
+>
+> — Romans 6:23 (ESV)
