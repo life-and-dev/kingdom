@@ -19,11 +19,11 @@ If one considers all the suffering, injustice and wickedness in our world, it is
 
 ### God owns everything
 
-> **The earth is [the LORD](https://eternal.family.net.za/god/father/name#yhvh)'s, and all its fullness, the world and those who dwell therein.** — Psalms 24:1 (NKJV)
+> **The earth is [the LORD](https://ofgod.info/name#yhvh)'s, and all its fullness, the world and those who dwell therein.** — Psalms 24:1 (NKJV)
 
 And King David believed God is the supreme ruler:
 
-> [The LORD](https://eternal.family.net.za/god/father/name#yhvh) has established His throne in heaven, and **His kingdom rules over all**.  
+> [The LORD](https://ofgod.info/name#yhvh) has established His throne in heaven, and **His kingdom rules over all**.  
 > Bless the LORD, you His angels, who excel in strength, who do His word, heeding the voice of His word.  
 > Bless the LORD, all you His hosts, you ministers of His, who do His pleasure.  
 > Bless the LORD, all His works, in all places of His dominion.  
@@ -33,7 +33,7 @@ And King David believed God is the supreme ruler:
 
 and
 
-> Therefore David blessed [The LORD](https://eternal.family.net.za/god/father/name#yhvh) before all the assembly; and David said:
+> Therefore David blessed [The LORD](https://ofgod.info/name#yhvh) before all the assembly; and David said:
 >
 > “Blessed are You, Lord God of Israel, our [Father](https://eternal.family.net.za/god/father), forever and ever.  
 > Yours, O Lord, is the greatness: the power and the glory, the victory and the majesty;  

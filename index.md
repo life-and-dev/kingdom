@@ -166,7 +166,7 @@ And then James also warned:
 
 > Now when they heard this **they were cut to the heart**, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
 >
-> And Peter said to them, “[Repent](https://eternal.family.net.za/eternal/saved/repent) and [be baptized](https://eternal.family.net.za/eternal/saved/baptize) every one of you in [the name](https://eternal.family.net.za/bible/concepts/name) of [Jesus](https://eternal.family.net.za/god/son) [Christ](https://eternal.family.net.za/god/son/christ) for the forgiveness of your [sins](https://eternal.family.net.za/bible/concepts/sin), and you will receive [the gift](https://eternal.family.net.za/god/spirit/gifts) of [the Holy Spirit](https://eternal.family.net.za/god/spirit). For [the promise](https://eternal.family.net.za/god/covenants/christ) is for you and for your children and for all who are far off, everyone whom [the Lord](https://eternal.family.net.za/god/father/name#lord) our [God](https://eternal.family.net.za/god) calls to himself.”
+> And Peter said to them, “[Repent](https://eternal.family.net.za/eternal/saved/repent) and [be baptized](https://eternal.family.net.za/eternal/saved/baptize) every one of you in [the name](https://eternal.family.net.za/bible/concepts/name) of [Jesus](https://eternal.family.net.za/god/son) [Christ](https://eternal.family.net.za/god/son/christ) for the forgiveness of your [sins](https://eternal.family.net.za/bible/concepts/sin), and you will receive [the gift](https://eternal.family.net.za/god/spirit/gifts) of [the Holy Spirit](https://eternal.family.net.za/god/spirit). For [the promise](https://eternal.family.net.za/god/covenants/christ) is for you and for your children and for all who are far off, everyone whom [the Lord](https://ofgod.info/name#lord) our [God](https://eternal.family.net.za/god) calls to himself.”
 >
 > And with many other words he bore witness and continued to exhort them, saying, [“Save yourselves from this crooked generation.”](https://eternal.family.net.za/eternal/saved)
 >
@@ -259,7 +259,7 @@ According to Paul, Jesus did not replace God, but instead that Jesus acts as a d
 >
 > for it is written,
 >
->> “As I live, says [the LORD](https://eternal.family.net.za/god/father/name#lord), every knee shall bow to me, and every tongue shall confess to God.” — Isaiah 45:23
+>> “As I live, says [the LORD](https://ofgod.info/name#lord), every knee shall bow to me, and every tongue shall confess to God.” — Isaiah 45:23
 >
 > So then [each of us will give an account of himself to God](https://eternal.family.net.za/eternal/judgement).
 >
