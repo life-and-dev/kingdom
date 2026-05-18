@@ -113,7 +113,7 @@ Paul wrote:
 > 
 > I tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable. 
 > 
-> Behold! I tell you a [mystery](/bible/concepts/mystery). **We shall not all sleep, but we shall all be changed**, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and **the dead will be raised imperishable, and we shall be changed**. For **this perishable body must put on the imperishable, and this mortal body must put on immortality**.
+> Behold! I tell you a mystery. **We shall not all sleep, but we shall all be changed**, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and **the dead will be raised imperishable, and we shall be changed**. For **this perishable body must put on the imperishable, and this mortal body must put on immortality**.
 > 
 > -- 1 Corinthians 15:47-53 (ESV)
 
