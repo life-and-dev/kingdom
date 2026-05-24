@@ -556,13 +556,13 @@ Some argue that this command was only given to Jesus' direct disciples, but Mark
 >
 > ...
 >
-> The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your [name _(authority)_](https://eternal.family.net.za/bible/concepts/name)!”
+> The seventy-two returned with joy, saying, “Lord, even the demons are subject to us in your [name _(authority)_](https://word.ofgod.info/terms/name)!”
 >
 > — Luke 10:1,17 (ESV)
 
 John witnessed that Jesus taught:
 
-> “Truly, truly, I say to you, **whoever** believes in me **will also do the works that I do; and greater works than these will he do**, because I am going to the Father. Whatever you ask in my [name _(authority)_](https://eternal.family.net.za/bible/concepts/name), this I will do, that the Father may be glorified in the Son. If you ask me anything in my [name _(authority)_](https://eternal.family.net.za/bible/concepts/name), I will do it. — John 14:12-14 ESV
+> “Truly, truly, I say to you, **whoever** believes in me **will also do the works that I do; and greater works than these will he do**, because I am going to the Father. Whatever you ask in my [name _(authority)_](https://word.ofgod.info/terms/name), this I will do, that the Father may be glorified in the Son. If you ask me anything in my [name _(authority)_](https://word.ofgod.info/terms/name), I will do it. — John 14:12-14 ESV
 
 The name "Jesus" is not some magic word that forces demons into submission. The key is to ask in Jesus' authority. Authority is received by humility:
 
@@ -644,7 +644,7 @@ None of us is invincible. We all need to be on guard and willing to fight back f
 
 The "armor of God" is:
 
-1. [truth](https://eternal.family.net.za/bible/metaphors/light): Guard your [reputation](https://eternal.family.net.za/bible/concepts/name) by speaking the truth (2 Corinthians 6:7)
+1. [truth](https://eternal.family.net.za/bible/metaphors/light): Guard your [reputation](https://word.ofgod.info/terms/name) by speaking the truth (2 Corinthians 6:7)
 2. [righteousness](https://eternal.family.net.za/bible/concepts/righteousness): Guard your heart against [idols](https://eternal.family.net.za/bible/concepts/idolatry) by [loving God instead](https://eternal.family.net.za/eternal/saved/love) (1 Thessalonians 5:8; 2 Corinthians 6:6)
 3. [the good news](https://eternal.family.net.za/bible/concepts/testimony): [Spread the revelation of God's Kingdom](https://eternal.family.net.za/bible/concepts/testimony)
 4. [faith/trust](https://eternal.family.net.za/life/faith): [Trust God](https://eternal.family.net.za/bible/concepts/faith) when under attack in difficult times
@@ -660,7 +660,7 @@ And Jesus taught his disciples to pray:
 
 > In this manner, therefore, pray:
 >
-> Our Father in heaven, Hallowed be **Your name _[(authority)](https://eternal.family.net.za/bible/concepts/name)_**.
+> Our Father in heaven, Hallowed be **Your name _[(authority)](https://word.ofgod.info/terms/name)_**.
 >
 > **Your kingdom come. Your will be done** on earth as it is in heaven.
 >
@@ -835,7 +835,7 @@ The kingdom of God is not a Jesus fan-club for convenience. It's a place where y
 >
 > And if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector.
 >
-> Truly, I say to you, whatever **you** bind on earth shall be bound in heaven, and whatever **you** loose on earth shall be loosed in heaven. Again I say to you, if two of **you agree** on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my _name ([authority](https://eternal.family.net.za/bible/concepts/name))_, there am I [among](https://biblehub.com/greek/3319.htm) them.”
+> Truly, I say to you, whatever **you** bind on earth shall be bound in heaven, and whatever **you** loose on earth shall be loosed in heaven. Again I say to you, if two of **you agree** on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my _name ([authority](https://word.ofgod.info/terms/name))_, there am I [among](https://biblehub.com/greek/3319.htm) them.”
 >
 > Then Peter came up and said to him, “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?”  
 > Jesus said to him, “I do not say to you seven times, but seventy-seven times. Therefore the kingdom of heaven may be compared to...”

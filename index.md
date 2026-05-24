@@ -166,7 +166,7 @@ And then James also warned:
 
 > Now when they heard this **they were cut to the heart**, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
 >
-> And Peter said to them, “[Repent](https://eternal.family.net.za/eternal/saved/repent) and [be baptized](https://eternal.family.net.za/eternal/saved/baptize) every one of you in [the name](https://eternal.family.net.za/bible/concepts/name) of [Jesus](https://eternal.family.net.za/god/son) [Christ](https://eternal.family.net.za/god/son/christ) for the forgiveness of your [sins](https://eternal.family.net.za/bible/concepts/sin), and you will receive [the gift](https://eternal.family.net.za/god/spirit/gifts) of [the Holy Spirit](https://eternal.family.net.za/god/spirit). For [the promise](https://eternal.family.net.za/god/covenants/christ) is for you and for your children and for all who are far off, everyone whom [the Lord](https://ofgod.info/name#lord) our [God](https://eternal.family.net.za/god) calls to himself.”
+> And Peter said to them, “[Repent](https://eternal.family.net.za/eternal/saved/repent) and [be baptized](https://eternal.family.net.za/eternal/saved/baptize) every one of you in [the name](https://word.ofgod.info/terms/name) of [Jesus](https://eternal.family.net.za/god/son) [Christ](https://eternal.family.net.za/god/son/christ) for the forgiveness of your [sins](https://eternal.family.net.za/bible/concepts/sin), and you will receive [the gift](https://eternal.family.net.za/god/spirit/gifts) of [the Holy Spirit](https://eternal.family.net.za/god/spirit). For [the promise](https://eternal.family.net.za/god/covenants/christ) is for you and for your children and for all who are far off, everyone whom [the Lord](https://ofgod.info/name#lord) our [God](https://eternal.family.net.za/god) calls to himself.”
 >
 > And with many other words he bore witness and continued to exhort them, saying, [“Save yourselves from this crooked generation.”](https://eternal.family.net.za/eternal/saved)
 >
@@ -302,7 +302,7 @@ Jesus explains the Kingdom of God with parables (Matthew 13:10-17; Mark 4:10-12)
 Comparison:
 
 | Parable                        | Reality                                                                                               |
-|--------------------------------|-------------------------------------------------------------------------------------------------------|
+| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | The king                       | [God the Father](https://eternal.family.net.za/god/father) (Matthew 25:34)                            |
 | The king's son                 | [The Son of God](https://eternal.family.net.za/god/son) (Matthew 3:17)                                |
 | The feast                      | God the Father's rewards (Matthew 5:12)                                                               |

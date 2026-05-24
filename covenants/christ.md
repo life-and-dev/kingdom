@@ -265,7 +265,7 @@ Then Isaiah continue to describe what the LORD's ways:
 > Let not the foreigner who has joined himself to the LORD say, “The LORD will surely separate me from His people”; and  
 > let not the eunuch say, “Behold, I am a dry tree.”  
 >
-> For thus says the LORD: “To the eunuchs **who keep My Sabbaths, who choose the things that please Me** and **hold fast My covenant**: I will give in My house and within My walls a monument and a [name](https://eternal.family.net.za/bible/concepts/name) better than sons and daughters; I will give them an everlasting name that shall not be cut off.  
+> For thus says the LORD: “To the eunuchs **who keep My Sabbaths, who choose the things that please Me** and **hold fast My covenant**: I will give in My house and within My walls a monument and a [name](https://word.ofgod.info/terms/name) better than sons and daughters; I will give them an everlasting name that shall not be cut off.  
 >
 > And the foreigners who join themselves to the LORD,
 >
@@ -399,7 +399,7 @@ Various apostles and early Christian leaders provided testimonies regarding the 
 
 > And when Peter saw it, he answered unto the people:  
 >
-> Ye men of Israel, why marvel ye at this man? or why fasten ye your eyes on us, as though by our own power or godliness we had made him to walk? The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified **His servant** Jesus; whom ye delivered up, and denied before the face of Pilate, when he had determined to release him. But ye denied the Holy and Righteous One, and asked for a murderer to be granted unto you, and killed the prince of life; whom **God raised from the dead**; whereof we are witnesses. And by faith in his [name](https://eternal.family.net.za/bible/concepts/name) hath his name made this man strong, whom ye behold and know: yea, the faith which is through him hath given him this perfect soundness in the presence of you all.
+> Ye men of Israel, why marvel ye at this man? or why fasten ye your eyes on us, as though by our own power or godliness we had made him to walk? The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified **His servant** Jesus; whom ye delivered up, and denied before the face of Pilate, when he had determined to release him. But ye denied the Holy and Righteous One, and asked for a murderer to be granted unto you, and killed the prince of life; whom **God raised from the dead**; whereof we are witnesses. And by faith in his [name](https://word.ofgod.info/terms/name) hath his name made this man strong, whom ye behold and know: yea, the faith which is through him hath given him this perfect soundness in the presence of you all.
 >
 > And now, brethren, I know that in ignorance ye did it, as did also your rulers. But the things which **God foreshowed by the mouth of all the prophets**, that **His [Christ](../christ.md) should suffer**, He thus fulfilled.
 >
