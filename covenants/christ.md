@@ -484,6 +484,6 @@ This covenant does not automatically apply to everyone. Paul warns in the next c
 The result of our choices are:
 
 > * For **the wages of sin** is **[death](../death.md)**, but
-> * **the free gift of God** is **[eternal life](../life.md)** *~~in~~ [[with](https://word.ofgod.info/translation/en)]* Christ Jesus our Lord.
+> * **the free gift of God** is **[eternal life](../life.md)** *~~in~~ [[with](https://word.ofgod.info/semantics/en)]* Christ Jesus our Lord.
 >
 > — Romans 6:23 (ESV)
