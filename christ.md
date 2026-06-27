@@ -27,36 +27,40 @@ Therefore, through many centuries, prophecies were collected about this expected
 
 When we compare messianic prophecies, a pattern emerges:
 
-### Suffering Prophecies:
-1. Psalm 16:10 - "You will not abandon my soul to Sheol" (resurrection prophecy)
-2. Isaiah 50:6 - "I gave my back to those who strike, my cheeks to those who pull out the beard"
-3. Isaiah 53:3-12 - "Pierced for our transgressions... crushed for our iniquities"
-4. Daniel 9:26 - "Shall be cut off and have nothing"
-5. Zechariah 12:10 - "Him whom they have pierced"
+### Suffering Prophecies
 
-However, most of these suffering/dying prophecies are disputed by Jewish interpreters. For example:
-- Psalm 16 - Jews see this as David speaking about himself, not a messianic prophecy
-- Isaiah 50 and Isaiah 53 - Traditionally understood as referring to the nation of Israel, not an individual Messiah (though some ancient Jewish sources did apply suffering servant passages to the Messiah)
-- Daniel 9:26 - Jews dispute that 'anointed one' refers to THE Messiah; it could be any anointed person (priest/king)
-- Zechariah 12:10 - Refers to a historical figure, not necessarily the Messiah"
+1. Psalm 22:1-18 - "My God, my God..." includes pierced hands and feet, thirst, and garments divided
+2. Psalm 16:10 - "You will not abandon my soul to Sheol" (resurrection prophecy)
+3. Psalm 69:21 - "They gave me poison for food, and for my thirst they gave me sour wine"
+4. Isaiah 50:6 - "I gave my back to those who strike, my cheeks to those who pull out the beard"
+5. Isaiah 52:13-53:12 - "Pierced for our transgressions... crushed for our iniquities"
+6. Daniel 9:26 - "Shall be cut off and have nothing"
+7. Zechariah 12:10 - "Him whom they have pierced"
+8. Zechariah 13:7 - "Strike the shepherd, and the sheep will be scattered"
+
+However, most of these suffering/dying prophecies are disputed by Jewish interpreters.
 
 ### Reigning Prophecies
-In general most Jews and Christians view these prophecies as messianic:
+
+In general Christians and most Jews view these prophecies as messianic:
 
 1. Genesis 49:10 - "The scepter shall not depart from Judah... until tribute comes to him"
 2. Numbers 24:17 - "A star shall come out of Jacob, and a scepter shall rise out of Israel"
-3. Isaiah 11:1-10 - "He shall judge the poor... righteousness shall be his belt"
-4. Jeremiah 23:5 - "He shall REIGN as king and deal wisely"
-5. Micah 5:2 - "One who is to be RULER in Israel"
-6. Zechariah 9:9 - "Your KING is coming to you"
+3. Isaiah 9:6-7 - "Of the increase of his GOVERNMENT... no end... over his KINGDOM"
+4. Isaiah 11:1-10 - "He shall judge the poor... righteousness shall be his belt"
+5. Isaiah 42:1-4 - "He will bring forth justice to the nations"
+6. Jeremiah 23:5-6 - "He shall REIGN as king and deal wisely"
+7. Micah 5:2 - "One who is to be RULER in Israel"
+8. Zechariah 9:9 - "Your KING is coming to you"
+9. Zechariah 14:9 - "The LORD will be king over all the earth"
 
-Christians but only some Jewish groups view these passages as messianic:
+Christians and only some Jewish groups view these passages as messianic:
 
-7. 2 Samuel 7:12-13 - "I will establish the throne of his KINGDOM forever"
-8. Psalm 2:6-8 - "I have set my KING on Zion... I will make the nations your heritage"
-9. Psalm 110:1-4 - "The LORD says to my Lord: 'Sit at my right hand'
-10. Isaiah 9:6-7 - "Of the increase of his GOVERNMENT... no end... over his KINGDOM"
-11. Daniel 7:13-14 - "To him was given dominion and glory and a KINGDOM... everlasting dominion"
+10. 2 Samuel 7:12-13 - "I will establish the throne of his KINGDOM forever"
+11. Psalm 2:6-8 - "I have set my KING on Zion... I will make the nations your heritage"
+12. Psalm 110:1-4 - "The LORD says to my Lord: 'Sit at my right hand'"
+13. Daniel 7:13-14 - "To him was given dominion and glory and a KINGDOM... everlasting dominion"
+14. Zechariah 6:12-13 - "Behold, a man whose name is the Branch... he shall build the temple and shall bear royal glory"
 
 Psalms of Solomon 17 (a non-canonical Jewish text) describes the Messiah as a conquering warrior-king, which differs from the Christian understanding of Jesus's first coming.
 
@@ -70,7 +74,7 @@ If Jesus primary goal was to teach "the Gospel of repentance and salvation", why
 
 Some historians say it was during the time when Paganism was at its peak with the most idolatry. However, idolatry was rampant during many other periods in history too. If this was the reason, why did Jesus not live when Canaan's idolatry was at its peak?
 
-Some Christians would typically point out that Jesus needed the Roman cross to pay for sin. However, the [Bible](https://word.ofgod.info) states it was the blood that paid for the sin, not the cross.
+Some Christians argue that Jesus needed the Roman cross to pay for sin. However, the [Bible](https://word.ofgod.info/downloads) states it was [the blood that paid for the sin](christ/crucifixion.md), not the cross.
 
 ### Background Context
 
@@ -165,8 +169,9 @@ Therefore, a new blood covenant was needed (Jeremiah 31:31-34; Matthew 26:28; Lu
 ### Adoption
 
 God wants to save all of us (1 Timothy 2:4; 2 Peter 3:9)
-* Because God is patient (2 Peter 3:9)
-* Because God is merciful (Ephesians 2:4-5)
+
+- Because God is patient (2 Peter 3:9)
+- Because God is merciful (Ephesians 2:4-5)
 
 This will allow those who are saved to live forever (John 10:10, 14:6; Romans 6:23; 1 John 5:11-13) because God wants to adopt us as his children (Romans 8:15)
 
@@ -177,17 +182,18 @@ This will allow those who are saved to live forever (John 10:10, 14:6; Romans 6:
 God loves us (John 3:16) and He wants to restore the relationship that was broken by sin (Romans 5:10-11; 2 Corinthians 5:18-19) so that He can **restore our original purpose** that we were created for which is to **expand the [Kingdom of God](index.md)** in partnership with Him.
 
 That is why:
-* Jesus ministry was based on expanding the Kingdom of God (Matthew 4:17, 10:7; Mark 1:15; Luke 4:43; 9:2-6)
-* Jesus trained disciples with the truth (Matthew 7:28-29, 28:19-20; Luke 4:22; John 7:46)
-* Jesus demonstrated love and service to his disciples
-* Jesus sent disciples to act in his authority to continue his work (Matthew 28:18-20; Luke 10:1; Acts 1:8) to be witnesses to the lost
+
+- Jesus ministry was based on expanding the Kingdom of God (Matthew 4:17, 10:7; Mark 1:15; Luke 4:43; 9:2-6)
+- Jesus trained disciples with the truth (Matthew 7:28-29, 28:19-20; Luke 4:22; John 7:46)
+- Jesus demonstrated love and service to his disciples
+- Jesus sent disciples to act in his authority to continue his work (Matthew 28:18-20; Luke 10:1; Acts 1:8) to be witnesses to the lost
 
 *Why does the Kingdom of God need to be expanded?*
 
 ### Love
 
-* So that **more people may get to know and love each other** (God's creation) (John 13:34-35)
-* So that **more people may get to know and love God** (John 17:3)
+- So that **more people may get to know and love each other** (God's creation) (John 13:34-35)
+- So that **more people may get to know and love God** (John 17:3)
 
 ### Glory
 
@@ -257,27 +263,41 @@ It is simply not good enough to know about Jesus. We need to follow him by conti
 
 The King promised:
 
-### Reconciliation
+### Reconciliation Promise
 
 > "I am the way, and the truth, and the life. **No one comes to the Father except through me.**" — John 14:6 (ESV)
 
-### Forgiveness
+### Forgiveness Promise
 
 > And he took a cup, and when he had given thanks he gave it to them, saying, "Drink of it, all of you, for this is my blood of the covenant, which is poured out for many for **the forgiveness of sins**." — Matthew 26:27-28 (ESV)
 
-### Salvation
+### Salvation Promise
 
 > "I came that they may have **life and have it abundantly**." — John 10:10 (ESV)
 
-### Adoption
+### Adoption Promise
 
 > “I do not ask for these only, but also for those who will believe in me through their word, that **they may all be one**, just as You, Father, are in me, and I in You, that **they also may be in us**, so that the world may believe that You have sent me. The glory that You have given me I have given to them, that **they may be one even as we are one**, I in them and You in me, that they may become perfectly one, so that the world may know that You sent me and **loved them** even as You loved me. — John 17:20-23 (ESV)
 
 > Pray then like this: “**Our Father** in heaven, hallowed be Your name. — Matthew 6:9 (ESV)
 
-### Purpose
+### Purpose Promise
 
 > "But you will receive power when the Holy Spirit has come upon you, and you will **be my witnesses**." — Acts 1:8 (ESV)
+
+### Love Promise
+
+> "A new commandment I give to you, that you love one another: just as **I have loved you**, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another." — John 13:34-35 (ESV)
+
+### Glory Promise
+
+> "Father, the hour has come; glorify your Son that the Son may glorify you, since you have given him authority over all flesh, to give eternal life to all whom you have given him. And this is eternal life, that they know you the only true God, and Jesus Christ whom you have sent."
+>
+> ...
+>
+> "**The glory that you have given me I have given to them**, that they may be one even as we are one."
+>
+> — John 17:1-3,22-23 (ESV)
 
 ## Next Steps
 
