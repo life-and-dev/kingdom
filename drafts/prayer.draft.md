@@ -282,7 +282,7 @@ However, there are no other laws or recommendations anywhere else in the bible t
 
 Another example or prayer posture is:
 
-> And at the evening sacrifice I rose from my fasting, with my garment and my cloak torn, and **fell upon my knees and spread out my hands** to [the LORD](/god/father/name#yhvh) my God, saying: "O my God..." -- Ezra 9:5-6 (ESV)
+> And at the evening sacrifice I rose from my fasting, with my garment and my cloak torn, and **fell upon my knees and spread out my hands** to [the LORD](/god/father/name#yhwh) my God, saying: "O my God..." -- Ezra 9:5-6 (ESV)
 
 # Praying to Jesus
 

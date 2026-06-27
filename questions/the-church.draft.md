@@ -34,7 +34,7 @@ This does not mean that the example set by the apostles are the only acceptable 
 
 Myth: *God's name is "Lord".*
 
-Truth: Although God identified Himself clearly as יְהוָ֖ה, which directly translates to the Tetragrammaton [YHVH](/god/name/father#yhvh), we noticed that some time before the birth of Jesus, the Jews replaced the God's name "YHVH" with "Adonai" which means "Lord" in English. This is also evident in the Greek manuscripts when the Jews refer to God as simply "Lord".
+Truth: Although God identified Himself clearly as יְהוָ֖ה, which directly translates to the Tetragrammaton [YHWH](/god/name/father#yhvh), we noticed that some time before the birth of Jesus, the Jews replaced the God's name "YHWH" with "Adonai" which means "Lord" in English. This is also evident in the Greek manuscripts when the Jews refer to God as simply "Lord".
 
 The Jews replaced God's name out of respect for the Jewish tradition, of not uttering the sacred name of God, which was based around the concern of misusing the name of God.
 
@@ -155,7 +155,7 @@ In addition, this puts Christians in a difficult position:
 
 Myth: *The concept of the Trinity had always existed, it was only clarified by the church fathers.*
 
-Truth: The concept of [the Trinity contradict the Bible](/bible/doctrines/trinitarian). [There is only 1 God](/bible/concepts/shema), named [YHVH](/god/father/name) or introduced as God the Father by Jesus himself.
+Truth: The concept of [the Trinity contradict the Bible](/bible/doctrines/trinitarian). [There is only 1 God](/bible/concepts/shema), named [YHWH](/god/father/name) or introduced as God the Father by Jesus himself.
 
 This was also one of the creeds proclaimed by the council of Nicaea in 325 to counter Arianism. The idea was invented by [Tertullian](https://en.wikipedia.org/wiki/Tertullian), a North African sect leader, who lived in the previous century, who was also previously rejected by the church.
 
@@ -386,7 +386,7 @@ Another example is that in 1906, William J. Seymour, an African American ministe
 ### Other common misunderstandings
 
 | Myth                                                                                          | Truth                                                                                                                                                                                                           |
-|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | The "name of Jesus" is a phrase (like a magic word) that catches God's attention.             | The word ["name" means authority](/bible/concepts/name). It could be considered as a delegate of Jesus or under submission to Jesus' commands or teachings, you are authorized to request or do certain things. |
 | Paying obeisance to a superior and worshipping God or an idol is often confused.              | Paying obeisance to a human superior is allowed. [Worshipping](/bible/concepts/worship) an idol is forbidden.                                                                                                   |
 | Praise is confused with worship, e.g. singing hymns, dancing and art is considered "worship". | [Praise](/bible/concepts/praise) is a public declaration. [Worship](/bible/concepts/worship) is a sacrifice.                                                                                                    |

@@ -214,7 +214,7 @@ But Jesus even set a higher standard:
 
 ## Who rules over the Kingdom of God?
 
-> **The LORD ([YHVH](https://eternal.family.net.za/god/name#yhvh)) has established his throne in the heavens, and His kingdom rules over all.**
+> **The LORD ([YHWH](https://eternal.family.net.za/god/name#yhwh)) has established his throne in the heavens, and His kingdom rules over all.**
 >
 > Bless the LORD, O you His angels, you mighty ones who do His word, obeying the voice of His word!  
 > Bless the LORD, all His hosts, His ministers, who do His will!  
@@ -318,7 +318,7 @@ Comparison:
 
 Explanation:
 
-1. God the Father ([YHVH](https://eternal.family.net.za/god/name#yhvh)) originally chosen Israel to be His nation.
+1. God the Father ([YHWH](https://eternal.family.net.za/god/name#yhwh)) originally chosen Israel to be His nation.
 2. The Father's invitation is [the Gospel of Salvation](https://eternal.family.net.za/eternal/saved) which leads people to [repentance](https://eternal.family.net.za/eternal/saved/repent) so that they could live in [righteousness with God](https://eternal.family.net.za/bible/concepts/righteousness). 
 3. The purpose of the Gospel to prepare a people group to serve His Son.
 4. This was initially proclaimed by God's servants like John the Baptist, but he was persecuted for doing so.

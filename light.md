@@ -280,7 +280,7 @@ God's glory is light:
 
 > Arise, shine;  
 > For **your light** has come!  
-> And **[the glory](https://eternal.family.net.za/bible/concepts/glory) of the LORD** *([YHVH](https://eternal.family.net.za/bible/father/name#yhvh))* is risen upon you.  
+> And **[the glory](https://eternal.family.net.za/bible/concepts/glory) of the LORD** *([YHWH](https://eternal.family.net.za/bible/father/name#yhwh))* is risen upon you.  
 > For behold, the darkness shall cover the earth,  
 > And deep darkness the people;  
 > But the LORD will arise over you,  

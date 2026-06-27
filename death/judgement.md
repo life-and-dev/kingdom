@@ -22,7 +22,7 @@ and
 >
 > -- Romans 14:10-12 (ESV)
 
-Ultimately the LORD ([YHVH](https://ofgod.info/name#yhvh)) God is the final "Judge of all the earth" (Genesis 18:25; Psalm 7:8-11, 9:7-8,19, 50:4-6, 67:4, 75:2, 96:10-13, 98:9; Isaiah 3:13-14;33:22, 51:5; Jeremiah 11:20; Ezekiel 7:3,8,27). However,
+Ultimately the LORD ([YHWH](https://ofgod.info/name#yhwh)) God is the final "Judge of all the earth" (Genesis 18:25; Psalm 7:8-11, 9:7-8,19, 50:4-6, 67:4, 75:2, 96:10-13, 98:9; Isaiah 3:13-14;33:22, 51:5; Jeremiah 11:20; Ezekiel 7:3,8,27). However,
 
 > Jesus cried out and said, 
 > 

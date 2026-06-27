@@ -9,7 +9,7 @@ The New Covenant is a significant theological concept prophesied by Isaiah. This
 
 ## Parties
 
-[The LORD](https://ofgod.info/name#lord) ([YHVH](https://ofgod.info/name#yhvh)) [God](https://ofgod.info) Himself makes a covenant with:
+[The LORD](https://ofgod.info/name#lord) ([YHWH](https://ofgod.info/name#yhwh)) [God](https://ofgod.info) Himself makes a covenant with:
 
 * [Captives of Zion](#captives-of-zion) (Isaiah 52:1-7)
 * [God's servant](#gods-servant) (Isaiah 52:13-53:12)

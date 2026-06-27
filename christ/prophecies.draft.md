@@ -23,44 +23,44 @@ Jesus claimed that the Old Testament Scriptures testified about him. The questio
 **[Genealogy](#genealogy)**
 
 | Prophet | Prophecy                                                                                                               | Fulfillment                                                                          | Witness | Jesus?    |
-|---------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------|-----------|
+| ------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------- | --------- |
 | Abraham | [In Abraham's offspring shall all nations be blessed](#the-abrahamic-blessing) (Genesis 22:18)                         | Jesus blessed every one by turning them from their wickedness. (Acts 3:25-26, 4:1-2) | Peter   | Debatable |
-| Jacob   | [The scepter shall not depart from Judah](#the-scepter-of-judah) (Genesis 49:10)                                       | Genealogy traces Jesus through Judah's line (Matthew 1:1-2)                          | Matthew | Possibly |
-| Isaiah  | [A judge shall be a descendant of Jesse](#descended-from-jesse) (Isaiah 11:1-5)                                        | Genealogy traces Jesus through Jesse and David (Matthew 1:1-6)                       | Matthew | Possibly |
-| Nathan  | [I will establish the throne of David's offspring forever](#the-davidic-covenant-an-eternal-throne) (2 Samuel 7:12-16) | God gave Jesus the throne of David; his kingdom has no end (Luke 1:32-33)            | Luke    | Possibly |
+| Jacob   | [The scepter shall not depart from Judah](#the-scepter-of-judah) (Genesis 49:10)                                       | Genealogy traces Jesus through Judah's line (Matthew 1:1-2)                          | Matthew | Possibly  |
+| Isaiah  | [A judge shall be a descendant of Jesse](#descended-from-jesse) (Isaiah 11:1-5)                                        | Genealogy traces Jesus through Jesse and David (Matthew 1:1-6)                       | Matthew | Possibly  |
+| Nathan  | [I will establish the throne of David's offspring forever](#the-davidic-covenant-an-eternal-throne) (2 Samuel 7:12-16) | God gave Jesus the throne of David; his kingdom has no end (Luke 1:32-33)            | Luke    | Possibly  |
 
 **[Birth Prophecies](#birth-prophecies)**
 
-| Prophet | Prophecy                                                                                              | Fulfillment                                                         | Witness | Jesus? |
-|---------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------|
-| Micah   | [Born in Bethlehem](#born-in-bethlehem) (Micah 5:2)                                                   | Jesus was born in Bethlehem during Roman census (Luke 2:1-7)        | Luke    | Debatable |
-| Micah | [He shall be Israel's peace when Assyria invade](#born-in-bethlehem) (Micah 5:3-5) | - | Possibly |
-| Isaiah  | [Born of a virgin](#born-of-a-virgin) (Isaiah 7:14)                                                   | Mary conceived by the Holy Spirit (Matthew 1:18-23)                 | Matthew | Debatable |
-| Isaiah  | [Called Wonderful Counselor, Mighty God, Prince of Peace](#titles-of-divine-authority) (Isaiah 9:6-7) | - | - | Assumption |
+| Prophet | Prophecy                                                                                              | Fulfillment                                                  | Witness  | Jesus?     |
+| ------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
+| Micah   | [Born in Bethlehem](#born-in-bethlehem) (Micah 5:2)                                                   | Jesus was born in Bethlehem during Roman census (Luke 2:1-7) | Luke     | Debatable  |
+| Micah   | [He shall be Israel's peace when Assyria invade](#born-in-bethlehem) (Micah 5:3-5)                    | -                                                            | Possibly |
+| Isaiah  | [Born of a virgin](#born-of-a-virgin) (Isaiah 7:14)                                                   | Mary conceived by the Holy Spirit (Matthew 1:18-23)          | Matthew  | Debatable  |
+| Isaiah  | [Called Wonderful Counselor, Mighty God, Prince of Peace](#titles-of-divine-authority) (Isaiah 9:6-7) | -                                                            | -        | Assumption |
 
 **[Ministry and Teaching](#ministry-and-teaching)**
 
-| Prophet | Prophecy                                                                                       | Fulfillment                                                                          | Witness | Jesus? |
-|---------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------|---|
-| Moses   | [A prophet like Moses will speak God's words](#the-prophet-like-moses) (Deuteronomy 18:15,18-19) | Jesus provided food miraculously like Moses (John 6:14); Peter confirmed Jesus' mediator role like Moses (Acts 3:22-26) | Jews, John, Peter | Yes |
-| Isaiah  | [God's beloved servant](#the-beloved-servant-of-god) (Isaiah 42:1-3)      | Jesus healed all and warned them not to make him known (Matthew 12:15-21)           | Matthew | Yes |
-| Isaiah  | [Your children shall be taught by the LORD](#teaching-with-authority) (Isaiah 54:13)          | Jesus taught as one who had authority, not as the scribes (John 6:45-46; Matthew 7:28-29) | John, Matthew |
-| Isaiah  | [Anointed to proclaim good news to the poor](#anointed-to-proclaim-good-news) (Isaiah 61:1-2) | Jesus read Isaiah's prophecy and declared "Today this Scripture has been fulfilled" (Luke 4:17-21) | Luke    | Debatable |
-| Malachi | [Messenger will prepare the way; Lord will suddenly come](#messenger-of-the-covenant) (Malachi 3:1-4) | John the Baptist prepared the way; Jesus came as messenger of the new covenant (Matthew 11:7-11; Mark 1:2; Luke 7:27) | Matthew, Mark, Luke |
+| Prophet | Prophecy                                                                                              | Fulfillment                                                                                                             | Witness             | Jesus?    |
+| ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------- | --------- |
+| Moses   | [A prophet like Moses will speak God's words](#the-prophet-like-moses) (Deuteronomy 18:15,18-19)      | Jesus provided food miraculously like Moses (John 6:14); Peter confirmed Jesus' mediator role like Moses (Acts 3:22-26) | Jews, John, Peter   | Yes       |
+| Isaiah  | [God's beloved servant](#the-beloved-servant-of-god) (Isaiah 42:1-3)                                  | Jesus healed all and warned them not to make him known (Matthew 12:15-21)                                               | Matthew             | Yes       |
+| Isaiah  | [Your children shall be taught by the LORD](#teaching-with-authority) (Isaiah 54:13)                  | Jesus taught as one who had authority, not as the scribes (John 6:45-46; Matthew 7:28-29)                               | John, Matthew       |
+| Isaiah  | [Anointed to proclaim good news to the poor](#anointed-to-proclaim-good-news) (Isaiah 61:1-2)         | Jesus read Isaiah's prophecy and declared "Today this Scripture has been fulfilled" (Luke 4:17-21)                      | Luke                | Debatable |
+| Malachi | [Messenger will prepare the way; Lord will suddenly come](#messenger-of-the-covenant) (Malachi 3:1-4) | John the Baptist prepared the way; Jesus came as messenger of the new covenant (Matthew 11:7-11; Mark 1:2; Luke 7:27)   | Matthew, Mark, Luke |
 
 **[Divine Sonship and Priestly Office](#divine-sonship-and-priestly-office)**
 
-| Prophet  | Prophecy                                                                                                | Fulfillment                                                           | Witness     |
-|----------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------|
-| David    | [You are my Son; today I have begotten you](#divine-sonship-declared) (Psalm 2:7-8, 12)                 | God fulfilled this by raising Jesus from the dead (Acts 13:32-33)     | Paul        |
-| David    | [Sit at my right hand—a priest forever after Melchizedek](#the-lord-at-gods-right-hand) (Psalm 110:1-4) | Jesus ascended and sat at God's right hand (Mark 16:19; Acts 2:33-35) | Mark, Peter |
-| Jeremiah | [A leader will arise who dares approach God](#leader-who-approaches-god) (Jeremiah 30:21)                | Jesus our high priest gives us confidence to approach God's throne (Hebrews 4:14-16; 7:25; 10:19-22) | Author of Hebrews |
-| Isaiah   | [God will lay a foundation stone in Zion](#foundation-stone-in-zion) (Isaiah 28:16)                      | Jesus is the cornerstone; whoever believes in him will not be put to shame (Romans 10:9-11; 1 Peter 2:6-8) | Paul, Peter |
+| Prophet  | Prophecy                                                                                                | Fulfillment                                                                                                | Witness           |
+| -------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- |
+| David    | [You are my Son; today I have begotten you](#divine-sonship-declared) (Psalm 2:7-8, 12)                 | God fulfilled this by raising Jesus from the dead (Acts 13:32-33)                                          | Paul              |
+| David    | [Sit at my right hand—a priest forever after Melchizedek](#the-lord-at-gods-right-hand) (Psalm 110:1-4) | Jesus ascended and sat at God's right hand (Mark 16:19; Acts 2:33-35)                                      | Mark, Peter       |
+| Jeremiah | [A leader will arise who dares approach God](#leader-who-approaches-god) (Jeremiah 30:21)               | Jesus our high priest gives us confidence to approach God's throne (Hebrews 4:14-16; 7:25; 10:19-22)       | Author of Hebrews |
+| Isaiah   | [God will lay a foundation stone in Zion](#foundation-stone-in-zion) (Isaiah 28:16)                     | Jesus is the cornerstone; whoever believes in him will not be put to shame (Romans 10:9-11; 1 Peter 2:6-8) | Paul, Peter       |
 
 **[The Suffering Servant (Isaiah 52-53)](#the-suffering-servant-isaiah-52-53)**
 
 | Prophet | Prophecy                                                                                                                  | Fulfillment                                                                                       | Witness        |
-|---------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------|
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------- |
 | Isaiah  | [Exalted yet his appearance marred beyond human semblance](#exalted-yet-disfigured) (Isaiah 52:13-15)                     | Jesus exalted through resurrection after brutal crucifixion suffering                             | Gospel writers |
 | Isaiah  | [No form or majesty that we should look at him](#no-external-beauty) (Isaiah 53:1-2)                                      | Jesus grew up in humble circumstances as carpenter's son from Nazareth (John 1:46)                | John           |
 | Isaiah  | [Despised and rejected, bore our griefs](#despised-and-rejected) (Isaiah 53:3-4)                                          | His own people did not receive him; even his brothers didn't believe (John 1:11; 7:5)             | John           |
@@ -72,7 +72,7 @@ Jesus claimed that the Old Testament Scriptures testified about him. The questio
 **[Crucifixion Foretold (Psalm 22)](#crucifixion-foretold-psalm-22)**
 
 | Prophet | Prophecy                                                                                              | Fulfillment                                                                               | Witness       |
-|---------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------|
+| ------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------- |
 | David   | [My God, my God, why have you forsaken me?](#cry-of-forsakenness) (Psalm 22:1)                        | Jesus quoted this exact phrase from the cross (Matthew 27:46)                             | Matthew       |
 | David   | [He trusts in the LORD; let him deliver him](#mocking-words) (Psalm 22:7-8)                           | Mockers unknowingly quoted Psalm 22 verbatim as they derided Jesus (Matthew 27:39-43)     | Matthew       |
 | David   | [They have pierced my hands and feet](#pierced-hands-and-feet) (Psalm 22:16-17)                       | Crucifixion nails through hands and feet; Thomas saw the wounds (John 20:27)              | John          |
@@ -81,7 +81,7 @@ Jesus claimed that the Old Testament Scriptures testified about him. The questio
 **[Specific Events of Passion Week](#specific-events-of-passion-week)**
 
 | Prophet   | Prophecy                                                                                                             | Fulfillment                                                                                 | Witness       |
-|-----------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------|
+| --------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- |
 | Zechariah | [King coming humble, mounted on a donkey](#triumphal-entry-on-a-donkey) (Zechariah 9:9)                              | Jesus entered Jerusalem on a donkey's colt; crowd shouted "King of Israel!" (John 12:12-16) | John          |
 | Zechariah | [Betrayed for thirty pieces of silver](#betrayed-for-thirty-pieces-of-silver) (Zechariah 11:12)                      | Judas betrayed Jesus for exactly thirty pieces of silver (Matthew 26:14-15)                 | Matthew       |
 | Zechariah | [Silver thrown in temple, used for potter's field](#money-thrown-in-temple-used-for-potters-field) (Zechariah 11:13) | Judas threw silver into temple; priests bought potter's field (Matthew 27:3-7)              | Matthew       |
@@ -91,7 +91,7 @@ Jesus claimed that the Old Testament Scriptures testified about him. The questio
 **[Resurrection and Exaltation](#resurrection-and-exaltation)**
 
 | Prophet | Prophecy                                                                                               | Fulfillment                                                                                      | Witness                       |
-|---------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------|
+| ------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------- |
 | Moses   | [The seed of the woman will crush the serpent's head](#the-seed-of-the-woman) (Genesis 3:15)           | Jesus destroyed the works of the devil through his death (John 8:44; Romans 16:20; Hebrews 2:14) | John, Paul, Author of Hebrews |
 | David   | [You will not let your holy one see corruption](#not-abandoned-to-the-grave) (Psalm 16:10-11)          | Jesus rose from the dead before body could decay (Acts 2:29-32)                                  | Peter                         |
 | Hosea   | [After three days he will raise us up](#resurrection-on-the-third-day) (Hosea 6:2; Mark 8:31)          | Jesus rose on the third day after crucifixion (Matthew 28:1, 5-6)                                | Matthew                       |
@@ -100,9 +100,9 @@ Jesus claimed that the Old Testament Scriptures testified about him. The questio
 
 **[Timeline: When the Messiah Would Come](#timeline-when-the-messiah-would-come)**
 
-| Prophet | Prophecy                                                                                       | Fulfillment                                                                          | Witness |
-|---------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------|
-| Daniel  | [Anointed one will be cut off after 69 weeks](#daniels-seventy-weeks) (Daniel 9:24-26)        | Jesus appeared, was crucified, accomplished atonement before Jerusalem destroyed 70 AD | Multiple |
+| Prophet | Prophecy                                                                               | Fulfillment                                                                            | Witness  |
+| ------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------- |
+| Daniel  | [Anointed one will be cut off after 69 weeks](#daniels-seventy-weeks) (Daniel 9:24-26) | Jesus appeared, was crucified, accomplished atonement before Jerusalem destroyed 70 AD | Multiple |
 
 ## Genealogy
 
@@ -664,7 +664,7 @@ The Melchizedek reference is significant—this priesthood predates and transcen
 
 Jesus used this psalm to challenge the Pharisees' understanding:
 
-> Now while the Pharisees were gathered together, Jesus asked them a question, saying, "What do you think about the Christ? Whose son is he?" They said to him, "The son of David." He said to them, "How is it then that David, in the Spirit, calls him Lord, saying, **'The LORD (YHVH) said to my Lord, sit at My right hand, until I put your enemies under your feet'?** If then David calls him Lord, how is he his son?" And no one was able to answer him a word. — Matthew 22:41-46 (ESV)
+> Now while the Pharisees were gathered together, Jesus asked them a question, saying, "What do you think about the Christ? Whose son is he?" They said to him, "The son of David." He said to them, "How is it then that David, in the Spirit, calls him Lord, saying, **'The LORD (YHWH) said to my Lord, sit at My right hand, until I put your enemies under your feet'?** If then David calls him Lord, how is he his son?" And no one was able to answer him a word. — Matthew 22:41-46 (ESV)
 
 After his resurrection, Jesus ascended to this position:
 

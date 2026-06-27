@@ -73,7 +73,7 @@ or the JPS Tanakh considered it a name that should not be translated:
 
 It was prophesied:
 
-> All your sons will be taught of [Yahweh](/god/father/name#yhvh); And the peace of your sons will be great. -- Isaiah 54:13 (LSB)
+> All your sons will be taught of [Yahweh](/god/father/name#yhwh); And the peace of your sons will be great. -- Isaiah 54:13 (LSB)
 
 Some use this verse as evidence that Jesus is God, because Jesus quoted this verse (John 6:45) and Jesus himself was a teacher. However, Isaiah did not say that God is the only teacher. It also ignores the previous verses John 6:43-44 where Jesus said "no one can come to me **unless the Father** who sent me draws him". Jesus was God's delegated teacher (John 8:28; 12:49-50).
 
@@ -148,9 +148,9 @@ And Jesus addressed the Father as his Lord:
 
 # Jesus is the Lord
 
-People get confused because God Almighty's name, which directly transliterates to [YHVH](/god/father/name#yhvh), was replaced with "[the Lord](/god/father/name#lord)" which happens to be exactly what Jesus is also called in the New Testament. For example compare Romans 14:10-12 which is supposed to quote Isaiah 45:18, 22-23. The "God" of Romans does not refer to Jesus, but instead refers to the [YHVH](/god/father/name#yhvh) of the Old Testament.
+People get confused because God Almighty's name, which directly transliterates to [YHWH](/god/father/name#yhwh), was replaced with "[the Lord](/god/father/name#lord)" which happens to be exactly what Jesus is also called in the New Testament. For example compare Romans 14:10-12 which is supposed to quote Isaiah 45:18, 22-23. The "God" of Romans does not refer to Jesus, but instead refers to the [YHWH](/god/father/name#yhwh) of the Old Testament.
 
-To proof that Jesus is [YHVH](/god/father/name#yhvh), some would Phillipans 2:10-11 out of context:
+To proof that Jesus is [YHWH](/god/father/name#yhwh), some would Phillipans 2:10-11 out of context:
 
 > At **the name of Jesus** every knee should bow, in heaven and on earth and under the earth, and every tongue **confess that Jesus Christ is Lord** -- Philippians 2:10-11 (ESV)
 
@@ -158,7 +158,7 @@ However, the previous verse state:
 
 > Therefore, God *(the Father)* has highly exalted him *(the Son)* and bestowed on him **the [name](/bible/concepts/name) that is above every name**... -- Philippians 2:9 (ESV)
 
-Which means Jesus received his [name](/bible/concepts/name) (authority) from God (Matthew 26:53; 28:18; John 5:19,22-23; 12:49-50; 17:2; Acts 2:36) as [the Son of God](/god/son/of-god) (God's delegate). Jesus does not have to be [YHVH](/god/father/name#yhvh) or God Himself to rule as "the Lord" over God's creation.
+Which means Jesus received his [name](/bible/concepts/name) (authority) from God (Matthew 26:53; 28:18; John 5:19,22-23; 12:49-50; 17:2; Acts 2:36) as [the Son of God](/god/son/of-god) (God's delegate). Jesus does not have to be [YHWH](/god/father/name#yhwh) or God Himself to rule as "the Lord" over God's creation.
 
 # Creation
 

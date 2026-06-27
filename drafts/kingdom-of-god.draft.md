@@ -114,7 +114,7 @@ James also warned:
 
 # Who rules over the Kingdom of God?
 
-> **The LORD ([YHVH](/god/name#yhvh)) has established his throne in the heavens, and His kingdom rules over all.**
+> **The LORD ([YHWH](/god/name#yhwh)) has established his throne in the heavens, and His kingdom rules over all.**
 >
 > Bless the LORD, O you His angels, you mighty ones who do His word, obeying the voice of His word!  
 > Bless the LORD, all His hosts, His ministers, who do His will!  
@@ -218,7 +218,7 @@ Comparison:
 
 Explanation:
 
-1. God the Father ([YHVH](/god/name#yhvh)) originally chosen Israel to be His nation.
+1. God the Father ([YHWH](/god/name#yhwh)) originally chosen Israel to be His nation.
 2. The Father's invitation is [the Gospel of Salvation](/eternal/saved) which leads people to [repentance](/eternal/saved/repent) so that they could live in [righteousness with God](/bible/concepts/righteousness). 
 3. The purpose of the Gospel to prepare a people group to serve His Son.
 4. This was initially proclaimed by God's servants like John the Baptist, but he was persecuted for doing so.
@@ -564,7 +564,7 @@ Some church denomination even claims to be [the body of Christ](/kingdom/body). 
 | Contributions are focussed on supporting the body or serving non-believers | Contributions are focussed to maintain the church system                          |
 | Often God's Spirit deliver a message through multiple members as He guides | Usually a single preacher deliver a planned sermon                                |
 | Meetings are interactive, flexible and informal                            | Church services are non-interactive, structured and formal                        |
-| Serve in humility with often no recognition                                | Serve a hierarchical system recognized by titles, special seats and public honour  |
+| Serve in humility with often no recognition                                | Serve a hierarchical system recognized by titles, special seats and public honour |
 | Often doing dangerous tasks or suffer persecution                          | Often convenient in the safety of the church                                      |
 
 When any group of people meet, it is natural for a leader to arise and to guide the group such that there is order and collaboration. But this does not mean that the leader owns the group or is more important than the group. It is only a function in "the body" (Ephesians 4:11-12). Jesus warned that leaders should serve the group in humility, instead of claiming special titles (Matthew 23:1-12).

@@ -5,11 +5,11 @@ keywords: Jesus Christ, Messiah, Kingdom of God, Gospel of the Kingdom, reconcil
 
 # Christ
 
-The "LORD" (also known as [Yahweh or Jehovah](https://ofgod.info/name#yhvh)) God originally [created our world](https://eternal.family.net.za/creation) to be very good (Genesis 1:31). 
+The "LORD" (also known as [Yahweh or Jehovah](https://ofgod.info/name#yhwh)) God originally [created our world](https://eternal.family.net.za/creation) to be very good (Genesis 1:31). 
 
-> And [the LORD](https://ofgod.info/name#lord) [God](https://ofgod.info) planted a garden in Eden, in the east, and there he put [the man whom he had formed](https://eternal.family.net.za/creation/human). And out of the ground the [LORD](https://ofgod.info/name#yhvh) God made to spring up every tree that is pleasant to the sight and good for food. — Genesis 2:8-9 (ESV)
+> And [the LORD](https://ofgod.info/name#lord) [God](https://ofgod.info) planted a garden in Eden, in the east, and there he put [the man whom he had formed](https://eternal.family.net.za/creation/human). And out of the ground the [LORD](https://ofgod.info/name#yhwh) God made to spring up every tree that is pleasant to the sight and good for food. — Genesis 2:8-9 (ESV)
 
-The [LORD](https://ofgod.info/name#yhvh) GOD commanded:
+The [LORD](https://ofgod.info/name#yhwh) GOD commanded:
 
 > "You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall **not** eat, for in the day that you eat of it you shall surely die." — Genesis 2:16-17 (ESV)
 

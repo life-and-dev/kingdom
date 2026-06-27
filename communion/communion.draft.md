@@ -25,7 +25,7 @@ The very first "Lord's Supper" was originally called "the [LORD](/god/father/nam
 
 Unfortunately, modern churches [changed the name of this feast](terminology) to create the idea that the original feast had been replaced with a new sacrament supposedly instituted by Jesus. However, Jesus did not hold "the Lord's Supper" or "Holy Communion" or "The Mass" or any of these "sacraments" that some "churches" invented. Jesus was simply celebrating "the LORD's Passover" as instructed by Moses. 
 
-Also note that "LORD" of "the LORD's Passover" is written in capital letters which mean it was [YHVH](/god/father/name)'s feast. In other words, the feast was not Jesus' invention. Jesus celebrated an existing feast at that time.
+Also note that "LORD" of "the LORD's Passover" is written in capital letters which mean it was [YHWH](/god/father/name)'s feast. In other words, the feast was not Jesus' invention. Jesus celebrated an existing feast at that time.
 
 > Now on **the first day of Unleavened Bread** the disciples came to Jesus, saying, “Where will you have us prepare for you to eat **the Passover**?”<br/>
 > He said, “Go into the city to a certain man and say to him, ‘The Teacher says, My time is at hand. I will keep **the Passover** at your house with my disciples.’”

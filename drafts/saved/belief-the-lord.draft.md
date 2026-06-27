@@ -120,7 +120,7 @@ In a practical sense the bread is considered the teachings of God which Christ t
 
 > God longs “that **every tongue should confess** that **Jesus Christ is Lord**” - Philippians 2:11
 
-Note that "[Lord](/god/father/name)" means "master". It is often confused with "the LORD" (usually uppercase) which is the English translation of Hebrew name [יְהוָֽה](/god/father/name#yhvh) which is God's name.
+Note that "[Lord](/god/father/name)" means "master". It is often confused with "the LORD" (usually uppercase) which is the English translation of Hebrew name [יְהוָֽה](/god/father/name#yhwh) which is God's name.
 
 ## Jesus is still alive
 
