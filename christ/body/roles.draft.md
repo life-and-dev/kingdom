@@ -2,7 +2,7 @@
 
 ## Christ
 
-> He *(the God of Jesus Christ)* worked in Christ when He raised him from the dead and seated him at His right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come. And He put all things under his feet and gave him as **head over all things to the church, which is his body**, the fullness of Him who fills all in all. -- Ephesians 1:20-23 (ESV)
+> He *[he God of Jesus Christ]* worked in [Christ](../../christ.md) when He raised him from the dead and seated him at His right hand in the heavenly places, far above all rule and authority and power and dominion, and above every [name that is named](https://word.ofgod.info/terms/name), not only in this age but also in the one to come. And He put all things under his feet and gave him as **head over all things to the church, which is [his body](../body.md)**, the fullness of Him who fills all in all. -- Ephesians 1:20-23 (ESV)
 
 ## Overseers
 
@@ -25,7 +25,7 @@
 > If anyone aspires to the office of overseer, he desires a noble task. Therefore an overseer
 >
 > * must be above reproach,
-> * the husband of one wife (Proverbs 31:3),
+> * the husband of one wife,
 > * sober-minded,
 > * self-controlled,
 > * respectable,
@@ -36,11 +36,11 @@
 > * not quarrelsome,
 > * not a lover of money.
 >
-> He must manage his own household well, with all dignity keeping his children submissive, for if someone does not know how to manage his own household, how will he care for God's church?
+> He must **manage his own household well**, with all dignity keeping his children submissive, for if someone does not know how to manage his own household, how will he care for God's church?
 >
-> He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil.
+> He must **not be a recent convert**, or he may become puffed up with conceit and fall into the condemnation of the devil.
 >
-> Moreover, he must be well thought of by outsiders, so that he may not fall into disgrace, into a snare of the devil.
+> Moreover, he **must be well thought of by outsiders**, so that he may not fall into disgrace, into a snare of the devil.
 >
 > -- 1 Timothy 3:1-7 (ESV)
 
@@ -60,31 +60,65 @@
 
 > Servants, be **subject to your masters with all respect**, not only to the good and gentle but also to the unjust. For this is a gracious thing, when, mindful of God, one endures sorrows while suffering unjustly. For what credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God. For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps. He committed no sin, neither was deceit found in his mouth. When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to Him who judges justly. -- 1 Peter 2:18-23 (ESV)
 
-## Elderly and the young
+## Teachers
 
-> Older men are to be sober-minded, dignified, self-controlled, sound in faith, in love, and in steadfastness. Older men are to be sober-minded, dignified, self-controlled, sound in faith, in love, and in steadfastness.
+> But as for you, teach what accords with **sound doctrine**...
+> 
+> Show yourself in all respects to be **a model of good works**, and in your teaching 
+> - show integrity, 
+> - dignity, and 
+> - sound speech that cannot be condemned, 
+> 
+> so that an opponent may be put to shame, having nothing evil to say about us.
 >
-> Older women likewise are to be reverent in behavior, not slanderers or slaves to much wine. They are to teach what is good,  and so train the young women to love their husbands and children, to be self-controlled, pure, working at home, kind, and submissive to their own husbands, that the word of God may not be reviled.
+> -- Titus 2:1,7-8 (ESV)
+
+## Older Men
+
+> Older men are to be 
+> * sober-minded, 
+> * dignified, 
+> * self-controlled, 
+> * sound in faith, in love, and in steadfastness.
 >
-> Likewise, urge the younger men to be self-controlled.
+> -- Titus 2:2 (ESV)
+
+## Older Women
+
+> Older women likewise are to be 
+> * reverent in behavior, 
+> * not slanderers or 
+> * slaves to much wine. 
+> 
+> They are to teach what is good, and so train the young women
+> * to love their husbands and children, 
+> * to be self-controlled, 
+> * pure, 
+> * working at home, 
+> * kind, and 
+> * submissive to their own husbands, that the word of God may not be reviled.
 >
-> -- Titus 2:2-6 (ESV)
+> -- Titus 2:3-5 (ESV)
+
+## Younger Men
+
+> Likewise, **urge the younger men to be self-controlled**. -- Titus 2:6 (ESV)
 
 ## Husbands
 
-> “For the man who does not **love his wife** but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.” — Malachi 2:16 (ESV)
+> “For the man who does not **love his wife** but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and **do not be faithless**.” — Malachi 2:16 (ESV)
 
-> Husbands, **love your wives, as Christ** loved the church and gave himself up for her, that he might sanctify her, having **cleansed her by the washing of water with the word**, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. In the same way **husbands should love their wives as their own bodies**. He who loves his wife loves himself. For no one ever hated his own flesh, but **nourishes and cherishes it, just as Christ** does the church, because we are members of his body.
+> Husbands, **love your wives**, as Christ loved *the church* and gave himself up for her, that he might sanctify her, having **cleansed her by the washing of water with the word**, so that he might present *the church* to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. In the same way **husbands should love their wives as their own bodies**. He who loves his wife loves himself. For no one ever hated his own flesh, but **nourishes and cherishes it, just as Christ** does *the church*, because we are members of his body.
 >
 >> “Therefore a man shall leave his father and mother and **hold fast to his wife**, and the two shall become one flesh.” -- Genesis 2:24
 >
-> This mystery is profound, and I am saying that it refers to Christ and the church. However, let each one of you **love his wife as himself.**
+> This mystery is profound, and I am saying that it refers to Christ and *the church*. However, let each one of you **love his wife as himself.**
 >
 > -- Ephesians 5:25-33 (ESV)
 
 > Husbands, **love your wives**, and **do not be harsh with them**. -- Colossians 3:19 (ESV)
 
-> For you were straying like sheep, but have now returned to **the Shepherd and Overseer of your souls**... **Likewise, husbands, live with your wives in an understanding way, showing honor to the woman** as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered.  -- 1 Peter 2:25, 3:7 (ESV)
+> For you were straying like sheep, but have now returned to **the Shepherd and Overseer of your souls**... **Likewise, husbands, live with your wives in an understanding way**, **showing honor to the woman as the weaker vessel**, since they are heirs with you of the grace of life, so that your prayers may not be hindered. -- 1 Peter 2:25, 3:7 (ESV)
 
 ## Wives
 
@@ -117,19 +151,25 @@
 >
 > If any believing woman has **relatives who are widows, let her care for them**. Let the church not be burdened, so that it may care for those who are truly widows. -- 1 Timothy 5:9-10,14,16 (ESV)
 
-> For you were straying like sheep, but have now **returned to the Shepherd and Overseer of your souls**. **Likewise**, wives, be **subject to your own husbands**, so that even if some do not obey the word, they may be won without a word by the conduct of their wives, when they see your respectful and pure conduct. Do not let your adorning be external (the braiding of hair and the putting on of gold jewelry, or the clothing you wear) but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God’s sight is very precious. For this is how the holy women who hoped in God used to adorn themselves, by **submitting to their own husbands**, as Sarah obeyed Abraham, calling him lord. And you are her children, if you do good and do not fear anything that is frightening. -- 1 Peter 2:25-3:6
+> For you were straying like sheep, but have now **returned to the Shepherd and Overseer of your souls**. **Likewise**, wives, be **subject to your own husbands**, so that even if some do not obey the word, they may be won without a word by the conduct of their wives, when they **see your respectful and pure conduct**. 
+> 
+> Do not let your adorning be external (the braiding of hair and the putting on of gold jewelry, or the clothing you wear) but let your adorning be the hidden person of the heart with the imperishable beauty of **a gentle and quiet spirit**, which in God’s sight is very precious.
+> 
+> For this is how the holy women who hoped in God used to adorn themselves, by **submitting to their own husbands**, as Sarah obeyed Abraham, calling him lord. And you are her children, if you do good and do not fear anything that is frightening. 
+> 
+> -- 1 Peter 2:25-3:6
 
 ## Parents
 
-> Hear, O Israel:
+> Hear, O Israel: 
+> 
+> The LORD our God, the LORD is one.
 >
-> [The LORD our God, the LORD is one.](https://son.ofgod.info/shema)
->
-> You shall love the LORD your God with all your heart and with all your soul and with all your might. And these words that I command you today shall be on your heart. You shall **teach them diligently to your children**, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.
+> You shall **love the LORD your God with all your heart and with all your soul and with all your might**. And these words that I command you today shall be on your heart. You shall **teach them diligently to your children**, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.
 >
 > -- Deuteronomy 6:4-7 (ESV)
 
-> Train up a child in the way he should go; even when he is old he will not depart from it. -- Proverbs 22:6 (ESV)
+> **Train up a child** in the way he should go; even when he is old he will not depart from it. -- Proverbs 22:6 (ESV)
 
 > Fathers, **do not provoke your children to anger**, but bring them up in the discipline and instruction of the Lord. -- Ephesians 6:4 (ESV)
 
@@ -139,31 +179,40 @@
 
 ## Children
 
-> Children, **obey your parents** in the Lord, for this is right. “Honor your father and mother” (this is the first commandment with a promise), “that it may go well with you and that you may live long in the land.” -- Ephesians 6:1-3 (ESV)
+> Children, **obey your parents** in the Lord, for this is right. 
+> 
+>> “**Honor your father and mother**” (this is the first commandment with a promise), “that it may go well with you and that you may live long in the land.” 
+>
+> -- Ephesians 6:1-3 (ESV)
 
 > Children, **obey your parents** in everything, for this pleases the Lord. -- Colossians 3:20 (ESV)
 
-> But if a widow has children or grandchildren, let them first learn to show godliness to their own household and to **make some return to their parents**, for this is pleasing in the sight of God. -- 1 Timothy 5:8 (ESV)
+> But if a widow has children or grandchildren, let them first learn to **show godliness to their own household** and to **make some return to their parents**, for this is pleasing in the sight of God. -- 1 Timothy 5:8 (ESV)
 
 > Hear, my son, and be wise, and direct your heart in the way.
 >
-> Be not among drunkards or among gluttonous eaters of meat, for the drunkard and the glutton will come to poverty, and slumber will clothe them with rags.
+> Be **not among drunkards or among gluttonous eaters** of meat, for the drunkard and the glutton will come to poverty, and slumber will clothe them with rags.
 >
-> Listen to your father who gave you life, and do not despise your mother when she is old.
+> **Listen to your father** who gave you life, and **do not despise your mother** when she is old.
 >
-> Buy truth, and do not sell it; buy wisdom, instruction, and understanding.
+> **Buy truth**, and do not sell it; **buy wisdom, instruction, and understanding**.
 >
-> The father of the righteous will greatly rejoice; he who fathers a wise son will be glad in him. Let your father and mother be glad; let her who bore you rejoice.
+> The father of the righteous will greatly rejoice; **he who fathers a wise son will be glad** in him. **Let your father and mother be glad**; **let her who bore you rejoice**.
 >
-> My son, give me your heart, and let your eyes observe my ways.
+> My son, give me your heart, and **let your eyes observe my ways**.
 >
-> For a prostitute is a deep pit; an adulteress is a narrow well. She lies in wait like a robber and increases the traitors among mankind.
->
-> -- Proverbs 23:19-28 (ESV)
+> -- Proverbs 23:19-26 (ESV)
 
-* 1 Timothy 4:12: Paul tells Timothy, "Don't let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity." This passage shows that children can be role models for other believers, even though they are young.
+> Don't let anyone look down on you because you are young, but **set an example for the believers** 
+> - in speech, 
+> - in conduct, 
+> - in love, 
+> - in faith and 
+> - in purity. 
+> 
+> -- 1 Timothy 4:12 (ESV)
 
-## Other members
+## Members
 
 * Galatians 6:2: "Carry each other's burdens, and in this way you will fulfill the law of Christ."
 * 1 Corinthians 12:26: "If one member suffers, all the members suffer with it; if one member is honored, all the members rejoice with it."
