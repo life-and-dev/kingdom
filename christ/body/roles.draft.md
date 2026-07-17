@@ -1,5 +1,7 @@
 # Roles in the Body of Christ
 
+This is a collection of scriptures that address the distinct roles of the members of the Body of Christ and how they should treat each other from their positions.
+
 ## Christ
 
 > He *[he God of Jesus Christ]* worked in [Christ](../../christ.md) when He raised him from the dead and seated him at His right hand in the heavenly places, far above all rule and authority and power and dominion, and above every [name that is named](https://word.ofgod.info/terms/name), not only in this age but also in the one to come. And He put all things under his feet and gave him as **head over all things to the church, which is [his body](../body.md)**, the fullness of Him who fills all in all. -- Ephesians 1:20-23 (ESV)
@@ -108,7 +110,7 @@
 
 > “For the man who does not **love his wife** but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and **do not be faithless**.” — Malachi 2:16 (ESV)
 
-> Husbands, **love your wives**, as Christ loved *the church* and gave himself up for her, that he might sanctify her, having **cleansed her by the washing of water with the word**, so that he might present *the church* to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. In the same way **husbands should love their wives as their own bodies**. He who loves his wife loves himself. For no one ever hated his own flesh, but **nourishes and cherishes it, just as Christ** does *the church*, because we are members of his body.
+> Husbands, **love your wives, as Christ loved *the church* and gave himself up for her**, that he might **[sanctify](https://word.ofgod.info/terms/sanctification) her**, having **cleansed her by the washing of water with the word**, so that he might present *the church* to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. In the same way **husbands should love their wives as their own bodies**. He who loves his wife loves himself. For no one ever hated his own flesh, but **nourishes and cherishes it, just as Christ** does *the church*, because we are members of his body.
 >
 >> “Therefore a man shall leave his father and mother and **hold fast to his wife**, and the two shall become one flesh.” -- Genesis 2:24
 >
@@ -212,11 +214,28 @@
 > 
 > -- 1 Timothy 4:12 (ESV)
 
-## Members
+## Fellow Members
 
-* Galatians 6:2: "Carry each other's burdens, and in this way you will fulfill the law of Christ."
-* 1 Corinthians 12:26: "If one member suffers, all the members suffer with it; if one member is honored, all the members rejoice with it."
-* Romans 12:5: "So in Christ we, though many, form one body, and each member belongs to all the others."
+> For by the grace given to me I say to everyone among you **not to think of himself more highly than he ought to think**, but to think with sober judgment, each according to the measure of faith that God has assigned. For as in one body we have many members, and the members do not all have the same function, so we, though many, are one body in Christ, and individually members one of another. Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith; if service, in our serving; the one who teaches, in his teaching; the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness.
+>
+> Let **[love](https://word.ofgod.info/terms/love) be genuine**. Abhor what is evil; hold fast to what is good. **Love one another with brotherly affection**. 
+> 
+> Outdo one another in **showing honor**. 
+> 
+> **Do not be slothful in zeal**, be fervent in spirit, serve the Lord. 
+> 
+> **Rejoice** in hope, **be patient** in tribulation, **be constant in prayer**. 
+> 
+> **Contribute to the needs of the saints** and seek to **show hospitality**.
+>
+> -- Romans 12:3-13 (ESV) 
+
+> Let us **not become conceited, provoking one another, envying one another**. 
+> 
+> Brothers, if anyone is caught in any transgression, you who are spiritual should **restore him in a spirit of gentleness**. Keep watch on yourself, lest you too be tempted. Bear one another’s burdens, and so fulfill the law of Christ. For if anyone thinks he is something, when he is nothing, he deceives himself. But let each one test his own work, and then his reason to boast will be in himself alone and not in his neighbor. For each will have to bear his own load.
+>
+> -- Galatians 5:26-6:5 (ESV)
+
 * Ephesians 4:15-16: "Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ. From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work."
 * 1 Peter 4:10: "As each has received a gift, use it to serve one another, as good stewards of God's varied grace."
 * Hebrews 10:24-25: "And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching."
