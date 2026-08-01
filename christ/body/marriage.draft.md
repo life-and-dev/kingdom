@@ -7,151 +7,261 @@ keywords: biblical marriage order, husband and wife, marital headship, mutual ma
 
 This article tests popular marriage claims by Scripture.
 
-## Creation, Fall, and Covenant
+## Creation and Fall
 
-### [Genesis 1:26-28](https://www.esv.org/Genesis+1%3A26-28/): Shared Image and Dominion
+### Shared Image and Dominion
 
-**Speaker, audience, setting, purpose.** God speaks within the creation account. Moses records it for Israel. The setting is the sixth day before the fall. The passage gives humanity's shared creation in God's image and shared dominion.
+God speaks within the creation account. Moses records it for Israel. The setting is the sixth day before the fall. The passage gives humanity's shared creation in God's image and shared dominion.
 
-> Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.” So God created man in his own image, in the image of God he created him; male and female he created them. And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
+> Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
 >
-> Genesis 1:26-28 (ESV)
+> So God created man in His own image, in the image of God He created him; **male and female He created them**. And God blessed them.
+>
+> And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
+>
+> -- Genesis 1:26-28 (ESV)
 
-**Direct statement.** Male and female bear God's image, receive God's blessing, and are jointly addressed about fruitfulness and dominion. **Inference and application.** This establishes shared image and created task. It does not use the phrase “equal authority” or define every responsibility within marriage.
+Male and female bear God's image, receive God's blessing, and are jointly addressed about fruitfulness and dominion. This establishes shared image and created task. It does not imply “equal authority”, but instead refer to their shared purpose.
 
-### [Genesis 2:18, 21-24](https://www.esv.org/Genesis+2%3A18%2C21-24/): Corresponding Helper and One Flesh
+### Corresponding Helper and One Flesh
 
-**Speaker, audience, setting, purpose.** The LORD God speaks and acts in the creation account, recorded by Moses for Israel. The setting is before the fall. The passage explains the formation of the woman and the origin of the one-flesh union.
+The LORD God speaks and acts in the creation account, recorded by Moses for Israel. The setting is before the fall. The passage explains the formation of the woman and the origin of the one-flesh union.
 
-> Then the LORD God said, “It is not good that the man should be alone; I will make him a helper fit for him.”
+> Then the LORD God said, “It is not good that the man should be alone; I will make him a **helper fit for him**.”
 >
 > So the LORD God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh. And the rib that the LORD God had taken from the man he made into a woman and brought her to the man. Then the man said,
 >
-> “This at last is bone of my bones
-> and flesh of my flesh;
-> she shall be called Woman,
-> because she was taken out of Man.”
+> “This at last is bone of my bones and flesh of my flesh. She shall be called Woman, because she was taken out of Man.”
 >
-> Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.
+> Therefore a man shall leave his father and his mother and hold fast to his wife, and **they shall become one flesh**.
 >
-> Genesis 2:18, 21-24 (ESV)
+> -- Genesis 2:18,21-24 (ESV)
 
-**Direct statement.** The woman is a helper fit for the man, literally corresponding to him in the ESV wording, and husband and wife become one flesh. **Inference and application.** “Helper” does not itself state inferiority. The passage does show an order in the woman's formation, an order Paul later cites. It does not supply an unlimited or identical authority category.
+*["Happy wife, happy life"](https://marriagefoundation.org.uk/research/happy-wife-happy-life/)* they say. Often it is implied that in modern marriage the husband's primary role is to please his wife. On the surface, modern men are often labelled as "lacking commitment" and "being selfish". But the root cause is that modern marriage, especially in the western culture, is a bad deal for men.
 
-### [Genesis 3:16](https://www.esv.org/Genesis+3%3A16/): A Post-Fall Declaration
+However, Moses recorded that the woman is a "helper fit for the man", not the other way around.
 
-**Speaker, audience, setting, purpose.** God speaks to the woman after human sin. Moses records the judgement scene for Israel. The purpose is to declare consequences of the fall, not to issue a creation command.
+The Hebrew [עֵזֶר (*ezer*)](https://biblehub.com/hebrew/5828.htm) is translated as "helper". However, unlike English, this word itself does not state inferiority. God Himself is called "helper" in Exodus 18:4, Deuteronomy 33:7,26,29; Psalm 33:20; 54:4; 70:5; 115:9-11; 121:1-2; and 124:8. Hebrews 13:6 also says, “The Lord is my helper,” echoing Psalm 118:6.
+
+In these passages, God as helper supplies strength, protection, rescue, and support to people who need him. Therefore, *ezer* does not mean a lesser or merely domestic assistant. The word alone neither makes the woman divine nor a personal slave.
+
+### Adam's Enduring Consequences
+
+God **first called Adam** to account after the sin, before he addressed Eve (Genesis 3:9,13). The account therefore presents Adam as responsible for the sin.
+
+Paul identifies Adam, rather than Eve, as the one through whom sin and death entered the world:
+
+> Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned.
+>
+> -- Romans 5:12 (ESV)
+
+> For as by a man came death, by a man has come also the resurrection of the dead. For as in Adam all die, so also in Christ shall all be made alive.
+>
+> -- 1 Corinthians 15:21-22 (ESV)
+
+God imposed enduring consequences on Adam:
+
+> And to Adam he said,
+>
+> “**Because you have listened to the voice of your wife** and have eaten of the tree of which I commanded you, ‘You shall not eat of it,’ cursed is the ground because of you: in pain you shall eat of it all the days of your life; thorns and thistles it shall bring forth for you; and you shall eat the plants of the field. By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.”
+>
+> -- Genesis 3:17-19 (ESV)
+
+Notice how the responsibility to provide was given to Adam not Eve.
+
+### Eve's Post-Fall Judgement
+
+God speaks to the woman after human sin. Moses records the judgement scene for Israel. The purpose is to declare consequences of the fall:
 
 > To the woman he said,
 >
-> “I will surely multiply your pain in childbearing;
-> in pain you shall bring forth children.
-> Your desire shall be contrary to your husband,
-> but he shall rule over you.”
+> “I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be contrary to your husband, but **he shall rule over you**.”
 >
-> Genesis 3:16 (ESV)
+> -- Genesis 3:16 (ESV)
 
-**Direct statement.** God declares pain, desire contrary to the husband, and the husband's rule. **Inference and application.** This is a post-fall declaration, not an imperative for husbands to rule. “Conflict” or “domination” describes an inference about its effects, not a quoted word in the verse. The ESV footnote gives “shall be for” as an alternative for “shall be contrary to”.
+The Hebrew verb translated “rule” is יִמְשָׁל־בָּךְ (*yimshol bakh*), from the lemma מָשַׁל (*māšal*, H4910). It is a Qal imperfect, third masculine singular. The form is predictive, “he will rule over you”. The lemma means to exercise rule, authority, dominion, or governance.
 
-### [Malachi 2:14-16](https://www.esv.org/Malachi+2%3A14-16/): Covenant Faithfulness
+The same lemma describes human governance elsewhere:
 
-**Speaker, audience, setting, purpose.** The LORD speaks through Malachi to post-exilic Judah. The setting is rebuke for faithlessness in worship and marriage. The passage calls men to guard covenant faithfulness.
+- Genesis 37:8: “Are you indeed to rule over us?”
+- Genesis 45:8: “ruler over all the land of Egypt”.
+- Judges 8:22: “Rule over us, you and your son and your grandson also”.
+- Judges 9:2: “that all seventy of the sons of Jerubbaal rule over you, or that one rule over you?”
+- 2 Samuel 23:3: “When one rules justly over men, ruling in the fear of God,”
 
-> But you say, “Why does he not?” Because the LORD was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant. Did he not make them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth. “For the man who does not love his wife but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.”
+Feminists may argue that Genesis 3:16 is a consequence, not a command.
+
+Yet, **God** declares, **without qualification**, that the husband "shall rule over" his wife. This is not a suggestion or negotiation, but God's post-fall **judgement**.
+
+## Covenant Faithfulness
+
+Literarily, Malachi 2:10-16 is one covenant-treachery and worship unit. Verse 10 begins with one shared Father and covenant; verses 11-12 name religiously unfaithful marriage, including marriage to the “daughter of a foreign god”; and verses 13-14 link rejected offerings with betrayal of covenant wives.
+
+Note the Malachi calls **men** to guard covenant *faithfulness*:
+
+> But you say, “Why does he not?”
 >
-> Malachi 2:14-16 (ESV)
-
-**Direct statement.** Marriage is called covenant; faithlessness and divorce are condemned in this address. **Inference and application.** The main ESV 2025 text does not say the English sentence “God hates divorce”. That sentence appears as an alternative rendering in the ESV footnote and should not replace the main text.
-
-### [Matthew 19:3-9](https://www.esv.org/Matthew+19%3A3-9/): Jesus on Marriage and Divorce
-
-**Speaker, audience, setting, purpose.** Jesus answers Pharisees who test him while he is in Judea, as Matthew records for his readers. His purpose is to answer their divorce question by returning to creation.
-
-> And Pharisees came up to him and tested him by asking, “Is it lawful to divorce one's wife for any cause?” He answered, “Have you not read that he who created them from the beginning made them male and female, and said, ‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’? So they are no longer two but one flesh. What therefore God has joined together, let not man separate.” They said to him, “Why then did Moses command one to give a certificate of divorce and to send her away?” He said to them, “Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so. And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”
+> Because the LORD was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant.
 >
-> Matthew 19:3-9 (ESV)
+> Did He not make them one, with a portion of the Spirit in their union?  
+> And what was the one God seeking? Godly offspring.
+>
+> So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth.
+>
+> “For the man *who does not love his wife* but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.”
+>
+> -- Malachi 2:14-16 (ESV)
 
-**Direct statement.** Jesus affirms male and female, one flesh, God's joining, and the seriousness of divorce. **Inference and application.** The passage treats the one-flesh union and divorce seriously. It does not make a wife inferior or establish a slogan for household control.
+In the [Hebrew text of Malachi 2:14](https://biblehub.com/text/malachi/2-14.htm), “have been faithless” is בָּגַדְתָּה (*bagadtah*); verse 15 has יִבְגֹּד (*yibgod*), and verse 16 has תִּבְגֹּדוּ (*tibgodu*). All come from [בגד (*bagad*)](https://biblehub.com/hebrew/898.htm), meaning to deal treacherously or betray. In this passage, the word identifies covenant betrayal of one’s wife, not limited to sexual misconduct.
 
-### [Galatians 3:26-29](https://www.esv.org/Galatians+3%3A26-29/): Equal Standing in Christ
+There is no Hebrew אהב (*ahav*, “love”) in verse 16. Hebrew has שָׂנֵא (*sane*, “he hates”) and שַׁלַּח (*shallach*, “sending away” or “divorcing”); a close literal sense is “he hates, sending away/divorcing.” The ESV interpretively translates this, *“does not love his wife but divorces her”*. Its [Malachi 2:14-16 text and footnote](https://www.esv.org/Malachi+2%3A14-16/) give the alternative, *“who hates and divorces”*. The difficult Hebrew permits both the traditional reading, “I hate divorce,” and the ESV reading about the divorcing husband, as noted in the [NET Bible translation discussion](https://classic.net.bible.org/bible.php?book=Mal&chapter=2). However, both readings condemn treacherous marital abandonment.
 
-**Speaker, audience, setting, purpose.** Paul writes to the churches of Galatia amid dispute about law and belonging to God's people. His purpose is to identify believers' shared status through faith and union with Christ.
+The passage does not supply a comprehensive divorce law. The following laws address marital faithfulness under Old Testament standards. This is certainly not an exhaustive framework intended for modern co-equal marital partnership as you will notice the majority of the laws keeps the man or father of the adultorous woman responsible even when the woman was also a partaker of the transgression.
 
-> for in Christ Jesus you are all sons of God, through faith. For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's offspring, heirs according to promise.
+### Laws Addressing Husbands
+
+- **Food, clothing, and marital rights:** If a man married a female servant and then takes another wife, he must not reduce the female servant's food, clothing, or marital rights. If he fails these three obligations, she goes free without payment (Exodus 21:10-11). This rule occurs in the law concerning a female servant given as a wife.
+- **Seduction of an unbetrothed virgin:** A man who seduces an unbetrothed virgin must pay the bride-price and take responsibility for marriage, unless **her father** refuses to give her to him. Even if the father refuses, the man still owes the bride-price (Exodus 22:16-17; Deuteronomy 22:28-29).
+- **Marrying a wife's sister:** Torah forbids a man from taking his wife’s sister as a rival wife while his wife is still living (Leviticus 18:18).
+- **Sex involving a betrothed slave woman:** Torah regulates sexual relations with a female slave betrothed to another man, requiring a guilt offering rather than the death penalty (Leviticus 19:20-22).
+- **Sexual adultery:** The adultery law addresses a man who lies with “his neighbour’s wife”; both parties are subject to the stated penalty (Leviticus 20:10).
+- **Vows and pledges of a wife:** A husband has legal authority to confirm or nullify any vow or pledge made by his wife on the day he hears of it. If he nullifies it, she is released from her obligation; if he remains silent initially and nullifies it later, **he bears her guilt** (Numbers 30:6-15).
+- **A captive woman taken as a wife:** A man who takes a captive woman as a wife must allow her a month to mourn. If he later no longer delights in her, he must let her go free and may not sell or enslave her (Deuteronomy 21:10-14).
+- **Multiple wives and impartial rights:** Where a man has two wives, Torah protects the firstborn son’s inheritance. He may not prefer the son of the loved wife over the firstborn son of the less-loved wife (Deuteronomy 21:15-17).
+- **False accusation against a new wife:** A husband who falsely accuses his new wife of not having been a virgin is fined, and he may not divorce her for the rest of his life (Deuteronomy 22:13-21).
+- **A father’s wife:** A man may not take his father’s wife, because doing so violates his father’s marriage (Deuteronomy 22:30).
+- **Divorce:** Torah regulates a divorce-and-remarriage case and forbids the first husband to take the woman again after her later marriage ends (Deuteronomy 24:1-4).
+- **Newlywed year of exemption:** A newly married man is exempt from military service and public duty for one full year to remain free at home and *bring happiness to* (["to cheer up" or "rejoice with"](https://biblehub.com/hebrew/8055.htm)) his wife (Deuteronomy 24:5).
+- **Levirate marriage:** When a married man dies childless, his brother is instructed to marry the widow so that the dead brother’s name may continue. The brother may decline through the stated public procedure (Deuteronomy 25:5-10).
+
+### Laws Addressing Wives
+
+- **Suspected unfaithfulness during marriage (Law of Jealousy):** If a husband suspects his wife of adultery during marriage but lacks witnesses or physical proof, she undergoes the ordeal of bitter water administered by the priest. If she is found guilty, divine judgment falls upon her, and if innocent, she is cleared (Numbers 5:11-31).
+- **Accusation of lacking virginity at marriage:** If a newly married wife is accused of unfaithfulness prior to marriage and evidence of virginity is lacking, she is executed by stoning **at the entrance of her father's house** for committing a disgraceful act in Israel while in her father's home. If the charge is false, the husband is fined and forbidden from ever divorcing her (Deuteronomy 22:13-21).
+- **Unfaithfulness of a betrothed woman in a city:** A betrothed virgin who consents to lie with another man in a city (evidenced by not crying out for help) is executed along with the man for unfaithfulness to her betrothed husband (Deuteronomy 22:23-24).
+
+### Laws Addressing Both Spouses
+
+- **Foreign intermarriage:** Torah forbids intermarriage with surrounding idolatrous nations to prevent turning their hearts away from following God (Exodus 34:15-16; Deuteronomy 7:3-4).
+- **Marital sexual cleanness:** Torah prescribes ritual washing for both husband and wife after sexual intercourse (Leviticus 15:18).
+- **Forbidden unions:** Torah prohibits sexual relations with close relatives, a neighbour’s wife, and certain other relationships. Leviticus 20 gives penalties for several of these offences (Leviticus 18:6-23; 20:10-21).
+- **Sexual intercourse during menstruation:** Torah strictly prohibits sexual relations during a woman's menstrual period (Leviticus 18:19; 20:18).
+- **Adultery with a married woman:** Both the man and the married woman found lying together are to be put to death (Deuteronomy 22:22).
+
+### Jesus on Marriage and Divorce
+
+Jesus answers Pharisees who test him while he is in Judea, as Matthew records for his readers. His purpose is to answer their divorce question by returning to creation.
+
+> And Pharisees came up to him and tested him by asking, “Is it lawful to divorce one's wife for any cause?”  
+> He answered, “Have you not read that [He Who created them from the beginning made them male and female](#shared-image-and-dominion), and said, [‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’](#corresponding-helper-and-one-flesh)? So they are no longer two but one flesh. What therefore God has joined together, let not man separate.”  
+> They said to him, “Why then did Moses command one to give a certificate of divorce and to send her away?”  
+> He said to them, “Because of your hardness of heart Moses allowed you to divorce your wives, but from the beginning it was not so. And I say to you: whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”
+>
+> -- Matthew 19:3-9 (ESV)
+
+[Christians for Biblical Equality](https://www.cbeinternational.org/resource/engendering-imago-dei/) *"Through Christ, women and men are equal"* and [BibleProject](https://bibleproject.com/articles/divorce-bible-how-jesus-responded-debate/) concludes *"God's intention from the beginning is for men and women to live as co-equal partners"*. Likewise many other Christian organization promote co-equal partnership in marriage based on Matthew 19.
+
+Matthew, however, records Jesus was answering a divorce question by teaching its seriousness and the inseparable one-flesh union God joins. The passage does **NOT** establish equality of marital authority which is a completely different topic.
+
+## Marital Roles
+
+### Paul's Teachings
+
+#### Equal Standing in Christ
+
+Paul writes to the churches of Galatia amid dispute about law and belonging to God's people. His purpose is to identify believers' shared inheritance in union with Christ.
+
+> For in Christ Jesus you are all sons of God, through faith. For as many of you as were baptized into Christ have put on Christ. There is neither **Jew nor Greek**, there is neither **slave nor free**, there is no **male and female**, for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's offspring, heirs according to promise.
 >
 > Galatians 3:26-29 (ESV)
 
-**Direct statement.** Believers are one in Christ and heirs according to promise. **Inference and application.** The passage addresses union and inheritance, not a list of marital commands. It cannot erase distinctions that other passages expressly address within marriage.
+The passage concerns union with Christ and shared inheritance rather than a declaration of equality between men and women. Jewish and Greek people did not possess equal social standing in either Jewish or Greek culture, and Paul did not abolish slavery during his lifetime. Why, then, is this verse frequently cited as evidence that men and women are *equal*?
 
-## Marital Commands and Mutual Duties
+#### Submission and Christ-Like Love
 
-### [Ephesians 5:21-33](https://www.esv.org/Ephesians+5%3A21-33/): Submission and Christ-Like Love
+Paul writes to saints in Ephesus. The setting is his instruction on life worthy of the calling, including Spirit-filled conduct. The passage applies the relationship of Christ and the church to husbands and wives.
 
-**Author, audience, setting, purpose.** Paul writes to saints in Ephesus. The setting is his instruction on life worthy of the calling, including Spirit-filled conduct. The passage applies the relationship of Christ and the church to wives and husbands.
-
-> submitting to one another out of reverence for Christ.
+> **Wives, submit to your own husbands, as to the Lord**. For **the husband is the head of the wife** even as Christ is the head of the church, his body, and is himself its savior. Now as the church submits to Christ, so also wives should submit **in everything** to their husbands.
 >
-> Wives, submit to your own husbands, as to the Lord. For the husband is the head of the wife even as Christ is the head of the church, his body, and is himself its Savior. Now as the church submits to Christ, so also wives should submit in everything to their husbands.
+> **Husbands, [love *[agapé]*](https://word.ofgod.info/terms/love#lost-in-translation) your wives**, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. **In the same way husbands should love their wives** as their own bodies. He who loves his wife loves himself. For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church, because we are members of his body.
 >
-> Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. In the same way husbands should love their wives as their own bodies. He who loves his wife loves himself. For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church, because we are members of his body. “Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.” This mystery is profound, and I am saying that it refers to Christ and the church. However, let each one of you love his wife as himself, and let the wife see that she respects her husband.
+>> “Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.” — Genesis 2:24
 >
-> Ephesians 5:21-33 (ESV)
-
-**Direct statement.** Verse 21 requires mutual submission among believers. Wives are told to submit to their own husbands, and verse 24 says “in everything”. Husbands are called head and commanded to love, give themselves up, nourish, cherish, and love as their own bodies. **Inference and application.** The text gives distinct commands, not unlimited power for a husband or identical, undifferentiated marital authority. Its Christ comparison forbids selfish use of headship.
-
-### [Colossians 3:18-19](https://www.esv.org/Colossians+3%3A18-19/): Fitting Submission and Prohibited Harshness
-
-**Author, audience, setting, purpose.** Paul writes to the church at Colossae. The setting is instruction for the renewed household. The purpose is concise direction to wives and husbands.
-
-> Wives, submit to your husbands, as is fitting in the Lord. Husbands, love your wives, and do not be harsh with them.
+> This mystery is profound, and I am saying that it refers to Christ and the church. However, **let each one of you love his wife as himself**, and **let the wife see that she [respects](https://biblehub.com/greek/5399.htm) her husband**.
 >
-> Colossians 3:18-19 (ESV)
+> — Ephesians 5:22-33 (ESV)
 
-**Direct statement.** Wives are told to submit as fitting in the Lord; husbands must love and must not be harsh. **Inference and application.** This passage does not define every limit of submission. Its stated qualification and ban on harshness should not be used to approve sinful or cruel conduct.
+> [!NOTE]
+> * [The Greek word translated as "submit"](https://biblehub.com/greek/5293.htm) means "to obey, be under obedience (obedient)". Peter explain this meaning of "submit" with an example where Sarah had to "obey" Araham (1 Peter 3:5-6).
+> * [The Greek word translated as "love"](https://word.ofgod.info/terms/love#lost-in-translation) means to selfless, sacrificial, unconditional love. It is an act of the will, characterized by a commitment to the well-being of others. It does not mean romantic. Paul compares this "love" with Christ's willingness to "gave himself up" for the church.
 
-### [1 Peter 3:1-7](https://www.esv.org/1+Peter+3%3A1-7/): Conduct, Honour, and Co-Heirship
+#### Submission Harshness
 
-**Author, audience, setting, purpose.** Peter writes to elect exiles in several provinces. The setting is instruction on honourable conduct amid suffering. The passage addresses wives, including wives with unbelieving husbands, then husbands.
+Paul writes to the church at Colossae. The setting is instruction for the renewed household. The purpose is concise direction to wives and husbands.
 
-> Likewise, wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives, when they see your respectful and pure conduct. Do not let your adorning be external—the braiding of hair and the putting on of gold jewelry, or the clothing you wear—but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God's sight is very precious. For this is how the holy women who hoped in God used to adorn themselves, by submitting to their own husbands, as Sarah obeyed Abraham, calling him lord. And you are her children, if you do good and do not fear anything that is frightening.
+> **Wives, submit to your husbands**, as is fitting in the Lord. **Husbands, [love *[agapé]*](https://word.ofgod.info/terms/love#lost-in-translation) your wives**, and do not be harsh with them.
 >
-> Likewise, husbands, live with your wives in an understanding way, showing honor to the woman as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered.
+> — Colossians 3:18-19 (ESV)
+
+#### Pastoral Instruction on Martital Issues
+
+Paul writes to the church in Corinth in answer to their questions about marriage. The setting is pastoral instruction on marital relations, separation, and mixed-believer marriages. The purpose is mutual faithfulness and peace.
+
+##### Sexual Passions
+
+> Now concerning the matters about which you wrote:
 >
-> 1 Peter 3:1-7 (ESV)
-
-**Direct statement.** Peter calls wives to be subject to their own husbands and husbands to understanding, honour, and recognition of wives as co-heirs. **Inference and application.** “Weaker vessel” is not a statement of lesser inheritance, because the same sentence calls wives co-heirs. The passage does not make a husband morally exempt or a wife spiritually inferior.
-
-### [1 Corinthians 7:3-5, 10-16](https://www.esv.org/1+Corinthians+7%3A3-5%2C10-16/): Reciprocal Duty, Authority, and Peace
-
-**Author, audience, setting, purpose.** Paul writes to the church in Corinth in answer to their questions about marriage. The setting is pastoral instruction on marital relations, separation, and mixed-believer marriages. The purpose is mutual faithfulness and peace.
-
-> The husband should give to his wife her conjugal rights, and likewise the wife to her husband. For the wife does not have authority over her own body, but the husband does. Likewise the husband does not have authority over his own body, but the wife does. Do not deprive one another, except perhaps by agreement for a limited time, that you may devote yourselves to prayer; but then come together again, so that Satan may not tempt you because of your lack of self-control.
+>> “It is good for a man not to have sexual relations with a woman.”
 >
-> To the married I give this charge (not I, but the Lord): the wife should not separate from her husband (but if she does, she should remain unmarried or else be reconciled to her husband), and the husband should not divorce his wife. To the rest I say (I, not the Lord) that if any brother has a wife who is an unbeliever, and she consents to live with him, he should not divorce her. If any woman has a husband who is an unbeliever, and he consents to live with her, she should not divorce him. For the unbelieving husband is made holy because of his wife, and the unbelieving wife is made holy because of her husband. Otherwise your children would be unclean, but as it is they are holy. But if the unbelieving partner separates, let it be so. In such cases the brother or sister is not enslaved. God has called you to peace. For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
+> But because of the temptation to sexual immorality, **each man should have his own wife** and **each woman her own husband**.
 >
-> 1 Corinthians 7:3-5, 10-16 (ESV)
-
-**Direct statement.** Conjugal duty, bodily authority, and temporary abstinence by agreement are reciprocal. Paul addresses husband and wife symmetrically in the mixed-marriage instruction and says God has called them to peace. **Inference and application.** The passage does not use the word “coercion”; its stated pattern is mutual duty, reciprocal authority, and agreement.
-
-### [1 Timothy 5:3-8](https://www.esv.org/1+Timothy+5%3A3-8/): Household Provision
-
-**Author, audience, setting, purpose.** Paul writes to Timothy, who is serving in Ephesus. The setting is instruction about caring for widows in God's household. The purpose is to assign family responsibility before church support.
-
-> Honor widows who are truly widows. But if a widow has children or grandchildren, let them first learn to show godliness to their own household and to make some return to their parents, for this is pleasing in the sight of God. She who is truly a widow, left all alone, has set her hope on God and continues in supplications and prayers night and day, but she who is self-indulgent is dead even while she lives. Command these things as well, so that they may be without reproach. But if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.
+> **The husband should give to his wife her conjugal rights**, and **likewise the wife to her husband**. For the wife **does not have authority over her own body, but the husband does**. Likewise the husband **does not have authority over his own body, but the wife does**. **Do not deprive one another**, except perhaps by agreement for a limited time, that you may devote yourselves to prayer, but then come together again, so that Satan may not tempt you because of your lack of self-control.
 >
-> 1 Timothy 5:3-8 (ESV)
-
-**Direct statement.** “Anyone” who does not provide for relatives and household members is condemned. **Inference and application.** This obligation applies to anyone in the stated family relation, not to husbands only. It cannot establish an exclusive male provision rule.
-
-### [Hebrews 13:1-5](https://www.esv.org/Hebrews+13%3A1-5/): Honour and Fidelity
-
-**Author, audience, setting, purpose.** The author of Hebrews writes to Christians facing pressure and calls them to persevering holiness. The setting is final practical exhortation. The purpose is honourable life among believers.
-
-> Let brotherly love continue. Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares. Remember those who are in prison, as though in prison with them, and those who are mistreated, since you also are in the body. Let marriage be held in honor among all, and let the marriage bed be undefiled, for God will judge the sexually immoral and adulterous. Keep your life free from love of money, and be content with what you have, for he has said, “I will never leave you nor forsake you.”
+> Now as a concession, not a command, I say this. I wish that all were as I myself am. But each has his own gift from God, one of one kind and one of another.
 >
-> Hebrews 13:1-5 (ESV)
+> To the unmarried and the widows I say that it is good for them to remain single, as I am. But **if they cannot exercise self-control, they should marry**. For it is **better to marry than to burn with passion**.
+>
+> — 1 Corinthians 7:6-9 (ESV)
 
-**Direct statement.** Marriage is to be held in honour and the marriage bed kept undefiled. **Inference and application.** This is a general Christian command, not an allocation of marital authority.
+##### Seperation
+
+> To the married I give this charge (not I, but the Lord): **the wife should not separate from her husband** (but if she does, she should remain unmarried or else be reconciled to her husband), and **the husband should not divorce his wife**.
+>
+> — 1 Corinthians 7:10-11 (ESV)
+
+##### Unbelieving Spouses
+
+> To the rest I say (I, not the Lord) that if any brother has a wife who is an unbeliever, and she consents to live with him, **he should not divorce her**. If any woman has a husband who is an unbeliever, and he consents to live with her, **she should not divorce him**. For the unbelieving husband is made holy because of his wife, and the unbelieving wife is made holy because of her husband. Otherwise your children would be unclean, but as it is, they are holy.
+>
+> But **if the unbelieving partner separates, let it be so**. In such cases the brother or sister is not enslaved. God has called you to peace. For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
+>
+> — 1 Corinthians 7:12-16 (ESV)
+
+#### Household Provision
+
+Paul writes to Timothy, who is serving in Ephesus. The setting is instruction about caring for widows in God's household. The purpose is to assign family responsibility before church support.
+
+> Honor widows who are truly widows. But if a widow has children or grandchildren, let them first learn to **show godliness to their own household** and to make some return to their parents, for this is pleasing in the sight of God. She who is truly a widow, left all alone, has set her hope on God and continues in supplications and prayers night and day, but she who is self-indulgent is dead even while she lives. Command these things as well, so that they may be without reproach.
+>
+> But **if anyone does not provide for his relatives**, and especially for members of his household, he has **denied the faith and is worse than an unbeliever**.
+>
+> — 1 Timothy 5:3-8 (ESV)
+
+### Peter's Teachings
+
+#### Conduct, Honour, and Co-Heirship
+
+Peter writes to elect exiles in several provinces. The setting is instruction on honourable conduct amid suffering. The passage addresses wives, including wives with unbelieving husbands, then husbands.
+
+> Likewise, **wives, be subject to your own husbands**, so that even if some do not obey the word, they may be **won without a word** by the conduct of their wives, when they **see your respectful** and **pure conduct**.
+>
+> **Do not let your adorning be external** — the braiding of hair and the putting on of gold jewelry, or the clothing you wear — but let your adorning be the hidden person of the heart with the imperishable beauty of a **gentle and quiet spirit**, which in God's sight is very precious.
+>
+> For this is how the holy women who hoped in God used to adorn themselves, by **submitting to their own husbands**, as Sarah **obeyed** Abraham, **calling him lord**. And you are her children, if you do good and do not fear anything that is frightening.
+>
+> Likewise, **husbands, live with your wives in an understanding way, showing honor to the woman** as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered.
+>
+> — 1 Peter 3:1-7 (ESV)
 
 ## Church Texts Relevant to Marriage Claims
 
@@ -433,3 +543,51 @@ The Bible presents marriage as [one-flesh covenant faithfulness](#creation-fall-
 Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. ESV Text Edition: 2025. Used by permission. All rights reserved.
 
 Public reuse is subject to [Crossway permissions](https://www.crossway.org/permissions/).
+
+---
+
+1 Tim 2:12-14
+
+1 Cor 14:34-35: Women should keep silent - "as the law also says" (NOT CULTURAL!)
+
+Paul's reasons:
+1. Order of creation
+2. Eve was first to be deceived
+
+---
+
+Does not mean women must remain completely silent. Women also have roles in church.
+
+Problem:
+1. Teaching men
+2. Exercising authority over men
+
+---
+
+Objections:
+1. Women were uneducated, today they are - There were many educated women in Roman world; Jesus' disciples were not educated men themselves, education is not the qualification; Paul does not appeal to education, he appeals to creation
+2. Only applies to Ephesus, worshiping Goddess Artemis/Diana, Paul gave command to avoid confusion - Paul never mentioned this and Paul also gave same instruction in Corinth where this worship was NOT taking place; Scriptural reason, not local cultural reason
+3. The word refers to "wife", not "women" - Greek shows otherwise and context is also clear he refers to women in general
+4. Women had leadership positions like Miriam, Deborah, Huldah - Using fallacy, see because Women could lead back then, it means they can lead today as well; Paul was refering to leadership in church not general leadership
+5. Priscilla taught Apollos - This was an individual (possibly in presence of her husband), not general church rule
+6. Junia was an apostle (Romans 16) - Apostle means "missionary", not necessary a teacher.
+7. Phoebe was a decan (Romans 16:1) - decan = servant, not high position in church
+8. Philip's daughters and Anna prophesied (Acts, Luke) - Excercising giftings is not same as excersiing authoritive roles
+9. Women can preach if under authority of male senior pastor - No such qualifier in bible text
+10. Women went to tomb first and *spread good news* - Not same as excercising authority in church
+11.  Was Paul's opinion - If it was Paul's opinion then everything else of the Gospel is also Paul's opinion, he made no differenciation
+12.  Gal 3:28, "all are one" - Paul not equaling roles (out of context)
+13.  "men" does not mean men and "women" does not mean women ("God desire all *men* to be saved") - Cannot appeal context/intend of 1 scripture on completely different scripture in another passage
+
+---
+
+What women can do:
+- Teach other women (1 Tim 2:3-5; Titus 2:3-5)
+- Teach children (2 Tim 1:5, 3:14-15)
+- Evangelize (Acts 18:26, Philippians 4:3)
+- Sing and participate in praise (Ephesians 5:19, Colossians 3:16)
+- Serve others in church - Romans 16:1-2
+- Pray and prophesy in church - 1 Corinthians 11:5
+- Exercise spiritual gifts - 1 Corinthians 12:4-7
+
+Women only recently since 20th century Feminism took over churches.

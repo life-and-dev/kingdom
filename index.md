@@ -166,7 +166,7 @@ And then James also warned:
 
 > Now when they heard this **they were cut to the heart**, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
 >
-> And Peter said to them, “[Repent](https://eternal.family.net.za/eternal/saved/repent) and [be baptized](https://eternal.family.net.za/eternal/saved/baptize) every one of you in [the name](https://word.ofgod.info/terms/name) of [Jesus](https://eternal.family.net.za/god/son) [Christ](https://eternal.family.net.za/god/son/christ) for the forgiveness of your [sins](https://eternal.family.net.za/bible/concepts/sin), and you will receive [the gift](https://eternal.family.net.za/god/spirit/gifts) of [the Holy Spirit](https://eternal.family.net.za/god/spirit). For [the promise](https://eternal.family.net.za/god/covenants/christ) is for you and for your children and for all who are far off, everyone whom [the Lord](https://ofgod.info/name#lord) our [God](https://eternal.family.net.za/god) calls to himself.”
+> And Peter said to them, “[Repent](https://eternal.family.net.za/eternal/saved/repent) and [be baptized](https://eternal.family.net.za/eternal/saved/baptize) every one of you in [the name](https://word.ofgod.info/terms/name) of [Jesus](https://eternal.family.net.za/god/son) [Christ](christ.md) for the forgiveness of your [sins](https://eternal.family.net.za/bible/concepts/sin), and you will receive [the gift](https://eternal.family.net.za/god/spirit/gifts) of [the Holy Spirit](https://eternal.family.net.za/god/spirit). For [the promise](https://eternal.family.net.za/god/covenants/christ) is for you and for your children and for all who are far off, everyone whom [the Lord](https://ofgod.info/name#lord) our [God](https://eternal.family.net.za/god) calls to himself.”
 >
 > And with many other words he bore witness and continued to exhort them, saying, [“Save yourselves from this crooked generation.”](https://eternal.family.net.za/eternal/saved)
 >
@@ -267,7 +267,7 @@ According to Paul, Jesus did not replace God, but instead that Jesus acts as a d
 >
 > For **the kingdom of God** is not a matter of eating and drinking but of **righteousness and peace and joy** *[in [by]](https://eternal.family.net.za/bible/translations/differences/en)* the Holy Spirit.
 >
-> Whoever thus serves [Christ](https://eternal.family.net.za/god/son/christ) is **acceptable to God** and approved by men. So then let us pursue what makes for **peace and for mutual upbuilding**.
+> Whoever thus serves [Christ](christ.md) is **acceptable to God** and approved by men. So then let us pursue what makes for **peace and for mutual upbuilding**.
 >
 > — Romans 14:10-19 (ESV)
 
