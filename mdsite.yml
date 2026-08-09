@@ -26,7 +26,8 @@ menu:
     - christ
   - christ:
     - crucifixion
-    - body
+    - body:
+      - marriage
     - commandment
   - parables
 site:
