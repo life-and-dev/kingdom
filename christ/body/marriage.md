@@ -3,11 +3,9 @@ description: A context-led reading of biblical passages on marriage, marital ord
 keywords: biblical marriage order, husband and wife, marital headship, mutual marital duty, Christ-like service
 ---
 
-# Biblical Marriage
+# Marriage
 
-Biblical marriage conflicts with contemporary marriage.
-
-Selected surveys describe majority marital standards in the United States and Britain:
+Contemporary marriage and biblical marriage are opposing standards.
 
 | Contemporary marriage                                                                                      | Biblical marriage                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,13 +18,14 @@ Selected surveys describe majority marital standards in the United States and Br
 | Divorce is encouraged when a spouse no longer pleases the other.                                           | [Divorce is forbidden](#jesus-on-marriage-and-divorce).                                                                             |
 | Teaching and child discipline is the mother's responsibility.                                              | [Teaching and children discipline](#discipline-children) is the father's responsibility.                                            |
 
+> [!NOTE]
+> Not every non-Christian accepts every contemporary norm, and not every Christian follows every biblical standard listed in this article.
+
 ## Creation and Fall
 
-### Genders
+### Creation and Shared Human Dignity
 
-Many Christian organizations like the [BibleProject](https://bibleproject.com/articles/divorce-bible-how-jesus-responded-debate/) concludes *"God's intention from the beginning is for men and women to live as co-equal partners"*.
-
-However, in context it was written:
+Some Christian organisations, including the [BibleProject](https://bibleproject.com/articles/divorce-bible-how-jesus-responded-debate/), conclude that *"God's intention from the beginning is for men and women to live as co-equal partners"*.
 
 > Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
 >
@@ -38,7 +37,7 @@ However, in context it was written:
 
 When God made, blessed and tasked both genders to multiply, it means **they need each other* to fulfill their tasks. [Jesus even explain this in Matthew 19](#jesus-on-marriage-and-divorce). This has nothing to do with a co-equal marital partnership. It establishes their dominion over God's creation not their marriage.
 
-Moses made it clear in the next chapter that men and women are not the same and were created for different purposes.
+Genesis 2 state that men and women are not the same and were created for different purposes.
 
 > Then the LORD God said, “It is not good that the man should be alone; I will make him a **helper fit for him**.”
 >
@@ -50,7 +49,7 @@ Moses made it clear in the next chapter that men and women are not the same and 
 >
 > — Genesis 2:18,21-24 (ESV)
 
-Contemporary culture twisted marital roles in the *["Happy wife, happy life"](https://marriagefoundation.org.uk/research/happy-wife-happy-life/)* motto, when it is often implied that in modern marriage the husband's primary role is to please his wife. If he fails, he will get divorced and penalized with "child support". On the surface, modern men are often labelled as "lacking commitment" and "being selfish". But the root cause is that modern marriage contracts are a bad deal to men when the marriage is not grounded on biblical values.
+Contemporary culture usually follows the *["Happy wife, happy life"](https://marriagefoundation.org.uk/research/happy-wife-happy-life/)* standard. It is often implied that in modern marriage the husband's primary role is to please his wife. If he fails, he will get divorced and penalized with "child support". On the surface, modern men are often labelled as "lacking commitment" and "being selfish". But the root cause is that modern marriage contracts are a bad deal to men when the marriage is not grounded on biblical values.
 
 However, Moses recorded that God created the woman to be a "helper fit for the man", not the other way around. To the English reader, "helper" sounds like an inferior domestic assistant. That is also not what Moses meant. The Hebrew [עֵזֶר (*ezer*)](https://biblehub.com/hebrew/5828.htm), translated as "helper" means an ally that supplies strength, protection and support.
 
@@ -58,9 +57,7 @@ God Himself is called "helper" in Exodus 18:4, Deuteronomy 33:7,26,29; Psalm 33:
 
 ### Accountability Before God
 
-God **first called Adam** to account after the sin, before he addressed Eve (Genesis 3:9,13). The account therefore presents Adam as responsible for the sin.
-
-Paul identifies Adam, rather than Eve, as the one through whom sin and death entered the world:
+God called Adam first after the transgression, then questioned Eve (Genesis 3:9,13). Paul also identifies Adam as the representative through whom sin and death entered the world:
 
 > Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned.
 >
@@ -87,9 +84,9 @@ Furthermore, this pattern where the leader take responsibility for their people'
 3. Ezekiel called leaders "shepherds" who are accountable for God's "flock" (Ezekiel 34:2–4, 10)
 4. Jesus too called himself "the shepherd" who "will lay down his life for the sheep" (John 10:11, 14–15)
 
-This household accountability does not transfer a wife's personal guilt to her husband, nor does it excuse her sin. A husband answers to God for his own obedience and for how he leads and cares for his household. A wife answers to God for her own choices. For example, Sapphira agreed to her husband's deception and she was also held accountable before God (Acts 5:1-10). Her husband's involvement did not excuse her sin. Acts 5 consequently teaches neither unrestricted marital independence nor blind obedience to evil. Likewise God also kept Eve accountable for her own sin.
+A husband therefore answers to God for his own conduct, including how he loves and cares for his household. A wife answers to God for her own conduct. Acts 5:1-10 illustrates individual accountability because Sapphira knowingly joined Ananias's deception. No spouse has authority to require sin, conceal abuse, or replace the other's conscience before God.
 
-### Eve's Judgement
+### Marital Order
 
 > To the woman he said,
 >
@@ -97,66 +94,43 @@ This household accountability does not transfer a wife's personal guilt to her h
 >
 > — Genesis 3:16 (ESV)
 
-Feminists may argue that Genesis 3:16 is a consequence, not a command.
+The Hebrew verb מָשַׁל (*māšal*) means to rule or govern, and the clause predicts that the husband “shall rule over” the woman. Genesis 3:16 occurs within God’s judgement after the Fall. It is therefore not, by itself, a command authorising harsh or self-serving domination. Pain in childbearing and painful labour are also consequences in the same oracle, not moral ideals for husbands or wives to pursue.
 
-However, the Hebrew verb translated “rule” is יִמְשָׁל־בָּךְ (*yimshol bakh*), from the lemma מָשַׁל (*māšal*, H4910). It is a Qal imperfect, third masculine singular. The form is predictive, “he **shall** rule over you”. The lemma means to exercise rule, authority, dominion, or governance.
+Feminist readers may therefore argue that the verse merely describes a fallen condition. That observation has force, but it does not settle whether God intended a distinct marital order before the Fall or whether that order continues after it. The immediate context places [responsibility on Adam](#accountability-before-god): God calls him first, holds him accountable for disobeying God, and judges him for listening to his wife rather than to God (Genesis 3:9,17). This is consistent with Adam bearing leadership responsibility, not with the claim that husband and wife held identical authority.
 
-The same lemma describes human governance elsewhere:
+The broader biblical case is stronger than Genesis 3:16 alone. Paul grounds male responsibility and female submission in the [order of creation](#creation-and-shared-human-dignity), not merely in the Fall: “Adam was formed first, then Eve” (1 Timothy 2:13). He also instructs wives to [submit to their own husbands and husbands to love their wives sacrificially](#submission-and-christ-like-love), as Christ loves the church (Ephesians 5:22-25). These passages present headship as an accountable calling under Christ, while prohibiting its corrupt form, namely tyranny, neglect, or coercion.
 
-- Genesis 37:8: “Are you indeed to rule over us?”
-- Genesis 45:8: “ruler over all the land of Egypt”.
-- Judges 8:22: “Rule over us, you and your son and your grandson also”.
-- Judges 9:2: “that all seventy of the sons of Jerubbaal rule over you, or that one rule over you?”
-- 2 Samuel 23:3: “When one rules justly over men, ruling in the fear of God,”
+Genesis 3:16 thus records God’s declaration that the husband will rule within the damaged order resulting from sin. The New Testament clarifies how the [marital order is to be lived under redemption](#marital-roles): husbands bear loving, self-giving responsibility, and wives submit to their own husbands. The judgement is not permission for abuse. It confirms that a husband’s leadership is answerable to God.
 
-The verse declares, within God's post-fall judgement, that the husband “shall rule over” his wife as an order that God Himself established. This was not a negotation. Neither dit God set any conditions that Adam first need to meet before he could be worthy to rule.
+## Marital Laws
 
-## Covenant Faithfulness
+The Torah laws below are included because they show how Israel's covenant law addressed marriage in concrete disputes, rather than treating marital roles as abstract ideas. They show protections and duties within ancient Israel's covenant and social system.
 
-Literarily, Malachi 2:10-16 is one covenant-treachery and worship unit. Verse 10 begins with one shared Father and covenant; verses 11-12 name religiously unfaithful marriage, including marriage to the “daughter of a foreign god”; and verses 13-14 link rejected offerings with betrayal of covenant wives.
+An obvious pattern is that the laws **regulate men and women differently** for matters like protecting vulnerable people, and holding **both spouses accountable in matters such as adultery**.
 
-Note the Malachi calls **men** to guard covenant *faithfulness*:
-
-> But you say, “Why does he not?”
->
-> Because the LORD was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant.
->
-> Did He not make them one, with a portion of the Spirit in their union?  
-> And what was the one God seeking? Godly offspring.
->
-> So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth.
->
-> “For the man *who does not love his wife* but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.”
->
-> — Malachi 2:14-16 (ESV)
-
-In the [Hebrew text of Malachi 2:14](https://biblehub.com/text/malachi/2-14.htm), “have been faithless” is בָּגַדְתָּה (*bagadtah*); verse 15 has יִבְגֹּד (*yibgod*), and verse 16 has תִּבְגֹּדוּ (*tibgodu*). All come from [בגד (*bagad*)](https://biblehub.com/hebrew/898.htm), meaning to deal treacherously or betray. In this passage, the word identifies covenant betrayal of one’s wife, not limited to sexual misconduct.
-
-There is no Hebrew אהב (*ahav*, “love”) in verse 16. Hebrew has שָׂנֵא (*sane*, “he hates”) and שַׁלַּח (*shallach*, “sending away” or “divorcing”); a close literal sense is “he hates, sending away/divorcing.” The ESV interpretively translates this, *“does not love his wife but divorces her”*. Its [Malachi 2:14-16 text and footnote](https://www.esv.org/Malachi+2%3A14-16/) give the alternative, *“who hates and divorces”*. The difficult Hebrew permits both the traditional reading, “I hate divorce,” and the ESV reading about the divorcing husband, as noted in the [NET Bible translation discussion](https://classic.net.bible.org/bible.php?book=Mal&chapter=2). However, both readings condemn treacherous marital abandonment.
-
-The passage does not supply a comprehensive divorce law. The following laws highlight what it means to be "faithless". You will notice that the majority of laws address husbands rather than wives. This will be an unfair co-equal marital contract, but does when one consider that the husband is in most cases the responsible person of the household.
+They require careful interpretation because ancient Israel's civil penalties, slavery regulations, and civil laws do not apply to modern society which is governed by different civil laws depending on the country you reside.
 
 ### Laws Addressing Husbands
 
-- **Food, clothing, and marital rights:** If a man married a female servant and then takes another wife, he must not reduce the female servant's food, clothing, or marital rights. If he fails these three obligations, she goes free without payment (Exodus 21:10-11). This rule occurs in the law concerning a female servant given as a wife.
-- **Seduction of an unbetrothed virgin:** A man who seduces an unbetrothed virgin must pay the bride-price and take responsibility for marriage, unless **her father** refuses to give her to him. Even if the father refuses, the man still owes the bride-price (Exodus 22:16-17; Deuteronomy 22:28-29).
-- **Marrying a wife's sister:** Torah forbids a man from taking his wife’s sister as a rival wife while his wife is still living (Leviticus 18:18).
-- **Sex involving a betrothed slave woman:** Torah regulates sexual relations with a female slave betrothed to another man, requiring a guilt offering rather than the death penalty (Leviticus 19:20-22).
-- **Sexual adultery:** The adultery law addresses a man who lies with “his neighbour’s wife”; both parties are subject to the stated penalty (Leviticus 20:10).
-- **Vows and pledges of a wife:** A husband has legal authority to confirm or nullify any vow or pledge made by his wife on the day he hears of it. If he nullifies it, she is released from her obligation; if he remains silent initially and nullifies it later, **he bears her guilt** (Numbers 30:6-15).
-- **A captive woman taken as a wife:** A man who takes a captive woman as a wife must allow her a month to mourn. If he later no longer delights in her, he must let her go free and may not sell or enslave her (Deuteronomy 21:10-14).
-- **Multiple wives and impartial rights:** Where a man has two wives, Torah protects the firstborn son’s inheritance. He may not prefer the son of the loved wife over the firstborn son of the less-loved wife (Deuteronomy 21:15-17).
-- **False accusation against a new wife:** A husband who falsely accuses his new wife of not having been a virgin is fined, and he may not divorce her for the rest of his life (Deuteronomy 22:13-21).
-- **A father’s wife:** A man may not take his father’s wife, because doing so violates his father’s marriage (Deuteronomy 22:30).
-- **Divorce:** Torah regulates a divorce-and-remarriage case and forbids the first husband to take the woman again after her later marriage ends (Deuteronomy 24:1-4).
-- **Newlywed year of exemption:** A newly married man is exempt from military service and public duty for one full year to remain free at home and *bring happiness to* (["to cheer up" or "rejoice with"](https://biblehub.com/hebrew/8055.htm)) his wife (Deuteronomy 24:5).
-- **Levirate marriage:** When a married man dies childless, his brother is instructed to marry the widow so that the dead brother’s name may continue. The brother may decline through the stated public procedure (Deuteronomy 25:5-10).
+- **Food, clothing, and marital rights:** A man who takes a second wife may not reduce the first wife's food, clothing, or marital rights in the case governed by Exodus 21:7-11.
+- **Seduction of an unbetrothed virgin:** A man who seduces an unbetrothed virgin owes the bride-price and must accept marital responsibility unless her father refuses the marriage (Exodus 22:16-17). Deuteronomy 22:28-29 concerns a different and disputed case; translations and interpreters differ over whether force is implied.
+- **Marrying a wife's sister:** A man may not take his wife's sister as a rival wife while the wife is living (Leviticus 18:18).
+- **Sex involving a betrothed slave woman:** Leviticus 19:20-22 regulates an offence involving a slave woman whose status prevented the ordinary penalty. Regulation of an ancient institution does not itself endorse that institution.
+- **Adultery:** The stated penalty applies to both the man and the married woman (Leviticus 20:10).
+- **A wife's vows:** Numbers 30:6-15 gives a husband authority within Israel's covenant law to confirm or annul certain vows when he hears them. This text does not establish a general New Testament power to cancel every commitment made by a wife.
+- **A captive woman:** Deuteronomy 21:10-14 limits an Israelite soldier's treatment of a captive woman taken as a wife and forbids later selling her. The law restrains an ancient wartime practice rather than presenting it as a marital ideal.
+- **Inheritance with multiple wives:** Deuteronomy 21:15-17 protects the firstborn son's inheritance despite a father's preference between wives.
+- **False accusation against a new wife:** A husband who makes a false accusation is fined and forbidden to divorce his wife (Deuteronomy 22:13-19). Verses 20-21 govern the alternative finding.
+- **A father's wife:** A man may not take his father's wife (Deuteronomy 22:30).
+- **Divorce and remarriage:** Deuteronomy 24:1-4 regulates a particular divorce-and-remarriage case and forbids the first husband from remarrying the woman after an intervening marriage.
+- **Newlywed exemption:** A newly married man is exempt from military and public duty for one year so that he may be at home and bring happiness to his wife (Deuteronomy 24:5).
+- **Levirate marriage:** Deuteronomy 25:5-10 directs a brother-in-law to preserve a deceased brother's family line, while providing a public procedure for refusal.
 
 ### Laws Addressing Wives
 
-- **Law of Jealousy:** If a husband suspects his wife of adultery during marriage but lacks witnesses or physical proof, she undergoes the ordeal of bitter water administered by the priest. If she is found guilty, divine judgment falls upon her, and if innocent, she is cleared (Numbers 5:11-31).
-- **Accusation of lacking virginity at marriage:** If a newly married wife is accused of unfaithfulness prior to marriage and evidence of virginity is lacking, she is executed by stoning **at the entrance of her father's house** for committing a disgraceful act in Israel while in her father's home. If the charge is false, the husband is fined and forbidden from ever divorcing her (Deuteronomy 22:13-21).
-- **Unfaithfulness of a betrothed woman in a city:** A betrothed virgin who consents to lie with another man in a city (evidenced by not crying out for help) is executed along with the man for unfaithfulness to her betrothed husband (Deuteronomy 22:23-24).
+- **Jealousy ordeal:** Numbers 5:11-31 prescribes a priestly ordeal where a husband suspects adultery without evidence. As part of Israel's ritual law, it is not a modern investigative procedure.
+- **Accusation concerning premarital virginity:** Deuteronomy 22:13-21 gives legal outcomes for a husband's accusation, including punishment of a false accuser. Its evidentiary assumptions and civil penalties belong to ancient Israel's legal system.
+- **Sex involving a betrothed woman:** Deuteronomy 22:23-27 distinguishes a city case from a field case. Failure to cry out functions within that ancient legal formulation; it must not be treated as a reliable modern test of consent, because victims may freeze, be threatened, or be unable to call for help.
 
 ### Laws Addressing Both Spouses
 
@@ -165,6 +139,30 @@ The passage does not supply a comprehensive divorce law. The following laws high
 - **Forbidden unions:** Torah prohibits sexual relations with close relatives, a neighbour’s wife, and certain other relationships. Leviticus 20 gives penalties for several of these offences (Leviticus 18:6-23; 20:10-21).
 - **Sexual intercourse during menstruation:** Torah strictly prohibits sexual relations during a woman's menstrual period (Leviticus 18:19; 20:18).
 - **Adultery with a married woman:** Both the man and the married woman found lying together are to be put to death (Deuteronomy 22:22).
+
+### Covenant Faithfulness
+
+Malachi 2:13-16 condemn men who betray the wives of their youth. The passage presents marriage as a covenant witnessed by God.
+
+> This is another thing you do: you cover the altar of the LORD with tears, with weeping and with groaning, because He no longer regards the offering or accepts it with favor from your hand.
+>
+> Yet you say, ‘For what reason?’
+>
+> Because **the LORD has been a witness between you and the wife** of your youth, against whom you have dealt treacherously, though [she is your companion](#help-in-companionship) and **your wife by covenant**.
+>
+> But not one has done so who has a remnant of the Spirit. And what did that one do while he was seeking a godly offspring?
+>
+> Take heed then to your spirit, and let **no one deal treacherously against the wife** of your youth. For ***I hate divorce***,” says the LORD, the God of Israel, “and him who covers his garment with wrong,” says the LORD of hosts. “So take heed to your spirit, that you **do not deal treacherously**.”
+>
+> — Malachi 2:13-16 (NAS95)
+
+Some popular Bible translations like the ESV render:
+
+> “For the man ***who does not love his wife*** but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.” — Malachi 2:16 (ESV)
+
+It could be easily misunderstood as an execute to divorce: When romance fade, divorce becomes an option.
+
+Malachi does **not** use the Hebrew word for “love” here. Some translations render “does not love his wife” instead of **שָׂנֵא** (*sānēʾ*, “hate”). It does not give a command against a man who no longer feels romantic love for his wife. Rather, Malachi condemns a husband who hates his wife through treacherous divorce, breaking the covenant he made before the LORD.
 
 ### Jesus on Marriage and Divorce
 
@@ -233,6 +231,8 @@ For example God described Abraham's leadership of his children and household as 
 >
 > — Genesis 18:19 (ESV)
 
+This does not make teaching and discipline the father's exclusive responsibility. Proverbs repeatedly tells children to heed both parents: “Hear, my son, your father's instruction, and forsake not your mother's teaching” (Proverbs 1:8; see also Proverbs 6:20). King Lemuel's instruction came from his mother (Proverbs 31:1). Ephesians 6:1-2 tells children to obey and honour both father and mother.
+
 ### Divorce
 
 In modern culture, divorce is encouraged when your spouse no longer pleases you ([2023 Pew Research Center survey](https://www.pewresearch.org/social-trends/2023/09/14/public-has-mixed-views-on-the-modern-american-family/), [2026 Gallup survey](https://news.gallup.com/poll/710981/moral-acceptability-falls-several-behaviors.aspx)).
@@ -293,9 +293,9 @@ According to the [2015 Pew Research Center report](https://www.pewresearch.org/s
 >
 > — Ecclesiastes 4:9-12 (ESV)
 
-This passage is often read at weddings, and the reference to two people lying together is often assumed to be a married couple. However, the text does not identify the companions as husband and wife or present these benefits as marital expectations. For example in a physical combat, a wife would be more of a liability than help against another attacking man. 
+This passage is often read at weddings, and the reference to two people lying together is often assumed to be a married couple. However, the text does not identify the companions as husband and wife or present these benefits as marital expectations. For example in a physical combat, a wife would be more of a liability than help against another attacking man.
 
-These examples support a broad principle: two companions can protect and support one another better than one person alone. Some aspects of this passage could be applied to marriage, but its teaching concerns companionship in general rather than setting marital standards or dictating shared work-load in households.
+These examples support a broad principle: two companions can protect and support one another better than one person alone. Some aspects of this passage could be [applied to marriage](#covenant-faithfulness), but its teaching concerns companionship in general rather than setting marital standards or dictating shared work-load in households.
 
 ## Marital Roles
 
@@ -325,7 +325,7 @@ Paul on the other hand wrote to the Corinthian church:
 >
 > — 1 Corinthians 11:2-16 (ESV)
 
-Men and women are [equal in creation](#genders) in the sense that they depend on each other and share the same inheritance. However, they do not share the same role (authority) as Paul stated "the head of a wife is her husband".
+Men and women are [equal in creation](#creation-and-shared-human-dignity) in the sense that they depend on each other and share the same inheritance. However, they do not share the same role (authority) as Paul stated "the head of a wife is her husband".
 
 Some feministic interpreters argue that "head" means "source". Verse 8 is compatible with that meaning because woman was made from man, but this observation alone does not establish the meaning of "head" in verse 3.
 
@@ -401,32 +401,12 @@ The ESV phrase *“in an understanding way”* translates the Greek expression [
 
 ## Conclusion
 
-Although there are no fix martical contract and set of rules in the Bible, it is evidant that the following standards apply in contrast to contemporary marriage expectations:
+God created [man and woman to depend on one another](#creation-and-shared-human-dignity), while having [distinct responsibilities](#creation-and-shared-human-dignity). A husband bears [accountability before God](#accountability-before-god) for his conduct and care of his household, and the resulting [marital order](#marital-order) calls for responsible leadership.
 
-Standards applicable to both genders:
+The [Torah’s marital laws](#marital-laws) require [faithfulness to the marriage covenant](#covenant-faithfulness). Jesus taught that should [not separate what God has joined](#jesus-on-marriage-and-divorce). Spouses should reserve sexual relations for marriage and give one another their [conjugal rights](#sexual-passions) and reject [same-sex unions](#same-sex-unions).
 
-- God’s created 2 genders: [male and female](#genders) with distinct purposes.
-- Marriage joins one man and one woman, not partners in [same-sex unions](#same-sex-unions).
-- Spouses must keep their [marriage covenant](#covenant-faithfulness) faithfully.
-- Both spouses have [equal standing in Christ](#equal-standing-in-christ) but distinct responsibilities.
-- Neither spouse may [withhold their body](#sexual-passions) from the other without mutual agreement.
-- [Companionship](#help-in-companionship) is encouraged, without requiring equal division of every household task.
-- [Sexual relationships outside marriage are forbidden](#laws-addressing-both-spouses).
-- [Divorce are forbidden](#jesus-on-marriage-and-divorce) with only a few [exceptions](#divorce).
+Fathers must accept responsibility for the [instruction and discipline of their children](#discipline-children) without provoking them. An [excellent wife](#an-excellent-wife) fears the LORD, cares faithfully for her household, uses her abilities wisely, to deserves her husband’s praise. Marriage should provide mutual [help and companionship](#help-in-companionship), but Scripture does not prescribe a rigid 50/50 equal division of every household task and decision.
 
-Standards applicable to men:
+In Christ, husbands and wives have [equal standing as heirs of God’s promise](#equal-standing-in-christ) without identical marital responsibilities. Wives are called to submit to and respect their own husbands, while [husbands must love their wives sacrificially](#submission-and-christ-like-love). A husband should lead as a [servant leader](#servant-leader), attending to his wife’s needs rather than personal status. Neither spouse may use the influence the other as an excuse to [disobey God](#obeying-god). [Wives should show respectful and pure conduct](#conduct-honour-and-co-heirship), and [husbands should understanding their wives' needs](#conduct-honour-and-co-heirship).
 
-- Husbands bear [accountability before God](#accountability-before-god) for leading and caring for their households.
-- [Husbands must commit self-sacrificial to love their wives](#submission-and-christ-like-love).
-- Husbands exercise authority as [servant leaders](#servant-leader).
-- Husbands may [confirm or nullify their wives’ vows](#laws-addressing-husbands).
-- [Fathers must teach and discipline their children](#discipline-children) in the Lord.
-- Men should [withdraw from strife](#withdrawal-from-strife) before resolving conflict.
-- Men must bear [legal responsibility](#laws-addressing-husbands) for seduction or adultery.
-
-Standards applicable to women:
-
-- [An excellent wife](#an-excellent-wife) fears the LORD, honours her husband, cares for her household, and manages her work faithfully.
-- [Wives must submit and honour their husbands](#submission-and-christ-like-love).
-- Wives live under their husbands’ rule, while remaining accountable for personal sin ([Eve’s judgement](#eves-judgement)).
-- Wives must [remain sexually faithful](#laws-addressing-wives).
+Therefore, biblical marriage calls husbands and wives to honour God through covenant faithfulness, distinct responsibilities, sacrificial love, and mutual care.
