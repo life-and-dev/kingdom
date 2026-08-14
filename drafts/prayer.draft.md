@@ -21,23 +21,23 @@ The parts in *italics* are omitted by Luke.
 
 > Pray then like this:
 >
-> *Our* Father *in heaven*,<br/>
-> hallowed be Your Name.<br/>
-> Your kingdom come, *your will be done, on earth as it is in heaven*.<br/>
-> Give us this day our daily bread,<br/>
-> and forgive us our debts, as we also have forgiven our debtors.<br/>
-> And lead us not into temptation, <br/>
+> *Our* Father *in heaven*,  
+> hallowed be Your Name.  
+> Your kingdom come, *your will be done, on earth as it is in heaven*.  
+> Give us this day our daily bread,  
+> and forgive us our debts, as we also have forgiven our debtors.  
+> And lead us not into temptation,  
 > *but deliver us from evil.*
 >
 > -- Matthew 6:9-13 (ESV)
 
-You will also note that some [bible translations](/bible/translations) like the [ESV](/bible/translations/ESV) will omit the Doxology at the end of Jesus prayer, while other translations like the [NKJV](/bible/translations/NKJV) will include it.
+You will also note that some [bible translations](https://word.ofgod.info/translations), such as the ESV, omit the Doxology at the end of Jesus prayer, while other translations, such as the NKJV, include it.
 
 > For Yours is the kingdom and the power and the glory forever. Amen. -- Matthew 6:13 (NKJV)
 
 [Brent MacDonald](https://notjustanotherbook.com/thelordsprayer.htm) explains:
 
->  This doxology is never included in Luke's version, nor is it found in the earliest extant manuscripts of Matthew's version.  It is commonly found in later manuscripts of what are commonly known as "the Byzantine text" manuscripts.  Lack of early manuscript evidence to its original existence has led many modern translators to exclude it from Matthew. It is thought that the abrupt ending of the original sparked those using the prayer in liturgy to append a doxology to the Lord's Prayer as a proper conclusion in corporate usage.
+> This doxology is never included in Luke's version, nor is it found in the earliest extant manuscripts of Matthew's version.  It is commonly found in later manuscripts of what are commonly known as "the Byzantine text" manuscripts.  Lack of early manuscript evidence to its original existence has led many modern translators to exclude it from Matthew. It is thought that the abrupt ending of the original sparked those using the prayer in liturgy to append a doxology to the Lord's Prayer as a proper conclusion in corporate usage.
 
 Another reason why the Doxology might be lacking from the original manuscripts is that Jesus immediately explain the last sentence of the prayer:
 
@@ -66,7 +66,7 @@ In the next verse Jesus gives the answer:
 
 ## Hallowed be Your Name
 
-[Name means the Father's authority](/bible/concepts/name). The Father's authority, name or identity is unique and separate from any other god. Therefore, it is "hallowed". In other words, Jesus implies that he submit himself and everything he is about to pray under the Father's authority and that he acknowledge that the Father is God.
+[Name means the Father's authority](https://word.ofgod.info/terms/name). The Father's authority, name or identity is unique and separate from any other god. Therefore, it is "hallowed". In other words, Jesus implies that he submit himself and everything he is about to pray under the Father's authority and that he acknowledge that the Father is God.
 
 > The lamp of the body is the eye. If therefore your eye is good, your whole body will be full of light. But if your eye is bad, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is that darkness! -- Matthew 6:22-23
 
@@ -104,13 +104,13 @@ The unwillingness to forgive, is judgemental.
 
 > Judge not, that you be not judged. For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you.
 >
-> And why do you look at the speck in your brother’s eye, but do not consider the plank in your own eye?<br/>
-> Or how can you say to your brother, ‘Let me remove the speck from your eye’; and look, a plank is in your own eye?<br/>
+> And why do you look at the speck in your brother’s eye, but do not consider the plank in your own eye?  
+> Or how can you say to your brother, ‘Let me remove the speck from your eye’; and look, a plank is in your own eye?  
 > Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck from your brother’s eye.
 
 ## Lead us not into temptation
 
-> “Do not give what is [holy](/bible/concepts/holy) to the dogs; nor cast your pearls before swine, lest they trample them under their feet, and turn and tear you in pieces. -- Matthew 7:1-6
+> “Do not give what is holy to the dogs; nor cast your pearls before swine, lest they trample them under their feet, and turn and tear you in pieces. -- Matthew 7:1-6
 
 In other words, do not defile what is holy (set apart for God's purpose) but falling for temptations.
 
@@ -122,7 +122,7 @@ Jesus explain what he meant with these words in Matthew 7:7-12, however, in this
 
 > *And he said to them, “Which of you shall have a friend, and go to him at midnight*
 >
-> *and say to him, ‘Friend, lend me three loaves; for a friend of mine has come to me on his journey, and I have nothing to set before him’*<br/>
+> *and say to him, ‘Friend, lend me three loaves; for a friend of mine has come to me on his journey, and I have nothing to set before him’*  
 > *and he will answer from within and say, ‘Do not trouble me; the door is now shut, and my children are with me in bed; I cannot rise and give to you’?*
 >
 > *I say to you, though he will not rise and give to him because he is his friend, yet because of his persistence he will rise and give him as many as he needs.*
@@ -137,7 +137,7 @@ Jesus explain what he meant with these words in Matthew 7:7-12, however, in this
 
 The Father won't give an evil spirit when you ask for the Holy Spirit.
 
-Note Jesus specifically speaks to someone who has a good ([righteous](/bible/concepts/righteousness)) relationship with the Father as he mentions "friend" or "son" in his examples and he was talking to his "disciples". 
+Note Jesus specifically speaks to someone who has a good ([righteous](righteousness.md)) relationship with the Father as he mentions "friend" or "son" in his examples and he was talking to his "disciples".
 
 This is not a ticket to manipulate God like a magical genie to obey your wishes as a Psalmist wrote:
 
@@ -147,15 +147,15 @@ We need to move under God's protection as David wrote:
 
 > The LORD is their strength, and He is the saving refuge of **His anointed**.
 > Save **Your people**, and bless Your inheritance;
-> Shepherd them also, and bear them up forever. 
-> 
+> Shepherd them also, and bear them up forever.
+>
 > -- Psalm 28:8-9 (NKJV)
 
 Then He will answer our prayers:
 
 > He has attended to the voice of my prayer.
-> Blessed be God, Who has not turned away my prayer 
-> 
+> Blessed be God, Who has not turned away my prayer
+>
 > -- Psalm 66:19-20 (NKJV)
 
 # Closing of the prayer
@@ -168,32 +168,32 @@ There is no closing of "the Lord's Prayer" according to Luke and Paul:
 
 # Jesus' prayers
 
-> Jesus spoke these words, lifted up His eyes to heaven, and said: 
-> 
-> “**Father**, the hour has come. 
-> 
-> Glorify Your Son, that Your Son also may **glorify You**, as **You have given him authority** over all flesh, that He should give eternal life to as many as You have given Him. 
-> 
-> And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent. 
-> 
+> Jesus spoke these words, lifted up His eyes to heaven, and said:
+>
+> “**Father**, the hour has come.
+>
+> Glorify Your Son, that Your Son also may **glorify You**, as **You have given him authority** over all flesh, that He should give eternal life to as many as You have given Him.
+>
+> And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent.
+>
 > I have glorified You on the earth. I have finished the work which You have given me to do. And now, O Father, glorify me together with Yourself, with the glory which I had with You before the world was. I have manifested Your name to the men whom You have given me out of the world. They were Yours, You gave them to me, and they have kept Your word. Now they have known that all things which You have given me are from You. For I have given to them the words which You have given me; and they have received them, and have known surely that I came forth from You; and they have believed that You sent Me.
-> 
-> I pray for them. I do not pray for the world but for those whom You have given me, for they are Yours. And all mine are Yours, and Yours are mine, and I am glorified in them. 
-> 
-> Now I am no longer in the world, but these are in the world, and I come to You. Holy Father, **keep through Your name those whom You have given me**, that they may be one as we are. While I was with them in the world, I kept them in Your name. Those whom You gave me I have kept; and none of them is lost except the son of perdition, that the scripture might be fulfilled. But now I come to You, and these things I speak in the world, that they may have My joy fulfilled in themselves. 
-> 
-> I have given them Your word; and the world has hated them because they are not of the world, just as I am not of the world. 
-> 
-> I do not pray that You should take them out of the world, but that You should **keep them from the evil one**. They are not of the world, just as I am not of the world. 
-> 
+>
+> I pray for them. I do not pray for the world but for those whom You have given me, for they are Yours. And all mine are Yours, and Yours are mine, and I am glorified in them.
+>
+> Now I am no longer in the world, but these are in the world, and I come to You. Holy Father, **keep through Your name those whom You have given me**, that they may be one as we are. While I was with them in the world, I kept them in Your name. Those whom You gave me I have kept; and none of them is lost except the son of perdition, that the scripture might be fulfilled. But now I come to You, and these things I speak in the world, that they may have My joy fulfilled in themselves.
+>
+> I have given them Your word; and the world has hated them because they are not of the world, just as I am not of the world.
+>
+> I do not pray that You should take them out of the world, but that You should **keep them from the evil one**. They are not of the world, just as I am not of the world.
+>
 > Sanctify them by Your truth. Your word is truth. As You sent me into the world, I also have sent them into the world. And for their sakes I sanctify myself, that they also may be sanctified by the truth.
 >
 > I do not pray for these alone, but also for those who will believe in me through their word; that they all may be one, as You, Father, are in me, and I in You; that they also may be one in us, that the world may believe that You sent me. And the glory which You gave me I have given them, that they may be one just as we are one: I in them, and You in me; that they may be made perfect in one, and that the world may know that You have sent me, and have loved them as You have loved me.
-> 
-> Father, I desire that they also whom You gave me may be with me where I am, that they may behold my glory which You have given me; for You loved me before the foundation of the world. 
-> 
-> O righteous Father! The world has not known You, but I have known You; and these have known that You sent me. And I have declared to them Your name, and will declare it, that the love with which You loved me may be in them, and I in them.” 
-> 
+>
+> Father, I desire that they also whom You gave me may be with me where I am, that they may behold my glory which You have given me; for You loved me before the foundation of the world.
+>
+> O righteous Father! The world has not known You, but I have known You; and these have known that You sent me. And I have declared to them Your name, and will declare it, that the love with which You loved me may be in them, and I in them.”
+>
 > -- John 17:1-26 (NKJV)
 
 Just like "[the Lord's Prayer](#the-lords-prayer)":
@@ -201,20 +201,20 @@ Just like "[the Lord's Prayer](#the-lords-prayer)":
 * Jesus addresses the "Father", not himself or any other god.
 * Again Jesus submits under the Father's authority.
 * Again Jesus aim is to glorify the Father in everything he requests.
-* Again Jesus request that the Father's kingdom should extend. 
+* Again Jesus request that the Father's kingdom should extend.
 * Again Jesus ask for protection against the "evil one".
 * There is also no "Amen" or [closing in this prayer](#closing-of-the-prayer)
 
 Matthews recording of Jesus' last prayers:
 
-> He went a little farther and fell on his face, and prayed, saying, 
-> 
+> He went a little farther and fell on his face, and prayed, saying,
+>
 > “O my Father, if it is possible, let this cup pass from me; nevertheless, not as I will, but as You will.”
 >
 > ...
-> 
+>
 > Again, a second time, He went away and prayed, saying, “O My Father, if this cup cannot pass away from me unless I drink it, Your will be done.”
-> 
+>
 > -- Matthew 26:39,42 (NKJV)
 
 * Both prayers, Jesus addressed his "Father".
@@ -224,26 +224,26 @@ Matthews recording of Jesus' last prayers:
 > And Jesus lifted up his eyes and said, "**Father**, I thank you that you have heard me. I knew that you always hear me, but I said this on account of the people standing around, that they may believe that **you sent me**.” -- John 11:41 (ESV)
 
 * Jesus addresses the "Father", not himself or any other god.
-* Again Jesus submits under the Father's authority, by acknowledging that "[you sent me](/god/son/essence/not-god/serve-god)".
+* Again Jesus submits under the Father's authority, by acknowledging that "[you sent me](../../son/son-of-man/serve-god.md)".
 * There is also no "Amen" or [closing in this prayer](#closing-of-the-prayer)
 
 ## The authority of Jesus
 
-Throughout [Jesus last recorded prayer](#jesus-last-recorded-prayer) he highlighted that great authority will be given to him.
+Throughout [Jesus' prayers](#jesus-prayers) he highlighted that great authority will be given to him.
 
 What does that benefit us?
 
-> Truly, truly, I *(Jesus)* say to you, **whoever believes in me** will also do the works that I do; and greater works than these will he do, because I am going to the Father. 
+> Truly, truly, I *(Jesus)* say to you, **whoever believes in me** will also do the works that I do; and greater works than these will he do, because I am going to the Father.
 >
-> Whatever **you ask in my name**, this I will do, **that the Father may be [glorified](/bible/concepts/glory)** in the Son. 
-> 
+> Whatever **you ask in my name**, this I will do, **that the Father may be [glorified](../../word/terms/glory.md)** in the Son.
+>
 > If you ask me anything in my name, I will do it.
->  
+>
 > -- John 14:12 (ESV)
 
-1. You need to "believe in Jesus", i.e. trust Jesus' teachings. [The name](/bible/concepts/name) of Jesus is not a magic word. Prayer require faith, i.e. trust that God would answer the request.
-2. When "you ask in Jesus' name" it does not mean you address Jesus, but instead that you ask something under [the authority](/bible/concepts/name) or with Jesus approval. In other words, you are not asking something that Jesus would not have approved. 
-3. We know Jesus would have approved a prayer request if it is something that would [glorify](/bible/concepts/glory) the Father God.
+1. You need to "believe in Jesus", i.e. trust Jesus' teachings. [The name](../../word/terms/name.md) of Jesus is not a magic word. Prayer require faith, i.e. trust that God would answer the request.
+2. When "you ask in Jesus' name" it does not mean you address Jesus, but instead that you ask something under [the authority](../../word/terms/name.md) or with Jesus approval. In other words, you are not asking something that Jesus would not have approved.
+3. We know Jesus would have approved a prayer request if it is something that would [glorify](../../word/terms/glory.md) the Father God.
 
 In addition, Paul also wrote that prayer request must be made in "thanksgiving", which is not truly possible if you do faith that it will be answered:
 
@@ -254,23 +254,23 @@ In addition, Paul also wrote that prayer request must be made in "thanksgiving",
 
 Just like Jesus submit himself under the Father's authority when he prayed, we too should submit ourselves under God's authority, which means we should pray that God's will be done and not for selfish desires.
 
-> Truly, truly, I say to you, whatever you ask of the Father **in my name *([authority](/bible/concepts/name))*, he will give it to you**. 
-> 
-> Until now you have asked nothing in my name *(authority)*. 
-> 
+> Truly, truly, I say to you, whatever you ask of the Father **in my name *([authority](../../word/terms/name.md))*, he will give it to you**.
+>
+> Until now you have asked nothing in my name *(authority)*.
+>
 > Ask, and you will receive, that your joy may be full.
-> 
+>
 > -- John 16:23 (ESV)
 
-Therefore, loosely adding the words "in the name of Jesus" to the end of your prayer does not magically force God to obey your wishes. We are not building our own empires on earth for our own convenience. 
+Therefore, loosely adding the words "in the name of Jesus" to the end of your prayer does not magically force God to obey your wishes. We are not building our own empires on earth for our own convenience.
 
-Jesus makes it clear that we need to submit ourselves, our plans and our prayers to his will (authority or name). We are supposed to [extend God's Kingdom](#your-kingdom-come-your-will-be-done-on-earth-as-it-is-in-heaven) with the purpose to have an eternal effect on both ourselves and the people we pray for. This may also include requests to God to [forgive our sins](/saved/repent), to [protect us](#deliver-us-from-evil) and to [provide for us on earth](#give-us-this-day-our-daily-bread) as He understood we need these things to be able to accomplish the bigger plan and purpose in His Kingdom.
+Jesus makes it clear that we need to submit ourselves, our plans and our prayers to his will (authority or name). We are supposed to [extend God's Kingdom](#your-kingdom-come-your-will-be-done-on-earth-as-it-is-in-heaven) with the purpose to have an eternal effect on both ourselves and the people we pray for. This may also include requests to God to [forgive our sins](../life/repentance.md), to [protect us](#deliver-us-from-evil) and to [provide for us on earth](#give-us-this-day-our-daily-bread) as He understood we need these things to be able to accomplish the bigger plan and purpose in His Kingdom.
 
 # Paul's advise
 
 ## Pray for all people
 
-> First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for **all people**, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way. This is good, and it is pleasing in the sight of God our Savior, **Who desires all people to be [saved](/saved)** and to come to the knowledge of the truth. -- 1 Timothy 2:1-4 (ESV)
+> First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for **all people**, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way. This is good, and it is pleasing in the sight of God our Savior, **Who desires all people to be [saved](../life/repentance.md)** and to come to the knowledge of the truth. -- 1 Timothy 2:1-4 (ESV)
 
 ## Public prayer
 
@@ -282,23 +282,23 @@ However, there are no other laws or recommendations anywhere else in the bible t
 
 Another example or prayer posture is:
 
-> And at the evening sacrifice I rose from my fasting, with my garment and my cloak torn, and **fell upon my knees and spread out my hands** to [the LORD](/god/father/name#yhwh) my God, saying: "O my God..." -- Ezra 9:5-6 (ESV)
+> And at the evening sacrifice I rose from my fasting, with my garment and my cloak torn, and **fell upon my knees and spread out my hands** to [the LORD](../../ofgod/name.md#yhwh) my God, saying: "O my God..." -- Ezra 9:5-6 (ESV)
 
-# Praying to Jesus
+# Prayer to the Father and address to the risen Jesus
 
-Jesus never demonstrated or requested his disciples to pray to him. 
+Jesus' ordinary teaching gives disciples a clear destination: pray to “our Father” (Matthew 6:9) and ask the Father in Jesus' name (John 16:23). The Father is not a mere endpoint after prayer has been redirected elsewhere; Jesus presents him as the one who hears, gives, and is glorified. “In my name” places the request under Jesus' authority and mission. It does not, by the English word *in*, decide whether every Christian may address Jesus directly.
 
-However, that would have been pointless because Jesus was in those days physically in the presence of his disciples. 
+**Trinitarian reading.** Prayer to the Father through the Son is communion with the one God, not a rule against addressing the Son. Stephen calls, “Lord Jesus, receive my spirit,” while seeing the risen Jesus (Acts 7:55–60). Paul says believers “call upon the name of our Lord Jesus Christ” (1 Corinthians 1:2), and Paul appeals to “the Lord” in 2 Corinthians 12:8–9. Along with Revelation 22:20, these are read as authorised invocation of the risen Jesus. The vision in Stephen's case explains the scene, but does not cancel the direct address.
 
-Yet, we have the examples of Stephan, Paul and John who [communicated with Jesus after his ascension](/god/son/essence/as-god/prayer), but in all these instance they were directly speaking to Jesus in a vision like people do when they speak to angels.
+**Unitarian reading.** John 16:23 and the Lord's Prayer give the normal pattern: prayer is addressed to the Father, through the mediator Jesus. Stephen's words are genuine direct address, but occur while he sees Jesus at God's right hand; they need not establish a general prayer practice. “Call upon the name” can include confession, appeal for salvation, allegiance, and use of the exalted Lord's authority; its precise force must come from its context. Paul distinguishes “one God” from “one mediator ... Christ Jesus” (1 Timothy 2:5), so this view treats Jesus as the way to the Father rather than the final destination of prayer.
 
-Today, there are many testimonies of people who "saw Jesus". However, all these cases they "saw Jesus" in a vision like the apostles. Nobody can say they shook hands or had lunch with Jesus like the disciples did before his ascension. Jesus described in detail [how he would return](/life/end-times), and he is not back yet.
+Both views must preserve the evidence: Jesus directs prayer to the Father, and the risen Jesus is addressed and invoked. The issue is whether those facts describe Trinitarian communion with Father and Son or prayer to the Father through God's exalted mediator. See [Worshipping Jesus](../../son/son-as-god/worship.md#prayer-and-invocation) and [Worship terms](../../word/terms/worship.md#lexical-range-and-context).
 
 # Praying to the Holy Spirit
 
-Directly prayers to the Holy Spirit was never commanded or even suggested. This is because [the Holy Spirit is God's Spirit](/god/spirit) with which He interacts with His creation.
+Directly prayers to the Holy Spirit was never commanded or even suggested. This is because [the Holy Spirit is God's Spirit](../../ofgod/spirit/the-spirit-of-god.md) with which He interacts with His creation.
 
-We see no examples of any prayers to the Holy Spirit. However, Ezekiel 37:9 records that the prophet addressed "the Spirit" or "the wind" (depending on your [translation](/bible/translations)), but this was done as a prophetic act and not as a prayer example.
+We see no examples of any prayers to the Holy Spirit. However, Ezekiel 37:9 records that the prophet addressed "the Spirit" or "the wind" (depending on your [translation](../../word/translations.md)), but this was done as a prophetic act and not as a prayer example.
 
 # Praying to angels
 
@@ -306,7 +306,7 @@ We see no examples of any prayers to the Holy Spirit. However, Ezekiel 37:9 reco
 
 > First of all, then, I urge that **supplications, prayers, intercessions, and thanksgivings** be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way. This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth. For **there is one God, and there is one mediator between God and men, the man Christ Jesus**, who gave himself as a ransom for all, which is the testimony given at the proper time. For this I was appointed a preacher and an apostle (I am telling the truth, I am not lying), a teacher of the Gentiles in faith and truth. -- 1 Timothy 2:1-7 (ESV)
 
-As seen, we should not "[worship](/god/worship)" which implies pray, to angels. We should only pray to God under [Christ Jesus's authority](#the-authority-of-jesus).
+As seen, we should not "[worship](../../word/terms/worship.md)" which implies pray, to angels. We should only pray to God under [Christ Jesus's authority](#the-authority-of-jesus).
 
 # Praying to the dead
 

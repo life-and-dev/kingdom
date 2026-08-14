@@ -1,6 +1,6 @@
 ---
-description: Explore the historical and theological significance of Jesus Christ's crucifixion and why this event remains the cornerstone of the Christian faith.
-keywords: crucifixion, Jesus Christ, salvation, reconciliation, blood covenant, redemption, atonement, Christian theology
+description: Explore the historical and theological significance of Jesus Christ's crucifixion and why this event remains central to Christian salvation.
+keywords: crucifixion, Jesus Christ, salvation, reconciliation, blood covenant, redemption, atonement, priesthood, resurrection
 ---
 
 # The Crucifixion

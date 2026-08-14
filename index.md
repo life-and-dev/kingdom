@@ -37,6 +37,7 @@ and
 ### What Adam Lost
 
 Adam used to enjoy:
+
 - **Dominion over creation** (authority to rule under God) (Genesis 1:26-28; Psalm 8:6)
 - **Peace and harmony** (Genesis 2:9)
 - **Eternal life** (Genesis 2:9)
@@ -49,6 +50,7 @@ However, because of Adam's disobedience,
 > The LORD God said, “Behold, the man has become like one of us in **knowing** good and **evil**. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever⁠—” therefore **the LORD God sent him out from the garden of Eden** to work the ground from which he was taken. **He drove out the man**... — Genesis 3:22-24 (ESV)
 
 Adam forfeited:
+
 - **Dominion over creation** (work all days on cursed ground) (Genesis 3:17-19)
 - **Peace and harmony** (pain, thorns and sweat) (Genesis 3:17-19)
 - **Eternal life** (death) (Genesis 2:17; Romans 5:12)
@@ -71,8 +73,8 @@ The Kingdom of God is God's rule/reign restored in human hearts, His presence wi
 
 ### Who qualifies for the Kingdom of God?
 
-> * Whoever believes in the Son has eternal life.
-> * Whoever does not obey the Son shall not see life, but the wrath of God remains on him.
+> - Whoever believes in the Son has eternal life.
+> - Whoever does not obey the Son shall not see life, but the wrath of God remains on him.
 >
 > — John 3:36 (ESV)
 
@@ -89,15 +91,16 @@ and
 > To the saints and faithful brothers *[in (with)](https://eternal.family.net.za/bible/translations/differences/en)* Christ at Colossae...
 >
 > And so, from the day we heard, we have not ceased to pray for you, asking that
-> * you may be **filled with the knowledge of his will in all spiritual wisdom and understanding**,
-> * so as to walk in a manner worthy of the Lord, fully pleasing to him, **bearing fruit in every good work** and
-> * **increasing in the knowledge of God**.
-> * May you **be strengthened with all power**, according to His glorious might,
-> * for all **endurance and patience with joy**,
-> * giving thanks to the Father, who has qualified you to **share in the inheritance of the saints in light**.
-> * He has **delivered us from the domain of darkness** and
-> * **transferred us to the kingdom of His beloved son**,
-> * in whom **we have redemption**, the forgiveness of sins. — Colossians 1:2,11-14 (ESV)
+>
+> - you may be **filled with the knowledge of his will in all spiritual wisdom and understanding**,
+> - so as to walk in a manner worthy of the Lord, fully pleasing to him, **bearing fruit in every good work** and
+> - **increasing in the knowledge of God**.
+> - May you **be strengthened with all power**, according to His glorious might,
+> - for all **endurance and patience with joy**,
+> - giving thanks to the Father, who has qualified you to **share in the inheritance of the saints in light**.
+> - He has **delivered us from the domain of darkness** and
+> - **transferred us to the kingdom of His beloved son**,
+> - in whom **we have redemption**, the forgiveness of sins. — Colossians 1:2,11-14 (ESV)
 
 In short, it is privilege to be able to "dwell" with the trustworthy Almighty God:
 
@@ -106,6 +109,7 @@ In short, it is privilege to be able to "dwell" with the trustworthy Almighty Go
 and this is how God respond:
 
 > “Because he holds fast to Me in love,
+>
 > 1. I will **deliver** him;
 > 2. I will **protect** him, because he knows My [name](https://eternal.family.net.za/god/name).
 > 3. When he calls to me, **I will answer** him;
@@ -124,15 +128,15 @@ Jesus very first teaching recorded by Matthew 5-7, was about "the Kingdom of Hea
 
 This is perhaps a reference to:
 
-> In just a little while, the wicked will be no more;    
-> though you look carefully at his place, he will not be there.    
+> In just a little while, the wicked will be no more;
+> though you look carefully at his place, he will not be there.
 > But **the *meek (humble/lowly/poor)* shall inherit the land and delight themselves in abundant peace**.
 >
 > — Psalm 37:10 (ESV)
 
 Jesus taught his disciples what kind of humility is required:
 
-> At that time the disciples came to Jesus, saying, “Who is the greatest in the kingdom of heaven?” 
+> At that time the disciples came to Jesus, saying, “Who is the greatest in the kingdom of heaven?”
 >
 > And calling to him a child, he put him in the midst of them and said, “Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven. Whoever humbles himself like this child is the greatest in the kingdom of heaven.
 >
@@ -151,12 +155,12 @@ And then James also warned:
 >
 >> “God opposes the proud, but gives **grace to the humble**.”
 >
-> * Submit yourselves therefore to God.
-> * Resist the devil, and he will flee from you.
-> * Draw near to God, and he will draw near to you.
-> * Cleanse your hands, you sinners, and purify your hearts, you double-minded.
-> * Be wretched and mourn and weep.
-> * Let your laughter be turned to mourning and your joy to gloom.
+> - Submit yourselves therefore to God.
+> - Resist the devil, and he will flee from you.
+> - Draw near to God, and he will draw near to you.
+> - Cleanse your hands, you sinners, and purify your hearts, you double-minded.
+> - Be wretched and mourn and weep.
+> - Let your laughter be turned to mourning and your joy to gloom.
 >
 > **Humble yourselves before the Lord**, and he will exalt you.
 >
@@ -182,32 +186,34 @@ Paul provided clear warnings about who will be excluded:
 
 But Jesus even set a higher standard:
 
-> When [the Son of Man](https://son.ofgod.info/son-of-man) comes in his glory, and all the angels with him, then he will sit on his glorious throne. 
-> 
-> Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. And he will place the sheep on his right, but the goats on the left. 
-> 
-> Then the king will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For 
-> * I was hungry and you gave me food, 
-> * I was thirsty and you gave me drink, 
-> * I was a stranger and you welcomed me, 
-> * I was naked and you clothed me, 
-> * I was sick and you visited me, I was in prison and you came to me.’ 
+> When [the Son of Man](https://son.ofgod.info/son-of-man) comes in his glory, and all the angels with him, then he will sit on his glorious throne.
 >
-> Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? And when did we see you a stranger and welcome you, or naked and clothe you? And when did we see you sick or in prison and visit you?’ 
-> 
+> Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. And he will place the sheep on his right, but the goats on the left.
+>
+> Then the king will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For
+>
+> - I was hungry and you gave me food,
+> - I was thirsty and you gave me drink,
+> - I was a stranger and you welcomed me,
+> - I was naked and you clothed me,
+> - I was sick and you visited me, I was in prison and you came to me.’
+>
+> Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? And when did we see you a stranger and welcome you, or naked and clothe you? And when did we see you sick or in prison and visit you?’
+>
 > And the king will answer them, ‘Truly, I say to you, as you did it to one of the least of these [my brothers](https://eternal.family.net.za/god/family), you did it to me.’
-> 
-> “Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. For 
-> * I was hungry and you gave me no food, 
-> * I was thirsty and you gave me no drink, 
-> * I was a stranger and you did not welcome me, 
-> * *[I was]* naked and you did not clothe me, 
-> * *[I was]* sick and in prison and you did not visit me.’
 >
-> Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’ 
-> 
-> Then he will answer them, saying, ‘Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.’ 
-> 
+> “Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. For
+>
+> - I was hungry and you gave me no food,
+> - I was thirsty and you gave me no drink,
+> - I was a stranger and you did not welcome me,
+> - *[I was]* naked and you did not clothe me,
+> - *[I was]* sick and in prison and you did not visit me.’
+>
+> Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’
+>
+> Then he will answer them, saying, ‘Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.’
+>
 > And these will go away into eternal punishment, but the righteous into eternal life.”
 >
 > — Matthew 25:31-46 (ESV)
@@ -238,6 +244,7 @@ and
 Paul also wrote:
 
 > I do not cease to give thanks for you, remembering you in my prayers, that **the God of our Lord Jesus Christ**, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of Him, having the eyes of your hearts enlightened, that you may know what is the hope to which He has called you, what are the riches of His glorious inheritance in the saints, and what is the immeasurable greatness of His power toward us who believe, according to the working of His great might that He worked in Christ when
+>
 > 1. He raised him from the dead and
 > 2. seated him at His right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.
 > 3. And He put all things under his feet and gave him as head over all things to the church, which is [his body](christ/body.md), the fullness of Him who fills all in all. — Ephesians 1:16-23 (ESV)
@@ -252,7 +259,7 @@ According to Paul, Jesus did not replace God, but instead that Jesus acts as a d
 
 ## What is the Kingdom of God?
 
-> Why do you pass judgment on your brother?   
+> Why do you pass judgment on your brother?  
 > Or you, why do you despise your brother?
 >
 > For we will all stand before the judgment seat of God;
@@ -275,28 +282,28 @@ Jesus explains the Kingdom of God with parables (Matthew 13:10-17; Mark 4:10-12)
 
 ### The parable of the wedding invitation
 
-> And again Jesus spoke to them in parables, saying, 
-> 
-> “**The kingdom of heaven** may be compared to a king who gave a wedding feast for his son, and sent his servants to call those who were invited to the wedding feast, but they would not come. 
-> 
-> Again he sent other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready. Come to the wedding feast.”’ 
-> 
-> But they paid no attention and went off, one to his farm, another to his business, while the rest seized his servants, treated them shamefully, and killed them. 
-> 
-> The king was angry, and he sent his troops and destroyed those murderers and burned their city. 
-> 
-> Then he said to his servants, ‘The wedding feast is ready, but those invited were not worthy. Go therefore to the main roads and invite to the wedding feast as many as you find.’ 
-> 
+> And again Jesus spoke to them in parables, saying,
+>
+> “**The kingdom of heaven** may be compared to a king who gave a wedding feast for his son, and sent his servants to call those who were invited to the wedding feast, but they would not come.
+>
+> Again he sent other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready. Come to the wedding feast.”’
+>
+> But they paid no attention and went off, one to his farm, another to his business, while the rest seized his servants, treated them shamefully, and killed them.
+>
+> The king was angry, and he sent his troops and destroyed those murderers and burned their city.
+>
+> Then he said to his servants, ‘The wedding feast is ready, but those invited were not worthy. Go therefore to the main roads and invite to the wedding feast as many as you find.’
+>
 > And those servants went out into the roads and gathered all whom they found, both bad and good. So the wedding hall was filled with guests.
-> 
-> But when the king came in to look at the guests, he saw there a man who had no wedding garment. 
-> 
+>
+> But when the king came in to look at the guests, he saw there a man who had no wedding garment.
+>
 > And he said to him, ‘Friend, how did you get in here without a wedding garment?’  
 > And he was speechless.  
-> Then the king said to the attendants, ‘Bind him hand and foot and cast him into the outer darkness’. 
-> 
-> In that place there will be weeping and gnashing of teeth. For many are called, but few are chosen.” 
-> 
+> Then the king said to the attendants, ‘Bind him hand and foot and cast him into the outer darkness’.
+>
+> In that place there will be weeping and gnashing of teeth. For many are called, but few are chosen.”
+>
 > — Matthew 22:1-14 (ESV)
 
 Comparison:
@@ -319,7 +326,7 @@ Comparison:
 Explanation:
 
 1. God the Father ([YHWH](https://eternal.family.net.za/god/name#yhwh)) originally chosen Israel to be His nation.
-2. The Father's invitation is [the Gospel of Salvation](https://eternal.family.net.za/eternal/saved) which leads people to [repentance](https://eternal.family.net.za/eternal/saved/repent) so that they could live in [righteousness with God](https://eternal.family.net.za/bible/concepts/righteousness). 
+2. The Father's invitation is [the Gospel of Salvation](https://eternal.family.net.za/eternal/saved) which leads people to [repentance](https://eternal.family.net.za/eternal/saved/repent) so that they could live in [righteousness with God](https://eternal.family.net.za/bible/concepts/righteousness).
 3. The purpose of the Gospel to prepare a people group to serve His Son.
 4. This was initially proclaimed by God's servants like John the Baptist, but he was persecuted for doing so.
 5. The scribes and pharisees stirred up the Jews to persecute God's servants in Jerusalem, therefore Jerusalem were condemned.
@@ -329,6 +336,7 @@ Explanation:
 9. Jesus also warned that God will judge all "guests" and that the "wicked" will be cast into "outer darkness" which is a place of "weeping and gnashing of teeth".
 
 When the almighty God of the universe invite guests to His son's special occasion, He expects them to be:
+
     * to be ready on time (see other parables)
     * clean (of sin)
     * with the proper garment (to honor His son)
@@ -359,7 +367,7 @@ But then Jesus warns:
 >
 > — Matthew 5:3-12 (ESV)
 
-As explained by the above parable, those who are serving God's kingdom will be "persecuted" by the world.  But then Jesus also warned that the persecution should be "for righteousness' sake" and not because we lost our ability to "preserve" the Jesus' gospel: 
+As explained by the above parable, those who are serving God's kingdom will be "persecuted" by the world.  But then Jesus also warned that the persecution should be "for righteousness' sake" and not because we lost our ability to "preserve" the Jesus' gospel:
 
 > "You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be **thrown out and trampled under people's feet**." — Matthew 5:13 (ESV)
 
