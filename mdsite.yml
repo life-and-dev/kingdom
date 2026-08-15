@@ -28,6 +28,7 @@ menu:
   - christ:
     - crucifixion
     - body:
+      - roles
       - marriage
   - parables
 site:

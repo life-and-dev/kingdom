@@ -387,7 +387,9 @@ In this context the [Greek word translated as “men”](https://biblehub.com/gr
 
 Peter writes to elect exiles in several provinces. The setting is instruction on honourable conduct amid suffering. The passage addresses wives, including wives with unbelieving husbands, then husbands.
 
-> Likewise, **wives, be [subject to your own husbands](#submission-and-christ-like-love)**, so that even if some do not obey the word, they may be **won without a word** by the [conduct](https://biblehub.com/greek/391.htm) of their wives, when they **see your respectful** and **pure conduct**.
+> For you were straying like sheep, but have now **returned to the Shepherd** and Overseer of your souls...
+>
+> **Likewise, wives, be [subject to your own husbands](#submission-and-christ-like-love)**, so that **even if some do not obey the word**, they may be **won without a word** by the [conduct](https://biblehub.com/greek/391.htm) of their wives, when they **see your respectful** and **pure conduct**.
 >
 > **Do not let your adorning be external** — the braiding of hair and the putting on of gold jewelry, or the clothing you wear — but let your adorning be the hidden person of the heart with the imperishable beauty of a **gentle and quiet spirit**, which in God's sight is very precious.
 >
@@ -395,7 +397,9 @@ Peter writes to elect exiles in several provinces. The setting is instruction on
 >
 > Likewise, **husbands, live with your wives in *an understanding way*, showing honor to the woman** as the weaker vessel, since **they are heirs with you** of the grace of life, so that your prayers may not be hindered.
 >
-> — 1 Peter 3:1-7 (ESV)
+> — 1 Peter 2:25; 3:1-7 (ESV)
+
+Chapter divisions did not exist in the original book of Peter. When Peter starts with "likewise" it implies that likewise the straying sheep must return to the Shepherd, wives are encouraged to return to their husbands "even if some do not obey the word".
 
 The ESV phrase *“in an understanding way”* translates the Greek expression [kata](https://biblehub.com/greek/2596.htm) [gnōsin](https://biblehub.com/greek/1108.htm), meaning “according to knowledge” or "first-hand (personal) experience". Peter instructs husbands to seek to understand their wives needs. Such understanding must shape honourable conduct, because wives are equal co-heirs of the grace of [life](../../life.md).
 
