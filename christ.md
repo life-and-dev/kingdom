@@ -5,7 +5,7 @@ keywords: Jesus Christ, Messiah, Kingdom of God, Gospel of the Kingdom, reconcil
 
 # Christ
 
-The "LORD" (also known as [Yahweh or Jehovah](https://ofgod.info/name#yhwh)) God originally [created our world](https://eternal.family.net.za/creation) to be very good (Genesis 1:31). 
+The "LORD" (also known as [Yahweh or Jehovah](https://ofgod.info/name#yhwh)) God originally [created our world](https://eternal.family.net.za/creation) to be very good (Genesis 1:31).
 
 > And [the LORD](https://ofgod.info/name#lord) [God](https://ofgod.info) planted a garden in Eden, in the east, and there he put [the man whom he had formed](https://eternal.family.net.za/creation/human). And out of the ground the [LORD](https://ofgod.info/name#yhwh) God made to spring up every tree that is pleasant to the sight and good for food. — Genesis 2:8-9 (ESV)
 
@@ -13,7 +13,7 @@ The [LORD](https://ofgod.info/name#yhwh) GOD commanded:
 
 > "You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall **not** eat, for in the day that you eat of it you shall surely die." — Genesis 2:16-17 (ESV)
 
-Unfortunately God's enemy decided to take his revenge on God's creation by deceiving the woman (1 Timothy 2:14) who then gave the forbidden fruit to her husband (Genesis 3:6), Adam, who chose to rather obey his wife than God (Genesis 3:17). 
+Unfortunately God's enemy decided to take his revenge on God's creation by deceiving the woman (1 Timothy 2:14) who then gave the forbidden fruit to her husband (Genesis 3:6), Adam, who chose to rather obey his wife than God (Genesis 3:17).
 
 The penalty ([curse](https://eternal.family.net.za/life/curses)) for this [sin](https://eternal.family.net.za/bible/concepts/sin) was pain (Genesis 3:16), hard labour (Genesis 3:17-19), and a limited lifespan (Genesis 3:19) which means death came to all humanity (Romans 5:12). However, as the Prophet Ezekiel recorded God's words:
 
@@ -117,10 +117,10 @@ Throughout his ministry, Jesus's Gospel centered on the Kingdom:
 When Jesus was questioned by Pontius Pilate:
 
 > Jesus answered, “**My kingdom** is not of this world. If **my kingdom** were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But **my kingdom** is not from the world.”  
-> Then Pilate said to him, “So you are a king?” 
+> Then Pilate said to him, “So you are a king?”
 > Jesus answered, “You say that I am a king. **For this purpose I was born** and **for this purpose I have come into the world**⁠:
 >
-> **to bear witness to the truth**. 
+> **to bear witness to the truth**.
 >
 > Everyone who is of the truth listens to my voice.”
 >
@@ -160,7 +160,7 @@ Without forgiveness descendants of Adam, which is all of humanity, would be judg
 
 That is why all lost sinners (Matthew 1:21; Luke 19:10; John 3:16-17; Acts 4:12; Colossians 2:11-15) need salvation (Ephesians 2:8-9; Titus 3:5; Romans 10:9-10) and that is why Jesus is still interceding for us (Romans 8:34).
 
-God is a righteous and fair judge. He cannot bend the rules of justice to permit sin to go unpunished (Deuteronomy 32:4; Psalm 89:14; Romans 3:5-6). 
+God is a righteous and fair judge. He cannot bend the rules of justice to permit sin to go unpunished (Deuteronomy 32:4; Psalm 89:14; Romans 3:5-6).
 
 Therefore, a new blood covenant was needed (Jeremiah 31:31-34; Matthew 26:28; Luke 22:20). Since God is Spirit (John 4:24), He had to use the blood of [the Son of Man](https://son.ofgod.info/son-of-man) to pay the debt of our sin.
 
@@ -230,7 +230,7 @@ Peter witnessed:
 
 > This Jesus God raised up, and of that we all are witnesses. Being therefore **exalted at the right hand of God**, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing. For David did not ascend into the heavens, but he himself says,
 >
->> The LORD said to my Lord, "Sit at my right hand, until I make your enemies your footstool." 
+>> The LORD said to my Lord, "Sit at my right hand, until I make your enemies your footstool."
 >
 > Let all the house of Israel therefore know for certain that **God has made him both Lord and Christ**, this Jesus whom you crucified.
 >
@@ -246,15 +246,15 @@ It is simply not good enough to know about Jesus. We need to follow him by conti
 
 > “When [the Son of Man](https://son.ofgod.info/son-of-man) comes in his glory, and all the angels with him, then he will sit on his glorious throne.
 >
-> Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. And he will place the sheep on his right, but the goats on the left. 
+> Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats. And he will place the sheep on his right, but the goats on the left.
 >
-> Then **the King** will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.’ 
-> Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? And when did we see you a stranger and welcome you, or naked and clothe you? And when did we see you sick or in prison and visit you?’ 
-> And the King will answer them, ‘Truly, I say to you, **as you did it to one of the least of these my brothers, you did it to me**.’ 
+> Then **the King** will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.’
+> Then the righteous will answer him, saying, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? And when did we see you a stranger and welcome you, or naked and clothe you? And when did we see you sick or in prison and visit you?’
+> And the King will answer them, ‘Truly, I say to you, **as you did it to one of the least of these my brothers, you did it to me**.’
 >
-> Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. For I was hungry and you gave me no food, I was thirsty and you gave me no drink, I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.’ 
-> Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’ 
-> Then he will answer them, saying, ‘Truly, I say to you, **as you did not do it to one of the least of these, you did not do it to me**.’ 
+> Then he will say to those on his left, ‘Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. For I was hungry and you gave me no food, I was thirsty and you gave me no drink, I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.’
+> Then they also will answer, saying, ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to you?’
+> Then he will answer them, saying, ‘Truly, I say to you, **as you did not do it to one of the least of these, you did not do it to me**.’
 >
 > And these will go away into **eternal punishment**,
 > but the righteous into **eternal life**."
@@ -287,7 +287,7 @@ The King promised:
 
 ### Love Promise
 
-> "A new commandment I give to you, that you love one another: just as **I have loved you**, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another." — John 13:34-35 (ESV)
+> "A [new commandment](life/commandment.md) I give to you, that you [love one another](https://word.ofgod.info/terms/love): just as **I have [loved](https://word.ofgod.info/terms/love) you**, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another." — John 13:34-35 (ESV)
 
 ### Glory Promise
 
@@ -305,6 +305,6 @@ Jesus himself asked his disciples:
 
 > "Who do you say that I am?" (Matthew 16:15)
 
-The question remains. 
+The question remains.
 
 Who is Jesus to ***YOU***?
