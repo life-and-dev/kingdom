@@ -1,163 +1,129 @@
-# Day of Atonement (Yom Kippur)
+---
+description: Day of Atonement draft with biblical evidence, requirements, and
+  observance limits.
+keywords: Day of Atonement, Leviticus 16, Leviticus 23, ESV
+---
 
-## The purpose of atonement
+# Day of Atonement
 
-A common theme in Leviticus is that God is [holy](/bible/concepts/holy) and requires His people to be holy too, for example:
+One-event draft. Shared calendar and cross-feast evidence remain in [Feasts](../feasts.draft.md).
 
-> I am the LORD your God. Consecrate yourselves therefore, and **be holy, for I am holy**. You shall not defile yourselves... -- Leviticus 11:44, 20:7 (NKJV)
+## Biblical names and status
 
-> And the LORD spoke to Moses, saying, “Speak to all the congregation of the people of Israel and say to them, **you shall be holy, for I the LORD your God am holy**.” -- Leviticus 11:45 (NKJV)
+Day of Atonement: Leviticus 23:27; detailed high-priest ritual.
 
-However, [sin](/bible/concepts/sin) separates us from God (Isaiah 59:1-2). God will never lower His standard. Instead we need to [repent](/eternal/saved/repent) from our sin.
+## Purpose and symbolism
 
-Therefore, God command Israel to set aside a special day to atone for their sins so that they may be reconciled with God:
+Leviticus 16:30: atonement made to cleanse from sins.
 
-> This shall be a statute forever for you: 
->
-> "In the seventh month, on the tenth day of the month, you shall afflict your souls, and do no work at all**, whether a native of your own country or a stranger who dwells among you. 
-> 
-> For on that day **the priest shall make atonement for you, to cleanse you, that you may be clean from all your sins before the LORD**. 
->
-> It is a sabbath of solemn rest for you, and you shall afflict your souls. It is a statute forever. And the priest, who is anointed and consecrated to minister as priest in his father’s place, shall make atonement, and put on the linen clothes, the holy garments; then he shall make atonement for the Holy Sanctuary, and he shall make atonement for the tabernacle of meeting and for the altar, and he shall make atonement for the priests and for all the people of the assembly. 
->
-> This shall be an everlasting statute for you, **to make atonement for the children of Israel, for all their sins**, once a year."
->
-> And he did as the LORD commanded Moses.
->
-> -- Leviticus 16:29-34 (NKJV)
+## When
 
-Moses continue to explain that blood is required for atonement:
+Leviticus 23:27,32: tenth day of seventh month, evening to evening.
 
-> For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for **it is the blood that makes atonement by the life**. -- Leviticus 17:11 (NKJV)
+## Requirements
 
-## How to keep the ceremony
+### Food
 
-> On the tenth day of this seventh month you shall have a holy convocation. 
->
-> * You shall **afflict your souls**. 
-> * You shall **not do any work**. 
-> * You shall **present a burnt offering to the LORD** as a sweet aroma: one young bull, one ram, and seven lambs in their first year. Be sure they are without blemish. Their grain offering shall be of fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths for the one ram, and one-tenth for each of the seven lambs; also one kid of the goats as a sin offering, besides the sin offering for atonement, the regular burnt offering with its grain offering, and their drink offerings.
->
-> -- Numbers 29:7-11 (NKJV)
+No feast-specific command stated.
 
-### Afflict your soul
+### Sacrifices/offerings
 
-> The Hebrew word translated “afflict” is “anah”, which means to afflict, humble, bow down.  The Hebrew word translated “souls” is “nephesh”, which means a living creature.
->
-> Are there any other Scriptures which help us understand what it means to “afflict your soul”?  The answer is yes.  There are several verses which associate fasting with affliction (anah).
-> 
->> Then I proclaimed a fast [tsom] there at the river of Ahava, that we might humble [anah] ourselves before our God, to seek from Him the right way for us and our little ones and all our possessions. -- Ezra 8:21
->
->> But as for me, when they were sick, My clothing was sackcloth; I humbled [anah] myself with fasting [tsom]; And my prayer would return to my own heart. -- Psalm 35:13
->
->> ‘Why have we fasted [tsum],’ they say, ‘and You have not seen? Why have we afflicted [anah] our souls [nephesh], and You take no notice?’ “In fact, in the day of your fast [tsom] you find pleasure, And exploit all your laborers. Indeed you fast [tsom] for strife and debate, And to strike with the fist of wickedness. You will not fast [tsom] as you do this day, To make your voice heard on high. Is it a fast [tsom] that I have chosen, A day for a man to afflict [anah] his soul [nephesh]? Is it to bow down his head like a bulrush, And to spread out sackcloth and ashes? Would you call this a fast [tsom], And an acceptable day to the LORD -- Isaiah 58:3-5
->
-> The Hebrew word translated “fast” is “tsom”.  It comes from the Hebrew “tsum” meaning to “cover the mouth”.  So it means to not eat or drink anything.
->
-> There is also another verse which associates affliction of the soul to hunger.
->
->> If you extend your soul [nephesh] to the hungry And satisfy the afflicted [anah] soul [nephesh], Then your light shall dawn in the darkness, And your darkness shall be as the noonday. -- Isaiah 58:10
->
-> -- [The Bible Made Plain](https://thebiblemadeplain.com/what-does-it-mean-to-afflict-your-soul)
+Leviticus 16:3–28; Numbers 29:7–11. Uses Holy Place, bull from the herd, Azazel, tent of meeting, and goat pronoun “it”.
 
-### Do no work
+### Assembly/place/private-public
 
-For example:
+Leviticus 23:27.
 
-* Do not gather firewood which could have been done prior to the Sabbath (Exodus 35:3; Numbers 15:32-36).
-* Do not harvest on the Sabbath (Exodus 16:25-26).
-* Do not trade on the Sabbath (Nehemiah 13:15-22; Amos 8:4-6).
-* Do not transport goods on the Sabbath (Jeremiah 17:21).
+### Fasting/self-affliction
 
-The pattern I identified in scripture of what "do not work" means is: 
+Leviticus 16:29–31; 23:27,32.
 
-Do not do ordinary business, trade, or job-related activities for another, for yourself, nor enforce it on any of your workers. "Work" excludes activities that are necessary to sustain life, such as plucking grain for yourself to eat (Mark 2:23-28), healing (Luke 13:10-17, John 5:1-18) or saving a life (Matthew 12:11-12, Luke 14:5).
+### Rest/work
 
-### Present a burnt offering
+Leviticus 16:29–31: “shall do no work.”
 
-Today, there is no longer any temple (Deuteronomy 12:5-6, 13-14) nor priests (Numbers 3:10, 18:7) that can present burnt offerings. In addition, the majority of people no longer own farms with animals that could be sacrificed. This makes the ceremony practically impossible to keep to the letter as Moses described it.
+## Forever clause and audience
 
-However, the ceremony is not about the burnt offering, but about the atonement of sins which is the reason why Jesus sacrificed himself:
+Leviticus 16:29,31,34; 23:31.
 
-> And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, 
->
-> “Take, eat; this is my body.”
->
-> Then He took the cup, and gave thanks, and gave it to them, saying, 
->
-> “Drink from it, all of you. For this is my blood of the new covenant, which is shed for many for **the remission of sins**.”
->
-> -- Matthew 26:26-28 (NKJV)
+## Biblical celebration examples
 
-and this is also how John understood it:
+Acts 27:9; Hebrews 5:1–3; 7:26–28; 8:1–6; 9:6–28; 10:1–22; 13:10–13.
 
-> My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. **He is the propitiation for our sins**, and not for ours only but also for **the sins of the whole world**. -- 1 John 2:1-2 (NKJV)
+## Every feast-specific scripture
 
-## Reasons why Christians ignore the ceremony
+> “For on this day shall atonement be made for you to cleanse you. You shall be clean before the LORD from all your sins.” — [Leviticus 16:30 (ESV)](https://www.esv.org/Leviticus+16%3A30/)
 
-Moses made it clear that this ceremony was a very serious matter and should be kept forever:
+> “Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. … It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.” — [Leviticus 23:27,32 (ESV)](https://www.esv.org/Leviticus+23%3A27%2C32/)
 
-> The LORD spoke to Moses, saying: 
->
-> “Also the tenth day of this seventh month shall be the Day of Atonement. It shall be a holy convocation for you; you shall afflict your souls, and offer an offering made by fire to the LORD. And you shall do no work on that same day, for it is the Day of Atonement, to make atonement for you before the LORD your God. 
->
-> For **any person who is not afflicted in soul on that same day shall be cut off from his people**. And **any person who does any work on that same day, that person I will destroy from among his people**. You shall do no manner of work; it shall be a statute **forever throughout your generations** in all your dwellings. It shall be to you a sabbath of solemn rest, and you shall afflict your souls; on the ninth day of the month at evening, from evening to evening, you shall celebrate your sabbath.”
->
-> -- Leviticus 23:26-32 (NKJV)
+> “And Aaron shall cast lots over the two goats, one lot for the LORD and the other lot for Azazel. And Aaron shall present the goat on which the lot fell for the LORD and use it as a sin offering, but the goat on which the lot fell for Azazel shall be presented alive before the LORD to make atonement over it, that it may be sent away into the wilderness to Azazel. Thus he shall make atonement for the Holy Place … And so he shall do for the tent of meeting … And Aaron shall lay both his hands on the head of the live goat … and send it away into the wilderness.” — [Leviticus 16:8–10,16,21 (ESV)](https://www.esv.org/Leviticus+16%3A8-10%2C16%2C21/)
 
-Yet, modern Christians no longer keep the Day of Atonement for the following reasons:
+> “Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD.” — [Leviticus 23:27 (ESV)](https://www.esv.org/Leviticus+23%3A27/)
 
-### Gentiles were not Israelites
+> “Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. For whoever is not afflicted on that very day shall be cut off from his people.” — [Leviticus 23:27–29 (ESV)](https://www.esv.org/Leviticus+23%3A27-29/)
 
-Christians believe that Moses commands only applied to the nation of Israel.
+> “Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. And whoever does any work on that very day, that person I will destroy from among his people.” — [Leviticus 23:27–30 (ESV)](https://www.esv.org/Leviticus+23%3A27-30/)
 
-Yet, Moses stated that God's laws also applied to "strangers" (Exodus 12:49; Leviticus 24:22; Numbers 15:15-16) and presented the law when "mixed multitude" were present (Exodus 12:38).
+> “And it shall be a statute to you forever that in the seventh month, on the tenth day of the month, you shall afflict yourselves and shall do no work, either the native or the stranger who sojourns among you. … It is a Sabbath of solemn rest to you, and you shall afflict yourselves; it is a statute forever. … And this shall be a statute forever for you, that atonement may be made for the people of Israel once in the year because of all their sins.” — [Leviticus 16:29,31,34 (ESV)](https://www.esv.org/Leviticus+16%3A29%2C31%2C34/)
 
-Paul also taught that new gentile believers should be considered fellow citizens of Israel (Romans 11:17-24; Ephesians 2:11-19; Galatians 3:28-29).
+> “You shall not do any work. It is a statute forever throughout your generations in all your dwelling places.” — [Leviticus 23:31 (ESV)](https://www.esv.org/Leviticus+23%3A31/)
 
-### Christian tradition
+> “Since much time had passed, and the voyage was now dangerous because even the Fast was already over, Paul advised them, …” — [Acts 27:9 (ESV)](https://www.esv.org/Acts+27%3A9/)
 
-For almost two thousand years, Christians deliberately avoided "Jewish" traditions and customs, including the Day of Atonement, to [distance themselves from Judaism](/kingdom/church/history).
+> “Aaron shall make atonement on its horns once a year. With the blood of the sin offering of atonement he shall make atonement for it once in the year throughout your generations. It is most holy to the LORD.” — [Exodus 30:10 (ESV)](https://www.esv.org/Exodus+30%3A10/)
 
-### Hebrews 9
+> “Then you shall sound the loud trumpet on the tenth day of the seventh month. On the Day of Atonement you shall sound the trumpet throughout all your land.” — [Leviticus 25:9 (ESV)](https://www.esv.org/Leviticus+25%3A9/)
 
-Hebrews 9:11-28 states that Jesus fulfilled this ceremony such that it is no longer necessary to keep it.
+> “On the tenth day of this seventh month you shall have a holy convocation and afflict yourselves. You shall do no work, but you shall offer a burnt offering to the LORD, a pleasing aroma: one bull from the herd, one ram, seven male lambs a year old … also one male goat for a sin offering, besides the sin offering of atonement, and the regular burnt offering and its grain offering, and their drink offerings.” — [Numbers 29:7–11 (ESV)](https://www.esv.org/Numbers+29%3A7-11/)
 
-However, no prophet nor Jesus himself declared this ceremony deprecated.
+> “For every high priest chosen from among men is appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins. He can deal gently with the ignorant and wayward, since he himself is beset with weakness. Because of this he is obligated to offer sacrifice for his own sins just as he does for those of the people.” — [Hebrews 5:1–3 (ESV)](https://www.esv.org/Hebrews+5%3A1-3/)
 
-What authority does the author of Hebrews have to override God's laws?
+> “For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens. He has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people, since he did this once for all when he offered up himself. For the law appoints men in their weakness as high priests, but the word of the oath, which came later than the law, appoints a Son who has been made perfect forever.” — [Hebrews 7:26–28 (ESV)](https://www.esv.org/Hebrews+7%3A26-28/)
 
-Many people believe that Paul, the most quoted author by Christians, wrote Hebrews. However, there is no evidence that Paul is the author of Hebrews. Instead, [the author of the book of Hebrews is unknown](/bible/authors/hebrews), but Moses, on the other hand, was a well known leader and prophet of Israel who wrote [the Torah](/bible/books) which are still studied today by both Christians and Jews.
+Leviticus 25:9 is Jubilee-year legislation using the Day of Atonement date, not an annual Day of Atonement trumpet duty. Acts 27:9 calls it “the Fast”; identifying it with this day is reasonable inference, not a named observance claim. Hebrews interprets priesthood and sacrifice; it does not report an annual community ritual or authorise substitute ritual.
 
-### The crucifixion
+### Leviticus 16:1–34
 
-Some Christians believe that all Old Testament ceremonial laws, including the Day of Atonement, were abolished when Jesus died on the cross:
+> “The LORD spoke to Moses after the death of the two sons of Aaron … ‘Tell Aaron your brother not to come at any time into the Holy Place inside the veil … But in this way Aaron shall come into the Holy Place: with a bull from the herd for a sin offering and a ram for a burnt offering. … And Aaron shall cast lots over the two goats, one lot for the LORD and the other lot for Azazel. … the goat on which the lot fell for Azazel shall be presented alive before the LORD to make atonement over it, that it may be sent away into the wilderness to Azazel. … Thus he shall make atonement for the Holy Place … And so he shall do for the tent of meeting, … And it shall be a statute to you forever … you shall afflict yourselves and shall do no work.’” — [Leviticus 16:1–34 (ESV)](https://www.esv.org/Leviticus+16%3A1-34/)
 
-> And you, being dead in your trespasses and the uncircumcision of your flesh, he has made alive together with him, having forgiven you all trespasses, having **wiped out the handwriting of requirements that was against us**, which was contrary to us. And he has taken it out of the way, having nailed it to the cross. -- Colossians 2:13-14 (NKJV)
+### Leviticus 23:26–32
 
-However, this passage does not specifically mention the Day of Atonement or any specific feast. The "handwriting of requirements" could refer to the record of our sins rather than God's laws themselves. Compare it for example with other bible translations like:
+> “And the LORD spoke to Moses, saying, ‘Now on the tenth day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. … You shall not do any work on that very day, … It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves; on the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.’” — [Leviticus 23:26–32 (ESV)](https://www.esv.org/Leviticus+23%3A26-32/)
 
-> And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, by **canceling the record of debt that stood against us** with its legal demands. This he set aside, nailing it to the cross. -- Colossians 2:13-14 (ESV)
+### Leviticus 16:1–34: Additional Excerpts
 
-### No judgement
+> “The LORD spoke to Moses after the death of the two sons of Aaron … and the LORD said to Moses, ‘Tell Aaron your brother not to come at any time into the Holy Place inside the veil, before the mercy seat that is on the ark, so that he may not die. … But in this way Aaron shall come into the Holy Place: with a bull from the herd for a sin offering. … One lot for the LORD and the other lot for Azazel. … Thus he shall make atonement for the Holy Place. … And so he shall do for the tent of meeting. … The goat shall bear all their iniquities on itself to a remote area. … And it shall be a statute to you forever … you shall afflict yourselves and shall do no work.’” — [Leviticus 16:1–34 (ESV)](https://www.esv.org/Leviticus+16%3A1-34/)
 
-Some Christians interpret Paul's writing that the modern believer has the freedom to serve God any way he or she wants.
+### Hebrews 9:6–7,11–12
 
-> **Let no one judge you** in food or in drink, or regarding a festival or a new moon or sabbaths. -- Colossians 2:16 (NKJV)
+> “These preparations having thus been made, the priests go regularly into the first section, performing their ritual duties, but into the second only the high priest goes, and he but once a year, and not without taking blood, which he offers for himself and for the unintentional sins of the people. … But when Christ appeared as a high priest of the good things that have come … he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.” — [Hebrews 9:6–7,11–12 (ESV)](https://www.esv.org/Hebrews+9%3A6-7%2C11-12/)
 
-One interpretation is that you should live in such obedience to the law that no one can judge the way you live.
+### Hebrews 9:23–28
 
-Another interpretation is that you can live whichever way you want, therefore you should ignore the judgment of others. These people often also quote:
+> “Thus it was necessary for the copies of the heavenly things to be purified with these rites, but the heavenly things themselves with better sacrifices than these. For Christ has entered, not into holy places made with hands, which are copies of the true things, but into heaven itself, now to appear in the presence of God on our behalf. … He has appeared once for all at the end of the ages to put away sin by the sacrifice of himself. … So Christ, having been offered once to bear the sins of many, will appear a second time.” — [Hebrews 9:23–28 (ESV)](https://www.esv.org/Hebrews+9%3A23-28/)
 
-> One person esteems one day above another; 
-> Another esteems every day alike. 
->
-> **Let each be fully convinced in his own mind**. He who observes the day, observes it to the Lord; and he who does not observe the day, to the Lord he does not observe it. He who eats, eats to the Lord, for he gives God thanks; and he who does not eat, to the Lord he does not eat, and gives God thanks.
->
-> -- Romans 14:5-6 (NKJV)
+### Hebrews 10:1–4,11–14
 
-However, in the context of Romans 14, Paul was addressing the harsh judgment on new converts (Romans 14:1-4). If you ignore the chapter division between Romans 14 and 15 (which was not added by Paul), it becomes clear that the point Paul was making is:
+> “… For by a single offering he has perfected for all time those who are being sanctified.” — [Hebrews 10:1–4,11–14 (ESV)](https://www.esv.org/Hebrews+10%3A1-4%2C11-14/)
 
-> Therefore **receive one another just as Christ also received us**, to the glory of God. -- Romans 15:7 (NKJV)
+### Hebrews 8:1–6
 
-This means that strong believers should not judge new converts, but rather receive them as they are like Christ's example.
+> “We have such a high priest, one who is seated at the right hand of the throne of the Majesty in heaven, a minister in the holy places, in the true tent that the Lord set up, not man. … They serve a copy and shadow of the heavenly things. … But as it is, Christ has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better.” — [Hebrews 8:1–6 (ESV)](https://www.esv.org/Hebrews+8%3A1-6/)
+
+### Hebrews 13:10–13
+
+> “We have an altar from which those who serve the tent have no right to eat. For the bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp. So Jesus also suffered outside the gate in order to sanctify the people through his own blood. Therefore let us go to him outside the camp and bear the reproach he endured.” — [Hebrews 13:10–13 (ESV)](https://www.esv.org/Hebrews+13%3A10-13/)
+
+## Practical Observance Without Temple, Priest, or Jewish Community
+
+No substitute sacrifice, priest, altar, or scapegoat rite.
+
+### Conditional Date
+
+Calculate only under declared calendar assumptions; no rite created.
+
+See [shared formula table](../feasts.draft.md#reasonable-inference). Under its declared inputs, Gregorian output is exact only after stated calendar method, location, time zone, month lengths, intercalation, and Sabbath interpretation. Formula: $B_{y,7}+9$, from ninth evening to tenth evening.
+
+## What Scripture does not authorize or define
+
+No private scapegoat handling, blood rite, altar, priest, sacrifice, or modern self-affliction detail.

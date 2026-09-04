@@ -75,7 +75,7 @@ God imposed enduring consequences on Adam:
 >
 > — Genesis 3:17-19 (ESV)
 
-Adam was judged because he obeyed his wife rather than God. He was called to lead in obedience to God's authority. With this responsibility came accountability, which is why Adam had to answer for the sin that was committed.
+Adam was judged for obeying his wife rather than God's command. Romans 5:12 and 1 Corinthians 15:21-22 later identify Adam as humanity's representative in the entrance of sin and death. These passages establish Adam's exceptional representative responsibility, but they do not make one spouse answerable for the other's personal sin.
 
 Furthermore, this pattern where the leader take responsibility for their people's actions continue. For example:
 
@@ -83,6 +83,8 @@ Furthermore, this pattern where the leader take responsibility for their people'
 2. David took responsibility when God's angel were striking Israel (​2 Samuel 24:17)
 3. Ezekiel called leaders "shepherds" who are accountable for God's "flock" (Ezekiel 34:2–4, 10)
 4. Jesus too called himself "the shepherd" who "will lay down his life for the sheep" (John 10:11, 14–15)
+
+Scripture repeatedly joins delegated authority with accountability. Israel's king remained under God's law and could not exalt himself above his brothers (Deuteronomy 17:18-20). Civil rulers are God's servants for the good of those they govern (Romans 13:1-4). Ezekiel gives the strongest warning: God opposes shepherds who exploit or neglect the flock and requires His sheep at their hand (Ezekiel 34:2-10).
 
 A husband therefore answers to God for his own conduct, including how he loves and cares for his household. A wife answers to God for her own conduct. Acts 5:1-10 illustrates individual accountability because Sapphira knowingly joined Ananias's deception. No spouse has authority to require sin, conceal abuse, or replace the other's conscience before God.
 
@@ -367,11 +369,21 @@ Some people mistake the "love" Paul mentioned with romance. This is an impossibl
 
 #### Servant Leader
 
-Some feministic interpreters argue that Christ-like headship requires husbands to serve rather than exercise authority. They appeal to Jesus' teaching about greatness:
+Some interpreters argue that Christ-like headship requires husbands to serve rather than exercise authority. They appeal to Jesus' teaching about greatness:
 
 > **Whoever wants to become great among you must be your [servant](https://biblehub.com/greek/1249.htm)**, and **whoever wants to be first must be [slave](https://biblehub.com/greek/1401.htm) of all**. For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many. — Mark 10:42–45; Matthew 20:25–28
 
-Jesus' point is that those who seek greatness must not pursue status for themselves. Instead, they must serve others sacrificially. This teaching shape, rather than remove, a husband's responsibility for leadership. Headship is not a permission to abuse. It is a call to take responsibility, seek his wife's good, and exercise any decision-making role with Christ-like self-giving love even if it means the head need to make certain sacrifices.
+"Servant leader" is not a phrase used by the biblical writers, but it can summarise their teaching. It does not mean that service earns authority or that a leader is a slave to his subjects. It means that legitimate authority must be exercised for the good of those entrusted to the leader.
+
+Jesus demonstrated this pattern by washing his disciples' feet (John 13:3-17). The washing carried spiritual cleansing symbolism. Jesus told Peter that unless he washed him, Peter had no share with him, and he then described the disciples as clean, except for Judas (John 13:8-11). However, Jesus also presented his action as an example of humble service for His disciples to imitate (John 13:12-15).
+
+After performing this servant's task, Jesus resumed his place and affirmed his continuing authority:
+
+> You call me **Teacher** and **Lord**, and you are right, for so I am. — John 13:13 (ESV)
+
+He performed work normally assigned to a servant without ceasing to be their Teacher and Lord. His service therefore did not reverse his leadership role or make him the disciples' slave. It showed how a leader may use authority humbly for the good of those under His care.
+
+Jesus also told the apostles that “the leader” must become “as one who serves”, while still promising them authority in his kingdom (Luke 22:24-30). Paul likewise described his God-given authority as being “for building you upnth and not for destroying you” (2 Corinthians 10:8; 13:10).
 
 #### Obeying God
 
@@ -402,6 +414,8 @@ Peter writes to elect exiles in several provinces. The setting is instruction on
 Chapter divisions did not exist in the original book of Peter. When Peter starts with "likewise" it implies that likewise the straying sheep must return to the Shepherd, wives are encouraged to return to their husbands "even if some do not obey the word".
 
 The ESV phrase *“in an understanding way”* translates the Greek expression [kata](https://biblehub.com/greek/2596.htm) [gnōsin](https://biblehub.com/greek/1108.htm), meaning “according to knowledge” or "first-hand (personal) experience". Peter instructs husbands to seek to understand their wives needs. Such understanding must shape honourable conduct, because wives are equal co-heirs of the grace of [life](../../life.md).
+
+These passages do not permit a husband to exercise tyrannical or self-serving dominion, nor do they reduce his wife to a degraded slave. Scripture presents the husband as his wife's head, whom she should submit to and respect. Sarah even obeyed Abraham and called him "lord" (Ephesians 5:22-24,33; 1 Peter 3:5-6). The wife serves as her husband's honoured [helper](#help-in-companionship) and [co-heir](#creation-and-shared-human-dignity) of the grace of life, not as a person of lesser worth (Genesis 2:18; 1 Peter 3:7). The husband must therefore exercise his authority under Christ through sacrificial love, responsible care, understanding, and honour.
 
 ## Conclusion
 
