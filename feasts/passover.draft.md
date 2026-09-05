@@ -5,27 +5,57 @@ keywords: Passover, Exodus 12, Leviticus 23, ESV
 
 # Passover
 
-One-event draft. Shared calendar and cross-feast evidence remain in [Feasts](../feasts.draft.md).
-
 ## Biblical names and status
 
 “It is the LORD’s Passover.” — Leviticus 23:5 (ESV)
 
 ## Purpose and symbolism
 
-Exodus 12:27 identifies the Passover sacrifice with the LORD passing over Israel’s houses in Egypt.
+In its original setting, Passover commemorated the LORD’s **deliverance of Israel from slavery** in Egypt.
+
+During the final plague, **the LORD passed over Israelite houses marked with lamb’s blood** and did not strike their firstborn (Exodus 12:12-13,23,27).
+
+> It is **the LORD’s Passover**. For **I will pass** through the land of Egypt that night, and **I will strike** all the firstborn in the land of Egypt, both man and beast; and on all the gods of Egypt I will execute judgments: I am the LORD.
+>
+> The blood shall be a sign for you, on the houses where you are. And **when I see the blood, I will pass over you, and no plague will befall you to destroy you**, when I strike the land of Egypt.
+>
+> — Exodus 12:11-13 (ESV)
+
+The meal was established as a memorial of that deliverance (Exodus 12:3-14,21-27). The account also records a mixed multitude leaving Egypt with Israel (Exodus 12:38), while providing terms for a foreigner who wished to keep Passover among Israel (Exodus 12:48-49).
+
+The Christian interpretation reads the feast in light of [Jesus’ death](../christ/crucifixion.md). The New Testament identifies Christ as the Passover lamb (John 1:29; 1 Corinthians 5:7) and describes gentiles who trust in him as brought near and made fellow citizens with God’s people (Ephesians 2:11-19). In that reading, non-Israelite Christians may find Passover relevant as a biblical reminder of [deliverance from sin](../darkness.md) and [reconciliation to God](../life/righteousness.md) by [Christ](../christ.md).
 
 ## When
 
-“In the first month, on the fourteenth day of the month at twilight, is the LORD’s Passover.” — Leviticus 23:5 (ESV)
-
-“This month shall be for you the beginning of months. It shall be the first month of the year for you.” — [Exodus 12:2 (ESV)](https://www.esv.org/Exodus+12%3A2/)
+> “In the first month, on the fourteenth day of the month at twilight, is the LORD’s Passover.” — Leviticus 23:5 (ESV)
 
 ## Requirements
 
 ### Food
 
-Exodus 12:8–11,43,46,48 states food and household conditions.
+> They shall eat the flesh that night, **roasted** on the fire; **with unleavened bread and bitter herbs** they shall eat it. Do **not eat any of it raw or boiled** in water, but **roasted**, its head with its legs and its inner parts. And you shall **let none of it remain** until the morning; anything that remains until the morning you shall burn. In this manner you shall eat it: with your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste. It is the LORD’s Passover.
+>
+> — Exodus 12:8-11 (ESV)
+
+Passover was kept by households. Each household received a lamb, or joined a neighbouring household if too small for one lamb (Exodus 12:3–4). The meal remained within one house, and no bone of the lamb was to be broken (Exodus 12:46).
+
+No foreigner, temporary resident, or hired worker could eat it, unless their household were circumsized.
+
+> And the LORD said to Moses and Aaron, “This is the statute of the Passover:
+>
+> **no foreigner** shall eat of it, but every slave that is bought for money may eat of it after you have **circumcised** him. **No foreigner or hired worker** may eat of it.
+>
+> It shall be eaten in **one house**; you shall not take any of the flesh outside the house, and you shall **not break any of its bones**. All the congregation of Israel shall keep it.
+>
+> If a stranger shall sojourn with you and would keep the Passover to the LORD, let all his **males be circumcised**. Then he may come near and keep it; he shall be as a native of the land. But **no uncircumcised person** shall eat of it.
+>
+> There shall be **one law** for the native and for the stranger who sojourns among you.”
+>
+> — Exodus 12:43-49
+
+Exodus 12 governs Israel’s Passover, including a foreigner who joined Israel through household circumcision. Although the New Testament identifies [Christ](../christ.md) as the Passover lamb (John 1:29; 1 Corinthians 5:7), it does not use this to make Gentile Christians eligible to eat the Exodus Passover apart from its terms. The New Testament does not command Gentile Christians to keep Passover or to be circumcised for covenant membership (Acts 15:1-29; Galatians 5:2-6; Colossians 2:16-17).
+
+Some Christians voluntarily observe Passover as historical teaching and remembrance, rather than as a required ritual. Christian communal observance is the Lord’s Supper, which Jesus instituted in the Passover setting (Luke 22:19-20; 1 Corinthians 11:23-26). Christians may therefore remember Passover’s meaning, including deliverance from sin and reconciliation to God through [Christ](../christ.md), while respecting Jewish observance and without claiming to enact Israel’s Passover.
 
 ### Sacrifices/offerings
 
@@ -35,7 +65,7 @@ Exodus 12:3,5–6 requires a lamb; Deuteronomy 16:5–6 states chosen-place cond
 
 Passover sacrifice may not be offered within Israel’s towns; see Deuteronomy 16:5–6.
 
-“Take care that you do not offer your burnt offerings at any place that you see, but at the place that the LORD will choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I am commanding you.” — [Deuteronomy 12:13–14 (ESV)](https://www.esv.org/Deuteronomy+12%3A13-14/)
+? “Take care that you do not offer your burnt offerings at any place that you see, but at the place that the LORD will choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I am commanding you.” — Deuteronomy 12:13–14 (ESV)
 
 This general altar/location command does not broaden Passover requirements.
 
