@@ -52,24 +52,44 @@ A biblical day begins at sunset or twilight, not at Gregorian midnight. Inclusiv
 
 Purim and Dedication are not Torah-appointed annual feasts.
 
-## Cross-Feast Texts Stated Once
+## Pilgrimage Rules
 
-These texts apply across sections and are not silently imported as replacement rites.
+These texts either summarise obligations spanning several feasts or state broader cultic rules.
 
-> “Three times in the year shall all your males appear before the Lord GOD.” — [Exodus 23:17 (ESV)](https://www.esv.org/Exodus+23%3A17/)
+> “Three times in the year you shall keep a feast to me.
+>
+> 1. You shall keep the **Feast of Unleavened Bread**. As I commanded you, you shall eat unleavened bread for seven days at the appointed time in the month of Abib, for in it you came out of Egypt. None shall appear before me empty-handed.
+> 2. You shall keep the **Feast of Harvest**, of the firstfruits of your labor, of what you sow in the field.
+> 3. You shall keep the **Feast of Ingathering** at the end of the year, when you gather in from the field the fruit of your labor.
+>
+> Three times in the year shall all your males appear before the Lord GOD.
+>
+> — Exodus 23:14-17 (ESV); Deuteronomy 16:16
 
-> “Three times a year all your males shall appear before the LORD your God at the place that he will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the LORD empty-handed.” — [Deuteronomy 16:16 (ESV)](https://www.esv.org/Deuteronomy+16%3A16/)
+These pilgrimage conditions does not specify a duration clause like "forever".
 
-> “Take care that you do not offer your burnt offerings at any place that you see, but at the place that the LORD will choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I am commanding you.” — [Deuteronomy 12:13–14 (ESV)](https://www.esv.org/Deuteronomy+12%3A13-14/)
+> “Take care that you **do not offer** your burnt offerings at any place that you see, but at **the place that the LORD will choose** in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I am commanding you.” — Deuteronomy 12:13–14 (ESV)
 
-> “And the sons of Aaron, the priests, shall blow the trumpets. The trumpets shall be to you for a perpetual statute throughout your generations.” — [Numbers 10:8 (ESV)](https://www.esv.org/Numbers+10%3A8/)
+This pilgrimage conditions do not create sanctuary-free replacement rites. It restricts every burnt offering, including feast offerings, to the LORD’s chosen place.
 
-Numbers 10:8 is a general priestly-trumpet rule. It does not add a feast-specific forever clause to Trumpet Memorial.
+## Trumpet Memorial
 
-## Detail drafts
+> The LORD spoke to Moses, saying, “Make two silver trumpets. Of hammered work you shall make them, and you shall use them for summoning the congregation and for breaking camp.
+>
+>...
+>
+> But when the assembly is to be gathered together, you shall blow a long blast, but you shall not sound an alarm. And **the sons of Aaron**, the priests, shall blow the trumpets. The trumpets shall be to you for a perpetual statute throughout your generations.
+>
+> And **when you go to war** in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets, that you may be remembered before the LORD your God, and you shall be saved from your enemies.
+>
+> On the day of your gladness also, and at your appointed feasts and at the beginnings of your months, you shall blow the trumpets **over your burnt offerings and over the sacrifices of your peace offerings**. They shall be a reminder of you before your God: I am the LORD your God.”
+>
+> — Numbers 10:1-2,7-10 (ESV)
 
-Detail drafts: [Passover](feasts/passover.draft.md), [Unleavened Bread](feasts/unleavened-bread.draft.md), [Wave-Sheaf / Firstfruits](feasts/wave-sheaf-firstfruits.draft.md), [Weeks / Pentecost](feasts/weeks-pentecost.draft.md), [Trumpet Memorial](feasts/trumpet-memorial.draft.md), [Day of Atonement](feasts/day-of-atonement.draft.md), [Booths / Tabernacles](feasts/booths-tabernacles.draft.md), [Eighth-Day Assembly](feasts/eighth-day-assembly.draft.md), [Weekly Sabbath](feasts/weekly-sabbath.draft.md), [New Moons](feasts/new-moons.draft.md), [Purim](feasts/purim.draft.md), and [Dedication](feasts/dedication.draft.md).
+Although the blowing of the trumpets was established as “a perpetual statute throughout your generations”, Numbers 10:8 assigns this duty to Aaron’s sons within Israel’s the Mosaic law system. This passage applied to literal Israelite warfare and worship by sacrificial offerings.
+
+Certain charismatic interpretations apply “a holy priesthood” (1 Peter 2:5) and “a royal priesthood” (1 Peter 2:9) to Christians and blow a trumpet as a form of [*"worship"*](https://word.ofgod.info/terms/worship) or an expression of *"spiritual warfare"*. However, neither Numbers 10 nor 1 Peter directly commands or explicitly authorises this practice for Christians.
 
 ## Conclusion
 
-Shared texts define calendar, place, and priestly limits; each [detail draft](#detail-drafts) separates explicit text, inference, and undefined questions.
+Without an authorised sanctuary, altar, and priestly service, modern remembrance is [symbolic](https://word.ofgod.info/symbolism) rather than literal performance of these cultural commands.

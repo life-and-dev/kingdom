@@ -130,17 +130,3 @@ Some Christians voluntarily observe Passover as historical teaching and remembra
 > “Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.” — 1 Corinthians 5:7 (ESV)
 
 > “By faith he kept the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.” — Hebrews 11:28 (ESV)
-
-## Practical Observance Without Temple, Priest, or Jewish Community
-
-Do not invent substitute sacrifice, priest, altar, or rite.
-
-### Conditional Date
-
-Under declared calendar assumptions, calculate each year’s fourteenth day; no rite created.
-
-See [shared formula table](../feasts.draft.md#reasonable-inference). Under its declared inputs, Gregorian output is exact only after stated calendar method, location, time zone, month lengths, intercalation, and Sabbath interpretation. Formula: $A_y+13$ at twilight.
-
-## What Scripture does not authorize or define
-
-No altered lamb rite, substitute priesthood, altar, scapegoat, or universal Gregorian date.
