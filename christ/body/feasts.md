@@ -83,7 +83,7 @@ A biblical day begins at sunset or twilight, not at Gregorian midnight. Inclusiv
 | [Weeks Pentecost](feasts/weeks-pentecost.draft.md)               | $W_y+49$                                         | Firstfruits of wheat harvest                           | Appointed offerings                                          | yes          |
 | [Trumpet Memorial](feasts/trumpets.md)                           | $B_{y,7}$                                        | Memorial proclaimed with trumpet blasts                | Appointed offerings                                          | yes          |
 | [Day of Atonement](feasts/day-of-atonement.draft.md)             | $B_{y,7}+9$, from ninth evening to tenth evening | Atonement and cleansing from sins                      | Self-affliction and atonement rites                          | yes          |
-| [Booths Tabernacles](feasts/booths-tabernacles.draft.md)         | $B_{y,7}+14$ through $B_{y,7}+20$                | Memorial of Israel dwelling in booths after Egypt      | Live in booths, rejoice with branches, pilgrimage            | first only   |
+| [Booths / Tabernacles](feasts/booths.md)                         | $B_{y,7}+14$ through $B_{y,7}+20$                | Memorial of Israel dwelling in booths after Egypt      | Live in booths, rejoice with branches, pilgrimage            | first only   |
 | [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md)       | $B_{y,7}+21$                                     | No separate stated symbolic explanation                | Solemn assembly and appointed offerings                      | yes          |
 | [Weekly Sabbath](https://word.ofgod.info/terms/sabbath)          | $S_0+7k$, integer $k$                            | Rest after creation                                    | Sabbath offerings                                            | yes          |
 | [New Moons](feasts/new-moons.md)                                 | $B_{y,m}$                                        | Memorial before God                                    | Trumpets and monthly burnt offerings                         | no           |
@@ -99,7 +99,7 @@ All feasts are perpetual:
 - [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.draft.md) (Leviticus 23:14)
 - [Weeks Pentecost](feasts/weeks-pentecost.draft.md) (Leviticus 23:21)
 - [Day of Atonement](feasts/day-of-atonement.draft.md) (Leviticus 16:29, 34)
-- [Booths Tabernacles](feasts/booths-tabernacles.draft.md) (Leviticus 23:41)
+- [Booths / Tabernacles](feasts/booths.md) (Leviticus 23:41)
 - [Weekly Sabbath](https://word.ofgod.info/terms/sabbath) (Exodus 31:12-17)
 - [Purim](feasts/purim.draft.md) (Esther 9:23-28)
 

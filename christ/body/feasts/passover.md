@@ -1,5 +1,5 @@
 ---
-description: Passover draft with biblical evidence, requirements, and observance limits.
+description: Passover with biblical evidence, requirements, and observance limits.
 keywords: Passover, Exodus 12, Leviticus 23, ESV
 ---
 
