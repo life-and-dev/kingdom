@@ -43,7 +43,7 @@ Paul forbid keeping pagan observances:
 >
 > — Galatians 4:9-10 (ESV)
 
-These communities usually prefer to keep these biblical memorials instead of traditional pagan holidays like [Christmas](https://church.ofgod.info/evolution/336-christmas), [Easter](https://church.ofgod.info/evolution/325-nicaea-creed), [Halloween](https://church.ofgod.info/evolution/609-halloween), and [Valentine’s Day](https://494-valine).
+These communities usually prefer to keep these biblical memorials instead of traditional pagan holidays like [Christmas](https://church.ofgod.info/evolution/336-christmas), [Easter](https://church.ofgod.info/evolution/325-nicaea-creed), [Halloween](https://church.ofgod.info/evolution/609-halloween), and [Valentine’s Day](https://en.wikipedia.org/wiki/Valentine%27s_Day).
 
 These categories are useful but overlap and are not exhaustive. Scripture’s explicit statements, theological inferences, and modern practices should be kept distinct. The ‘forever’ wording creates tension with the sanctuary and priesthood transition. Christ’s once-for-all sacrifice directly concerns atonement and does not by itself prove the abolition of remembrance.
 
@@ -75,19 +75,20 @@ Use these declared inputs:
 
 A biblical day begins at sunset or twilight, not at Gregorian midnight. Inclusive counting counts stated starting day as day 1. All outputs below are exact only under fixed declared inputs, not biblical certainty.
 
-| Event                                                            | Date Formula                                     | Purpose                                                | Unique Attributes                                            | Day of Rest? |
-| ---------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
-| [Passover](feasts/passover.md)                                   | $A_y+13$ at twilight                             | Memorial of Israel's deliverance from Egyption slavery | Household lamb with unleavened bread and bitter herbs        | no           |
-| [Unleavened Bread](feasts/unleavened-bread.draft.md)             | $A_y+14$ through $A_y+20$                        | Memorial of exodus from Egypt                          | 7 days of unleavened bread and leaven removal; holy assembly | first & last |
-| [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.draft.md) | $W_y$                                            | Firstfruits of harvest                                 | Eating grain/bread prohibited until offering                 | no           |
-| [Weeks Pentecost](feasts/weeks-pentecost.draft.md)               | $W_y+49$                                         | Firstfruits of wheat harvest                           | Appointed offerings                                          | yes          |
-| [Trumpet Memorial](feasts/trumpets.md)                           | $B_{y,7}$                                        | Memorial proclaimed with trumpet blasts                | Appointed offerings                                          | yes          |
-| [Day of Atonement](feasts/day-of-atonement.draft.md)             | $B_{y,7}+9$, from ninth evening to tenth evening | Atonement and cleansing from sins                      | Self-affliction and atonement rites                          | yes          |
-| [Booths / Tabernacles](feasts/booths.md)                         | $B_{y,7}+14$ through $B_{y,7}+20$                | Memorial of Israel dwelling in booths after Egypt      | Live in booths, rejoice with branches, pilgrimage            | first only   |
-| [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md)       | $B_{y,7}+21$                                     | No separate stated symbolic explanation                | Solemn assembly and appointed offerings                      | yes          |
-| [Weekly Sabbath](https://word.ofgod.info/terms/sabbath)          | $S_0+7k$, integer $k$                            | Rest after creation                                    | Sabbath offerings                                            | yes          |
-| [New Moons](feasts/new-moons.md)                                 | $B_{y,m}$                                        | Memorial before God                                    | Trumpets and monthly burnt offerings                         | no           |
-| [Purim](feasts/purim.draft.md)                                   | $B_{y,12}+13$ and $B_{y,12}+14$                  | Relief from enemies                                    | Feasting and gifts of food                                   | no           |
+| Event | Date Formula | Purpose | Unique Attributes | Day of Rest? |
+| --- | --- | --- | --- | --- |
+| [Passover](feasts/passover.md) | $A_y+13$ at twilight | Memorial of Israel's deliverance from Egyption slavery | Household lamb with unleavened bread and bitter herbs | no |
+| [Unleavened Bread](feasts/unleavened-bread.draft.md) | $A_y+14$ through $A_y+20$ | Memorial of exodus from Egypt | 7 days of unleavened bread and leaven removal; holy assembly | first & last |
+| [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.draft.md) | $W_y$ | Firstfruits of harvest | Eating grain/bread prohibited until offering | no |
+| [Weeks Pentecost](feasts/weeks-pentecost.draft.md) | $W_y+49$ | Firstfruits of wheat harvest | Appointed offerings | yes |
+| [Trumpet Memorial](feasts/trumpets.md) | $B_{y,7}$ | Memorial proclaimed with trumpet blasts | Appointed offerings | yes |
+| [Day of Atonement](feasts/day-of-atonement.draft.md) | $B_{y,7}+9$, from ninth evening to tenth evening | Atonement and cleansing from sins | Self-affliction and atonement rites | yes |
+| [Booths / Tabernacles](feasts/booths.md) | $B_{y,7}+14$ through $B_{y,7}+20$ | Memorial of Israel dwelling in booths after Egypt | Live in booths, rejoice with branches, pilgrimage | first only |
+| [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md) | $B_{y,7}+21$ | No separate stated symbolic explanation | Solemn assembly and appointed offerings | yes |
+| [Weekly Sabbath](https://en.wikipedia.org/wiki/Sabbath) | $S_0+7k$, integer $k$ | Rest after creation | Sabbath offerings | yes |
+| [New Moons](feasts/new-moons.md) | $B_{y,m}$ | Memorial before God | Trumpets and monthly burnt offerings | no |
+| [Feast of Dedication (Hanukkah)](feasts/dedication.draft.md) | 25 Kislev, eight days, winter | Maccabean Temple rededication | John 10:22–23; Maccabees are historical/deuterocanonical sources | no Torah-commanded rest |
+| [Purim](feasts/purim.draft.md) | $B_{y,12}+13$ and $B_{y,12}+14$ | Relief from enemies | Feasting and gifts of food | no |
 
 > [!NOTE]
 > Purim is not a Torah-appointed annual feasts.
@@ -100,7 +101,7 @@ All feasts are perpetual:
 - [Weeks Pentecost](feasts/weeks-pentecost.draft.md) (Leviticus 23:21)
 - [Day of Atonement](feasts/day-of-atonement.draft.md) (Leviticus 16:29, 34)
 - [Booths / Tabernacles](feasts/booths.md) (Leviticus 23:41)
-- [Weekly Sabbath](https://word.ofgod.info/terms/sabbath) (Exodus 31:12-17)
+- [Weekly Sabbath](https://en.wikipedia.org/wiki/Sabbath) (Exodus 31:12-17)
 - [Purim](feasts/purim.draft.md) (Esther 9:23-28)
 
 However, the [Trumpet Memorial](feasts/trumpets.md), [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md), and [New Moons](feasts/new-moons.md) have no explicit feast-specific or perpetual clause.
@@ -127,4 +128,4 @@ This pilgrimage conditions do not create sanctuary-free replacement rites. It re
 
 ## Conclusion
 
-Without an authorised sanctuary, altar, and priestly service, modern remembrance is [symbolic](https://word.ofgod.info/symbolism) rather than literal performance of these cultural commands.
+Without an authorised sanctuary, altar, and priestly service, modern remembrance is [symbolic](https://en.wikipedia.org/wiki/Symbol) rather than literal performance of these cultural commands.
