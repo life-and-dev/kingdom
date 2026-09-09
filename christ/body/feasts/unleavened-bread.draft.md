@@ -107,3 +107,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No modern leaven inventory process, ceremonial substitute, or universal date.
+
+## Conclusion
+
+Unleavened Bread remembers Israel’s exodus and includes offerings that Christians must not substitute; see [Purpose and Symbolism](#purpose-and-symbolism), [Food](#food), and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define). A household or community may choose a meal with unleavened bread and read 1 Corinthians 5:8, “let us therefore celebrate the festival” (ESV), in its moral context. Other food is not prescribed for modern Christians. These are ideas only, not biblical commands or requirements for Christians.

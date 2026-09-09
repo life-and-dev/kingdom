@@ -78,3 +78,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No additional rites stated in cited text.
+
+## Conclusion
+
+Purim is Esther’s historical Jewish observance, not a Torah appointed feast or a Christian requirement; see [Biblical Names and Status](#biblical-names-and-status) and [Every Feast-Specific Scripture](#every-feast-specific-scripture). The New Testament gives no Purim command or direct fulfilment. Christians may choose a household or community gathering to read Esther 9:22, “days of feasting and gladness” (ESV), and Galatians 2:10, “remember the poor” (ESV), as a generosity principle rather than Purim fulfilment. A shared meal or gifts of food suit the biblical account, but are not imposed on Christians. These are ideas only, not biblical commands or requirements for Christians.

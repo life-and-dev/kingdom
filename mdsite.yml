@@ -30,6 +30,10 @@ menu:
     - body:
       - roles
       - marriage
+      - feasts:
+        - passover
+        - trumpets
+      - Sabbath: https://word.ofgod.info/terms/sabbath
   - parables
 site:
   canonical: https://kingdom.ofgod.info

@@ -89,3 +89,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No private substitute wave, sacrifice, priest, altar, or resolved Sabbath interpretation.
+
+## Conclusion
+
+The wave sheaf was a land-and-harvest priestly rite, not a separately named Christian feast; see [Biblical Names and Status](#biblical-names-and-status), [Sacrifices/Offerings](#sacrificesofferings), and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define). Christians may choose a household or community thanksgiving gathering and read 1 Corinthians 15:20, “Christ has been raised from the dead, the firstfruits” (ESV), without waving an object or offering a sacrifice. Seasonal produce may be shared, but Scripture prescribes no food for a modern Christian observance. These are ideas only, not biblical commands or requirements for Christians.

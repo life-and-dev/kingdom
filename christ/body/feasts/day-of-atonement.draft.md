@@ -127,3 +127,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No private scapegoat handling, blood rite, altar, priest, sacrifice, or modern self-affliction detail.
+
+## Conclusion
+
+The Day of Atonement was Israel’s priestly, sacrificial rite; Christ’s once-for-all offering is the NT context, as [Sacrifices/Offerings](#sacrificesofferings) and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define) explain. A household or church community may gather to read Hebrews 10:14, “by a single offering he has perfected for all time” (ESV), and pray in gratitude. Reflective fasting may be chosen only where medically appropriate; a simple meal may break that fast afterwards, not form part of the biblical rite. These are ideas only, not biblical commands or requirements for Christians.

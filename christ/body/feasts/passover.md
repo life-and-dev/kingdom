@@ -130,3 +130,7 @@ Some Christians voluntarily observe Passover as historical teaching and remembra
 > “Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.” — 1 Corinthians 5:7 (ESV)
 
 > “By faith he kept the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.” — Hebrews 11:28 (ESV)
+
+## Conclusion
+
+Passover commemorated Israel’s deliverance and required a sacrifice at the chosen place, with stated participation boundaries; see [Purpose and Symbolism](#purpose-and-symbolism), [Location](#location), and [Forever Clause and Audience](#forever-clause-and-audience). Christians may choose a household or church-community meal to read 1 Corinthians 5:7, “Christ, our Passover lamb, has been sacrificed” (ESV), without offering a lamb or claiming the Israelite rite. Unleavened bread may be served, but Scripture prescribes no modern Christian meal. These are ideas only, not biblical commands or requirements for Christians.

@@ -91,3 +91,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No forever clause, substitute sacrifice, priest, altar, or settled John 7 identification.
+
+## Conclusion
+
+The eighth day was a solemn assembly with offerings that Christians must not replace; see [Biblical Names and Status](#biblical-names-and-status), [Sacrifices/Offerings](#sacrificesofferings), and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define). A household or community may choose a quiet gathering to read John 7:37–39, “Now this he said about the Spirit” (ESV), while recognising that its identification with this day is disputed. A simple shared meal is suitable, though Scripture prescribes no feast-specific food for a modern Christian gathering. These are ideas only, not biblical commands or requirements for Christians.

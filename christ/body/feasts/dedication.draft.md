@@ -68,3 +68,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No 66-book institution text, annual command, forever clause, or required rite stated.
+
+## Conclusion
+
+Dedication is described in John, not instituted as a Torah feast or Christian requirement; see [Biblical Names and Status](#biblical-names-and-status) and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define). A household or community may choose to read John 10:22–23, “the Feast of Dedication took place at Jerusalem” (ESV), and give thanks for Christ’s teaching without claiming an authorised annual observance. A shared winter meal may be suitable, but Scripture prescribes none. These are ideas only, not biblical commands or requirements for Christians.

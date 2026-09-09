@@ -25,3 +25,7 @@
 > I am the LORD your God.’ ”
 >
 > -- Leviticus 23:33-36,39-43 (NKJV)
+
+## Conclusion
+
+Leviticus describes Israel’s Booths observance, including offerings and dwelling in booths; see [Feast of Tabernacles (Sukkot)](#feast-of-tabernacles-sukkot). Christians may choose a household or community outdoor meal and read John 7:37–39, “If anyone thirsts, let him come to me and drink” (ESV), as a passage set during the feast rather than a prescribed Christian rite. Seasonal food may be shared, but Scripture gives no food prescription for modern Christians. These are ideas only, not biblical commands or requirements for Christians.

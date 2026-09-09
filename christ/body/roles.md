@@ -3,7 +3,7 @@ description: Biblical responsibilities within Christ's body, including roles in 
 keywords: Body of Christ roles, Christ's headship, biblical responsibilities, church service, Christian household roles
 ---
 
-# Roles in the Body of Christ
+# Roles
 
 This article examines biblical responsibilities within the Body of Christ across the assembly, workplace, and household. Its central theme is that Christ is head, while each person bears distinct responsibilities marked by love, service, and accountability to Him. The sections below gather passages on Christ’s authority and the conduct of overseers, teachers, members, workers, and households.
 

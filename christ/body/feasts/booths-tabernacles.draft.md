@@ -125,3 +125,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No substitute offerings, altar, priestly service, or universal booth specifications.
+
+## Conclusion
+
+The feast remembers Israel’s dwelling in booths and retains temple offerings and native-Israelite terms; see [Purpose and Symbolism](#purpose-and-symbolism), [Food](#food), and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define). Christians may choose a household or community outdoor gathering to read John 7:37–39, “If anyone thirsts, let him come to me and drink” (ESV), as a reading from the feast setting rather than a commanded fulfilment. A shared harvest meal is suitable, though Scripture prescribes no feast-specific food for modern Christians. These are ideas only, not biblical commands or requirements for Christians.
