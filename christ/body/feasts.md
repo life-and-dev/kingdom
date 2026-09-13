@@ -90,21 +90,23 @@ A biblical day begins at sunset or twilight, not at Gregorian midnight. Inclusiv
 | [Feast of Dedication (Hanukkah)](feasts/dedication.draft.md) | 25 Kislev, eight days, winter | Maccabean Temple rededication | John 10:22–23; Maccabees are historical/deuterocanonical sources | no Torah-commanded rest |
 | [Purim](feasts/purim.draft.md) | $B_{y,12}+13$ and $B_{y,12}+14$ | Relief from enemies | Feasting and gifts of food | no |
 
-> [!NOTE]
-> Purim is not a Torah-appointed annual feasts.
+Several Torah-appointed annual feasts have an explicit perpetual-statute or throughout-generations command:
 
-All feasts are perpetual:
+1. [Passover](feasts/passover.md) (Exodus 12:14, 24)
+2. [Unleavened Bread](feasts/unleavened-bread.draft.md) (Exodus 12:17)
+3. [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.draft.md) (Leviticus 23:14)
+4. [Weeks Pentecost](feasts/weeks-pentecost.draft.md) (Leviticus 23:21)
+5. [Day of Atonement](feasts/day-of-atonement.draft.md) (Leviticus 16:29, 34)
+6. [Booths / Tabernacles](feasts/booths.md) (Leviticus 23:41)
+7. [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md) commanded within Booths’ observance (Leviticus 23:36, 39, 41)
 
-- [Passover](feasts/passover.md) (Exodus 12:14, 24)
-- [Unleavened Bread](feasts/unleavened-bread.draft.md) (Exodus 12:17)
-- [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.draft.md) (Leviticus 23:14)
-- [Weeks Pentecost](feasts/weeks-pentecost.draft.md) (Leviticus 23:21)
-- [Day of Atonement](feasts/day-of-atonement.draft.md) (Leviticus 16:29, 34)
-- [Booths / Tabernacles](feasts/booths.md) (Leviticus 23:41)
-- [Weekly Sabbath](https://en.wikipedia.org/wiki/Sabbath) (Exodus 31:12-17)
-- [Purim](feasts/purim.draft.md) (Esther 9:23-28)
+[Weekly Sabbath](https://word.ofgod.info/terms/sabbath) is a Torah-appointed weekly observance (Exodus 31:12–17).
 
-However, the [Trumpet Memorial](feasts/trumpets.md), [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md), and [New Moons](feasts/new-moons.md) have no explicit feast-specific or perpetual clause.
+[Trumpet Memorial](feasts/trumpets.md) and [New Moons](feasts/new-moons.md) have explicit observance commands, but no independent explicit perpetual-statute formula in the cited passages (Leviticus 23:24–25; Numbers 10:10; 28:11–15).
+
+[Purim](feasts/purim.draft.md) is not Torah-appointed, but Esther establishes its annual observance throughout all generations (Esther 9:23–28).
+
+[Hanukkah](feasts/dedication.draft.md) is not Torah-appointed. John 10:22–23 records its observance, while 1 Maccabees 4:59 establishes its annual eight-day celebration. It has no Torah perpetual-statute command.
 
 ## Pilgrimage Rules
 
