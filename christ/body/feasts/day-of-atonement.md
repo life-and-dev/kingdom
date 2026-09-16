@@ -55,11 +55,11 @@ No feast-specific command stated.
 
 Leviticus 16:3–28; Numbers 29:7–11. Uses Holy Place, bull from the herd, Azazel, tent of meeting, and goat pronoun “it”.
 
-### Assembly/place/private-public
-
-Leviticus 23:27.
-
 ### Fasting/self-affliction
+
+The people were to humble themselves before the LORD on this day while atonement was made for them.
+
+The Hebrew term is [עָנָה (ʿānāh), Strong’s H6031](https://biblehub.com/hebrew/6031.htm), meaning “afflict, humble, weaken.” In these passages, forms include [תְּעַנּוּ](https://biblehub.com/interlinear/leviticus/16-29.htm) and [וְעִנִּיתֶם](https://biblehub.com/interlinear/leviticus/23-27.htm), with אֶת־נַפְשֹׁתֵיכֶם meaning “your selves/souls.” Self-affliction therefore means humbling or disciplining oneself before God. Fasting is a recognised practice that expresses it,ihowever it is not the direct lexical meaning.
 
 Leviticus 16:29–31; 23:27,32.
 
@@ -68,6 +68,8 @@ Leviticus 16:29–31; 23:27,32.
 Leviticus 16:29–31: “shall do no work.”
 
 ## Forever clause and audience
+
+The repeated forever language presents the atonement observance as an enduring requirement, not a one-time instruction.
 
 Exodus 30:10; Leviticus 16:29,31,34; 23:31.
 
@@ -87,6 +89,14 @@ Exodus 30:10; Leviticus 16:29,31,34; 23:31.
 >
 > — Leviticus 25:8-17 (ESV)
 
+### Support From Other New Testament Authors
+
+Paul, Peter, and John support the core theology of Christ’s sacrificial death, blood, sin-bearing, and propitiation. Paul describes Christ as the one “whom God put forward as a **propitiation by his blood**” (Romans 3:25) and states that “Christ died **for our sins**” (1 Corinthians 15:3). He also affirms the finality of Christ’s death: “The death he died he died to sin, **once for all**” (Romans 6:10).
+
+Peter likewise writes, “He himself **bore our sins** in his body on the tree” (1 Peter 2:24), and that “Christ also **suffered once for sins**, the righteous for the unrighteous, that he might bring us to God” (1 Peter 3:18). John calls Jesus “the **propitiation for our sins**” (1 John 2:2).
+
+No other New Testament author develops the full high-priest, Day of Atonement, and heavenly-sanctuary comparison found in Hebrews. The other authors support its core theology, but Hebrews uniquely gives this complete interpretive framework.
+
 ## Author of Hebrews Interpretation
 
 Hebrews presents the Levitical system as a limited pattern. Human high priests were appointed to offer sacrifices for sin, yet they shared the weakness of the people and therefore offered for their own sins (Hebrews 5:1-3; 7:26-28). Their service was in an earthly sanctuary, a “copy and shadow of the heavenly things” (Hebrews 8:5).
@@ -103,18 +113,10 @@ His single offering achieves what repeated sacrifices could not: it perfects tho
 
 > “For the bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp. So Jesus also **suffered outside the gate** in order to **sanctify the people through his own blood**.” — Hebrews 13:11-12 (ESV)
 
-### Support From Other New Testament Authors
-
-Yes. Paul, Peter, and John support the core theology of Christ’s sacrificial death, blood, sin-bearing, and propitiation. Paul describes Christ as the one “whom God put forward as a **propitiation by his blood**” (Romans 3:25) and states that “Christ died **for our sins**” (1 Corinthians 15:3). He also affirms the finality of Christ’s death: “The death he died he died to sin, **once for all**” (Romans 6:10).
-
-Peter likewise writes, “He himself **bore our sins** in his body on the tree” (1 Peter 2:24), and that “Christ also **suffered once for sins**, the righteous for the unrighteous, that he might bring us to God” (1 Peter 3:18). John calls Jesus “the **propitiation for our sins**” (1 John 2:2).
-
-No other New Testament author develops the full high-priest, Day of Atonement, and heavenly-sanctuary comparison found in Hebrews. The other authors support its core theology, but Hebrews uniquely gives this complete interpretive framework.
-
 ## Conclusion
 
-The Day of Atonement was Israel’s annual priestly and sacrificial rite for cleansing from sin, with its purpose and offerings described in [Purpose and Symbolism](#purpose-and-symbolism) and [Sacrifices/Offerings](#sacrificesofferings).
+The Day of Atonement was Israel’s annual priestly and sacrificial rite for cleansing from sin. Its purpose and offerings are described in [Purpose and Symbolism](#purpose-and-symbolism) and [Sacrifices/Offerings](#sacrificesofferings).
 
-[Hebrews](#author-of-hebrews-interpretation) presents Jesus as its once-for-all fulfilment: the sinless high priest who entered the heavenly sanctuary through his own blood.
+[Paul, Peter, and John](#support-from-other-new-testament-authors) support the core sacrificial theology of atonement, while [Hebrews](#author-of-hebrews-interpretation) uniquely develops the Day of Atonement framework. Most Christians agree that this day does not supplement [Christ’s atonement](#author-of-hebrews-interpretation).
 
-[Paul, Peter, and John](#support-from-other-new-testament-authors) support the core sacrificial theology of atonement, while Hebrews uniquely develops the full Day of Atonement framework.
+Its [continuing legal obligation](#forever-clause-and-audience) remains an interpretive question. Even so, there is still value in keeping the day to remember, repent, and give thanks to God.
