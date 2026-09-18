@@ -23,3 +23,7 @@ The priests and their families enjoyed the offerings of Firstfruit:
 > "Honor the Lord with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing, and your vats will brim over with new wine." -- Proverbs 3:9-10 (ESV)
 
 Note: This is a general recommendation and not a festival commandment or guarenteed condition.
+
+## Conclusion
+
+The cited texts concern Israel’s harvest offering and priestly portions; see [Feast of Firstfruit (Shavuot)](#feast-of-firstfruit-shavuot). Christians may choose a household or community thanksgiving gathering and read 1 Corinthians 15:20, “Christ has been raised from the dead, the firstfruits” (ESV), without treating this as a command to perform the rite. Seasonal produce may be shared, but Scripture prescribes no food for a modern Christian observance. These are ideas only, not biblical commands or requirements for Christians.

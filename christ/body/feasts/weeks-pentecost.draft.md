@@ -105,3 +105,7 @@ See [shared formula table](../feasts.draft.md#reasonable-inference). Under its d
 ## What Scripture does not authorize or define
 
 No substitute loaves, sacrifices, altar, calendar authority, place, or modern work definition.
+
+## Conclusion
+
+Weeks was Israel’s harvest feast with place-bound priestly offerings; Acts records Pentecost but does not command a Christian annual observance. See [Biblical Names and Status](#biblical-names-and-status), [Acts 2:1–4,37–41](#acts-2143741), and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define). A household or community may choose to gather, read Acts 2:4, “they were all filled with the Holy Spirit” (ESV), and pray for faithful witness. A shared harvest meal is suitable, though Scripture prescribes no food for modern Christians. These are ideas only, not biblical commands or requirements for Christians.
