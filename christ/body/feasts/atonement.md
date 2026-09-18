@@ -15,33 +15,19 @@ However, [sin](https://kingdom.ofgod.info/darkness) separates us from God (Isaia
 
 Therefore, God command Israel to set aside a special day to atone for their sins so that they may be reconciled with God:
 
-> This shall be a statute forever for you: 
+> This shall be a statute forever for you:
 >
-> "In the seventh month, on the tenth day of the month, you shall afflict your souls, and do no work at all**, whether a native of your own country or a stranger who dwells among you. 
-> 
-> For on that day **the priest shall make atonement for you, to cleanse you, that you may be clean from all your sins before the LORD**. 
+> "In the seventh month, on the tenth day of the month, you shall afflict your souls, and do no work at all**, whether a native of your own country or a stranger who dwells among you.
 >
-> It is a sabbath of solemn rest for you, and you shall afflict your souls. It is a statute forever. And the priest, who is anointed and consecrated to minister as priest in his father’s place, shall make atonement, and put on the linen clothes, the holy garments; then he shall make atonement for the Holy Sanctuary, and he shall make atonement for the tabernacle of meeting and for the altar, and he shall make atonement for the priests and for all the people of the assembly. 
+> For on that day **the priest shall make atonement for you, to cleanse you, that you may be clean from all your sins before the LORD**.
+>
+> It is a sabbath of solemn rest for you, and you shall afflict your souls. It is a statute forever. And the priest, who is anointed and consecrated to minister as priest in his father’s place, shall make atonement, and put on the linen clothes, the holy garments; then he shall make atonement for the Holy Sanctuary, and he shall make atonement for the tabernacle of meeting and for the altar, and he shall make atonement for the priests and for all the people of the assembly.
 >
 > This shall be an everlasting statute for you, **to make atonement for the children of Israel, for all their sins**, once a year."
 >
 > And he did as the LORD commanded Moses.
 >
 > -- Leviticus 16:29-34 (NKJV)
-
-> And the LORD spoke to Moses, saying, “Now on the **tenth day of this seventh month** is **the Day of Atonement**. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. And you shall not do any work on that very day, for it is a Day of Atonement, to make atonement for you before the LORD your God. For whoever is not afflicted on that very day shall be cut off from his people. And whoever does any work on that very day, that person I will destroy from among his people. You shall not do any work. It is a statute forever throughout your generations in all your dwelling places. It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.”
->
-> — Leviticus 23:26-32 (ESV)
-
-> On the **tenth day of this seventh month** you shall have a holy convocation and afflict yourselves. You shall do no work, but you shall offer a burnt offering to the LORD, a pleasing aroma:
->
-> * one bull from the herd,
-> * one ram,
-> * seven male lambs a year old: see that they are without blemish.
->
-> And their grain offering shall be of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the one ram, a tenth for each of the seven lambs: also one male goat for a sin offering, besides the sin offering of atonement, and the regular burnt offering and its grain offering, and their drink offerings.
->
-> — Numbers 29:7-11 (ESV)
 
 ## Biblical names and status
 
@@ -52,15 +38,6 @@ Therefore, God command Israel to set aside a special day to atone for their sins
 ## Purpose and symbolism
 
 Leviticus 16:30: atonement made to cleanse from sins.
-
-Meaning of humble / afflicted:
-
-| Original Word     | עָנָה                           |
-| ----------------- | ----------------------------- |
-| Part of Speech    | Verb                          |
-| Transliteration   | anah                          |
-| Phonetic Spelling | aw-naw'                       |
-| Definition        | to be bowed down or afflicted |
 
 Fasting could be part of the "humble / afflicted" but if the focus is on the fasting and not on the affliction then it is wrong.
 
@@ -74,35 +51,81 @@ Leviticus 23:27,32: tenth day of seventh month, evening to evening.
 
 No feast-specific command stated.
 
-### Sacrifices/offerings
-
-> “You shall make an altar on which to burn incense; you shall make it of acacia wood.
->
-> ...
->
-> Aaron shall make atonement on its horns once a year. With the blood of the sin offering of atonement he shall make **atonement for it once in the year** throughout your generations. It is most holy to the LORD.”
->
-> — Exodus 30:10 (ESV)
-
-Leviticus 16:3–28; Numbers 29:7–11. Uses Holy Place, bull from the herd, Azazel, tent of meeting, and goat pronoun “it”.
-
 ### Fasting/self-affliction
 
-The people were to humble themselves before the LORD on this day while atonement was made for them.
+> On the tenth day of this seventh month you shall have a holy convocation.
+>
+> * You shall **afflict your souls**.
+> * You shall **not do any work**.
+> * You shall **present a burnt offering to the LORD** as a sweet aroma: one young bull, one ram, and seven lambs in their first year. Be sure they are without blemish. Their grain offering shall be of fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths for the one ram, and one-tenth for each of the seven lambs; also one kid of the goats as a sin offering, besides the sin offering for atonement, the regular burnt offering with its grain offering, and their drink offerings.
+>
+> -- Numbers 29:7-11 (NKJV)
 
 The Hebrew term is [עָנָה (ʿānāh), Strong’s H6031](https://biblehub.com/hebrew/6031.htm), meaning “afflict, humble, weaken.” In these passages, forms include [תְּעַנּוּ](https://biblehub.com/interlinear/leviticus/16-29.htm) and [וְעִנִּיתֶם](https://biblehub.com/interlinear/leviticus/23-27.htm), with אֶת־נַפְשֹׁתֵיכֶם meaning “your selves/souls.” Self-affliction therefore means humbling or disciplining oneself before God. Fasting is a recognised practice that expresses it,ihowever it is not the direct lexical meaning.
 
-Leviticus 16:29–31; 23:27,32.
+> The Hebrew word translated “afflict” is “anah”, which means to afflict, humble, bow down.  The Hebrew word translated “souls” is “nephesh”, which means a living creature.
+>
+> Are there any other Scriptures which help us understand what it means to “afflict your soul”?  The answer is yes.  There are several verses which associate fasting with affliction (anah).
+> 
+>> Then I proclaimed a fast [tsom] there at the river of Ahava, that we might humble [anah] ourselves before our God, to seek from Him the right way for us and our little ones and all our possessions. -- Ezra 8:21
+>
+>> But as for me, when they were sick, My clothing was sackcloth; I humbled [anah] myself with fasting [tsom]; And my prayer would return to my own heart. -- Psalm 35:13
+>
+>> ‘Why have we fasted [tsum],’ they say, ‘and You have not seen? Why have we afflicted [anah] our souls [nephesh], and You take no notice?’ “In fact, in the day of your fast [tsom] you find pleasure, And exploit all your laborers. Indeed you fast [tsom] for strife and debate, And to strike with the fist of wickedness. You will not fast [tsom] as you do this day, To make your voice heard on high. Is it a fast [tsom] that I have chosen, A day for a man to afflict [anah] his soul [nephesh]? Is it to bow down his head like a bulrush, And to spread out sackcloth and ashes? Would you call this a fast [tsom], And an acceptable day to the LORD -- Isaiah 58:3-5
+>
+> The Hebrew word translated “fast” is “tsom”.  It comes from the Hebrew “tsum” meaning to “cover the mouth”.  So it means to not eat or drink anything.
+>
+> There is also another verse which associates affliction of the soul to hunger.
+>
+>> If you extend your soul [nephesh] to the hungry And satisfy the afflicted [anah] soul [nephesh], Then your light shall dawn in the darkness, And your darkness shall be as the noonday. -- Isaiah 58:10
+>
+> -- [The Bible Made Plain](https://thebiblemadeplain.com/what-does-it-mean-to-afflict-your-soul)
+
+### Sacrifices/offerings
+
+Today, there is no longer any temple (Deuteronomy 12:5-6, 13-14) nor priests (Numbers 3:10, 18:7) that can present burnt offerings. In addition, the majority of people no longer own farms with animals that could be sacrificed. This makes the ceremony practically impossible to keep to the letter as Moses described it.
+
+However, the ceremony is not about the burnt offering, but about the atonement of sins which is the reason why Jesus sacrificed himself:
+
+> And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said,
+>
+> “Take, eat; this is my body.”
+>
+> Then He took the cup, and gave thanks, and gave it to them, saying,
+>
+> “Drink from it, all of you. For this is my blood of the new covenant, which is shed for many for **the remission of sins**.”
+>
+> -- Matthew 26:26-28 (NKJV)
+
+and this is also how John understood it:
+
+> My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. **He is the propitiation for our sins**, and not for ours only but also for **the sins of the whole world**. -- 1 John 2:1-2 (NKJV)
 
 ### Rest/work
 
-Leviticus 16:29–31: “shall do no work.”
+Leviticus 16:29–31 renders “shall do no work.”
 
-## Forever clause and audience
+The pattern I identified in scripture of what "do not work" means is:
 
-The repeated forever language presents the atonement observance as an enduring requirement, not a one-time instruction.
+Do not do ordinary business, trade, or job-related activities for another, for yourself, nor enforce it on any of your workers. "Work" excludes activities that are necessary to sustain life, such as plucking grain for yourself to eat (Mark 2:23-28), healing (Luke 13:10-17, John 5:1-18) or saving a life (Matthew 12:11-12, Luke 14:5).
 
-Exodus 30:10; Leviticus 16:29,31,34; 23:31.
+## Forever Clause and Audience
+
+Moses made it clear that this ceremony was a very serious matter and should be kept forever:
+
+> The LORD spoke to Moses, saying: 
+>
+> “Also the tenth day of this seventh month shall be the Day of Atonement. It shall be a holy convocation for you; you shall afflict your souls, and offer an offering made by fire to the LORD. And you shall do no work on that same day, for it is the Day of Atonement, to make atonement for you before the LORD your God. 
+>
+> For **any person who is not afflicted in soul on that same day shall be cut off from his people**. And **any person who does any work on that same day, that person I will destroy from among his people**. You shall do no manner of work; it shall be a statute **forever throughout your generations** in all your dwellings. It shall be to you a sabbath of solemn rest, and you shall afflict your souls; on the ninth day of the month at evening, from evening to evening, you shall celebrate your sabbath.”
+>
+> -- Leviticus 23:26-32 (NKJV)
+
+Many Christians believe that Moses commands only applied to the nation of Israel or refer to the scripture of [an unknown author](https://word.ofgod.info/books/hebrews) who wrote Hebrews 9:11-28 that states that Jesus fulfilled this ceremony such that it is no longer necessary to keep it. However, no prophet nor Jesus himself declared this ceremony deprecated.
+
+Yet, Moses stated that God's laws also applied to "strangers" (Exodus 12:49; Leviticus 24:22; Numbers 15:15-16) and presented the law when "mixed multitude" were present (Exodus 12:38).
+
+Paul also taught that new gentile believers should be considered fellow citizens of Israel (Romans 11:17-24; Ephesians 2:11-19; Galatians 3:28-29).
 
 ## Biblical celebration examples
 

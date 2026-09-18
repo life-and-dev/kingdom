@@ -31,6 +31,20 @@ The popular Christian interpretation is that John 1:29, Matthew 26:28, Romans 6:
 
 Acts 7:48-50, John 2:19-21, John 4:21-24, Colossians 2:16-17, and Ephesians 2:14-18 are also read as describing a transition in worship, temple, and covenant relations. Colossians says that believers should not be judged over festivals and calls them a shadow. It does not explicitly ban festival observance. The author of Hebrews 10 corroborates one sacrifice and no remaining offering for sin.
 
+Yet, Moses stated that God's laws also applied to "strangers" (Exodus 12:49; Leviticus 24:22; Numbers 15:15-16) and presented the law when "mixed multitude" were present (Exodus 12:38).
+
+The same Paul also taught that new gentile believers should be considered fellow citizens of Israel (Romans 11:17-24; Ephesians 2:11-19; Galatians 3:28-29).
+
+#### Biased Bible Translations
+
+Becareful of biased bible translations. For example the New King James Version (NKJV) of Colossians 2:13-14 reads:
+
+> And you, being dead in your trespasses and the uncircumcision of your flesh, he has made alive together with him, having forgiven you all trespasses, having **wiped out the handwriting of requirements that was against us**, which was contrary to us. And he has taken it out of the way, having nailed it to the cross. -- Colossians 2:13-14 (NKJV)
+
+This seems to imply that ceremonial requirements were abolished by Christ’s sacrifice. Compare it for example with other bible translations like:
+
+> And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, by **canceling the record of debt that stood against us** with its legal demands. This he set aside, nailing it to the cross. -- Colossians 2:13-14 (ESV)
+
 ### Memorial View
 
 This view permits adapted, non-sacrificial meals or gatherings for teaching children, community, and remembrance. It does not treat them as a biblical command or as a legal requirement.
