@@ -5,9 +5,29 @@ keywords: Day of Atonement, Leviticus 16, Leviticus 23, ESV
 
 # Day of Atonement
 
-> “And it shall be a statute to you forever that in **the seventh month, on the tenth day of the month**, you shall afflict yourselves and shall do no work, either the native or the stranger who sojourns among you. For on this **day shall atonement** be made for you to cleanse you. You shall be clean before the LORD from all your sins. It is a Sabbath of solemn rest to you, and you shall afflict yourselves; it is a statute forever. And the priest who is anointed and consecrated as priest in his father’s place shall make atonement, wearing the holy linen garments. He shall make atonement for the holy sanctuary, and he shall make atonement for the tent of meeting and for the altar, and he shall make atonement for the priests and for all the people of the assembly. And this shall be a statute forever for you, that atonement may be made for the people of Israel once in the year because of all their sins.” And Aaron did as the LORD commanded Moses.
+A common theme in Leviticus is that God is [holy](https://word.ofgod.info/holy) and requires His people to be holy too, for example:
+
+> I am the LORD your God. Consecrate yourselves therefore, and **be holy, for I am holy**. You shall not defile yourselves... -- Leviticus 11:44, 20:7 (NKJV)
+
+> And the LORD spoke to Moses, saying, “Speak to all the congregation of the people of Israel and say to them, **you shall be holy, for I the LORD your God am holy**.” -- Leviticus 11:45 (NKJV)
+
+However, [sin](https://kingdom.ofgod.info/darkness) separates us from God (Isaiah 59:1-2). God will never lower His standard.
+
+Therefore, God command Israel to set aside a special day to atone for their sins so that they may be reconciled with God:
+
+> This shall be a statute forever for you: 
 >
-> — Leviticus 16:29-34 (ESV)
+> "In the seventh month, on the tenth day of the month, you shall afflict your souls, and do no work at all**, whether a native of your own country or a stranger who dwells among you. 
+> 
+> For on that day **the priest shall make atonement for you, to cleanse you, that you may be clean from all your sins before the LORD**. 
+>
+> It is a sabbath of solemn rest for you, and you shall afflict your souls. It is a statute forever. And the priest, who is anointed and consecrated to minister as priest in his father’s place, shall make atonement, and put on the linen clothes, the holy garments; then he shall make atonement for the Holy Sanctuary, and he shall make atonement for the tabernacle of meeting and for the altar, and he shall make atonement for the priests and for all the people of the assembly. 
+>
+> This shall be an everlasting statute for you, **to make atonement for the children of Israel, for all their sins**, once a year."
+>
+> And he did as the LORD commanded Moses.
+>
+> -- Leviticus 16:29-34 (NKJV)
 
 > And the LORD spoke to Moses, saying, “Now on the **tenth day of this seventh month** is **the Day of Atonement**. It shall be for you a time of holy convocation, and you shall afflict yourselves and present a food offering to the LORD. And you shall not do any work on that very day, for it is a Day of Atonement, to make atonement for you before the LORD your God. For whoever is not afflicted on that very day shall be cut off from his people. And whoever does any work on that very day, that person I will destroy from among his people. You shall not do any work. It is a statute forever throughout your generations in all your dwelling places. It shall be to you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.”
 >
