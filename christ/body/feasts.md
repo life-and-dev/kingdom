@@ -78,35 +78,35 @@ A biblical day begins at sunset or twilight, not at Gregorian midnight. Inclusiv
 | Event | Date Formula | Purpose | Unique Attributes | Day of Rest? |
 | --- | --- | --- | --- | --- |
 | [Passover](feasts/passover.md) | $A_y+13$ at twilight | Memorial of Israel's deliverance from Egyption slavery | Household lamb with unleavened bread and bitter herbs | no |
-| [Unleavened Bread](feasts/unleavened-bread.draft.md) | $A_y+14$ through $A_y+20$ | Memorial of exodus from Egypt | 7 days of unleavened bread and leaven removal; holy assembly | first & last |
-| [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.draft.md) | $W_y$ | Firstfruits of harvest | Eating grain/bread prohibited until offering | no |
-| [Weeks Pentecost](feasts/weeks-pentecost.draft.md) | $W_y+49$ | Firstfruits of wheat harvest | Appointed offerings | yes |
+| [Unleavened Bread](feasts/unleavened-bread.md) | $A_y+14$ through $A_y+20$ | Memorial of exodus from Egypt | 7 days of unleavened bread and leaven removal; holy assembly | first & last |
+| [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.md) | $W_y$ | Firstfruits of harvest | Eating grain/bread prohibited until offering | no |
+| [Weeks Pentecost](feasts/weeks-pentecost.md) | $W_y+49$ | Firstfruits of wheat harvest | Appointed offerings | yes |
 | [Trumpet Memorial](feasts/trumpets.md) | $B_{y,7}$ | Memorial proclaimed with trumpet blasts | Appointed offerings | yes |
-| [Day of Atonement](feasts/day-of-atonement.draft.md) | $B_{y,7}+9$, from ninth evening to tenth evening | Atonement and cleansing from sins | Self-affliction and atonement rites | yes |
+| [Day of Atonement](feasts/atonement.md) | $B_{y,7}+9$, from ninth evening to tenth evening | Atonement and cleansing from sins | Self-affliction and atonement rites | yes |
 | [Booths / Tabernacles](feasts/booths.md) | $B_{y,7}+14$ through $B_{y,7}+20$ | Memorial of Israel dwelling in booths after Egypt | Live in booths, rejoice with branches, pilgrimage | first only |
-| [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md) | $B_{y,7}+21$ | No separate stated symbolic explanation | Solemn assembly and appointed offerings | yes |
+| [Eighth Day Assembly](feasts/8th-day-assembly.md) | $B_{y,7}+21$ | No separate stated symbolic explanation | Solemn assembly and appointed offerings | yes |
 | [Weekly Sabbath](https://en.wikipedia.org/wiki/Sabbath) | $S_0+7k$, integer $k$ | Rest after creation | Sabbath offerings | yes |
 | [New Moons](feasts/new-moons.md) | $B_{y,m}$ | Memorial before God | Trumpets and monthly burnt offerings | no |
-| [Feast of Dedication (Hanukkah)](feasts/dedication.draft.md) | 25 Kislev, eight days, winter | Maccabean Temple rededication | John 10:22–23; Maccabees are historical/deuterocanonical sources | no Torah-commanded rest |
-| [Purim](feasts/purim.draft.md) | $B_{y,12}+13$ and $B_{y,12}+14$ | Relief from enemies | Feasting and gifts of food | no |
+| [Feast of Dedication (Hanukkah)](feasts/dedication.md) | 25 Kislev, eight days, winter | Maccabean Temple rededication | John 10:22–23; Maccabees are historical/deuterocanonical sources | no Torah-commanded rest |
+| [Purim](feasts/purim.md) | $B_{y,12}+13$ and $B_{y,12}+14$ | Relief from enemies | Feasting and gifts of food | no |
 
 Several Torah-appointed annual feasts have an explicit perpetual-statute or throughout-generations command:
 
 1. [Passover](feasts/passover.md) (Exodus 12:14, 24)
-2. [Unleavened Bread](feasts/unleavened-bread.draft.md) (Exodus 12:17)
-3. [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.draft.md) (Leviticus 23:14)
-4. [Weeks Pentecost](feasts/weeks-pentecost.draft.md) (Leviticus 23:21)
-5. [Day of Atonement](feasts/day-of-atonement.draft.md) (Leviticus 16:29, 34)
+2. [Unleavened Bread](feasts/unleavened-bread.md) (Exodus 12:17)
+3. [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.md) (Leviticus 23:14)
+4. [Weeks Pentecost](feasts/weeks-pentecost.md) (Leviticus 23:21)
+5. [Day of Atonement](feasts/atonement.md) (Leviticus 16:29, 34)
 6. [Booths / Tabernacles](feasts/booths.md) (Leviticus 23:41)
-7. [Eighth Day Assembly](feasts/eighth-day-assembly.draft.md) commanded within Booths’ observance (Leviticus 23:36, 39, 41)
+7. [Eighth Day Assembly](feasts/eighth-day-assembly.md) commanded within Booths’ observance (Leviticus 23:36, 39, 41)
 
 [Weekly Sabbath](https://word.ofgod.info/terms/sabbath) is a Torah-appointed weekly observance (Exodus 31:12–17).
 
 [Trumpet Memorial](feasts/trumpets.md) and [New Moons](feasts/new-moons.md) have explicit observance commands, but no independent explicit perpetual-statute formula in the cited passages (Leviticus 23:24–25; Numbers 10:10; 28:11–15).
 
-[Purim](feasts/purim.draft.md) is not Torah-appointed, but Esther establishes its annual observance throughout all generations (Esther 9:23–28).
+[Purim](feasts/purim.md) is not Torah-appointed, but Esther establishes its annual observance throughout all generations (Esther 9:23–28).
 
-[Hanukkah](feasts/dedication.draft.md) is not Torah-appointed. John 10:22–23 records its observance, while 1 Maccabees 4:59 establishes its annual eight-day celebration. It has no Torah perpetual-statute command.
+[Hanukkah](feasts/dedication.md) is not Torah-appointed. John 10:22–23 records its observance, while 1 Maccabees 4:59 establishes its annual eight-day celebration. It has no Torah perpetual-statute command.
 
 ## Pilgrimage Rules
 
