@@ -33,6 +33,17 @@ keywords: Day of Atonement, Leviticus 16, Leviticus 23, ESV
 
 Leviticus 16:30: atonement made to cleanse from sins.
 
+Meaning of humble / afflicted:
+
+| Original Word     | עָנָה                           |
+| ----------------- | ----------------------------- |
+| Part of Speech    | Verb                          |
+| Transliteration   | anah                          |
+| Phonetic Spelling | aw-naw'                       |
+| Definition        | to be bowed down or afflicted |
+
+Fasting could be part of the "humble / afflicted" but if the focus is on the fasting and not on the affliction then it is wrong.
+
 ## When
 
 Leviticus 23:27,32: tenth day of seventh month, evening to evening.
