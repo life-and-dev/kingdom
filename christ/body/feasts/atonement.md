@@ -3,7 +3,7 @@ description: Day of Atonement with biblical evidence, requirements, and observan
 keywords: Day of Atonement, Leviticus 16, Leviticus 23, ESV
 ---
 
-# Day of Atonement
+# Day of Atonement / Yom Kippur (יוֹם כִּפּוּר)
 
 A common theme in Leviticus is that God is [holy](https://word.ofgod.info/holy) and requires His people to be holy too, for example:
 

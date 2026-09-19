@@ -3,29 +3,33 @@ description: Booths and Tabernacles feast with biblical evidence, requirements, 
 keywords: Booths, Tabernacles, Leviticus 23, ESV
 ---
 
-# Booths / Tabernacles
+# Booths / Tabernacles / Sukkot (סֻכּוֹת)
 
-> And the LORD spoke to Moses, saying, “Speak to the people of Israel, saying, On the fifteenth day of this seventh month and for seven days is **the Feast of Booths** to the LORD.
+> Then the LORD spoke to Moses, saying,
 >
-> On the first day shall be a holy convocation; you shall not do any ordinary work.
+> “Speak to the children of Israel, saying:
 >
-> For seven days you shall present food offerings to the LORD.
+> ‘The fifteenth day of this seventh month shall be the Feast of Tabernacles for seven days to the LORD.
 >
-> On the eighth day you shall hold a holy convocation and present a food offering to the LORD. It is a solemn assembly; you shall not do any ordinary work.
+> On the first day there shall be a holy convocation. **You shall do no customary work on it.**
 >
-> These are the appointed feasts of the LORD, which you shall proclaim as times of holy convocation, for presenting to the LORD food offerings, burnt offerings and grain offerings, sacrifices and drink offerings, each on its proper day, besides the LORD’s Sabbaths and besides your gifts and besides all your vow offerings and besides all your freewill offerings, which you give to the LORD.
+> For seven days **you shall offer an offering made by fire to the LORD**.
 >
-> On the fifteenth day of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the LORD seven days.
+> On the eighth day you shall have a holy convocation, and **you shall offer an offering made by fire to the LORD**. It is a sacred assembly, and **you shall do no customary work on it**.’
 >
-> On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest. And you shall take on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God seven days.
+> ...
 >
-> You shall celebrate it as a feast to the LORD for seven days in the year. It is a statute forever throughout your generations; you shall celebrate it in the seventh month. You shall dwell in booths for seven days. All native Israelites shall dwell in booths, **that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt**:
+> ‘Also on the fifteenth day of the seventh month, when you have gathered in the fruit of the land, you shall keep the feast of the LORD for seven days: on **the first day there shall be a sabbath-rest**, and on **the eighth day a sabbath-rest**.
 >
-> I am [the LORD](https://ofgod.info/name#lord) your God.”
+> And you shall take for yourselves on the first day the fruit of beautiful trees, branches of palm trees, the boughs of leafy trees, and willows of the brook; and **you shall rejoice before the LORD your God for seven days**.
 >
-> Thus Moses declared to the people of Israel the appointed feasts of the LORD.
+> You shall keep it as a feast to the LORD for seven days in the year. It shall be a statute **forever in your generations**. You shall celebrate it in the seventh month.
 >
-> — Leviticus 23:33-44 (ESV)
+> **You shall dwell in booths for seven days**. All who are native Israelites shall dwell in booths, that **your generations may know that I made the children of Israel dwell in booths when I brought them out of the land of Egypt**:
+>
+> I am the LORD your God.’ ”
+>
+> — Leviticus 23:33-36,39-43 (NKJV)
 
 > “On the fifteenth day of the seventh month you shall have a holy convocation. You shall not do any ordinary work, and you shall keep a feast to the LORD seven days. … On the eighth day you shall have a solemn assembly. You shall not do any ordinary work. … These you shall offer to the LORD at your appointed feasts, in addition to your vow offerings and your freewill offerings, for your burnt offerings and for your grain offerings and for your drink offerings and for your peace offerings.” — Numbers 29:12–39 (ESV)
 
@@ -78,7 +82,7 @@ Leviticus 23:41; booth command names native Israelites.
 > …
 >
 > So Solomon held the feast at that time, and all Israel with him, a great assembly … On the eighth day he sent the people away.
-> 
+>
 > — 1 Kings 8:2,65–66 (ESV)
 
 > “And all the men of Israel assembled before the king at the feast that is in the seventh month. … At that time Solomon held the feast for seven days, and all Israel with him … And on the eighth day they held a solemn assembly. … as the duty of each day required … the three annual feasts — the Feast of Unleavened Bread, the Feast of Weeks, and **the Feast of Booths**.” — 2 Chronicles 5:3; 7:8–10; 8:13 (ESV)

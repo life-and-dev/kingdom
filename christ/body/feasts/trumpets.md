@@ -3,7 +3,7 @@ description: Trumpet Memorial and observance limits.
 keywords: Trumpet Memorial, Leviticus 23, Numbers 29, ESV
 ---
 
-# Trumpet Memorial
+# Trumpet Memorial / Yom Teruah (יוֹם תְּרוּעָה)
 
 > “And the LORD spoke to Moses, saying, ‘Speak to the people of Israel, saying, In the seventh month, on the first day of the month, you shall observe a **day of solemn rest**, a memorial proclaimed with **blast of trumpets, a holy convocation**. You shall not do any ordinary work, and you shall **present a food offering** to the LORD.’” — Leviticus 23:23–25 (ESV)
 

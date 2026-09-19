@@ -3,7 +3,7 @@ description: New Moons observance with biblical evidence and requirements.
 keywords: new moons, Numbers 28, Numbers 10, Psalm 81, Colossians 2
 ---
 
-# New Moons
+# New Moons / Rosh Chodesh (רֹאשׁ חֹדֶשׁ)
 
 ## Biblical names and status
 

@@ -1,12 +1,11 @@
 ---
-description: Unleavened Bread draft with biblical evidence, requirements, and
-  observance limits.
+description: Unleavened Bread with biblical evidence, requirements, and observance limits.
 keywords: Unleavened Bread, Exodus 12, Leviticus 23, ESV
 ---
 
-# Unleavened Bread
+# Unleavened Bread / Chag HaMatzot
 
-One-event draft. Shared calendar and cross-feast evidence remain in [Feasts](../feasts.draft.md).
+> Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, that person shall be cut off from Israel. On the first day you shall hold a holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you. And you shall observe the Feast of Unleavened Bread, for on this very day I brought your hosts out of the land of Egypt. Therefore you shall observe this day, throughout your generations, as a statute forever. — Exodus 12:15-17 (ESV)
 
 ## Biblical names and status
 
@@ -56,19 +55,7 @@ Exodus 12:39; Joshua 5:11; 2 Chronicles 30:13,21; 35:17; Ezra 6:22; Acts 12:3; 1
 
 ## Every feast-specific scripture
 
-> “And you shall observe the Feast of Unleavened Bread, for on this very day I brought your hosts out of the land of Egypt. Therefore you shall observe this day, throughout your generations, as a statute forever.” — [Exodus 12:17 (ESV)](https://www.esv.org/Exodus+12%3A17/)
-
-> “In the first month, from the fourteenth day of the month at evening, you shall eat unleavened bread until the twenty-first day of the month at evening.” — [Exodus 12:18 (ESV)](https://www.esv.org/Exodus+12%3A18/)
-
-> “Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, that person shall be cut off from Israel.” — [Exodus 12:15 (ESV)](https://www.esv.org/Exodus+12%3A15/)
-
-> “On the first day you shall hold a holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you.” — [Exodus 12:16 (ESV)](https://www.esv.org/Exodus+12%3A16/)
-
-> “On the first day you shall hold a holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you.” — [Exodus 12:16 (ESV)](https://www.esv.org/Exodus+12%3A16/)
-
 > “On the first day you shall have a holy convocation; you shall not do any ordinary work. But you shall present a food offering to the LORD for seven days. On the seventh day is a holy convocation; you shall not do any ordinary work.” — [Leviticus 23:7–8 (ESV)](https://www.esv.org/Leviticus+23%3A7-8/)
-
-> “And you shall observe the Feast of Unleavened Bread, for on this very day I brought your hosts out of the land of Egypt. Therefore you shall observe this day, throughout your generations, as a statute forever.” — [Exodus 12:17 (ESV)](https://www.esv.org/Exodus+12%3A17/)
 
 > “And they baked unleavened cakes of the dough that they had brought out of Egypt, for it was not leavened, because they were thrust out of Egypt and could not wait, nor had they prepared any provisions for themselves.” — [Exodus 12:39 (ESV)](https://www.esv.org/Exodus+12%3A39/)
 
@@ -100,14 +87,8 @@ Read Exodus texts without claiming a private offering.
 
 ### Conditional Date
 
-Under declared calendar assumptions, seven days begin Abib 15; no rite created.
-
-See [shared formula table](../feasts.draft.md#reasonable-inference). Under its declared inputs, Gregorian output is exact only after stated calendar method, location, time zone, month lengths, intercalation, and Sabbath interpretation. Formula: $A_y+14$ through $A_y+20$.
-
-## What Scripture does not authorize or define
-
-No modern leaven inventory process, ceremonial substitute, or universal date.
+Seven days begin Abib 15.
 
 ## Conclusion
 
-Unleavened Bread remembers Israel’s exodus and includes offerings that Christians must not substitute; see [Purpose and Symbolism](#purpose-and-symbolism), [Food](#food), and [What Scripture Does Not Authorise or Define](#what-scripture-does-not-authorize-or-define). A household or community may choose a meal with unleavened bread and read 1 Corinthians 5:8, “let us therefore celebrate the festival” (ESV), in its moral context. Other food is not prescribed for modern Christians. These are ideas only, not biblical commands or requirements for Christians.
+Unleavened Bread remembers Israel’s exodus and includes offerings that Christians must not substitute; see [Purpose and Symbolism](#purpose-and-symbolism), [Food](#food). A household or community may choose a meal with unleavened bread and read 1 Corinthians 5:8, “let us therefore celebrate the festival” (ESV), in its moral context. Other food is not prescribed for modern Christians. These are ideas only, not biblical commands or requirements for Christians.

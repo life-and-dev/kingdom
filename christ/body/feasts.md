@@ -89,20 +89,20 @@ Use these declared inputs:
 
 A biblical day begins at sunset or twilight, not at Gregorian midnight. Inclusive counting counts stated starting day as day 1. All outputs below are exact only under fixed declared inputs, not biblical certainty.
 
-| Event | Date Formula | Purpose | Unique Attributes | Day of Rest? |
-| --- | --- | --- | --- | --- |
-| [Passover](feasts/passover.md) | $A_y+13$ at twilight | Memorial of Israel's deliverance from Egyption slavery | Household lamb with unleavened bread and bitter herbs | no |
-| [Unleavened Bread](feasts/unleavened-bread.md) | $A_y+14$ through $A_y+20$ | Memorial of exodus from Egypt | 7 days of unleavened bread and leaven removal; holy assembly | first & last |
-| [Wave Sheaf Firstfruits](feasts/wave-sheaf-firstfruits.md) | $W_y$ | Firstfruits of harvest | Eating grain/bread prohibited until offering | no |
-| [Weeks Pentecost](feasts/weeks-pentecost.md) | $W_y+49$ | Firstfruits of wheat harvest | Appointed offerings | yes |
-| [Trumpet Memorial](feasts/trumpets.md) | $B_{y,7}$ | Memorial proclaimed with trumpet blasts | Appointed offerings | yes |
-| [Day of Atonement](feasts/atonement.md) | $B_{y,7}+9$, from ninth evening to tenth evening | Atonement and cleansing from sins | Self-affliction and atonement rites | yes |
-| [Booths / Tabernacles](feasts/booths.md) | $B_{y,7}+14$ through $B_{y,7}+20$ | Memorial of Israel dwelling in booths after Egypt | Live in booths, rejoice with branches, pilgrimage | first only |
-| [Eighth Day Assembly](feasts/8th-day-assembly.md) | $B_{y,7}+21$ | No separate stated symbolic explanation | Solemn assembly and appointed offerings | yes |
-| [Weekly Sabbath](https://en.wikipedia.org/wiki/Sabbath) | $S_0+7k$, integer $k$ | Rest after creation | Sabbath offerings | yes |
-| [New Moons](feasts/new-moons.md) | $B_{y,m}$ | Memorial before God | Trumpets and monthly burnt offerings | no |
-| [Feast of Dedication (Hanukkah)](feasts/dedication.md) | 25 Kislev, eight days, winter | Maccabean Temple rededication | John 10:22–23; Maccabees are historical/deuterocanonical sources | no Torah-commanded rest |
-| [Purim](feasts/purim.md) | $B_{y,12}+13$ and $B_{y,12}+14$ | Relief from enemies | Feasting and gifts of food | no |
+| English Name | Hebrew Name | Date Formula | Purpose | Unique Attributes | Day of Rest? |
+| --- | --- | --- | --- | --- | --- |
+| [Weekly Sabbaths](https://word.ofgod.info/terms/sabbath) | Shabbat (שַׁבָּת) | $S_0+7k$ | Rest after creation | Sabbath offerings | yes |
+| [Passover](feasts/passover.md) | Pesach | $A_y+13$ at twilight | Memorial of Israel's deliverance from Egyptian slavery | Household lamb with unleavened bread and bitter herbs | no |
+| [Unleavened Bread](feasts/unleavened-bread.md) | Chag HaMatzot | $A_y+14$ through $A_y+20$ | Memorial of exodus from Egypt | 7 days of unleavened bread and leaven removal; holy assembly | first & last |
+| [Wave Sheaf / Firstfruits](feasts/firstfruits.md) | Yom HaBikkurim | $W_y$ | Firstfruits of harvest | Eating grain/bread prohibited until offering | no |
+| [Weeks Pentecost](feasts/pentecost.md) | Shavuot | $W_y+49$ | Firstfruits of wheat harvest | Appointed offerings | yes |
+| [Trumpet Memorial](feasts/trumpets.md) | Yom Teruah | $B_{y,7}$ | Memorial proclaimed with trumpet blasts | Appointed offerings | yes |
+| [Day of Atonement](feasts/atonement.md) | Yom Kippur | $B_{y,7}+9$, from ninth evening to tenth evening | Atonement and cleansing from sins | Self-affliction and atonement rites | yes |
+| [Booths / Tabernacles](feasts/booths.md) | Sukkot | $B_{y,7}+14$ through $B_{y,7}+20$ | Memorial of Israel dwelling in booths after Egypt | Live in booths, rejoice with branches, pilgrimage | first only |
+| [Eighth Day Assembly](feasts/8th-day-assembly.md) | Shemini Atzeret (שְׁמִינִי עֲצֶרֶת) | $B_{y,7}+21$ | No separate stated symbolic explanation | Solemn assembly and appointed offerings | yes |
+| [Dedication](feasts/dedication.md) | Hanukkah | $B_{y,9}+24$ | Maccabean Temple rededication | John 10:22–23; Maccabees are historical/deuterocanonical sources | no |
+| [Purim](feasts/purim.md) | Purim | $B_{y,12}+13$ and $B_{y,12}+14$ | Relief from enemies | Feasting and gifts of food | no |
+| [New Moons](feasts/new-moons.md) | Rosh Chodesh | $B_{y,m}$ | Memorial before God | Trumpets and monthly burnt offerings | no |
 
 Several Torah-appointed annual feasts have an explicit perpetual-statute or throughout-generations command:
 

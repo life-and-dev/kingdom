@@ -3,7 +3,7 @@ description: Passover with biblical evidence, requirements, and observance limit
 keywords: Passover, Exodus 12, Leviticus 23, ESV
 ---
 
-# Passover
+# Passover / Pesach (פֶּסַח)
 
 ## Biblical names and status
 

@@ -1,9 +1,9 @@
 ---
-description: Dedication draft with biblical evidence and stated observance limits.
-keywords: Dedication, John 10, ESV
+description: Dedication with biblical evidence and stated observance limits.
+keywords: Dedication, Hanukkah, John 10, ESV
 ---
 
-# Feast of Dedication (Hanukkah)
+# Feast of Dedication / Hanukkah (חֲנֻכָּה)
 
 Hanukkah is an eight-day Jewish festival commemorating the Temple’s purification and rededication after the Maccabean revolt. John 10:22–23 places Jesus at the Temple during this feast.
 
