@@ -209,6 +209,7 @@ Jesus did not say that people would come from heaven or purgatory to God's judgm
 > Marvel not at this:
 >
 > for the hour is coming, in the which **all** that are **in the graves** shall hear his voice, and shall [come forth](death/resurrection.md):
+>
 > 1. they that have done good, unto [the resurrection of life](/eternal/judgement#the-fate-of-gods-children); and
 > 2. they that have done evil, unto [the resurrection of damnation](/eternal/judgement#the-fate-of-the-wicked).
 >
