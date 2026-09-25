@@ -33,7 +33,7 @@ There are 3 problems with this assumption:
 
 Note that both those who "relax" and those who "teach" these commandments are "in the kingdom of heaven". This implies that "good works" are not a condition for [salvation](https://eternal.family.net.za/eternal/saved). [Salvation cannot be earned](https://eternal.family.net.za/god/son/crucifixion), no matter the effort expended. Jesus also makes this point in the next verse:
 
-> For I tell you, unless your [righteousness](https://eternal.family.net.za/bible/concepts/righteousness) exceeds that of the scribes and Pharisees, **you will never enter the kingdom of heaven**. — Matthew 5:20 (ESV)
+> For I tell you, unless your [righteousness](life/righteousness.md) exceeds that of the scribes and Pharisees, **you will never enter the kingdom of heaven**. — Matthew 5:20 (ESV)
 
 Many struggle to explain what "righteousness" means. In perhaps oversimplified layman's terms, it simply means to be in right standing (good relationship) with God. However, one cannot be in right standing with any person without trust or if [unforgiven issues](darkness.md) exist between them. The same principle applies to God. 
 

@@ -309,7 +309,7 @@ The devil doesn't rule through raw power because God hasn't granted him that aut
 5. All these selfish desires leads to **sin**
 6. All sin causes **defilement** of time, environment, life, objects, data, sound, relationships
 7. Defilement has 3 consequences:
-   - God is holy and do not compromise on defilement. Therefore we are **separated from God** ([unrighteousness](https://eternal.family.net.za/bible/concepts/righteousness))
+   - God is holy and do not compromise on defilement. Therefore we are **separated from God** ([unrighteousness](life/righteousness.md))
    - Defilement causes corruption, damage, pain and death to God's creation
    - Guilt leads to condemnation which leads to destruction and death
 8. To compensate for these consequences, we apply **more coping mechanisms** independant from God
@@ -329,14 +329,14 @@ The devil doesn't rule through raw power because God hasn't granted him that aut
 
 This vicious cycle keeps the devil in control of our lives.
 
-```
-doubt God
-    |
-    v
-independance/separation from God -> discontent/fear/pride -> coping mechanisms -> sin -> defilement
-          ^                                                                                 |
-          |                                                                                 |
-          +---------------------------------------------------------------------------------+
+```mermaid
+flowchart TD
+  doubt_God["doubt God"] --> independance_separation_from_God["independance / separation from God"]
+  independance_separation_from_God --> discontent_fear_pride["discontent / fear / pride"]
+  discontent_fear_pride --> coping_mechanisms["coping mechanisms"]
+  coping_mechanisms --> sin["sin"]
+  sin --> defilement["defilement"]
+  defilement --> independance_separation_from_God
 ```
 
 > No one calls for justice, nor does any plead for truth. They trust in empty words and speak lies;
@@ -645,7 +645,7 @@ None of us is invincible. We all need to be on guard and willing to fight back f
 The "armor of God" is:
 
 1. [truth](https://eternal.family.net.za/bible/metaphors/light): Guard your [reputation](https://word.ofgod.info/terms/name) by speaking the truth (2 Corinthians 6:7)
-2. [righteousness](https://eternal.family.net.za/bible/concepts/righteousness): Guard your heart against [idols](https://eternal.family.net.za/bible/concepts/idolatry) by [loving God instead](https://eternal.family.net.za/eternal/saved/love) (1 Thessalonians 5:8; 2 Corinthians 6:6)
+2. [righteousness](life/righteousness.md): Guard your heart against [idols](https://eternal.family.net.za/bible/concepts/idolatry) by [loving God instead](https://eternal.family.net.za/eternal/saved/love) (1 Thessalonians 5:8; 2 Corinthians 6:6)
 3. [the good news](https://eternal.family.net.za/bible/concepts/testimony): [Spread the revelation of God's Kingdom](https://eternal.family.net.za/bible/concepts/testimony)
 4. [faith/trust](https://eternal.family.net.za/life/faith): [Trust God](https://eternal.family.net.za/bible/concepts/faith) when under attack in difficult times
 5. [salvation](https://eternal.family.net.za/bible/concepts/salvation): Guard your mind against temptations, [sin](https://eternal.family.net.za/bible/concepts/sin) and condemnation (1 Thessalonians 5:8-9; Romans 12:2)

@@ -326,13 +326,13 @@ Comparison:
 Explanation:
 
 1. God the Father ([YHWH](https://eternal.family.net.za/god/name#yhwh)) originally chosen Israel to be His nation.
-2. The Father's invitation is [the Gospel of Salvation](https://eternal.family.net.za/eternal/saved) which leads people to [repentance](https://eternal.family.net.za/eternal/saved/repent) so that they could live in [righteousness with God](https://eternal.family.net.za/bible/concepts/righteousness).
+2. The Father's invitation is [the Gospel of Salvation](life.md) which leads people to [repentance](life/repentance.md) so that they could live in [righteousness with God](life/righteousness.md).
 3. The purpose of the Gospel to prepare a people group to serve His Son.
 4. This was initially proclaimed by God's servants like John the Baptist, but he was persecuted for doing so.
 5. The scribes and pharisees stirred up the Jews to persecute God's servants in Jerusalem, therefore Jerusalem were condemned.
 6. This persecution caused the Gospel to spread to foreign non-Jewish regions like the Greek and Roman territories who known by the Jews as the "gentiles" which were previously not considered "worthy" of the Gospel according to the Jews.
 7. The "faithful servants" are the disciples who trusted God by risking their lives to spread the Gospel and who stayed faithful in the face of persecution.
-8. The "wicked servants" are those who dishonor God's Son, the Christ. They often consider themselves ["Christians"](https://eternal.family.net.za/bible/concepts/christian) but refuse to obey Christ who is supposed to be their Lord. This pride dishonors the Son of God like the man with the wrong wedding garment.
+8. The "wicked servants" are those who dishonor God's Son, the Christ. They often consider themselves ["Christians"](https://chruch.ofgod.info/terms/christians) but refuse to obey Christ who is supposed to be their Lord. This pride dishonors the Son of God like the man with the wrong wedding garment.
 9. Jesus also warned that God will judge all "guests" and that the "wicked" will be cast into "outer darkness" which is a place of "weeping and gnashing of teeth".
 
 When the almighty God of the universe invite guests to His son's special occasion, He expects them to be:
@@ -340,7 +340,7 @@ When the almighty God of the universe invite guests to His son's special occasio
     * to be ready on time (see other parables)
     * clean (of sin)
     * with the proper garment (to honor His son)
-    * to live in "[righteousness](https://eternal.family.net.za/bible/concepts/righteousness), peace and joy" with the other attendees which is God Himself, His son and the other guests
+    * to live in "[righteousness](life/righteousness.md), peace and joy" with the other attendees which is God Himself, His son and the other guests
 
 Only these will be "chosen" for "the wedding feast". In other words, God, the Father will selectively reward (Matthew 5:44-6:20) those who honored His invitation.
 
@@ -352,7 +352,7 @@ Earlier in the same book, Matthew recorded Jesus first teaching:
 > Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.  
 > Blessed are the merciful, for they shall receive mercy.  
 > Blessed are the pure in heart, for they shall see God.  
-> Blessed are the peacemakers, for they shall be called [sons of God](https://eternal.family.net.za/god/sons-of-god).  
+> Blessed are the peacemakers, for they shall be called [sons of God](https://son.ofgod.info/sons-of-god).  
 >
 > — Matthew 5:3-9 (ESV)
 
@@ -363,7 +363,7 @@ But then Jesus warns:
 > Blessed are those who are persecuted for righteousness' sake, for theirs is **the kingdom of heaven**.  
 > Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account.
 >
-> Rejoice and be glad, for **your reward is great in [heaven](https://eternal.family.net.za/bible/concepts/heaven)**, for so they persecuted the prophets who were before you.
+> Rejoice and be glad, for **your reward is great in [heaven](https://word.ofgod.info/terms/heaven)**, for so they persecuted the prophets who were before you.
 >
 > — Matthew 5:3-12 (ESV)
 
