@@ -35,7 +35,7 @@ and
 
 > Therefore David blessed [The LORD](https://ofgod.info/name#yhwh) before all the assembly; and David said:
 >
-> “Blessed are You, Lord God of Israel, our [Father](https://eternal.family.net.za/god/father), forever and ever.  
+> “Blessed are You, Lord God of Israel, our [Father](https://ofgod.info), forever and ever.  
 > Yours, O Lord, is the greatness: the power and the glory, the victory and the majesty;  
 > For **all that is in heaven and in earth is Yours**;  
 > **Yours is the kingdom**, O Lord, and **You are exalted as head over all**.  

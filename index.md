@@ -272,7 +272,7 @@ According to Paul, Jesus did not replace God, but instead that Jesus acts as a d
 >
 > Therefore let us not pass judgment on one another any longer, but rather decide never to put a stumbling block or hindrance in the way of a brother. I know and am persuaded in the Lord Jesus that nothing is unclean in itself, but it is unclean for anyone who thinks it unclean. For if your brother is grieved by what you eat, you are no longer walking in love. By what you eat, do not destroy the one for whom Christ died. So do not let what you regard as good be spoken of as evil.
 >
-> For **the kingdom of God** is not a matter of eating and drinking but of **righteousness and peace and joy** *[in [by]](https://eternal.family.net.za/bible/translations/differences/en)* the Holy Spirit.
+> For **the kingdom of God** is not a matter of eating and drinking but of **righteousness and peace and joy** *[in [by]](https://word.ofgod.info/semantics/en)* the Holy Spirit.
 >
 > Whoever thus serves [Christ](christ.md) is **acceptable to God** and approved by men. So then let us pursue what makes for **peace and for mutual upbuilding**.
 >
@@ -310,8 +310,8 @@ Comparison:
 
 | Parable                        | Reality                                                                                               |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| The king                       | [God the Father](https://eternal.family.net.za/god/father) (Matthew 25:34)                            |
-| The king's son                 | [The Son of God](https://eternal.family.net.za/god/son) (Matthew 3:17)                                |
+| The king                       | [God the Father](https://ofgod.info) (Matthew 25:34)                                                  |
+| The king's son                 | [The Son of God](https://son.ofgod.info) (Matthew 3:17)                                               |
 | The feast                      | God the Father's rewards (Matthew 5:12)                                                               |
 | The king's servants            | God's servants like John (Matthew 3:1-3), Jesus (Matthew 4:17) and their disciples (Matthew 28:19-20) |
 | Those who were invited         | Israel (Matthew 3:5-6)                                                                                |
@@ -320,12 +320,12 @@ Comparison:
 | Those who are not worthy       | The "gentiles" who accept Christ's authority (Matthew 21:43-45, 23:39)                                |
 | The king looking at the guests | The judgement day (John 12:48)                                                                        |
 | A man with no wedding garment  | The "wicked servants" that dishonor God's son (Matthew 24:48-51)                                      |
-| Outer darkness                 | [Hell](https://eternal.family.net.za/bible/concepts/hell) (Matthew 24:51)                             |
+| Outer darkness                 | [Hell](https://word.ofgod.info/terms/hell) (Matthew 24:51)                             |
 | The few chosen                 | The "faithful servants" of God (Matthew 24:45-47)                                                     |
 
 Explanation:
 
-1. God the Father ([YHWH](https://eternal.family.net.za/god/name#yhwh)) originally chosen Israel to be His nation.
+1. God the Father ([YHWH](https://kingdom.ofgod.info/name#yhwh)) originally chosen Israel to be His nation.
 2. The Father's invitation is [the Gospel of Salvation](life.md) which leads people to [repentance](life/repentance.md) so that they could live in [righteousness with God](life/righteousness.md).
 3. The purpose of the Gospel to prepare a people group to serve His Son.
 4. This was initially proclaimed by God's servants like John the Baptist, but he was persecuted for doing so.
