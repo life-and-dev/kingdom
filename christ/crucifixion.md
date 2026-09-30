@@ -29,7 +29,7 @@ Matthew recorded the following event:
 
 This [covenant of Christ](../covenants/christ.md) is also confirmed by Mark (Mark 14:22-24), Luke (Luke 22:17-20) and Paul (1 Corinthians 11:23-26). It forms the foundation of Christianity.
 
-> For as by a man came death, **by [a man](https://son.ofgod.info/son-of-man/human) has come also the resurrection** of the dead.  
+> For as by a man came death, **by [a man](https://son.ofgod.info/human) has come also the resurrection** of the dead.  
 > For as in Adam all die, so also in **[Christ](../christ.md) shall all be made alive**.
 >
 > — 1 Corinthians 15:21-22 (ESV)

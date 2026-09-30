@@ -319,7 +319,7 @@ Paul on the other hand wrote to the Corinthian church:
 
 > Now I commend you because you remember me in everything and maintain the traditions even as I delivered them to you.
 >
-> But I want you to understand that [the head of every man is Christ](https://kingdom.ofgod.info/christ), **the head of a wife is her husband**, and [the head of Christ is God](https://son.ofgod.info/son-of-man/has-a-god).
+> But I want you to understand that [the head of every man is Christ](https://kingdom.ofgod.info/christ), **the head of a wife is her husband**, and [the head of Christ is God](https://son.ofgod.info/human/has-a-god).
 >
 > Every man who prays or prophesies with his head covered dishonors his head, but every wife who prays or prophesies with her head uncovered dishonors her head, since it is the same as if her head were shaven. For if a wife will not cover her head, then she should cut her hair short. But since it is disgraceful for a wife to cut off her hair or shave her head, let her cover her head. For a man ought not to cover his head, since he is the image and glory of God, but woman is the glory of man. **For man was not made from woman, but woman from man. Neither was man created for woman, but woman for man.** That is why a wife ought to have a symbol of authority on her head, because of the angels. Nevertheless, in the Lord **woman is not independent of man nor man of woman**; for as woman was made from man, so man is now born of woman. And all things are from God.
 >
