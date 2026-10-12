@@ -19,52 +19,40 @@ The penalty ([curse](https://eternal.family.net.za/life/curses)) for this [sin](
 
 > "For I have no pleasure in the death of anyone, declares the Lord GOD." — Ezekiel 18:32 (ESV)
 
-God promised that the "Messiah" (often translated as "Christ") would succeed where Adam failed.
+God promised that the "Messiah" (often translated as "Christ") would succeed where Adam failed. Jesus's purpose includes revealing the Father, [representing humanity before Him](#representing-humanity-before-the-father) and [mediating reconciliation](#a-human-mediator).
 
 Therefore, through many centuries, prophecies were collected about this expected Christ.
 
 ## What the Prophets Emphasized
 
-When we compare messianic prophecies, a pattern emerges:
+When we compare [messianic prophecies](https://prophecies.ofgod.info/messianic), a pattern emerges:
 
 ### Suffering Prophecies
 
-1. Psalm 22:1-18 - "My God, my God..." includes pierced hands and feet, thirst, and garments divided
-2. Psalm 16:10 - "You will not abandon my soul to Sheol" (resurrection prophecy)
-3. Psalm 69:21 - "They gave me poison for food, and for my thirst they gave me sour wine"
-4. Isaiah 50:6 - "I gave my back to those who strike, my cheeks to those who pull out the beard"
-5. Isaiah 52:13-53:12 - "Pierced for our transgressions... crushed for our iniquities"
-6. Daniel 9:26 - "Shall be cut off and have nothing"
-7. Zechariah 12:10 - "Him whom they have pierced"
-8. Zechariah 13:7 - "Strike the shepherd, and the sheep will be scattered"
-
-However, most of these suffering/dying prophecies are disputed by Jewish interpreters.
+1. [Psalm 16:10](https://prophecies.ofgod.info/messianic/psalm-16-10.md) - "**not abandon** my soul to Sheol" (resurrection)
+2. [Isaiah 50:6](https://prophecies.ofgod.info/messianic/isaiah-50-6.md) - "I gave my **back** to those who strike, and my **cheeks** to those who pull out the beard"
+3. [Isaiah 52:13-15](https://prophecies.ofgod.info/messianic/isaiah-52-13.md) - "his appearance was so **marred**, beyond human semblance", alongside the servant's exaltation
+4. [Isaiah 53:5](https://prophecies.ofgod.info/messianic/isaiah-53-5.md) - "he was **pierced** for our transgressions; he was **crushed** for our iniquities"
+5. [Daniel 9:26](https://prophecies.ofgod.info/messianic/daniel-9-24.md) - "an anointed one shall be **cut off** and shall have nothing"
 
 ### Reigning Prophecies
 
-In general Christians and most Jews view these prophecies as messianic:
+These passages belong to the Messianic collection:
 
-1. Genesis 49:10 - "The scepter shall not depart from Judah... until tribute comes to him"
+1. [Genesis 49:10](https://prophecies.ofgod.info/messianic/genesis-49-10.md) - "The **scepter** shall not depart from Judah"
 2. Numbers 24:17 - "A star shall come out of Jacob, and a scepter shall rise out of Israel"
-3. Isaiah 9:6-7 - "Of the increase of his GOVERNMENT... no end... over his KINGDOM"
-4. Isaiah 11:1-10 - "He shall judge the poor... righteousness shall be his belt"
-5. Isaiah 42:1-4 - "He will bring forth justice to the nations"
-6. Jeremiah 23:5-6 - "He shall REIGN as king and deal wisely"
-7. Micah 5:2 - "One who is to be RULER in Israel"
-8. Zechariah 9:9 - "Your KING is coming to you"
-9. Zechariah 14:9 - "The LORD will be king over all the earth"
+3. [2 Samuel 7:12-13](https://prophecies.ofgod.info/messianic/2-samuel-7-12.md) - "I will establish the **throne of his kingdom** forever"
+4. [Psalm 2:6-8](https://prophecies.ofgod.info/messianic/psalm-2.md) - "I have set my **King** on Zion"
+5. [Psalm 110:1](https://prophecies.ofgod.info/messianic/psalm-110-1.md) - "**Sit at my right hand**"
+6. [Isaiah 11:1-5](https://prophecies.ofgod.info/messianic/isaiah-11-1.md) - "he shall **judge the poor**"
+7. [Isaiah 42:1-4](https://prophecies.ofgod.info/messianic/isaiah-42-1.md) - "he will bring forth **justice to the nations**"
+8. [Jeremiah 23:5-6](https://prophecies.ofgod.info/messianic/jeremiah-23-5.md) - "he shall **reign as king** and deal wisely"
+9. [Daniel 7:13-14](https://prophecies.ofgod.info/messianic/daniel-7-13.md) - "to him was given **dominion and glory and a kingdom**"
+10. [Micah 5:2](https://prophecies.ofgod.info/messianic/micah-5-2.md) - "one who is to be **ruler in Israel**"
+11. Zechariah 6:12-13 - "Behold, a man whose name is the Branch... he shall build the temple and shall bear royal glory"
+12. [Zechariah 9:9](https://prophecies.ofgod.info/messianic/zechariah-9-9.md) - "your **king** is coming to you"
 
-Christians and only some Jewish groups view these passages as messianic:
-
-10. 2 Samuel 7:12-13 - "I will establish the throne of his KINGDOM forever"
-11. Psalm 2:6-8 - "I have set my KING on Zion... I will make the nations your heritage"
-12. Psalm 110:1-4 - "The LORD says to my Lord: 'Sit at my right hand'"
-13. Daniel 7:13-14 - "To him was given dominion and glory and a KINGDOM... everlasting dominion"
-14. Zechariah 6:12-13 - "Behold, a man whose name is the Branch... he shall build the temple and shall bear royal glory"
-
-Psalms of Solomon 17 (a non-canonical Jewish text) describes the Messiah as a conquering warrior-king, which differs from the Christian understanding of Jesus's first coming.
-
-In general, the Jewish people expected the Messiah primarily to **rule**, not to suffer and die.
+The [reigning passages](#reigning-prophecies) describe royal rule alongside the [suffering and vindication passages](#suffering-prophecies); these lists do not establish a universal Jewish expectation.
 
 ## The Timing of Jesus's Life
 
@@ -86,22 +74,65 @@ After returning from exile, they rebuilt the temple and re-established the Mosai
 
 ## The Purpose of Jesus
 
-That is why it was crucial at that point in time for the promised Christ to come and reveal [God the Father](https://ofgod.info)'s true nature.
+Jesus, the human Son commissioned by [God the Father](https://ofgod.info), came to reveal the Father to humanity and represent humanity before the Father. His obedient life, self-giving death and resurrection are essential to reconciliation, alongside his teaching and [role as King](#the-king).
 
-Jesus came to bear witness **to make God known** (John 1:18, 17:6-8,26; 1 John 4:9-10; Philippians 2:5-11). His sermons like "the Sermon on the Mount" (Matthew 5-7), his demonstration of God's character (John 14), and his [parables](parables.md) like "the Prodigal Son" (Luke 15:11-24) must have been revolutionary to the Jewish people who were used to a legalistic approach to religion (Luke 15:25-32). This was the true purpose of the Gospel.
+### Revealing the Father
+
+Jesus came **to make God the Father known** (John 1:18, 17:6-8,26; 1 John 4:9-10; Philippians 2:5-11). His teaching, including the Sermon on the Mount (Matthew 5-7), and his actions showed the Father's character and will (John 14). His [parables](parables.md), including the Prodigal Son (Luke 15:11-24), illustrated this character.
+
+This is representation from the Father to humanity. It belongs alongside Christ's representation of humanity before the Father, rather than being his sole purpose.
+
+### Representing Humanity Before the Father
+
+Romans 5:18-19 contrasts Adam's disobedience and condemnation with Christ's obedience and the gift of life:
+
+> For as by the one man's **disobedience** the many were made sinners, so by the one man's **obedience** the many will be made righteous. — Rom. 5:19 (ESV)
+
+Paul calls Christ the **last Adam** (1 Corinthians 15:45). Death came through a man, and resurrection also comes through a man, with hope for [those who belong to Christ](#adoption-and-resurrection-hope) (1 Corinthians 15:21-23). Jesus therefore represents humanity before the Father as an obedient human. This is central to [restoring humanity](https://son.ofgod.info/shema/benefits.md#restoring-humanity).
+
+His humanity was real: he experienced hunger (Matthew 4:2), weariness (John 4:6) and suffering without sin or retaliation (1 Peter 2:21-23). These experiences make him a fitting human representative, but sympathy alone does not forgive sins; his obedient self-giving brings people to God.
+
+### A Human Mediator
+
+Scripture distinguishes the one God, the Father, from the appointed human mediator:
+
+> For there is **one God**, and there is **one mediator** between God and men, **the man Christ Jesus**, who gave himself as a **ransom for all**, which is the testimony given at the proper time. — 1 Timothy 2:5-6 (ESV)
+
+This [human mediation](https://son.ofgod.info/shema/benefits.md#a-human-mediator-and-advocate) is more than a title. Christ voluntarily gives his life as a ransom (Matthew 20:28) and suffers for sins to **bring people to God** (1 Peter 3:18). His sacrifice and resurrection are essential to [reconciliation](#the-message-of-reconciliation), not merely secondary to his teaching.
+
+The Father's love initiates reconciliation through his Son (1 John 4:9-10; 2 Corinthians 5:18-19). Christ's offering is not an attempt to make an unwilling Father love humanity. Through faith in the Lord Jesus Christ, believers receive **peace with God** and **access to his grace** (Romans 5:1-2).
+
+### Advocacy and Intercession
+
+Mediation establishes reconciliation and access to the Father. Advocacy addresses believers' sin, while intercession is Christ's continuing appeal on their behalf:
+
+> But if anyone does sin, **we have an advocate with the Father**, **Jesus Christ the righteous**. — 1 John 2:1 (ESV)
+
+His advocacy rests on his righteousness and his sacrifice for sins (1 John 2:1-2), not sympathy alone. This representation continues after resurrection:
+
+> Christ Jesus is the one who died—more than that, who was **raised**—who is at the right hand of God, who indeed is **interceding for us**. — Romans 8:34 (ESV)
+
+The risen Christ therefore continues to [represent believers before the Father](https://son.ofgod.info/shema/benefits.md#a-human-mediator-and-advocate); his service did not end at the crucifixion.
+
+### Adoption and Resurrection Hope
+
+Through Christ, believers receive adoption into [the Father's family](https://son.ofgod.info/shema/benefits.md#humans-in-gods-family). Galatians 4:4-7 and Ephesians 1:5 describe adoption through Jesus Christ; Romans 8:15-17 describes believers as children of the Father and heirs with Christ. Adoption makes them his children, not deities.
+
+Human resurrection is also part of this hope:
+
+> For as **by a man came death**, **by a man has come also the resurrection of the dead**. For as in Adam all die, so also in Christ shall all be made alive. But each in his own order: Christ the firstfruits, then at his coming **those who belong to Christ**. — 1 Cor. 15:21-23 (ESV)
+
+Paul specifies **those who belong to Christ**. These benefits concern believers who receive [access through faith](#a-human-mediator), not automatic salvation for every human.
 
 ### Common Misconceptions
 
-"The Gospel" is often a vague Christian term not well understood by many people. Often people limit "the Gospel" to "repentance and salvation". However, John the Baptist was already preaching it even before Jesus. If Jesus was just another missionary, he would have been redundant and would have had no significant purpose.
+The Gospel should not be reduced to the crucifixion alone, but neither should Christ's sacrifice and resurrection be treated as unimportant.
 
-Many Christians believe that the Gospel is primarily about "the Crucifixion" which refers to Jesus' suffering and death. However, if Jesus' ONLY purpose was to die as a holy sinless sacrifice, we might wonder:
-
-1. Why didn't God allow King Herod to kill him as a baby if his blood would accomplish the same sacrificial purpose? (See Matthew 2:13-18 for Herod episode) Instead God intervened by provision (gifts from the Wise Men - Matthew 2:11) to fund the journey, and by supernaturally warning Joseph in a dream to flee to Egypt (Matthew 2:13-15), protecting Jesus until Herod's death (Matthew 2:19-20).
-2. Why did Jesus spend three years teaching, healing, and training disciples if death was his sole mission?
+Jesus revealed the Father and announced the Kingdom while living the obedient life that culminated in a voluntary ransom (Matthew 20:28). His [mediation](#a-human-mediator) and the [resurrection hope](#adoption-and-resurrection-hope) are essential to that Gospel, not substitutes for his teaching and Kingdom rule.
 
 ## The Gospel of Jesus
 
-While the crucifixion was necessary, it was not the main purpose. Jesus's message was not *"I came to suffer and die for your sins"* but instead it was recorded:
+Jesus's sacrifice and resurrection are essential to [mediation and reconciliation](#a-human-mediator), while the Gospel also announces the Kingdom and reveals the Father. It cannot be reduced to crucifixion alone. Jesus preached:
 
 > "From that time Jesus began to preach, saying, 'Repent, for **[the kingdom of heaven](index.md)** is at hand.'" — Matthew 4:17 (ESV); Mark 1:15
 
@@ -134,13 +165,13 @@ Jesus acknowledged that he was a king, but also made it clear their definitions 
 
 ## The Truth
 
-Jesus could have hidden somewhere until it was time for his sacrifice, but instead he was sent into *"the world"* with the purpose "to bear witness to **the truth**" (Luke 4:43; Mark 1:38).
+Jesus was sent into the world **to bear witness to the truth** (John 18:37) and to proclaim the Kingdom (Luke 4:43; Mark 1:38). This witness belongs to the same mission as his [human representation and obedience](#representing-humanity-before-the-father) and [sacrifice and mediation](#a-human-mediator), rather than making those purposes secondary.
 
 ### The Message of Reconciliation
 
-"The truth" is that Jesus was sent by God to **reconcile humanity with God** (1 Timothy 2:5; Ephesians 2:14-16).
+The Father initiates **reconciliation through Christ** (Ephesians 2:14-16). Christ's role as [human mediator](#a-human-mediator) and his [continuing advocacy and intercession](#advocacy-and-intercession) explain how he represents people before the Father (1 Timothy 2:5-6).
 
-Paul made it clear that the Gospel is the "the message of reconciliation to God":
+Paul describes the Gospel as the message of reconciliation:
 
 > All this is from God, who through Christ reconciled us to Himself and gave us **the ministry of reconciliation**; that is, in Christ, God was reconciling the world to Himself, not counting their trespasses against them, and entrusting to us **the message of reconciliation**. Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, **be reconciled to God**. — 2 Corinthians 5:18-20 (ESV)
 
