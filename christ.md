@@ -29,7 +29,7 @@ When we compare [messianic prophecies](https://prophecies.ofgod.info/messianic),
 
 ### Suffering Prophecies
 
-1. [Psalm 16:10](https://prophecies.ofgod.info/messianic/psalm-16-10.md) - "**not abandon** my soul to Sheol" (resurrection)
+1. [Psalm 16:8-11](https://prophecies.ofgod.info/messianic/psalm-16-10.md) - "**not abandon** my soul to Sheol" (resurrection)
 2. [Isaiah 50:6](https://prophecies.ofgod.info/messianic/isaiah-50-6.md) - "I gave my **back** to those who strike, and my **cheeks** to those who pull out the beard"
 3. [Isaiah 52:13-15](https://prophecies.ofgod.info/messianic/isaiah-52-13.md) - "his appearance was so **marred**, beyond human semblance", alongside the servant's exaltation
 4. [Isaiah 53:5](https://prophecies.ofgod.info/messianic/isaiah-53-5.md) - "he was **pierced** for our transgressions; he was **crushed** for our iniquities"
@@ -41,18 +41,27 @@ These passages belong to the Messianic collection:
 
 1. [Genesis 49:10](https://prophecies.ofgod.info/messianic/genesis-49-10.md) - "The **scepter** shall not depart from Judah"
 2. Numbers 24:17 - "A star shall come out of Jacob, and a scepter shall rise out of Israel"
-3. [2 Samuel 7:12-13](https://prophecies.ofgod.info/messianic/2-samuel-7-12.md) - "I will establish the **throne of his kingdom** forever"
-4. [Psalm 2:6-8](https://prophecies.ofgod.info/messianic/psalm-2.md) - "I have set my **King** on Zion"
-5. [Psalm 110:1](https://prophecies.ofgod.info/messianic/psalm-110-1.md) - "**Sit at my right hand**"
-6. [Isaiah 11:1-5](https://prophecies.ofgod.info/messianic/isaiah-11-1.md) - "he shall **judge the poor**"
+3. [2 Samuel 7:12-16](https://prophecies.ofgod.info/messianic/2-samuel-7-12.md) - "I will establish the **throne of his kingdom** forever"
+4. [Psalm 2](https://prophecies.ofgod.info/messianic/psalm-2.md) - "I have set my **King** on Zion"
+5. [Psalm 110:1-4](https://prophecies.ofgod.info/messianic/psalm-110-1.md) - "**Sit at my right hand**"
+6. [Isaiah 11:1-10](https://prophecies.ofgod.info/messianic/isaiah-11-1.md) - "he shall **judge the poor**"
 7. [Isaiah 42:1-4](https://prophecies.ofgod.info/messianic/isaiah-42-1.md) - "he will bring forth **justice to the nations**"
 8. [Jeremiah 23:5-6](https://prophecies.ofgod.info/messianic/jeremiah-23-5.md) - "he shall **reign as king** and deal wisely"
 9. [Daniel 7:13-14](https://prophecies.ofgod.info/messianic/daniel-7-13.md) - "to him was given **dominion and glory and a kingdom**"
 10. [Micah 5:2](https://prophecies.ofgod.info/messianic/micah-5-2.md) - "one who is to be **ruler in Israel**"
-11. Zechariah 6:12-13 - "Behold, a man whose name is the Branch... he shall build the temple and shall bear royal glory"
-12. [Zechariah 9:9](https://prophecies.ofgod.info/messianic/zechariah-9-9.md) - "your **king** is coming to you"
+11. [Zechariah 9:9-10](https://prophecies.ofgod.info/messianic/zechariah-9-9.md) - "your **king** is coming to you"; verse 10 also describes **peace** and **dominion**
 
 The [reigning passages](#reigning-prophecies) describe royal rule alongside the [suffering and vindication passages](#suffering-prophecies); these lists do not establish a universal Jewish expectation.
+
+### Restoration Prophecies
+
+These [indexed restoration passages](https://prophecies.ofgod.info/messianic.md#messianic-prophecies) are not limited to suffering or kingship. The promises of ending death and establishing a new covenant are the Father's promises connected with the Messiah's mission, not an identification of the Messiah as the Father.
+
+1. [Genesis 3:15](https://prophecies.ofgod.info/messianic/genesis-3-15.md) - Conflict between the **serpent** and the **woman's seed**
+2. [Isaiah 25:8](https://prophecies.ofgod.info/messianic/isaiah-25-8.md) - The Father's promise to **swallow up death forever**
+3. [Isaiah 35:5-6](https://prophecies.ofgod.info/messianic/isaiah-35-5.md) - Promised **healing signs**
+4. [Jeremiah 31:31-34](https://prophecies.ofgod.info/messianic/jeremiah-31-31.md) - A **new covenant**, with the Father's **law written on hearts**
+5. Zechariah 6:12-13 - "Behold, a man whose name is the Branch... he shall build the temple and shall bear royal glory"
 
 ## The Timing of Jesus's Life
 
