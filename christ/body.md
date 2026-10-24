@@ -13,9 +13,9 @@ Paul wrote:
 >
 > There is
 >
-> * **one body and one Spirit** (just as **you were called** to the one hope that belongs to [your call](https://eternal.family.net.za/bible/concepts/calling))
+> * **one body and one Spirit** (just as **you were called** to the one hope that belongs to [your call](https://ofgod.info/calling))
 > * one [Lord](../christ.md),
-> * one [faith](https://eternal.family.net.za/eternal/saved/belief),
+> * one [faith](https://word.ofgod.info/terms/faith),
 > * one [baptism](https://eternal.family.net.za/eternal/saved/baptize),
 > * one God and Father of all, who is over all and through all and in all.
 >
