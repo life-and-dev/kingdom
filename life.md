@@ -5,11 +5,15 @@ keywords: salvation, repentance, baptism, faith, conversion, eternal life, Ezeki
 
 # Life
 
-How does someone receive eternal life? Different biblical passages present this question from unique angles, each shaped by the audience being addressed and what they were missing. By examining what various teachers in the Bible said about salvation, patterns emerge that help paint a clearer picture of what God calls people to do.
-
-We all will die and there is no way around it, but God will also [resurrect the righteous to life](death/judgement.md#the-fate-of-gods-children) so that they will be saved from [total destruction](https://word.ofgod.info/terms/hell). This rescue plan is also known as "salvation", and [we all need it](https://eternal.family.net.za).
+[We all will die](death.md) and there is no way around it. The Bible warns us about God's judgement:
 
 > Do not fear those who kill the body but cannot kill the soul. Rather [fear him who can destroy both soul and body in hell](death/judgement.md#the-fate-of-gods-children). — Matthew 10:28 (ESV)
+
+God will also [resurrect the righteous to life](death/judgement.md#the-fate-of-gods-children) so that they will be saved from [total destruction](https://word.ofgod.info/terms/hell). This rescue plan is also known as "salvation", and [we all need it](death/judgement.md). The question is:
+
+***What must we do be saved?***
+
+Different biblical passages present this question from unique angles, each shaped by the audience being addressed and what they were missing. By examining what various teachers in the Bible said about salvation, patterns emerge that help paint a clearer picture of what God calls people to do.
 
 ## Public Teachings Regarding Salvation
 
@@ -27,7 +31,7 @@ Repentance involves more than an emotional "sorry" feeling. It requires turning 
 
 ### John the Baptist's Teaching
 
-**Audience**: Israelites who had listened to John's preachings. The content of his preaching is not revealed, but we can assume he taught them what ["repentance"](life/repentance.md) and "kingdom" meant. We can also assume that these people already "believed" otherwise John would not have "baptized" them (Matthew 3:7-8).
+**Audience**: Jews who had listened to John's preachings. The content of his preaching is not revealed, but we can assume he taught them what ["repentance"](life/repentance.md) and "kingdom" meant. We can also assume that these people already "believed" otherwise John would not have "baptized" them (Matthew 3:7-8).
 
 > In those days John the Baptist came preaching in the wilderness of Judea, "**[Repent](life/repentance.md)**, for the kingdom of heaven is at hand"
 >
@@ -63,7 +67,7 @@ Repentance involves more than an emotional "sorry" feeling. It requires turning 
 
 **Audience**: A multitude of mixed nations in Jerusalem (Acts 2:5-6)
 
-> "Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified."
+> "Let all the house of Israel therefore know for certain that God has made him both Lord and [Christ](christ.md), this Jesus whom you crucified."
 >
 > Now when they heard this they were cut to the heart, and said to Peter and the rest of the apostles, "Brothers, what shall we do?"
 >

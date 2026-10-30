@@ -113,6 +113,7 @@ There are many examples where God warns and even "curses" (disciplines) people t
 > — Leviticus 26:14-33 (ESV)
 
 Note how the severity of the discipline increases:
+
 1. Panic, disease, oppression by enemies
 2. Humiliation and crop failures
 3. Death of children and livestock
