@@ -7,7 +7,7 @@ keywords: Kingdom of God, Kingdom of Heaven, salvation, righteousness, Jesus Chr
 
 Also known as "the Kingdom of Heaven" according to Matthew.
 
-I used to think the "Kingdom of Heaven" is *[heaven](https://eternal.family.net.za/bible/idioms)*, a Greek mythological place where the gods look down onto the mortals on the earth. After all that is how it was always described in children's bible stories, cartoons and even some Christian movies. However, when I read Jesus' words, I noticed that he described a different type of kingdom.
+I used to think the "Kingdom of Heaven" is *[heaven](https://word.ofgod.info/terms/heaven)*, like [a Greek mythological place](https://church.ofgod.info/myths/heaven) where the angels (or gods) look down onto the mortals on the earth. After all that is how it was always described in children's bible stories, cartoons and even some Christian movies. However, when I read Jesus' words, I noticed that he described a different type of kingdom.
 
 This made me ask many questions like:
 
@@ -25,8 +25,7 @@ It spans across multiple realms:
 
 In the beginning, God created humanity with a specific purpose:
 
-> Then God said, “Let us make man in our image, after our likeness: and **let them have dominion** over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.” **So God created man in His own image**, in the image of God He created him;
-male and female he created them. And God blessed them. And God said to them, “Be fruitful and multiply and **fill the earth and subdue it, and have dominion** over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.” — Genesis 1:26-28 (ESV)
+> Then God said, “Let us make man in our image, after our likeness: and **let them have dominion** over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.” **So God created man in His own image**, in the image of God He created him; male and female he created them. And God blessed them. And God said to them, “Be fruitful and multiply and **fill the earth and subdue it, and have dominion** over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.” — Genesis 1:26-28 (ESV)
 
 and
 
@@ -88,7 +87,7 @@ Paul taught:
 
 and
 
-> To the saints and faithful brothers *[in (with)](https://eternal.family.net.za/bible/translations/differences/en)* Christ at Colossae...
+> To the saints and faithful brothers *[in (with)](https://word.ofgod.info/semantics/en)* Christ at Colossae...
 >
 > And so, from the day we heard, we have not ceased to pray for you, asking that
 >
@@ -111,7 +110,7 @@ and this is how God respond:
 > “Because he holds fast to Me in love,
 >
 > 1. I will **deliver** him;
-> 2. I will **protect** him, because he knows My [name](https://eternal.family.net.za/god/name).
+> 2. I will **protect** him, because he knows [My name](https://ofgod.info/name).
 > 3. When he calls to me, **I will answer** him;
 > 4. I will **be with him** in trouble;
 > 5. I will **rescue him** and honor him.
@@ -255,7 +254,20 @@ According to Paul, Jesus did not replace God, but instead that Jesus acts as a d
 
 ## When is the Kingdom of God?
 
-> Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “**The time is fulfilled, and the kingdom of God is at hand** *[near or has approached]*; [repent](https://eternal.family.net.za/eternal/saved/repent) and [believe in the gospel](https://eternal.family.net.za/eternal/saved/belief).” — Mark 1:14 (ESV)
+In the Old Testament, David already mentioned God's Kingdom:
+
+> Your kingdom **is an everlasting kingdom**, and Your dominion endures throughout all generations. — Psalm 145:13 (ESV)
+
+Note that David used present tense, instead of describing something that still need to happen.
+
+> Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, and saying, “**The time is fulfilled, and the kingdom of God is at hand** *[near or has approached]*; [repent](repentance.md) and [believe](https://word.ofgod.info/terms/faith) in [the gospel](https://word.ofgod.info/terms/gospel).” — Mark 1:14 (ESV)
+
+Jesus later described the Kingdom as having arrived. When he cast out demons by God's Spirit, he said that the Kingdom of God **“has come upon you”** (Matthew 12:28).
+
+Paul also wrote that God had delivered believers from the domain of darkness and transferred them into the Kingdom of His beloved Son (Colossians 1:13). This describes belonging to the Kingdom as a present
+reality.
+
+Christ's present reign, however, does not mean that every enemy has already been defeated. Paul wrote that Christ must reign until all his enemies are under his feet, with the end still to come (1 Corinthians 15:24–25).
 
 ## What is the Kingdom of God?
 
