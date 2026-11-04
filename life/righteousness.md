@@ -184,6 +184,12 @@ Righteousness is therefore not measurable by outward appearances.  According to 
 >
 > — Romans 8:13-17
 
+The call to righteous living comes within a relationship of love and adoption. The Father showed His love by sending His son so that people might have life (1 John 4:9-10).
+
+As a father shows compassion to His children, so the LORD shows compassion to those Who fear Him (Psalm 103:13), not as a dictator, but in awe and respect. God's children do not need to approach Him as though he were an unloving master demanding obedience through fear. Romans contrasts the spirit of slavery that leads back to fear with the Spirit of adoption, by whom believers call God their Father. Their obedience is a response to his love, not a payment that purchases it. “We love because he first loved us” (1 John 4:19).
+
+This relationship does not make righteousness unimportant. Children who love their Father seek to reflect His character, including His love for others (1 John 3:10-11). When believers sin, they are called to confess, trusting that God is faithful and just to forgive and cleanse them (1 John 1:8-9).
+
 How does a person behave that is *"led by the Spirit of God"*?
 
 > But I say, walk by the Spirit, and you **will not gratify the desires of the flesh**. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do.
