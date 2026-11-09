@@ -17,7 +17,7 @@ keywords: Greek afterlife, kingdom of God, resurrection hope, immortal soul, new
 
 The Kingdom of Heaven is [God's everlasting rule](index.md#when-is-the-kingdom-of-god), not a distant place or a physical territory (Psalm 145:13). The God the Father rules from heaven, but His authority extends to earth. Jesus taught his disciples to pray:
 
-> Thy kingdom come. Thy will be done in earth, as it is in **heaven**. — Matthew 6:10 (KJV)
+> Your kingdom come, your will be done, on earth **as it is in [heaven](https://word.ofgod.info/terms/heaven)**. — Matthew 6:10 (ESV)
 
 God the Father has given Jesus authority to rule under Him (Matthew 28:18; 1 Corinthians 15:28). Jesus announced that the Kingdom had drawn near, called people to repent and believe the good news, and demonstrated God's concern through healing and deliverance (Mark 1:14-15; Matthew 4:23).
 
@@ -106,7 +106,7 @@ The promise of righteous judgment also means that wrongdoing is not ignored. The
 
 ### New Earth
 
-God remembers **those who fear Him** and promises to spare them as His treasured possession (Malachi 3:16-18). His people will inherit the earth and live under His care (Psalm 37:9-11; Isaiah 65:21-25).
+God remembers **those who fear Him** and promises to spare them as His treasured possession (Malachi 3:16-18).
 
 God promises new heavens and a new earth that will remain before Him (Isaiah 66:22-23). His children will **live in His presence** and rejoice in His salvation. He will swallow up death and wipe away tears (Isaiah 25:8-9). There will be **no more death, mourning, crying, or pain** (Revelation 21:3-4). Instead, God's people will enjoy fellowship with Him, whose presence brings fullness of joy (Psalm 16:11).
 
@@ -120,15 +120,7 @@ Paul's promise of resurrection explains the hope of **life beyond death**, while
 
 #### The Earth as an Inheritance
 
-The psalmist contrasts those who do evil with those who wait for the LORD:
-
-> For evildoers shall be cut off: but those that wait upon the LORD, they shall **inherit the earth**. For yet a little while, and the wicked shall not be: yea, thou shalt diligently consider his place, and it shall not be. But the meek shall **inherit the earth**; and shall delight themselves in the abundance of peace. — Psalm 37:9-11 (KJV)
-
-> The righteous shall **inherit the land**, and dwell therein for ever. — Psalm 37:29 (KJV)
-
-Jesus echoes this promise when he says that the meek will inherit the earth (Matthew 5:5). The emphasis is not on joining a society of gods, but on receiving an inheritance from God and enjoying peace under his rule.
-
-Isaiah also describes a feast and the removal of death and disgrace:
+Isaiah describes a feast and the removal of death and disgrace:
 
 > And in this mountain shall the LORD of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined. And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations. He will **swallow up death in victory**; and the Lord GOD will **wipe away tears** from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD hath spoken it. And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the LORD; we have waited for him, we will be glad and rejoice in his salvation. — Isaiah 25:6-9 (KJV)
 

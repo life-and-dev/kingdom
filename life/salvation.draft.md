@@ -191,6 +191,8 @@ Naaman returned to Elisha and acknowledged Israel's God. He declared that he wou
 
 > “Behold, I know that there is **no God in all the earth but in Israel**” — 2 Kings 5:15 (ESV)
 
+The difference: a commander from a pagan nation came for a cure and went home bound to the LORD alone.
+
 The washing was for physical healing. The passage does not explicitly identify it as Christian baptism or promise forgiveness of sins or eternal salvation.
 
 ### Ezekiel 18:21-22 — Turn and Live
@@ -203,7 +205,7 @@ The people replied that the way of the LORD was not just (Ezekiel 18:25,29). The
 
 > **Repent** and turn from all your transgressions… For I have no pleasure in the death of anyone… so turn, and live — Ezekiel 18:30-32
 
-Each hearer was called to turn and live.
+Each hearer was called to turn and live. The difference: the proverb that blamed the fathers was answered by an offer of life that depended on the hearer's own turning.
 
 ### Matthew 3:1-6 — Prepare the Way
 
@@ -211,7 +213,7 @@ After about four centuries without a prophet, John appeared in the Judean wilder
 
 > “**Repent**, for the **kingdom of heaven is at hand**.” … Then Jerusalem and all Judea and all the region about the Jordan were going out to him, and they were **baptized** by him in the river Jordan, **confessing their sins**. — Matthew 3:2,5-6 (ESV)
 
-When Pharisees and Sadducees came to his baptism, John called them to “bear fruit in keeping with repentance” and warned of the coming threshing floor (3:7-12). The crowds present where from three regions and publicly admitted their sins, the movement reached the religious leaders, and Jesus himself came to be baptized (3:13-17).
+When Pharisees and Sadducees came to his baptism, John called them to “bear fruit in keeping with repentance” and warned of the coming threshing floor (3:7-12). The crowds present were from three regions and publicly admitted their sins, the movement reached the religious leaders, and Jesus himself came to be baptized (3:13-17). The difference: repentance moved from prophecy to a public crowd at the river, and the one who would baptize with the Spirit stood in the water with the rest.
 
 ### Matthew 4:17; Mark 1:14-15 — The Kingdom at Hand
 
@@ -235,7 +237,7 @@ The sermon ends with the crowds astonished at his authority, unlike the scribes 
 
 After the resurrection, Jesus appeared to the eleven disciples while they were at table. They had not believed the earlier reports from Mary Magdalene and from the two travelers to Emmaus, so he rebuked their unbelief and hardness of heart.
 
-> Afterward he *[Jesus]* appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had **not believed those who saw him after he had risen**. And he said to them, “Go into all the world and proclaim the gospel to the whole creation. **Whoever believes and is baptized will be saved**, but whoever does not believe will be condemned. And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover.” — Mark 16:14-18 (ESV)
+> Afterward he *[Jesus]* appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had **not believed those who saw him after he had risen**. And he said to them, “Go into all the world and proclaim the gospel to the whole creation. **Whoever believes and is baptized will be saved**, but whoever does not believe will be condemned.” — Mark 16:14-16 (ESV)
 
 The Gospel ends with the Lord working with them as they preached everywhere (16:20). The call widened from Israel to the whole creation, and baptism was named as part of the response.
 
@@ -248,7 +250,7 @@ Jesus was passing through Jericho on his way to Jerusalem for his last Passover.
 >
 > — Luke 19:8-10 (ESV)
 
-Before this, the crowd grumbled, “He has gone in to be the guest of a man who is a sinner” (Luke 19:7). Afterward Jesus continued toward Jerusalem and told the parable of the ten minas (19:11-27). No call to repent, be baptized or obey is recorded. Zacchaeus pledged restitution on his own initiative, and Jesus named it salvation. Although repentance is not explicitedly mentioned by Luke, this act of restitution could be a reaction of genuine repetance which is to turn from the usual sinful ways. In this case it was to defraud people, but now he choose to restore fourfold.
+Before this, the crowd grumbled, “He has gone in to be the guest of a man who is a sinner” (Luke 19:7). Afterward Jesus continued toward Jerusalem and told the parable of the ten minas (19:11-27). No call to repent, be baptized or obey is recorded. Zacchaeus pledged restitution on his own initiative, and Jesus named it salvation. Although repentance is not explicitly mentioned by Luke, this act of restitution could be a reaction of genuine repentance, which is to turn from the usual sinful ways. In this case it was to defraud people, but now he chose to restore fourfold. The difference: salvation was announced at a tax collector's table, and the evidence was restitution rather than a ritual.
 
 ### John 3:36 — The Son and Life
 
@@ -271,6 +273,8 @@ Then John addresses the reason why we should belief the Son's testimony, which i
 "Believe" does not mean to blindly accept a paradox. Since the testimony is about a distinct God that sent His messenger, it is very unlikely that John intended his readers to understand that they needed to belief "in" God's messenger (the Son) as their supreme God.
 
 ["Believe" means to trust.](https://word.ofgod.info/terms/faith) In this case trust the Son's testimony and his commands that we should obey.
+
+The difference: John's last recorded word placed life and wrath on how a hearer responded to the Son, not on ancestry or ritual.
 
 ### John 4:39-42 — Jesus is the Christ
 
@@ -397,7 +401,7 @@ The crowds paid attention to Philip because of the signs he did: unclean spirits
 
 An angel told Philip to go south on the desert road from Jerusalem to Gaza. There he met an Ethiopian eunuch, a court official in charge of the treasury of Candace, queen of the Ethiopians. The man had been to Jerusalem to worship and was reading Isaiah aloud.
 
-> “Then Philip opened his mouth, and beginning with this Scripture he told him the **good news about Jesus**.” … “And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him.” — Acts 8:35, 38 (ESV)
+> “Then Philip opened his mouth, and **beginning with this Scripture** he told him the good news about Jesus.” … “And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him.” — Acts 8:35, 38 (ESV)
 
 > “And the eunuch saw him no more, and **went on his way rejoicing**.” — Acts 8:39 (ESV)
 
