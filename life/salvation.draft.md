@@ -27,12 +27,7 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 | Scripture                                                                   | Agent                           | Audience                                                 | Plan | Kingdom | Judgement | Jesus=God | Repent | Risen | Baptize | Obey |
 | --------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------- | ---- | ------- | --------- | --------- | ------ | ----- | ------- | ---- |
-| [Ezekiel 18:21-22](#ezekiel-1821-22--turn-and-live)                         | God the Father, through Ezekiel | Israel                                                   | -    | -       | -         | -         | Yes    | -     | -       | -    |
-| [Matthew 3:1-6](#matthew-31-6--prepare-the-way)                             | John the Baptist                | People from Jerusalem, Judea and the Jordan region       | -    | Yes     | -         | -         | Yes    | -     | -       | -    |
-| [Matthew 4:17; Mark 1:14-15](#matthew-417-mark-114-15--the-kingdom-at-hand) | Jesus                           | Galilean hearers                                         | -    | Yes     | -         | -         | Yes    | -     | -       | -    |
-| [Matthew 7:13-29](#matthew-713-29--the-narrow-gate)                         | Jesus                           | Disciples and crowds                                     | -    | Yes     | Yes       | -         | -      | -     | -       | Yes  |
 | [Mark 16:14-16](#mark-1614-16--believe-and-be-baptized)                     | Risen Jesus                     | Eleven disciples, commissioned to preach to all creation | -    | -       | -         | -         | -      | Yes   | Yes     | -    |
-| [Luke 19:1-10](#luke-191-10--seek-and-save-the-lost)                        | Jesus                           | Zacchaeus                                                | -    | -       | -         | -         | Assume | -     | -       | -    |
 | [John 3:36](#john-336--the-son-and-life)                                    | John the Baptist                | His disciples                                            | -    | -       | -         | -         | -      | -     | -       | Yes  |
 | [John 5:21-26](#john-521-26--life-from-the-son)                             | Jesus                           | Jewish hearers                                           | -    | -       | -         | -         | -      | -     | -       | -    |
 | [John 6:35](#john-635--the-bread-of-life)                                   | Jesus                           | Crowd                                                    | -    | -       | -         | -         | -      | -     | -       | -    |
@@ -69,9 +64,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 | Scripture                                                  | Audience                                     | Reaction                                             | Confess | Baptized  | Jesus=God |
 | ---------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- | ------- | --------- | --------- |
-| [Numbers 14:19-20](#numbers-1419-20--moses-intercedes)     | -                                            | -                                                    | -       | -         | -         |
-| [2 Kings 5:1-19](#2-kings-51-19-naaman-is-healed)          | Naaman                                       | Washed, acknowledged YHWH, pledged exclusive worship | Yes     | Debatable | -         |
-| [Matthew 3:1-6](#matthew-31-6--prepare-the-way)            | -                                            | Yes                                                  | Yes     | -         | -         |
 | [Luke 19:8-10](#luke-191-10--seek-and-save-the-lost)       | Pledged to give and restore                  | -                                                    | -       | -         | -         |
 | [John 8:30](#john-812-30--the-light-of-the-world)          | -                                            | -                                                    | -       | -         | -         |
 | [Acts 2:40-47](#acts-25-47--pentecost)                     | Devoted themselves to the apostles' teaching | -                                                    | Yes     | -         | -         |
@@ -85,196 +77,9 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 | [Acts 16:29-34](#acts-1625-34--what-must-i-do-to-be-saved) | Jailer rejoiced                              | -                                                    | Yes     | -         | -         |
 | [Acts 17:32-34](#acts-1716-34--the-unknown-god)            | Joined Paul                                  | -                                                    | -       | -         | -         |
 
-## Salvation Before Christ
-
-### Moses' Teaching
-
-Moses taught Israel to love the Father and obey his commands:
-
-> Hear, O Israel: The LORD our God, the LORD is one. You shall **love the LORD your God** with all your heart and with all your soul and with all your might. — Deuteronomy 6:4-5 (ESV)
-
-Hebrew אָהַב (’ahav) means love, including affection. Here it calls for wholehearted inward devotion expressed in loyalty, service and obedience (Deuteronomy 11:1), not forced romantic feelings or mere outward compliance.
-
->And now, Israel, what does the LORD your God require of you, but
->
-> - to fear the LORD your God,
-> - to walk in all His ways,
-> - to love him,
-> - to serve the LORD your God with all your heart and with all your soul, and
-> - to keep the commandments and statutes of the LORD,
->
-> which I am commanding you today for your good? — Deuteronomy 10:12-13
-
-In the book of Leviticus it is also written:
-
-> You shall therefore **keep My statutes and My rules**; if a person does them, he shall **live** by them: I am the LORD. — Leviticus 18:5 (ESV)
-
-Moses also spoke of Israel returning after being scattered, and of the Father restoring its fortunes:
-
-> and **return to the LORD your God**, you and your children, and **obey His voice** in all that I command you today, with all your heart and with all your soul, then the LORD your God will **restore your fortunes** and have mercy on you, and he will gather you again from all the peoples where the LORD your God has scattered you. — Deuteronomy 30:2-3 (ESV)
-
-> [!NOTE]
-> These few verses do not establish that forgiveness is earned by obedience.
-
-Isaiah calles for a restored relationship with the LORD by using intimite terms like "seek", "call". This is only possible if the wicked respond by forsaking his sinful way and to return to the the LORD:
-
-> “**Seek the LORD** while He may be found;  
-> **call upon Him** while he is near;  
-> let the wicked **forsake his way**, and the unrighteous man his thoughts;
-> let him **return to the LORD**, that He may have compassion on him,
-> and to our God for He will abundantly **pardon**.
->
-> — Isaiah 55:6-7 (ESV)
-
-### Paul's Interpretation
-
-Paul cites Abraham and David when discussing [faith](https://word.ofgod.info/terms/faith), [righteousness](righteousness.md) and [forgiveness](https://word.ofgod.info/terms/forgiveness) apart from works (Romans 4:1-8). He also connects the Father's passing over former sins with Jesus' death:
-
-> This was to show God’s righteousness, because in His divine forbearance He had **passed over former sins**. — Romans 3:25 (ESV)
-
-Paul's explanation does not establish that Abraham, David or other earlier believers knew the later details of Jesus' death and resurrection.
-
-### Examples Before Christ
-
-#### Abraham
-
-Abraham trusted the Father, and his faith was counted as [righteousness](righteousness.md):
-
-> And he **believed** the LORD, and he counted it to him as **righteousness**. — Genesis 15:6 (ESV)
-
-It does not say because Abraham obeyed X, there he was saved. Instead Abraham, believed the LORD. [Believe means to trust the LORD.](https://word.ofgod.info/terms/faith). Trust is proven in action. Abraham had to make many significant sacrifices by trusting the LORD and that was counted as right-standing-with-God (righteousness). This is not a new concept the Paul invented.
-
-In Genesis 15:1-6, the LORD promised Abraham an heir from his own body and offspring as numerous as the stars. Abraham believed the LORD's promise, and his belief was counted as righteousness. The passage does not describe confession of sins, Christian baptism, or an explicit call to believe that God raised Jesus from the dead.
-
-Paul later cites Genesis 15:6 to explain that Abraham's faith was counted as righteousness, not as wages earned by works (Romans 4:1-5). Paul describes Abraham's trust in God's promise and applies the account to those who believe in God, who raised Jesus from the dead (Romans 4:18-25). This later application does not make belief in Jesus' resurrection the explicit subject of the Genesis account.
-
-James also cites Genesis 15:6, referring to Abraham's later offering of Isaac as an example of faith active with works (James 2:21-23; Genesis 22:1-18). James's interpretation connects the earlier statement about righteousness with Abraham's later action; Genesis 15 itself records Abraham's belief, not the offering of Isaac.
-
-#### David
-
-David had taken Bathsheba and arranged the death of her husband Uriah. Nathan told him a parable about a poor man's lamb. David burned with anger and judged the rich man, and Nathan answered, “You are the man” (2 Samuel 12:1-7). Nathan then announced that the sword would not depart from David's house.
-
-> David said to Nathan, “I have **sinned** against the LORD.”  
-> And Nathan said to David, “The LORD also has **put away your sin**; you shall not die.”
->
-> — 2 Samuel 12:13 (ESV)
-
-The child born of the adultery still died, and trouble stayed in David's house (12:14-23). The confession brought forgiveness, but it did not remove the consequences.
-
-The psalm is titled “A Maskil of David.” It describes the weight of unconfessed sin and the relief that followed confession. It has long been read alongside David's sin with Bathsheba, though the psalm itself does not name the event.
-
-> I acknowledged my sin to you, and I did not cover my iniquity; I said, “I will **confess** my transgressions to the LORD,” and you **forgave** the iniquity of my sin. — Psalm 32:5 (ESV)
-
-The psalm then turns to instruction: the LORD promises to guide the one who trusts Him, and steadfast love surrounds him (Psalm 32:6-11). The confession is met with forgiveness, and the psalm becomes a lesson for others.
-
 ## Context Details
 
 The sections below cover the passages in both [tables](#summaries). Where a response continues the same scene, the request and the response share one sub-section.
-
-### Numbers 14:19-20 — Moses Intercedes
-
-After the spies brought back a fearful report, the people refused to enter Canaan and talked of choosing a new leader to take them back to Egypt (Numbers 14:1-4). The Father threatened to destroy them and make Moses a greater nation. Moses pleaded instead for the honor of the Father's name and for his steadfast love.
-
-> “Please **pardon the iniquity of this people**, according to the greatness of your **steadfast love**, just as you have forgiven this people, from Egypt until now.” Then the LORD said, “I have **pardoned**, according to your word.” — Numbers 14:19-20 (ESV)
-
-The pardon spared the nation, but the adults who had refused still died in the wilderness. Only Caleb and Joshua entered the land (Numbers 14:20-38).
-
-### 2 Kings 5:1-19 Naaman Is Healed
-
-Naaman, a Syrian commander, had leprosy. Elisha sent a messenger instructing him to wash seven times in the Jordan so that his flesh would be restored and he would be clean (2 Kings 5:1-10).
-
-Naaman initially went away angry, expecting Elisha to come out and call on the name of the LORD. His servants persuaded him to follow the instruction. He dipped seven times in the Jordan, and his flesh was restored (2 Kings 5:11-14).
-
-> So he went down and **dipped himself seven times in the Jordan**, according to the word of the man of God, and his flesh was **restored** like the flesh of a little child, and he was clean. — 2 Kings 5:14 (ESV)
-
-Naaman returned to Elisha and acknowledged Israel's God. He declared that he would no longer offer sacrifices to other gods, but only to the LORD (2 Kings 5:15-17).
-
-> “Behold, I know that there is **no God in all the earth but in Israel**” — 2 Kings 5:15 (ESV)
-
-The difference: a commander from a pagan nation came for a cure and went home bound to the LORD alone.
-
-The washing was for physical healing. The passage does not explicitly identify it as Christian baptism or promise forgiveness of sins or eternal salvation.
-
-### Ezekiel 18:21-22 — Turn and Live
-
-Ezekiel was a priest among the exiles in Babylon. The people were quoting a proverb that fathers ate sour grapes and the children's teeth were set on edge, blaming earlier generations for the exile. The Father answered through Ezekiel that each person answers for his own conduct.
-
-> But if a wicked person **turns away from all his sins** that he has committed and keeps all my statutes and does what is just and right, he shall surely **live**; he shall not die. None of the transgressions that he has committed shall be remembered against him; for the righteousness that he has done he shall live. — Ezekiel 18:21-22 (ESV)
-
-The people replied that the way of the LORD was not just (Ezekiel 18:25,29). Then the chapter ends with the same appeal:
-
-> **Repent** and turn from all your transgressions… For I have no pleasure in the death of anyone… so turn, and live — Ezekiel 18:30-32
-
-Each hearer was called to turn and live. The difference: the proverb that blamed the fathers was answered by an offer of life that depended on the hearer's own turning.
-
-### Matthew 3:1-6 — Prepare the Way
-
-After about four centuries without a prophet, John appeared in the Judean wilderness by the Jordan. His clothing and diet marked him as a prophet, and he came to prepare Israel for the Lord, as Isaiah had foretold.
-
-> “**Repent**, for the **kingdom of heaven is at hand**.” … Then Jerusalem and all Judea and all the region about the Jordan were going out to him, and they were **baptized** by him in the river Jordan, **confessing their sins**. — Matthew 3:2,5-6 (ESV)
-
-When Pharisees and Sadducees came to his baptism, John called them to “bear fruit in keeping with repentance” and warned of the coming threshing floor (3:7-12). The crowds present were from three regions and publicly admitted their sins, the movement reached the religious leaders, and Jesus himself came to be baptized (3:13-17). The difference: repentance moved from prophecy to a public crowd at the river, and the one who would baptize with the Spirit stood in the water with the rest.
-
-### Matthew 4:17; Mark 1:14-15 — The Kingdom at Hand
-
-After Jesus' baptism and temptation, he heard that John had been arrested. He withdrew to Galilee and made Capernaum his base, fulfilling Isaiah's word about light dawning on Zebulun and Naphtali (4:12-16).
-
-> “**Repent**, for the **kingdom of heaven is at hand**.” — Matthew 4:17 (ESV)
-
-> “The time is fulfilled, and the **kingdom of God is at hand**; **repent** and **believe in the gospel**.” — Mark 1:14-15 (ESV)
-
-Mark adds that Jesus came into Galilee “proclaiming the gospel of God.” He at once called Peter, Andrew, James and John from their nets (4:18-22), taught in the synagogues, healed the sick, and great crowds followed from Galilee, Decapolis, Jerusalem, Judea and beyond the Jordan (4:23-25). John's call continued, but now the kingdom was announced by the one who would rule it, and the call moved from the desert to the towns.
-
-### Matthew 7:13-29 — The Narrow Gate
-
-Jesus closed the Sermon on the Mount on a hillside in Galilee. He had just taught about prayer, money and judging others. The disciples sat closest, and the crowds listened below.
-
-> “Enter by the **narrow gate**. For the gate is wide and the way is easy that leads to **destruction**, and those who enter by it are many. For the gate is narrow and the way is hard that leads to **life**, and those who find it are few.” … “Not everyone who says to me, ‘Lord, Lord,’ will enter the **kingdom of heaven**, but the one who **does the will of my Father** who is in heaven.” … “Everyone then who **hears these words of mine and does them** will be like a wise man who built his house on the rock.” — Matthew 7:13-14, 21, 24 (ESV)
-
-The sermon ends with the crowds astonished at his authority, unlike the scribes (7:28-29). The sermon closes not with comfort but with a test. Hearing was not enough. The hearer had to obey. The judgement named here is the destruction at the wide gate and the “I never knew you” of Matthew 7:23.
-
-### Mark 16:14-16 — Believe and Be Baptized
-
-After the resurrection, Jesus appeared to the eleven disciples while they were at table. They had not believed the earlier reports from Mary Magdalene and from the two travelers to Emmaus, so he rebuked their unbelief and hardness of heart.
-
-> Afterward he *[Jesus]* appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had **not believed those who saw him after he had risen**. And he said to them, “Go into all the world and proclaim the gospel to the whole creation. **Whoever believes and is baptized will be saved**, but whoever does not believe will be condemned.” — Mark 16:14-16 (ESV)
-
-The Gospel ends with the Lord working with them as they preached everywhere (16:20). The call widened from Israel to the whole creation, and baptism was named as part of the response.
-
-### Luke 19:1-10 — Seek and Save the Lost
-
-Jesus was passing through Jericho on his way to Jerusalem for his last Passover. Zacchaeus was a chief tax collector, rich and disliked, and too short to see over the crowd, so he climbed a sycamore tree.
-
-> And Zacchaeus stood and said to the Lord, “Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold.”  
-> And Jesus said to him, “Today **salvation** has come to this house, since he also is a son of Abraham. For the Son of Man came to **seek and to save** the lost.”
->
-> — Luke 19:8-10 (ESV)
-
-Before this, the crowd grumbled, “He has gone in to be the guest of a man who is a sinner” (Luke 19:7). Afterward Jesus continued toward Jerusalem and told the parable of the ten minas (19:11-27). No call to repent, be baptized or obey is recorded. Zacchaeus pledged restitution on his own initiative, and Jesus named it salvation. Although repentance is not explicitly mentioned by Luke, this act of restitution could be a reaction of genuine repentance, which is to turn from the usual sinful ways. In this case it was to defraud people, but now he chose to restore fourfold. The difference: salvation was announced at a tax collector's table, and the evidence was restitution rather than a ritual.
-
-### John 3:36 — The Son and Life
-
-This is John the Baptist's last recorded testimony. His disciples were arguing about purification with a Jew and were jealous that crowds were leaving John for Jesus, who was baptizing in the Judean countryside (John 3:22-26). John answered that a man can receive only what is given from God ([heaven](https://word.ofgod.info/terms/heaven)), that he is the friend of the bridegroom, and that Jesus must increase (John 3:27-30). Then John wrote:
-
-> Whoever receives **his testimony sets his seal to this, that God is true**. For [he whom God has sent utters the words of God](https://son.ofgod.info/shema/agency), for He *[God]* gives *the Spirit* without measure. The Father loves the Son and has given all things into his hand. **Whoever believes** in the Son **has eternal life**; **whoever does not obey** the Son shall not see life, but the **wrath of God** remains on him. — John 3:33-36 (ESV)
-
-John explains [biblical agency](https://son.ofgod.info/shema/agency). God is the source of all things. His agent "utters the words of God". What is this important testimony?
-
-> that God is true.
-
-> [!NOTE]
-> There is a textual variant regarding "he gives the Spirit without measure."
->
-> "he" is read in some manuscripts as “God.” A(02) D(05) Latin(a d) BYZ TR.
-> "the Spirit" is absent from the B(03) manuscript. John more likely meant that God gives all words through the Son, rather than giving the Spirit which is a different matter from this context. Either interpretation could be correct as God also provides his words through His Spirit.
-
-Then John addresses the reason why we should belief the Son's testimony, which is that "the Father loves the Son" and "the Father has given all things into his hand" shows that the Father trusts him, therefore we too should trust him.
-
-"Believe" does not mean to blindly accept a paradox. Since the testimony is about a distinct God that sent His messenger, it is very unlikely that John intended his readers to understand that they needed to belief "in" God's messenger (the Son) as their supreme God.
-
-["Believe" means to trust.](https://word.ofgod.info/terms/faith) In this case trust the Son's testimony and his commands that we should obey.
-
-The difference: John's last recorded word placed life and wrath on how a hearer responded to the Son, not on ancestry or ritual.
 
 ### John 4:39-42 — Jesus is the Christ
 
