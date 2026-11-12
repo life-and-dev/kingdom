@@ -27,9 +27,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 | Scripture                                                                   | Agent                           | Audience                                                 | Plan | Kingdom | Judgement | Jesus=God | Repent | Risen | Baptize | Obey |
 | --------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------- | ---- | ------- | --------- | --------- | ------ | ----- | ------- | ---- |
-| [Mark 16:14-16](#mark-1614-16--believe-and-be-baptized)                     | Risen Jesus                     | Eleven disciples, commissioned to preach to all creation | -    | -       | -         | -         | -      | Yes   | Yes     | -    |
-| [John 3:36](#john-336--the-son-and-life)                                    | John the Baptist                | His disciples                                            | -    | -       | -         | -         | -      | -     | -       | Yes  |
-| [John 5:21-26](#john-521-26--life-from-the-son)                             | Jesus                           | Jewish hearers                                           | -    | -       | -         | -         | -      | -     | -       | -    |
 | [John 6:35](#john-635--the-bread-of-life)                                   | Jesus                           | Crowd                                                    | -    | -       | -         | -         | -      | -     | -       | -    |
 | [John 8:12-30](#john-812-30--the-light-of-the-world)                        | Jesus                           | Jewish hearers                                           | -    | -       | -         | -         | -      | -     | -       | -    |
 | [John 10:10](#john-1010--life-abundantly)                                   | Jesus                           | Jewish hearers                                           | -    | -       | -         | -         | -      | -     | -       | -    |
@@ -64,7 +61,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 | Scripture                                                  | Audience                                     | Reaction                                             | Confess | Baptized  | Jesus=God |
 | ---------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- | ------- | --------- | --------- |
-| [Luke 19:8-10](#luke-191-10--seek-and-save-the-lost)       | Pledged to give and restore                  | -                                                    | -       | -         | -         |
 | [John 8:30](#john-812-30--the-light-of-the-world)          | -                                            | -                                                    | -       | -         | -         |
 | [Acts 2:40-47](#acts-25-47--pentecost)                     | Devoted themselves to the apostles' teaching | -                                                    | Yes     | -         | -         |
 | [Acts 4:4](#acts-311-26-44--times-of-refreshing)           | -                                            | -                                                    | -       | -         | -         |
@@ -80,31 +76,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 ## Context Details
 
 The sections below cover the passages in both [tables](#summaries). Where a response continues the same scene, the request and the response share one sub-section.
-
-### John 4:39-42 — Jesus is the Christ
-
-Jesus was traveling from Judea to Galilee and chose the road through Samaria. At Jacob's well near Sychar he sat alone while the disciples went to buy food. A Samaritan woman came at noon, and he asked her for a drink. Jesus exposed her five marriages, taught that worship would not be tied to a mountain, and said, “I who speak to you am he” (John 4:25-26). She told the town, and many Samaritans responded:
-
-> Many Samaritans from that town **believed in him** because of the woman’s testimony, “He told me all that I ever did.”
->
-> So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days. And **many more believed because of his word**.
->
-> They said to the woman, “It is no longer because of what you said that **we believe**, for we have heard for ourselves, and we know that this is indeed *[truly the Christ]* the Savior of the world.”
->
-> — John 4:39-42 (ESV + addition)
-
-> [!NOTE]
-> The manuscripts of A(02) D(05) Latin(d e) BYZ TR includes "truly the Christ" while other omits it. Since Jesus told the woman that he is the Christ (Messiah) at John 4:25-26 and that is what she told the town, it is very likely that they too believed that Jesus is the Christ.
-
-Either way it implies that the Samaritans trusted that Jesus would save the world.
-
-### John 5:21-26 — Life from the Son
-
-Jesus was in Jerusalem for a feast. He had healed a man lame for thirty-eight years at the pool of Bethesda, and he did it on the Sabbath. The Jewish leaders began to persecute him, and he answered that his Father was still working (John 5:1-18).
-
-> “For as the Father **raises the dead and gives them life**, so also the Son **gives life** to whom he will.” … “Truly, truly, I say to you, whoever **hears my word** and **believes Him who sent me** has **eternal life**.” — John 5:21, 24 (ESV)
-
-Jesus went on to describe the Son's authority, then named John the Baptist, his own works, the Father and the Scriptures as witnesses, and said Moses would accuse them (John 5:30-47). A Sabbath healing became a claim to give life, and the leaders' opposition hardened. No call is recorded because the passage describes the gift rather than issuing a command.
 
 ### John 6:35 — The Bread of Life
 

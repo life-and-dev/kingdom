@@ -72,12 +72,14 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Laws` a call to love God by obeying His laws or the commands from the Father given by His Son.
 > - `Christ` a call to trust ([belief](https://word.ofgod.info/terms/faith)) that God will/has risen [Christ](../christ.md) and to honor him or to submit under the his authority
 
-| Scripture                                                        | Agent            | Audience  | Plan | Kingdom | Resurrection | Judgement | Jesus=God | Repent | Baptize | Laws | Christ    |
-| ---------------------------------------------------------------- | ---------------- | --------- | ---- | ------- | ------------ | --------- | --------- | ------ | ------- | ---- | --------- |
-| [Ezekiel 18:21-22](#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel    | -    | -       | Yes          | Yes       | -         | Yes    | -       | Yes  | -         |
-| [Matthew 3:5-12; John 3:33-36](#matthew-35-12-john-333-36-judea) | John the Baptist | Judea     | -    | -       | -            | Yes       | -         | Yes    | Yes     | -    | Yes       |
-| [Matthew 4-7](#matthew-4-7-galilee)                              | Jesus            | Galilee   | -    | Yes     | -            | Yes       | -         | Yes    | Yes     | Yes  | Debatable |
-| [Mark 16:14-16](#mark-1614-16-disciples)                         | Jesus            | Disciples | -    | -       | Yes          | Yes       | -         | -      | Yes     | -    | Yes       |
+| Scripture                                                        | Agent            | Audience       | Plan | Kingdom | Resurrection | Judgement | Jesus=God | Repent | Baptize | Laws | Christ    |
+| ---------------------------------------------------------------- | ---------------- | -------------- | ---- | ------- | ------------ | --------- | --------- | ------ | ------- | ---- | --------- |
+| [Ezekiel 18:21-22](#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel         | -    | -       | Yes          | Yes       | -         | Yes    | -       | Yes  | -         |
+| [Matthew 3:5-12; John 3:33-36](#matthew-35-12-john-333-36-judea) | John the Baptist | Judea          | -    | -       | -            | Yes       | -         | Yes    | Yes     | -    | Yes       |
+| [Matthew 4-7](#matthew-4-7-galilee)                              | Jesus            | Galilee        | -    | Yes     | -            | Yes       | -         | Yes    | Yes     | Yes  | Debatable |
+| [Mark 16:14-16](#mark-1614-16-disciples)                         | Jesus            | Disciples      | -    | -       | Yes          | Yes       | -         | -      | Yes     | -    | Yes       |
+| [John 4:39-42](#john-439-42-samaritans)                          | Jesus            | Samaritans     | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
+| [John 5:21-26](#john-521-26-jewish-leaders)                      | Jesus            | Jewish leaders | -    | -       | Yes          | Yes       | -         | -      | -       | -    | Yes       |
 
 ### Salvation Response
 
@@ -258,6 +260,39 @@ Jesus entered Jericho and was passing through. Zacchaeus, a chief tax collector 
 > — Luke 19:7-10 (ESV)
 
 His response turned away from taking from people and toward giving and making restitution. Luke does not record a separate spoken command to repent, but instead, he shows Zacchaeus's conversion through his joyful welcome of Jesus and the concrete changes he declared. Therefore was can assume Zacchaeus repented. Jesus then announced that salvation had come to Zacchaeus's house.
+
+### John 4:39-42 (Samaritans)
+
+Jesus was traveling from Judea to Galilee and chose the road through Samaria. At Jacob's well near Sychar he sat alone while the disciples went to buy food. A Samaritan woman came at noon, and he asked her for a drink. Jesus exposed her five marriages, taught that worship would not be tied to a mountain, and said, “I who speak to you am he” (John 4:26). She told the town, and many Samaritans responded:
+
+> Many Samaritans from that town **believed in him** because of the woman’s testimony, “He told me all that I ever did.”
+>
+> So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days. And **many more believed because of his word**.
+>
+> They said to the woman, “It is no longer because of what you said that **we believe**, for we have heard for ourselves, and we know that this is indeed *[truly the Christ]* the Savior of the world.”
+>
+> — John 4:39-42 (ESV)
+
+> [!NOTE]
+> The manuscripts of A(02) D(05) Latin(d e) BYZ TR includes "truly the Christ" while other omits it. Compare for example with KJV. Either way it implies that the Samaritans trusted that Jesus would save the world as the Christ (John 4:25-26).
+
+There is not much recorded about the Jesus ministry in Samaria besides that he stayed with them for 2 days.
+
+### John 5:21-26 (Jewish Leaders)
+
+Jesus was in Jerusalem for a feast. He had healed a man lame for thirty-eight years at the pool of Bethesda, and he did it on the Sabbath. The Jewish leaders began to persecute him, and he answered that his Father was still working (John 5:1-18).
+
+> So Jesus said to them, “Truly, truly, I say to you, [the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father does, that the Son does likewise.](https://son.ofgod.info/shema/agency) For the Father loves the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel. For as **the Father raises the dead and gives them life**, so also the Son gives life to whom he will. For **the Father judges no one, but has given all judgment to the Son, that all may honor the Son, just as they honor the Father**. **Whoever does not honor the Son does not honor the Father Who sent him.**
+>
+> Truly, truly, I say to you, **whoever hears my word and believes Him Who sent me has eternal life**. He does not come into **judgment**, but has passed from death to life.
+>
+> Truly, truly, I say to you, an hour is coming, and is now here, when **the dead will hear the voice of the Son of God, and those who hear will live**. For as the Father has life in himself, so he has granted the Son also to have life in himself. And he has given him authority to execute **judgment**, because he is the Son of Man. Do not marvel at this, for an hour is coming when all who are in **the tombs will hear his voice and come out**, those who have done good to **the resurrection of life**, and those who have done evil to **the resurrection of judgment**.
+>
+> I can do nothing on my own. As I hear, I judge, and my judgment is just, because [I seek not my own will but the will of Him who sent me](https://son.ofgod.info/shema/agency).
+>
+> — John 5:19-30 (ESV)
+
+Jesus went on to name John the Baptist, his own works, the Father and the Scriptures as witnesses, and said Moses would accuse them (John 5:30-47). A Sabbath healing became a claim to give life, and the leaders' opposition hardened. No explicit call is recorded because the passage describes Jesus explanation of God's delegated authority rather than issuing a command.
 
 ## Examples after Christ
 

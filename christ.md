@@ -5,23 +5,11 @@ keywords: Jesus Christ, Messiah, Kingdom of God, Gospel of the Kingdom, reconcil
 
 # Christ
 
-The "LORD" (also known as [Yahweh or Jehovah](https://ofgod.info/name#yhwh)) God originally [created our world](https://eternal.family.net.za/creation) to be very good (Genesis 1:31).
+["Christ"](https://kingdom.ofgod.info/christ) is the Greek form of "Messiah" as explained by John himself (John 1:41, 4:25). Messiah is an English translation of the Hebrew word [mashiyach](https://biblehub.com/hebrew/4899.htm) pronounced mah-shee'-akh. Both Christ and Messiah means **the annointed one**.
 
-> And [the LORD](https://ofgod.info/name#lord) [God](https://ofgod.info) planted a garden in Eden, in the east, and there he put [the man whom he had formed](https://eternal.family.net.za/creation/human). And out of the ground the [LORD](https://ofgod.info/name#yhwh) God made to spring up every tree that is pleasant to the sight and good for food. — Genesis 2:8-9 (ESV)
+> As for the word that He sent to Israel, preaching good news of peace through Jesus **Christ** (he is Lord of all), you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed: how **God anointed Jesus** of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, **for God was with him**. — Acts 10:36-38 (ESV)
 
-The [LORD](https://ofgod.info/name#yhwh) GOD commanded:
-
-> "You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall **not** eat, for in the day that you eat of it you shall surely die." — Genesis 2:16-17 (ESV)
-
-Unfortunately God's enemy decided to take his revenge on God's creation by deceiving the woman (1 Timothy 2:14) who then gave the forbidden fruit to her husband (Genesis 3:6), Adam, who chose to rather obey his wife than God (Genesis 3:17).
-
-The penalty ([curse](https://eternal.family.net.za/life/curses)) for this [sin](https://eternal.family.net.za/bible/concepts/sin) was pain (Genesis 3:16), hard labour (Genesis 3:17-19), and a limited lifespan (Genesis 3:19) which means death came to all humanity (Romans 5:12). However, as the Prophet Ezekiel recorded God's words:
-
-> "For I have no pleasure in the death of anyone, declares the Lord GOD." — Ezekiel 18:32 (ESV)
-
-God promised that the "Messiah" (often translated as "Christ") would succeed where Adam failed. Jesus's purpose includes revealing the Father, [representing humanity before Him](#representing-humanity-before-the-father) and [mediating reconciliation](#a-human-mediator).
-
-Therefore, through many centuries, prophecies were collected about this expected Christ.
+To be anointed as the king, prophet, saviour and so forth, you need a superior authority. In Jesus' case this superior authority is God Himself. Peter explains that as God's anointed, [Jesus act on behalf of God](https://son.ofgod.info/shema/agency) with His power, for example he was able to heal those oppressed by the devil. Then Peter explains, this is possible because "God was with him".
 
 ## What the Prophets Emphasized
 
@@ -61,7 +49,7 @@ These [indexed restoration passages](https://prophecies.ofgod.info/messianic.md#
 2. [Isaiah 25:8](https://prophecies.ofgod.info/messianic/isaiah-25-8.md) - The Father's promise to **swallow up death forever**
 3. [Isaiah 35:5-6](https://prophecies.ofgod.info/messianic/isaiah-35-5.md) - Promised **healing signs**
 4. [Jeremiah 31:31-34](https://prophecies.ofgod.info/messianic/jeremiah-31-31.md) - A **new covenant**, with the Father's **law written on hearts**
-5. Zechariah 6:12-13 - "Behold, a man whose name is the Branch... he shall build the temple and shall bear royal glory"
+5. Zechariah 6:12-13 - "Behold, [a man](https://son.ofgod.info/human) whose name is the Branch... he shall build the temple and shall **bear royal glory**"
 
 ## The Timing of Jesus's Life
 
@@ -83,7 +71,21 @@ After returning from exile, they rebuilt the temple and re-established the Mosai
 
 ## The Purpose of Jesus
 
-Jesus, the human Son commissioned by [God the Father](https://ofgod.info), came to reveal the Father to humanity and represent humanity before the Father. His obedient life, self-giving death and resurrection are essential to reconciliation, alongside his teaching and [role as King](#the-king).
+The "LORD" (also known as [Yahweh or Jehovah](https://ofgod.info/name#yhwh)) God originally [created our world](https://eternal.family.net.za/creation) to be very good (Genesis 1:31).
+
+> And [the LORD](https://ofgod.info/name#lord) [God](https://ofgod.info) planted a garden in Eden, in the east, and there he put [the man whom he had formed](https://eternal.family.net.za/creation/human). And out of the ground the [LORD](https://ofgod.info/name#yhwh) God made to spring up every tree that is pleasant to the sight and good for food. — Genesis 2:8-9 (ESV)
+
+The [LORD](https://ofgod.info/name#yhwh) GOD commanded:
+
+> "You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall **not** eat, for in the day that you eat of it you shall surely die." — Genesis 2:16-17 (ESV)
+
+Unfortunately God's enemy decided to take his revenge on God's creation by deceiving the woman (1 Timothy 2:14) who then gave the forbidden fruit to her husband (Genesis 3:6), Adam, who chose to rather obey his wife than God (Genesis 3:17).
+
+The penalty ([curse](https://eternal.family.net.za/life/curses)) for this [sin](darkness.md) was pain (Genesis 3:16), hard labour (Genesis 3:17-19), and a limited lifespan (Genesis 3:19) which means death came to all humanity (Romans 5:12). However, as the Prophet Ezekiel recorded God's words:
+
+> "For I have no pleasure in the death of anyone, declares the Lord GOD." — Ezekiel 18:32 (ESV)
+
+God promised that the "Messiah" (translated as "Christ" from Greek manuscripts) would succeed where Adam failed. Jesus's purpose includes revealing the Father, [representing humanity before Him](#representing-humanity-before-the-father) and [mediating reconciliation](#a-human-mediator) to save us from the wrath of God (Romans 5:9; 1 Thessalonians 1:10). His obedient life, self-giving death and resurrection are essential to reconciliation, alongside his teaching and [role as King](#the-king).
 
 ### Revealing the Father
 
@@ -95,7 +97,7 @@ This is representation from the Father to humanity. It belongs alongside Christ'
 
 Romans 5:18-19 contrasts Adam's disobedience and condemnation with Christ's obedience and the gift of life:
 
-> For as by the one man's **disobedience** the many were made sinners, so by the one man's **obedience** the many will be made righteous. — Rom. 5:19 (ESV)
+> For as by the one man's **disobedience** the many were made sinners, so by the one man's **obedience** the many will be made righteous. — Romans 5:19 (ESV)
 
 Paul calls Christ the **last Adam** (1 Corinthians 15:45). Death came through a man, and resurrection also comes through a man, with hope for [those who belong to Christ](#adoption-and-resurrection-hope) (1 Corinthians 15:21-23). Jesus therefore represents humanity before the Father as an obedient human. This is central to [restoring humanity](https://son.ofgod.info/shema/benefits.md#restoring-humanity).
 
@@ -129,7 +131,7 @@ Through Christ, believers receive adoption into [the Father's family](https://so
 
 Human resurrection is also part of this hope:
 
-> For as **by a man came death**, **by a man has come also the resurrection of the dead**. For as in Adam all die, so also in Christ shall all be made alive. But each in his own order: Christ the firstfruits, then at his coming **those who belong to Christ**. — 1 Cor. 15:21-23 (ESV)
+> For as **by a man came death**, **by a man has come also the resurrection of the dead**. For as in Adam all die, so also in Christ shall all be made alive. But each in his own order: Christ the firstfruits, then at his coming **those who belong to Christ**. — 1 Corinthians 15:21-23 (ESV)
 
 Paul specifies **those who belong to Christ**. These benefits concern believers who receive [access through faith](#a-human-mediator), not automatic salvation for every human.
 
@@ -182,7 +184,7 @@ The Father initiates **reconciliation through Christ** (Ephesians 2:14-16). Chri
 
 Paul describes the Gospel as the message of reconciliation:
 
-> All this is from God, who through Christ reconciled us to Himself and gave us **the ministry of reconciliation**; that is, in Christ, God was reconciling the world to Himself, not counting their trespasses against them, and entrusting to us **the message of reconciliation**. Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, **be reconciled to God**. — 2 Corinthians 5:18-20 (ESV)
+> All this is from God, Who through Christ reconciled us to Himself and gave us **the ministry of reconciliation**; that is, in Christ, God was reconciling the world to Himself, not counting their trespasses against them, and entrusting to us **the message of reconciliation**. Therefore, we are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ, **be reconciled to God**. — 2 Corinthians 5:18-20 (ESV)
 
 *Why do we need to be reconciled with God?*
 
@@ -245,9 +247,7 @@ That is why it is called "The [Kingdom of God](index.md)".
 
 Any kingdom needs a king. Daniel prophesied that the [Kingdom of God](index.md) would have a human king:
 
-> "I saw in the night visions, and behold, with the clouds of heaven
-there came one like a **son of man**, and he came to the Ancient of Days
-and was presented before Him. And to him was given **dominion and glory and a kingdom**, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and **his kingdom** one that shall not be destroyed. — Daniel 7:13-14 (ESV)
+> "I saw in the night visions, and behold, with the clouds of heaven there came one like a **son of man**, and he came to the Ancient of Days and was presented before Him. And to him was given **dominion and glory and a kingdom**, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and **his kingdom** one that shall not be destroyed. — Daniel 7:13-14 (ESV)
 
 Jesus is not a weak suffering victim on a cross that seeks our pity. He voluntarily sacrificed himself to establish the Kingdom of God. That is why he is the only candidate worthy to be the king and that is why God resurrected and exalted him and that is why **we should honor and serve him**.
 
