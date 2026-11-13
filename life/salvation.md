@@ -82,6 +82,7 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 | [John 5:21-26](#john-521-26-jewish-leaders)                      | Jesus            | Jewish leaders  | -    | -       | Yes          | Yes       | -         | -      | -       | -    | Yes       |
 | [John 8:12-30](#john-812-30-jews)                                | Jesus            | Jews            | Yes  | -       | -            | Yes       | -         | -      | -       | Yes  | Yes       |
 | [Acts 2:22–43](#acts-222-36-peter)                               | Peter            | Mixed multitude | Yes  | -       | Yes          | -         | -         | Yes    | Yes     | -    | Yes       |
+| [Acts 3 & 4](#acts-3--4-jews)                                    | Peter            | Jews            | Yes  | -       | Yes          | Yes       | -         | Yes    | -       | -    | Yes       |
 
 ### Salvation Response
 
@@ -94,13 +95,14 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Devotion` a change in behaviour ("good fruit"): often recognized by an act of trust like obeying God (or Christ's) commands or laws which results to turn from a previous wicked lifestyle.
 > - `Jesus=God` the audience identifying [Jesus as their Supreme God](https://son.ofgod.info/divine)
 
-| Scripture                               | Audience        | Reaction                                                            | Confess | Baptized  | Devotion | Jesus=God |
-| --------------------------------------- | --------------- | ------------------------------------------------------------------- | ------- | --------- | -------- | --------- |
-| [Genesis 16:6](#genesis-166-abraham)    | Abraham         | Believed the LORD                                                   | -       | -         | Yes      | -         |
-| [2 Samuel 12:13](#2-samuel-1213-david)  | King David      | Confessed his sin after prophet approached him                      | Yes     | -         | Yes      | -         |
-| [2 Kings 5:1-19](#2-kings-51-19-naaman) | Naaman          | Washed, acknowledged YHWH, pledged exclusive worship                | Yes     | Debatable | Yes      | -         |
-| [Luke 19:1-10](#luke-191-10-zacchaeus)  | Zacchaeus       | Sold possession and pay back defrauded people                       | Assume  | -         | Yes      | -         |
-| [Acts 2:22–43](#acts-222-36-peter)      | Mixed multitude | Devoted themselves, continue in prayers and awe, sharing everything | Yes     | Yes       | Yes      | -         |
+| Scripture                               | Audience        | Reaction                                             | Confess | Baptized  | Devotion | Jesus=God |
+| --------------------------------------- | --------------- | ---------------------------------------------------- | ------- | --------- | -------- | --------- |
+| [Genesis 16:6](#genesis-166-abraham)    | Abraham         | Believed the LORD                                    | -       | -         | Yes      | -         |
+| [2 Samuel 12:13](#2-samuel-1213-david)  | King David      | Confessed his sin after prophet approached him       | Yes     | -         | Yes      | -         |
+| [2 Kings 5:1-19](#2-kings-51-19-naaman) | Naaman          | Washed, acknowledged YHWH, pledged exclusive worship | Yes     | Debatable | Yes      | -         |
+| [Luke 19:1-10](#luke-191-10-zacchaeus)  | Zacchaeus       | Sold possession and pay back defrauded people        | Assume  | -         | Yes      | -         |
+| [Acts 2:22–43](#acts-222-36-peter)      | Mixed multitude | Devotion, prayers, awe, sharing everything           | Yes     | Yes       | Yes      | -         |
+| [Acts 3 & 4](#acts-3--4-jews)           | Jews            | Believed, devotion, prayers, shared everything       | -       | -         | Yes      | -         |
 
 ## Examples Before Christ
 
@@ -394,6 +396,59 @@ In this sermon, Peter:
 
 > [!NOTE]
 > But Peter did **not** call for a confession that *Jesus is the Almighty God* or a *[three-person, one-essence doctrine](https://son.ofgod.info/trinity)*. Yet about **3000** souls were added that day (Acts 2:41) despite hearing nothing about [the divinity of Jesus](https://son.ofgod.info/divine). The Lord even continues to add more souls with this message (Acts 2:47).
+
+### Acts 3 & 4 (Jews)
+
+Peter healed a lame man at the temple (Acts 3:1-8). People recognized the man and ran to Peter when they found him at the portico called Solomon's (Acts 3:9-10).
+
+> And when Peter saw it he addressed the people:
+>
+> “Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk?
+>
+> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, **glorified His [servant Jesus](https://son.ofgod.info/human/serve-god)**, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. But **you denied the Holy and Righteous One**, and asked for a murderer to be granted to you, and **you killed** the *author* *[leader]* of [life](https://son.ofgod.info/divine/claims/life), whom **[God raised from the dead](../death/resurrection.md)**. To this we are witnesses. And [his name](https://son.ofgod.info/name) ⁠— by [faith](https://word.ofgod.info/terms/faith) in his name ⁠— has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
+>
+> And now, brothers, I know that you acted in ignorance, as did also your rulers. But what **[God foretold by the mouth of all the prophets](https://prophecies.ofgod.info/messianic)**, that His [Christ](https://kingdom.ofgod.info/christ) would suffer, he thus fulfilled. **[Repent](repentance.md)** therefore, and **turn back, that your sins may be blotted out**, that times of refreshing may come from the presence of the Lord, and that [He may send the Christ appointed](https://son.ofgod.info/shema/agency) for you, Jesus, whom heaven must receive until the time for **[restoring all the things](../death/resurrection.md)** about which **[God spoke by the mouth of His holy prophets](https://prophecies.ofgod.info/messianic) long ago**.
+>
+> Moses said,
+>
+>> ‘The Lord God will raise up for you **a prophet like me** from your brothers. You shall **listen to him** in whatever he tells you. And it shall be that **every soul who does not listen to that prophet shall be destroyed from the people**.’
+>
+> And all the prophets who have spoken, from Samuel and those who came after him, also proclaimed these days. You are the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham,
+>
+>> ‘And in your offspring shall all the families of the earth be blessed.’
+>
+> **God, having raised up [His servant](https://son.ofgod.info/human/serve-god)**, [sent him to you](https://word.ofgod.info/shema/agency) first, to bless you by **turning every one of you from your wickedness**.”
+>
+> — Acts 3:12-26 (ESV)
+
+Some were annoyed by this teaching and the Sadducees arrested them (Acts 4:1-3).
+
+> [!NOTE]
+> Although God is the source of life, the same Greek word translated as "author" could also mean "leader". This is inline with [the purpose of Jesus](https://son.ofgod.info/name/purpose) to be the way, the truth and the life. If Peter intended to communicate that Jesus is *the God of life* he would not have called Jesus "God's servant", blame the Jews for killing Jesus (God is immortal), called Jesus [the "Christ" which means that he was anointed a superior](../christ.md), told the crowned that Jesus was "send by God" or indicated that Jesus is now absent ("whom heaven received until the time...").
+
+Many who hear the word believe. Acts 4:4 reports that the number of the men came to about **5000**.
+
+The next day Peter was trailed (Acts 4:5-7) on which Peter responded:
+
+> Then Peter, filled with the Holy Spirit, said to them, “Rulers of the people and elders, if we are being examined today concerning a good deed done to a crippled man, by what means this man has been healed, let it be known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth, [whom you crucified](../christ/crucifixion.md), **whom God raised from the dead**⁠—by him this man is standing before you well. This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone. And **there is salvation in no one else**, for there is no other name under heaven given among men by which we must be saved.” — Acts 4:8-12 (ESV)
+
+The council unsuccessfully tried to silenced them (Acts 4:13-18).
+
+> But Peter and John answered them, “Whether it is right in the sight of God to listen to you rather than to God, you must judge, for we cannot but speak of what we have seen and heard.”
+>
+> And when they had further threatened them, they let them go, finding no way to punish them, because of the people, for all were praising God for what had happened. For the man on whom this sign of healing was performed was more than forty years old.
+>
+> When they were released, they went to their friends and reported what the chief priests and the elders had said to them. And when they heard it, they lifted their voices together to God and said, “Sovereign Lord, who made the heaven and the earth and the sea and everything in them, who through the mouth of our father David, your servant, said by the Holy Spirit,
+>
+>> “‘Why did the Gentiles rage, and the peoples plot in vain?
+>>
+>> The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against **His Anointed**’⁠
+>
+> for truly in this city there were gathered together against **Your holy servant Jesus, whom You anointed**, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel, to do whatever your hand and **[Your plan had predestined to take place](https://son.ofgod.info/name/word)**. And now, Lord, look upon their threats and grant to **[Your servants to continue to speak your word](https://son.ofgod.info/shema/agency)** with all boldness, while [You stretch out your hand to heal, and signs and wonders are performed](https://son.ofgod.info/shema/agency) through the name of your holy servant Jesus.” And when they had **prayed**, the place in which they were gathered together was shaken, and they were all filled with the Holy Spirit and **continued to speak the word of God** with boldness.
+>
+> Now the full number of **those who believed** were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. And with **great power the apostles were giving their testimony to the resurrection of the Lord Jesus**, and great grace was upon them all. There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles’ feet, and it was distributed to each as any had need. Thus Joseph, who was also called by the apostles Barnabas (which means son of encouragement), a Levite, a native of Cyprus, sold a field that belonged to him and brought the money and laid it at the apostles’ feet.
+>
+> — Acts 4:19-37 (ESV)
 
 ---
 

@@ -106,34 +106,6 @@ It was the night before the crucifixion. Jesus had washed the disciples' feet, J
 
 Thomas said, “Lord, we do not know where you are going. How can we know the way?” (14:5). Philip asked to see the Father, and Jesus pointed him back to his words and works (14:8-11), promised the Spirit, and said, “Rise, let us go from here” (14:31). The difference: on the night their leader was taken, the disciples were given a person to follow, not a map.
 
-### Peter at the temple
-
-Peter credits the God of Abraham, Isaac, and Jacob with glorifying his servant Jesus. He announces Jesus’ rejection and resurrection, urges repentance and turning back, and identifies Jesus with the prophet Moses foretold (Acts 3:12–26). The next account records the interruption and listeners’ response.
-
-> And when Peter saw it he addressed the people:
->
-> “Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk?
->
-> The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified His [servant Jesus](../../human/serve-god.md), whom you delivered over and denied in the presence of Pilate, when he had decided to release him. But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and you killed the *author* *[leader]* of [life](../../divine/claims/life.md), whom God raised from the dead. To this we are witnesses. And [his name](../../name.md) ⁠— by [faith](https://word.ofgod.info/terms/faith) in [his name](../../name.md) ⁠— has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
->
-> And now, brothers, I know that you acted in ignorance, as did also your rulers. But what [God foretold by the mouth of all the prophets](https://prophecies.ofgod.info/messianic), that His [Christ](https://kingdom.ofgod.info/christ) would suffer, he thus fulfilled. [Repent](https://kingdom.ofgod.info/life/repentance) therefore, and turn back, that your sins may be blotted out, that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you, Jesus, whom heaven must receive until the time for restoring all the things about which God spoke by the mouth of his holy prophets long ago. 
->
-> Moses said,
->
->> ‘The Lord God will raise up for you **a prophet like me** from your brothers. You shall listen to him in whatever he tells you. And it shall be that every soul who does not listen to that prophet shall be destroyed from the people.’
->
-> And all the prophets who have spoken, from Samuel and those who came after him, also proclaimed these days. You are the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham,
->
->> ‘And in your offspring shall all the families of the earth be blessed.’
->
-> God, having raised up [His servant](../../human/serve-god.md), sent him to you first, to bless you by turning every one of you from your wickedness.”
->
-> — Acts 3:12 - 3:26 (ESV)
-
-Many who hear the word believe. Acts 4:4 reports that the number of the men came to about **5000**.
-
-Although God is the source of life, the same Greek word translated as "author" could also mean "leader". This is inline with [the purpose of Jesus](../../name/purpose.md) to be the way, the truth and the life. Peter would not called Jesus the "servant" of God if he intended to communicate that Jesus is the God of life.
-
 ### Peter in Cornelius’s household
 
 Peter announces that God anointed Jesus, raised him after his death, appointed him judge, and grants forgiveness through his name to everyone who believes in him (Acts 10:34–43). The Spirit falls while Peter is speaking, and the household is baptized (Acts 10:44–48). Peter’s later account explains why these words mattered to the household.
