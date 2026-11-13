@@ -72,14 +72,16 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Laws` a call to love God by obeying His laws or the commands from the Father given by His Son.
 > - `Christ` a call to trust ([belief](https://word.ofgod.info/terms/faith)) that God will/has risen [Christ](../christ.md) and to honor him or to submit under the his authority
 
-| Scripture                                                        | Agent            | Audience       | Plan | Kingdom | Resurrection | Judgement | Jesus=God | Repent | Baptize | Laws | Christ    |
-| ---------------------------------------------------------------- | ---------------- | -------------- | ---- | ------- | ------------ | --------- | --------- | ------ | ------- | ---- | --------- |
-| [Ezekiel 18:21-22](#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel         | -    | -       | Yes          | Yes       | -         | Yes    | -       | Yes  | -         |
-| [Matthew 3:5-12; John 3:33-36](#matthew-35-12-john-333-36-judea) | John the Baptist | Judea          | -    | -       | -            | Yes       | -         | Yes    | Yes     | -    | Yes       |
-| [Matthew 4-7](#matthew-4-7-galilee)                              | Jesus            | Galilee        | -    | Yes     | -            | Yes       | -         | Yes    | Yes     | Yes  | Debatable |
-| [Mark 16:14-16](#mark-1614-16-disciples)                         | Jesus            | Disciples      | -    | -       | Yes          | Yes       | -         | -      | Yes     | -    | Yes       |
-| [John 4:39-42](#john-439-42-samaritans)                          | Jesus            | Samaritans     | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
-| [John 5:21-26](#john-521-26-jewish-leaders)                      | Jesus            | Jewish leaders | -    | -       | Yes          | Yes       | -         | -      | -       | -    | Yes       |
+| Scripture                                                        | Agent            | Audience        | Plan | Kingdom | Resurrection | Judgement | Jesus=God | Repent | Baptize | Laws | Christ    |
+| ---------------------------------------------------------------- | ---------------- | --------------- | ---- | ------- | ------------ | --------- | --------- | ------ | ------- | ---- | --------- |
+| [Ezekiel 18:21-22](#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel          | -    | -       | Yes          | Yes       | -         | Yes    | -       | Yes  | -         |
+| [Matthew 3:5-12; John 3:33-36](#matthew-35-12-john-333-36-judea) | John the Baptist | Judea           | -    | -       | -            | Yes       | -         | Yes    | Yes     | -    | Yes       |
+| [Matthew 4-7](#matthew-4-7-galilee)                              | Jesus            | Galilee         | -    | Yes     | -            | Yes       | -         | Yes    | Yes     | Yes  | Debatable |
+| [Mark 16:14-16](#mark-1614-16-disciples)                         | Jesus            | Disciples       | -    | -       | Yes          | Yes       | -         | -      | Yes     | -    | Yes       |
+| [John 4:39-42](#john-439-42-samaritans)                          | Jesus            | Samaritans      | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
+| [John 5:21-26](#john-521-26-jewish-leaders)                      | Jesus            | Jewish leaders  | -    | -       | Yes          | Yes       | -         | -      | -       | -    | Yes       |
+| [John 8:12-30](#john-812-30-jews)                                | Jesus            | Jews            | Yes  | -       | -            | Yes       | -         | -      | -       | Yes  | Yes       |
+| [Acts 2:22–43](#acts-222-36-peter)                               | Peter            | Mixed multitude | Yes  | -       | Yes          | -         | -         | Yes    | Yes     | -    | Yes       |
 
 ### Salvation Response
 
@@ -92,12 +94,13 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Devotion` a change in behaviour ("good fruit"): often recognized by an act of trust like obeying God (or Christ's) commands or laws which results to turn from a previous wicked lifestyle.
 > - `Jesus=God` the audience identifying [Jesus as their Supreme God](https://son.ofgod.info/divine)
 
-| Scripture                               | Audience   | Reaction                                             | Confess | Baptized  | Devotion | Jesus=God |
-| --------------------------------------- | ---------- | ---------------------------------------------------- | ------- | --------- | -------- | --------- |
-| [Genesis 16:6](#genesis-166-abraham)    | Abraham    | Believed the LORD                                    | -       | -         | Yes      | -         |
-| [2 Samuel 12:13](#2-samuel-1213-david)  | King David | Confessed his sin after prophet approached him       | Yes     | -         | Yes      | -         |
-| [2 Kings 5:1-19](#2-kings-51-19-naaman) | Naaman     | Washed, acknowledged YHWH, pledged exclusive worship | Yes     | Debatable | Yes      | -         |
-| [Luke 19:1-10](#luke-191-10-zacchaeus)  | Zacchaeus  | Sold possession and pay back defrauded people        | Assume  | -         | Yes      | -         |
+| Scripture                               | Audience        | Reaction                                                            | Confess | Baptized  | Devotion | Jesus=God |
+| --------------------------------------- | --------------- | ------------------------------------------------------------------- | ------- | --------- | -------- | --------- |
+| [Genesis 16:6](#genesis-166-abraham)    | Abraham         | Believed the LORD                                                   | -       | -         | Yes      | -         |
+| [2 Samuel 12:13](#2-samuel-1213-david)  | King David      | Confessed his sin after prophet approached him                      | Yes     | -         | Yes      | -         |
+| [2 Kings 5:1-19](#2-kings-51-19-naaman) | Naaman          | Washed, acknowledged YHWH, pledged exclusive worship                | Yes     | Debatable | Yes      | -         |
+| [Luke 19:1-10](#luke-191-10-zacchaeus)  | Zacchaeus       | Sold possession and pay back defrauded people                       | Assume  | -         | Yes      | -         |
+| [Acts 2:22–43](#acts-222-36-peter)      | Mixed multitude | Devoted themselves, continue in prayers and awe, sharing everything | Yes     | Yes       | Yes      | -         |
 
 ## Examples Before Christ
 
@@ -294,6 +297,45 @@ Jesus was in Jerusalem for a feast. He had healed a man lame for thirty-eight ye
 
 Jesus went on to name John the Baptist, his own works, the Father and the Scriptures as witnesses, and said Moses would accuse them (John 5:30-47). A Sabbath healing became a claim to give life, and the leaders' opposition hardened. No explicit call is recorded because the passage describes Jesus explanation of God's delegated authority rather than issuing a command.
 
+### John 8:12-30 (Jews)
+
+It was the Feast of Booths in Jerusalem, the Pharisees were offended by Jesus teaching claiming that he is deceiving the crowds. The officers refused to capture Jesus and Nicodemus defended Jesus by saying the Pharisees should first judge Jesus (John 7:40-52).
+
+> [!WARNING]
+> John 7:53-8:11 known as the "Pericope Adulterae Interpolation".
+>
+>> It is absent from the earliest manuscripts including 𝔓66, 𝔓75, ℵ(01), B(03), W(032) Latin(a) and Syriac(sy). Absent from THGNT. Double bracketed in NA28 and SBLGNT. Included in D(05) Latin(d e ff2) BYZ and TR. UBS Handbooks for New Testament (20 vol.) states regarding the pericope, “is not found in the earlier and better Greek manuscripts, it differs in style and vocabulary from the rest of John's Gospel, and it interrupts the sequence of 7.52 and 8.12 and following.” — [Footnote on AICNT](https://corebible.app/JHN/8)
+
+They meet Jesus at the treasury and most likely questioned whether Jesus was speaking the truth on which Jesus replied:
+
+> Again Jesus spoke to them, saying, “I am [the light](../light.md) of the world. Whoever follows me will not walk in [darkness](../darkness.md), but will have the light of life.” — John 8:12 (ESV)
+
+The Pharisees challenged his witness in response on which Jesus defended that his Father Himself is his witness (John 8:13-15). Then he warns them that he is the Father's [delegated judge](https://son.ofgod.info/shema/agency):
+
+> ... for it is **not I alone who judge, but I and the Father [Who sent me](https://son.ofgod.info/shema/agency)**. In your Law it is written that **the testimony of two people is true**.” — John 8:16-17 (ESV)
+
+The Pharisees replied that Jesus's witness is invalid because they do not know his Father on which Jesus replied that he represents the Father. (John 8:18-20)
+
+> So he said to them again, “I am going away, and you will seek me, and **you will die in your sin**. Where I am going, you cannot come.”  
+> So the Jews said, “Will he kill himself, since he says, ‘Where I am going, you cannot come’?”  
+> He said to them, “You are from below; I am from above. You are of this world; I am not of this world. I told you that **you would die in your sins, for unless you believe that I am he you will die in your sins**.”  
+> So they said to him, “Who are you?”  
+> Jesus said to them, “Just what I have been telling you from the beginning. I have much to say about you and much to **judge**, but [He who sent me](https://son.ofgod.info/shema/agency) is true, and I declare to the world what I have heard from him.”
+>
+> They did not understand that he had been speaking to them about the Father.
+>
+> So Jesus said to them, “When you have lifted up [the Son of Man](https://son.ofgod.info/name/son-of-man), then you will know that I am he, and that [I do nothing on my own authority, but speak just as the Father taught me. And He Who sent me is with me. He has not left me alone, for I always do the things that are pleasing to him.](https://son.ofgod.info/shema/agency)”
+>
+> As he was saying these things, **many believed *[in](https://word.ofgod.info/semantics/en)* him**.
+>
+> So Jesus said to the Jews who had believed him, “If you **abide in my word**, you are truly my disciples, and you will know the truth, and **the truth will set you free**.”  
+> *They [[The Jews](https://corebible.app/JHN/8)]* answered him, “We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, ‘You will become free’?”  
+> Jesus answered them, “Truly, truly, I say to you, **everyone who practices sin is a slave to sin**. The slave does not remain in the house forever; the son remains forever. So **if the Son sets you free, you will be free indeed**. I know that you are offspring of Abraham; yet you seek to kill me because my word finds no place in you. I speak of what I have seen with my Father, and you do what you have heard from your father.”
+>
+> — John 8:12-38 (ESV)
+
+The exchange ended with an attempt to stone him (8:59). Some believed, but the leaders grew more hostile.
+
 ## Examples after Christ
 
 ### Mark 16:14-16 (Disciples)
@@ -303,6 +345,55 @@ After the resurrection, Jesus appeared to the eleven disciples while they were a
 > Afterward he *[Jesus]* appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had **not believed those who saw him after he had risen**. And he said to them, “Go into all the world and proclaim the gospel to the whole creation. **Whoever believes and is baptized will be saved**, but **whoever does not [believe](https://word.ofgod.info/terms/faith) will be condemned**.” — Mark 16:14-16 (ESV)
 
 The Gospel ends with the Lord working with them as they preached everywhere (Mark 16:20). The call widened from Israel to the whole creation, and baptism was named as part of the response.
+
+### Acts 2:22-36 (Peter)
+
+Peter addresses Israel, identifies Jesus as a man attested by God, says God raised him, and announces that God made him both Lord and Christ. Asked what to do, he calls for repentance and baptism in Jesus Christ’s name (Acts 2:14–41). The account continues through the community’s life and its stated salvation outcome (Acts 2:42–47):
+
+> Men of Israel, hear these words:
+>
+> Jesus of Nazareth, [**a man** attested to you by God with mighty works and wonders and signs that God did through him in your midst](https://son.ofgod.info/shema/agency), as you yourselves know — this Jesus, delivered up according to **[the definite plan and foreknowledge of God](https://son.ofgod.info/name/word)**, you [crucified and killed](../christ/crucifixion.md) by the hands of **lawless** men. [God raised him up](../death/resurrection.md), loosing the pangs of death, because it was not possible for him to be held by it. For David says concerning him,
+>
+>> “‘I saw the Lord always before me, for he is at my right hand that I may not be shaken;  
+>> therefore my heart was glad, and my tongue rejoiced;  
+>> my flesh also will dwell in hope.
+>>
+>> For [you will not abandon my soul to *Hades*](../death.md), or **let your Holy One see corruption**.
+>>
+>> You have made known to me the paths of life;  
+>> You will make me full of gladness with your presence.’
+>>
+>> — Psalm 16:8–11
+>
+> “Brothers, I may say to you with confidence about the patriarch David that he both died and was buried, and his tomb is with us to this day. Being therefore a prophet, and knowing that God had sworn with an oath to him that he would set **one of his descendants on his throne**, [he foresaw](https://prophecies.ofgod.info/messianic) and spoke about **the resurrection of the Christ**, that he was not abandoned to *Hades*, nor did his flesh see corruption. **[This Jesus God raised up](../death/resurrection.md)**, and of that we all are witnesses. Being therefore **exalted at the right hand of God**, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing. For David did not ascend into the heavens, but he himself says,
+>
+>> “‘[The LORD](https://ofgod.info/name#lord) said to my Lord,
+>> “Sit at my right hand, until I make your enemies your footstool.”’
+>>
+>> — Psalm 110:1
+>
+> Let all the house of Israel therefore know for certain that **God has made him both Lord and [Christ](../christ.md)**, this Jesus [whom you crucified](../christ/crucifixion.md).”
+>
+> Now when they heard this they were cut to the heart, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
+> And Peter said to them, “**Repent** and **be baptized** every one of you in the name of Jesus Christ **for the forgiveness of your sins**, and you will receive the gift of the Holy Spirit. For the promise is for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself.”
+>
+> And with many other words he bore witness and continued to exhort them, saying, “Save yourselves from this crooked generation.” So those who received his word were **baptized**, and there were added that day about **three thousand souls**. And they **devoted themselves** to the apostles’ teaching and the fellowship, to the breaking of bread and the prayers. And **awe came upon every soul**, and many wonders and signs were being done through the apostles.
+>
+> — Acts 2:22–43 (ESV)
+
+In this sermon, Peter:
+
+- Identified [Jesus as a human](https://son.ofgod.info/human)
+- Identified [Jesus as God's delegated agent](https://son.ofgod.info/shema/agency)
+- Shows that [Jesus was part of God's definite plan and foreknowledge](https://son.ofgod.info/name/word)
+- Testified that Jesus was risen by God by quoting Psalm 16:8-11
+- Points out that Jesus was a descendend of David, fulfilling [prophecies](https://prophecies.ofgod.info/messianic)
+- God exalted Jesus to His right hand as a reference to his received authority
+- Jesus is the [Christ](../christ.md) meaning "anointed by God" to be our lord
+- He also call to repentance and baptism for the forgiveness of sin
+
+> [!NOTE]
+> But Peter did **not** call for a confession that *Jesus is the Almighty God* or a *[three-person, one-essence doctrine](https://son.ofgod.info/trinity)*. Yet about **3000** souls were added that day (Acts 2:41) despite hearing nothing about [the divinity of Jesus](https://son.ofgod.info/divine). The Lord even continues to add more souls with this message (Acts 2:47).
 
 ---
 
