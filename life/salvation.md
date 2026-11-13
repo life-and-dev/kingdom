@@ -104,6 +104,9 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 | [Acts 2:22–43](#acts-222-36-peter)      | Mixed multitude | Devotion, prayers, awe, sharing everything           | Yes     | Yes       | Yes      | -         |
 | [Acts 3 & 4](#acts-3--4-jews)           | Jews            | Believed, devotion, prayers, shared everything       | -       | -         | Yes      | -         |
 
+> [!CRITICAL]
+> While it crucial to believe in the existance of God and to believe that Jesus is the [Christ (God's annointed lord)](../christ.md) for salvation, it has **never** been a requirement to [believe that Jesus is *independantly the Supreme God*](https://son.ofgod.info/divine). The latter requirement was only [added by church creeds many centuries later](https://son.ofgod.info/trinity/development) for political reasons.
+
 ## Examples Before Christ
 
 How did people "come to faith", without [church](https://church.ofgod.info) attendance, confession of sins, Christian baptism, or knowing Jesus Christ?
