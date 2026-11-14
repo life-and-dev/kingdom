@@ -106,23 +106,23 @@ It was the night before the crucifixion. Jesus had washed the disciples' feet, J
 
 Thomas said, “Lord, we do not know where you are going. How can we know the way?” (14:5). Philip asked to see the Father, and Jesus pointed him back to his words and works (14:8-11), promised the Spirit, and said, “Rise, let us go from here” (14:31). The difference: on the night their leader was taken, the disciples were given a person to follow, not a map.
 
-### Paul in Pisidian Antioch
+### Acts 13 (Antioch Jews)
 
-Paul recounts God’s dealings with Israel, presents Jesus as the promised Savior, announces his death and God’s resurrection of him, and proclaims forgiveness and justification to believers (Acts 13:16–41). The continuation records both acceptance and opposition.
+Barnabas and Paul was chosen by the Holy Spirit to address the Jews at the synagogue on the Sabbath day in Antioch in Psidia (Acts 13:1-15).
 
 > So Paul stood up, and motioning with his hand said:
 >
-> “Men of Israel and you who fear God, listen. The God of this people Israel chose our fathers and made the people great during their stay in the land of Egypt, and with uplifted arm he led them out of it. And for about forty years he put up with them in the wilderness. And after destroying seven nations in the land of Canaan, he gave them their land as an inheritance. All this took about 450 years. And after that he gave them judges until Samuel the prophet. Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years. And when he had removed him, he raised up David to be their king, of whom he testified and said, ‘I have found in David the son of Jesse a man after my heart, who will do all my will.’ **Of this man’s offspring God has brought to Israel a Savior, Jesus**, as He promised.
+> “Men of Israel and you who fear God, listen. The God of this people Israel chose our fathers and made the people great during their stay in the land of Egypt, and with uplifted arm he led them out of it. And for about forty years he put up with them in the wilderness. And after destroying seven nations in the land of Canaan, He gave them their land as an inheritance. All this took about 450 years. And after that He gave them judges until Samuel the prophet. Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years. And when He had removed him, He raised up David to be their king, of whom He testified and said, ‘I have found in David the son of Jesse a man after my heart, who will do all my will.’ Of **this man’s offspring God has brought to Israel a Savior, Jesus, as He promised**.
 >
-> Before his coming, John had proclaimed a baptism of repentance to all the people of Israel. And as John was finishing his course, he said, ‘What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.’
+> Before his coming, John had proclaimed a **baptism of repentance** to all the people of Israel. And as John was finishing his course, he said, ‘What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.’
 >
-> “Brothers, sons of the family of Abraham, and those among you who fear God, to us has been sent the message of this salvation. For those who live in Jerusalem and their rulers, because they did not recognize him nor understand [the utterances of the prophets](https://prophecies.ofgod.info/messianic), which are read every Sabbath, fulfilled them by condemning him. And though they found in him no guilt worthy of death, they asked Pilate to have him executed. And when they had carried out all that was written of him, they took him down from the tree and laid him in a tomb. But God raised him from the dead, and for many days he appeared to those who had come up with him from Galilee to Jerusalem, who are now his witnesses to the people.
+> “Brothers, sons of the family of Abraham, and those among you who fear God, to us has been sent the message of this salvation. For those who live in Jerusalem and their rulers, because they did not recognize him nor understand [the utterances of the prophets](https://prophecies.ofgod.info/messianic), which are read every Sabbath, fulfilled them by condemning him. And though they found in him no guilt worthy of death, they asked Pilate to **have him executed**. And when they had carried out all that was written of him, they took him down from the tree and laid him in a tomb. But **God raised him from the dead**, and for many days he appeared to those who had come up with him from Galilee to Jerusalem, who are now his witnesses to the people.
 >
-> And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm,
+> And we bring you the good news that what God promised to the fathers, this He has fulfilled to us their children by **raising Jesus**, as also it is written in the second Psalm,
 >
 >> “‘You are My son, today I have begotten you.’
 >
-> And as for the fact that he raised him from the dead, no more to return to corruption, he has spoken in this way,
+> And as for the fact that **He raised him from the dead, no more to return to corruption**, he has spoken in this way,
 >
 >> “‘I will give you the holy and sure blessings of David.’
 >
@@ -130,23 +130,28 @@ Paul recounts God’s dealings with Israel, presents Jesus as the promised Savio
 >
 >> “‘You will not let your Holy One see corruption.’
 >
-> For David, after he had served the purpose of God in his own generation, fell asleep and was laid with his fathers and saw corruption, but he whom God raised up did not see corruption. Let it be known to you therefore, brothers, that through this **man** forgiveness of sins is proclaimed to you, and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses.
+> For David, after he had served the purpose of God in his own generation, fell asleep and was laid with his fathers and saw corruption, but **he whom God raised up did not see corruption**. Let it be known to you therefore, brothers, that **through this man forgiveness of sins is proclaimed to you**, and **by him everyone who believes is freed from everything from which you could not be freed by the law of Moses**.
 >
 > Beware, therefore, lest what is said in the Prophets should come about:
 >
 >> “‘Look, you scoffers, be astounded and perish; for I am doing a work in your days, a work that you will not believe, even if one tells it to you.’”
 >
-> As they went out, the people begged that these things might be told them the next Sabbath. And after the meeting of the synagogue broke up, many Jews and devout converts to Judaism followed Paul and Barnabas, who, as they spoke with them, urged them to continue in the grace of God.
+> As they went out, the people begged that these things might be told them the next Sabbath. And after the meeting of the synagogue broke up, **many Jews and devout converts to Judaism followed Paul and Barnabas**, who, as they spoke with them, urged them to continue in the grace of God.
 >
 > The next Sabbath almost the whole city gathered to hear the word of the Lord. But when the Jews saw the crowds, they were filled with jealousy and began to contradict what was spoken by Paul, reviling him. And Paul and Barnabas spoke out boldly, saying, “It was necessary that the word of God be spoken first to you. Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles. For so the Lord has commanded us, saying,
 >
 >> “‘[I have made you a light](https://kingdom.ofgod.info/light) for the Gentiles, that you may bring salvation to the ends of the earth.’”
 >
-> And when the Gentiles heard this, they began rejoicing and glorifying [the word](../../name/word.md) of the Lord, and as many as were appointed to eternal life believed. And the word of the Lord was spreading throughout the whole region.
+> And when the Gentiles heard this, they began rejoicing and glorifying [the word](../../name/word.md) of the Lord, and as **many as were appointed to eternal life believed**. And **the word of the Lord was spreading throughout the whole region**.
 >
 > — Acts 13:16-49 (ESV)
 
-Acts 13:48 explicitly reports belief among those appointed to eternal life. Others reject the message (Acts 13:45–46, 50–51). Paul’s recorded appeal centers on forgiveness through Jesus and the response of belief, not a stated requirement to confess Jesus as Almighty God.
+> [!WARNING]
+> Paul never told the Jews that *Jesus was their supreme God*. Instead he made it clear that:
+>
+> 1. Instead of proclaiming *that [Jesus is divine](https://son.ofgod.info/divine)*, Paul made it clear that Jesus was "the offspring of David", fulfiling the [messianic prophecies](https://prophecies.ofgod.info/messianic).
+> 2. Instead of teaching that *Pilate execute God*, he said "Pilate executed Jesus".
+> 3. Instead of teaching that *Jesus raised himself*, he said "God rised Jesus from the dead".
 
 ### Paul in Athens
 
