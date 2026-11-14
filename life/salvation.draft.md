@@ -106,34 +106,6 @@ It was the night before the crucifixion. Jesus had washed the disciples' feet, J
 
 Thomas said, “Lord, we do not know where you are going. How can we know the way?” (14:5). Philip asked to see the Father, and Jesus pointed him back to his words and works (14:8-11), promised the Spirit, and said, “Rise, let us go from here” (14:31). The difference: on the night their leader was taken, the disciples were given a person to follow, not a map.
 
-### Peter in Cornelius’s household
-
-Peter announces that God anointed Jesus, raised him after his death, appointed him judge, and grants forgiveness through his name to everyone who believes in him (Acts 10:34–43). The Spirit falls while Peter is speaking, and the household is baptized (Acts 10:44–48). Peter’s later account explains why these words mattered to the household.
-
-> So Peter opened his mouth and said:
->
-> “Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him. As for [the word](../../name/word.md) that he sent to Israel, preaching good news of peace through Jesus Christ (he is Lord of all), you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed: how God anointed Jesus of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, for God was with him. And we are witnesses of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree, but God raised him on the third day and made him to appear, not to all the people but to us who had been chosen by God as witnesses, who ate and drank with him after he rose from the dead. And he commanded us to preach to the people and **to testify that he is the one appointed by God** to be judge of the living and the dead. To him all [the prophets bear witness](https://prophecies.ofgod.info/messianic) that everyone who believes in him receives forgiveness of sins through [his name](../../name.md).”
->
-> While Peter was still saying these things, [the Holy Spirit](../../trinity/holy-spirit.md) fell on all who heard the word. And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles. For they were hearing them speaking in tongues and extolling God.
->
-> Then Peter declared, “Can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?”
->
-> And he commanded them to be baptized in [the name of Jesus Christ](../../name.md). Then they asked him to remain for some days.
->
-> — Acts 10:34-48 (ESV)
-
-Instead of proclaiming *Jesus is God Himself*, Peter made it clear that they testify that Jesus was **appointed by God**.
-
-Acts 11:14 describes Peter’s message as words by which Cornelius and his household would be saved:
-
-> And he told us how he had seen the angel stand in his house and say, ‘Send to Joppa and bring Simon who is called Peter; he will declare to you a message by which you will be saved, you and all your household.’ As I began to speak, the Holy Spirit fell on them just as on us at the beginning. And I remembered the word of the Lord, how he said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’ If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God’s way?”
->
-> When they heard these things they fell silent. And they glorified God, saying, “Then to the Gentiles also **God has granted repentance** that leads to life.”
->
-> — Acts 11:13-18 (ESV)
-
- These people also repented without the information that *Jesus was supposed to be their God*.
-
 ### Paul in Pisidian Antioch
 
 Paul recounts God’s dealings with Israel, presents Jesus as the promised Savior, announces his death and God’s resurrection of him, and proclaims forgiveness and justification to believers (Acts 13:16–41). The continuation records both acceptance and opposition.

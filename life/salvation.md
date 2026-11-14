@@ -54,6 +54,7 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > In the tables below, the values:
 >
 > - `Yes` means evidence explicitly recorded in the cited passage.
+> - `No` means evidence explicitly points to the opposite in the cited passage.
 > - `-` means no evidence recorded, not proof that a teaching or event never occurred.
 > - `Assume` means a response reasonably inferred from audience reaction, not directly recorded.
 
@@ -72,17 +73,18 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Laws` a call to love God by obeying His laws or the commands from the Father given by His Son.
 > - `Christ` a call to trust ([belief](https://word.ofgod.info/terms/faith)) that God will/has risen [Christ](../christ.md) and to honor him or to submit under the his authority
 
-| Scripture                                                        | Agent            | Audience        | Plan | Kingdom | Resurrection | Judgement | Jesus=God | Repent | Baptize | Laws | Christ    |
-| ---------------------------------------------------------------- | ---------------- | --------------- | ---- | ------- | ------------ | --------- | --------- | ------ | ------- | ---- | --------- |
-| [Ezekiel 18:21-22](#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel          | -    | -       | Yes          | Yes       | -         | Yes    | -       | Yes  | -         |
-| [Matthew 3:5-12; John 3:33-36](#matthew-35-12-john-333-36-judea) | John the Baptist | Judea           | -    | -       | -            | Yes       | -         | Yes    | Yes     | -    | Yes       |
-| [Matthew 4-7](#matthew-4-7-galilee)                              | Jesus            | Galilee         | -    | Yes     | -            | Yes       | -         | Yes    | Yes     | Yes  | Debatable |
-| [Mark 16:14-16](#mark-1614-16-disciples)                         | Jesus            | Disciples       | -    | -       | Yes          | Yes       | -         | -      | Yes     | -    | Yes       |
-| [John 4:39-42](#john-439-42-samaritans)                          | Jesus            | Samaritans      | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
-| [John 5:21-26](#john-521-26-jewish-leaders)                      | Jesus            | Jewish leaders  | -    | -       | Yes          | Yes       | -         | -      | -       | -    | Yes       |
-| [John 8:12-30](#john-812-30-jews)                                | Jesus            | Jews            | Yes  | -       | -            | Yes       | -         | -      | -       | Yes  | Yes       |
-| [Acts 2:22–43](#acts-222-36-peter)                               | Peter            | Mixed multitude | Yes  | -       | Yes          | -         | -         | Yes    | Yes     | -    | Yes       |
-| [Acts 3 & 4](#acts-3--4-jews)                                    | Peter            | Jews            | Yes  | -       | Yes          | Yes       | -         | Yes    | -       | -    | Yes       |
+| Scripture                                                        | Agent            | Audience             | Plan | Kingdom | Resurrection | Judgement | Jesus=God | Repent | Baptize | Laws | Christ    |
+| ---------------------------------------------------------------- | ---------------- | -------------------- | ---- | ------- | ------------ | --------- | --------- | ------ | ------- | ---- | --------- |
+| [Ezekiel 18:21-22](#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel               | -    | -       | Yes          | Yes       | -         | Yes    | -       | Yes  | -         |
+| [Matthew 3:5-12; John 3:33-36](#matthew-35-12-john-333-36-judea) | John the Baptist | Judea                | -    | -       | -            | Yes       | -         | Yes    | Yes     | -    | Yes       |
+| [Matthew 4-7](#matthew-4-7-galilee)                              | Jesus            | Galilee              | -    | Yes     | -            | Yes       | -         | Yes    | Yes     | Yes  | Debatable |
+| [Mark 16:14-16](#mark-1614-16-disciples)                         | Jesus            | Disciples            | -    | -       | Yes          | Yes       | -         | -      | Yes     | -    | Yes       |
+| [John 4:39-42](#john-439-42-samaritans)                          | Jesus            | Samaritans           | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
+| [John 5:21-26](#john-521-26-jewish-leaders)                      | Jesus            | Jewish leaders       | -    | -       | Yes          | Yes       | -         | -      | -       | -    | Yes       |
+| [John 8:12-30](#john-812-30-jews)                                | Jesus            | Jews                 | Yes  | -       | -            | Yes       | -         | -      | -       | Yes  | Yes       |
+| [Acts 2:22–43](#acts-222-36-peter)                               | Peter            | Mixed multitude      | Yes  | -       | Yes          | -         | No        | Yes    | Yes     | -    | Yes       |
+| [Acts 3 & 4](#acts-3--4-jews)                                    | Peter            | Jews                 | Yes  | -       | Yes          | Yes       | No        | Yes    | -       | -    | Yes       |
+| [Acts 10 & 11](#acts-10--11-cornelius-household)                 | Peter            | Cornelius' household | -    | -       | Yes          | Yes       | No        | Yes    | Yes     | -    | Yes       |
 
 ### Salvation Response
 
@@ -95,17 +97,18 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Devotion` a change in behaviour ("good fruit"): often recognized by an act of trust like obeying God (or Christ's) commands or laws which results to turn from a previous wicked lifestyle.
 > - `Jesus=God` the audience identifying [Jesus as their Supreme God](https://son.ofgod.info/divine)
 
-| Scripture                               | Audience        | Reaction                                             | Confess | Baptized  | Devotion | Jesus=God |
-| --------------------------------------- | --------------- | ---------------------------------------------------- | ------- | --------- | -------- | --------- |
-| [Genesis 16:6](#genesis-166-abraham)    | Abraham         | Believed the LORD                                    | -       | -         | Yes      | -         |
-| [2 Samuel 12:13](#2-samuel-1213-david)  | King David      | Confessed his sin after prophet approached him       | Yes     | -         | Yes      | -         |
-| [2 Kings 5:1-19](#2-kings-51-19-naaman) | Naaman          | Washed, acknowledged YHWH, pledged exclusive worship | Yes     | Debatable | Yes      | -         |
-| [Luke 19:1-10](#luke-191-10-zacchaeus)  | Zacchaeus       | Sold possession and pay back defrauded people        | Assume  | -         | Yes      | -         |
-| [Acts 2:22–43](#acts-222-36-peter)      | Mixed multitude | Devotion, prayers, awe, sharing everything           | Yes     | Yes       | Yes      | -         |
-| [Acts 3 & 4](#acts-3--4-jews)           | Jews            | Believed, devotion, prayers, shared everything       | -       | -         | Yes      | -         |
+| Scripture                                        | Audience             | Reaction                                             | Confess | Baptized  | Devotion | Jesus=God |
+| ------------------------------------------------ | -------------------- | ---------------------------------------------------- | ------- | --------- | -------- | --------- |
+| [Genesis 16:6](#genesis-166-abraham)             | Abraham              | Believed the LORD                                    | -       | -         | Yes      | -         |
+| [2 Samuel 12:13](#2-samuel-1213-david)           | King David           | Confessed his sin after prophet approached him       | Yes     | -         | Yes      | -         |
+| [2 Kings 5:1-19](#2-kings-51-19-naaman)          | Naaman               | Washed, acknowledged YHWH, pledged exclusive worship | Yes     | Debatable | Yes      | -         |
+| [Luke 19:1-10](#luke-191-10-zacchaeus)           | Zacchaeus            | Sold possession and pay back defrauded people        | Assume  | -         | Yes      | -         |
+| [Acts 2:22–43](#acts-222-36-peter)               | Mixed multitude      | Devotion, prayers, awe, sharing everything           | Yes     | Yes       | Yes      | -         |
+| [Acts 3 & 4](#acts-3--4-jews)                    | Jews                 | Believed, devotion, prayers, shared everything       | -       | -         | Yes      | -         |
+| [Acts 10 & 11](#acts-10--11-cornelius-household) | Cornelius' household | Filled with Holy Spirit and speak in tongues         | -       | Yes       | -        | -         |
 
 > [!CAUTION]
-> While it crucial to believe in the existance of God and to believe that Jesus is the [Christ (God's annointed lord)](../christ.md) for salvation, it has **never** been a requirement to [believe that Jesus is *independantly the Supreme God*](https://son.ofgod.info/divine). The latter requirement was only [added by church creeds many centuries later](https://son.ofgod.info/trinity/development) for political reasons.
+> While it crucial to believe in the existance of God and to believe that Jesus is the [Christ (God's annointed lord)](../christ.md) for salvation, it has **never** been a requirement to [believe that Jesus is *independantly the Supreme God Himself*](https://son.ofgod.info/divine). The latter requirement was only [added by church creeds many centuries later](https://son.ofgod.info/trinity/development) for political reasons.
 
 ## Examples Before Christ
 
@@ -452,6 +455,56 @@ The council unsuccessfully tried to silenced them (Acts 4:13-18).
 > Now the full number of **those who believed** were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. And with **great power the apostles were giving their testimony to the resurrection of the Lord Jesus**, and great grace was upon them all. There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles’ feet, and it was distributed to each as any had need. Thus Joseph, who was also called by the apostles Barnabas (which means son of encouragement), a Levite, a native of Cyprus, sold a field that belonged to him and brought the money and laid it at the apostles’ feet.
 >
 > — Acts 4:19-37 (ESV)
+
+### Acts 10 & 11 (Cornelius’ household)
+
+> At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, a **devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God**.
+>
+> About the ninth hour of the day he saw clearly in a vision an angel of God come in and say to him, “Cornelius.”  
+> And he stared at him in terror and said, “What is it, Lord?”  s
+> And he said to him, “Your prayers and your alms have ascended as a memorial before God. And now send men to Joppa and bring one Simon who is called Peter.
+>
+> — Acts 10:1-5 (ESV)
+
+Cornelius obeyed by sending his men to Joppa to find Peter (Acts 10:6-10).
+
+The next day Peter fell in a trance (Acts 10:11) and God made it clear to Peter that he should not consider gentiles "unclean" (Acts 10:12-18).
+
+> And while Peter was pondering the vision, the Spirit said to him, “Behold, three men are looking for you. Rise and go down and accompany them without hesitation, for I have sent them.” — Acts 10:19-20 (ESV)
+
+The next day Peter and some brothers went with Cornelius' men to Caesarea. In the meantime Cornelius had gathered his relative and close friends. Cornelius was honored when Peter arrived (Acts 10:21-33).
+
+> So Peter opened his mouth and said:
+>
+> “Truly I understand that God shows no partiality, but in every nation anyone who **fears Him and does what is right is acceptable to Him**. As for the word that He sent to Israel, preaching good news of peace through **Jesus Christ (he is Lord of all)**, you yourselves **know what happened throughout all Judea**, beginning from Galilee after the baptism that John proclaimed: **how God anointed Jesus of Nazareth with the Holy Spirit and with power**. He went about doing good and healing all who were oppressed by the devil, for **God was with him**. And **we are witnesses** of all that he did both in the country of the Jews and in Jerusalem. **They put him to death** by hanging him on a tree, but **God raised him** on the third day and made him to appear, not to all the people but to us who had been chosen by God as **witnesses**, who ate and drank with him after he rose from the dead. And **he commanded us to preach to the people** and **to testify that [he is the one appointed by God](../christ.md)** to be **judge of the living and the dead**. To him all [the prophets bear witness](https://prophecies.ofgod.info/messianic) that **everyone who believes in him receives forgiveness of sins** through [his name](../../name.md).”
+>
+> While Peter was still saying these things, [the Holy Spirit](https://son.ofgod.info/trinity/holy-spirit) fell on all who heard the word. And the believers from among the circumcised who had come with Peter were amazed, because **the gift of the Holy Spirit was poured out even on the Gentiles**. For they were hearing them **speaking in tongues and extolling God**.
+>
+> Then Peter declared, “Can anyone withhold water for **baptizing these people**, who have received the Holy Spirit just as we have?”
+>
+> And he commanded them to be **baptized in [the name of Jesus Christ](https://word.ofgod.info/terms/name)**. Then they asked him to remain for some days.
+>
+> — Acts 10:34-11:18 (ESV)
+
+Some time later, Peter had been critized by the circumcision party in Jerusalem for eating with Cornelius' uncircumcised men (Acts 11:1-14), on which Peter responded:
+
+> As I began to speak, **the Holy Spirit fell on them** just as on us at the beginning. And I remembered the word of the Lord, how he said, ‘John **baptized with water**, but you will be **baptized with the Holy Spirit**.’ If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God’s way?”
+>
+> When they heard these things they fell silent. And they glorified God, saying, “Then to the Gentiles also **God has granted repentance that leads to life**.”
+>
+> — Acts 11:15-18 (ESV)
+
+> [!WARNING]
+> Peter did not tell Cornelius that *God died for our sins*. Instead Peter made it clear that **"God anointed Jesus of Nazareth"**, "God was **with** him" (not *"is"* him), he was **"put to death"** and **"God raised him"** (not that *he raised himself*). He is "**appointed by God** to be judge" (showing God still has higher authority even after exaltation).
+>
+> Peter goes on to say this is what "all the prophets bear witness", showing that [interpretations of prophecies that claim that the Jews from the Old Testament believed that the Messiah would be God Himself is wrong](https://prophecies.ofgod.info/trinitarian).
+>
+> "Belief in him" does not mean *accept him as God*. [Belief](https://word.ofgod.info/terms/faith) means trust. So, instead it means to trust that message ("the word") he preached is true.
+>
+> Nothing in this passage shows that Peter lead Cornelius to belief that Jesus is his supreme God, yet the believers acknowledged that "God has granted repentance that leads to life" to Cornelius' household.
+
+> [!WARNING]
+> "The name of Jesus" is not a magic word that brings "forgiveness of sins" if it is called out loud enough or repeatedly. Instead it means to [submit under the authority](https://word.ofgod.info/terms/name) of Jesus as Peter said earlier, "he is lord of all". That means, it goes with true [repentance and obedience](repentance.md).
 
 ---
 
