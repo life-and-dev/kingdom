@@ -74,22 +74,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 The sections below cover the passages in both [tables](#summaries). Where a response continues the same scene, the request and the response share one sub-section.
 
-### John 10:10 — Life Abundantly
-
-Jesus had healed a man born blind, and the Pharisees had thrown him out of the synagogue (9:34). Jesus found him and spoke about shepherds, sheep and thieves, with the Pharisees listening.
-
-> “The thief comes only to steal and kill and destroy. I came that they may have **life** and have it **abundantly**.” — John 10:10 (ESV)
-
-He had just called himself the door of the sheep (10:9). He then called himself the good shepherd who lays down his life for the sheep (10:11-18), and the crowd divided again (10:19-21). The difference: life is set against the damage done by false shepherds, and the shepherd's own death is named as the means.
-
-### John 11:25-26 — The Resurrection and the Life
-
-Lazarus of Bethany, brother of Mary and Martha, was sick. Jesus delayed two days and arrived after Lazarus had been in the tomb four days. Martha went out to meet him on the road.
-
-> “I am the **resurrection and the life**. Whoever **believes in me**, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?” — John 11:25-26 (ESV)
-
-Martha had said, “Lord, if you had been here, my brother would not have died,” and Jesus answered that her brother would rise again (11:21-23). She confessed, “Yes, Lord; I believe that you are the Christ, the Son of God” (11:27). Jesus wept, raised Lazarus, and many Jews believed (11:45). The Sanhedrin then plotted to kill Jesus (11:47-53). The difference: the promise was spoken to one grieving sister and then demonstrated at the tomb.
-
 ### John 12:44-50 — The Word That Judges
 
 This is the end of Jesus' public ministry, after the triumphal entry and after Greeks asked to see him. John notes that many believed but would not confess him for fear of the Pharisees (12:42-43).
@@ -105,102 +89,6 @@ It was the night before the crucifixion. Jesus had washed the disciples' feet, J
 > “I am **the way**, and **the truth**, and **the life**. No one comes to the Father except through me.” — John 14:6 (ESV)
 
 Thomas said, “Lord, we do not know where you are going. How can we know the way?” (14:5). Philip asked to see the Father, and Jesus pointed him back to his words and works (14:8-11), promised the Spirit, and said, “Rise, let us go from here” (14:31). The difference: on the night their leader was taken, the disciples were given a person to follow, not a map.
-
-### Peter in Cornelius’s household
-
-Peter announces that God anointed Jesus, raised him after his death, appointed him judge, and grants forgiveness through his name to everyone who believes in him (Acts 10:34–43). The Spirit falls while Peter is speaking, and the household is baptized (Acts 10:44–48). Peter’s later account explains why these words mattered to the household.
-
-> So Peter opened his mouth and said:
->
-> “Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him. As for [the word](../../name/word.md) that he sent to Israel, preaching good news of peace through Jesus Christ (he is Lord of all), you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed: how God anointed Jesus of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, for God was with him. And we are witnesses of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree, but God raised him on the third day and made him to appear, not to all the people but to us who had been chosen by God as witnesses, who ate and drank with him after he rose from the dead. And he commanded us to preach to the people and **to testify that he is the one appointed by God** to be judge of the living and the dead. To him all [the prophets bear witness](https://prophecies.ofgod.info/messianic) that everyone who believes in him receives forgiveness of sins through [his name](../../name.md).”
->
-> While Peter was still saying these things, [the Holy Spirit](../../trinity/holy-spirit.md) fell on all who heard the word. And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles. For they were hearing them speaking in tongues and extolling God.
->
-> Then Peter declared, “Can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?”
->
-> And he commanded them to be baptized in [the name of Jesus Christ](../../name.md). Then they asked him to remain for some days.
->
-> — Acts 10:34-48 (ESV)
-
-Instead of proclaiming *Jesus is God Himself*, Peter made it clear that they testify that Jesus was **appointed by God**.
-
-Acts 11:14 describes Peter’s message as words by which Cornelius and his household would be saved:
-
-> And he told us how he had seen the angel stand in his house and say, ‘Send to Joppa and bring Simon who is called Peter; he will declare to you a message by which you will be saved, you and all your household.’ As I began to speak, the Holy Spirit fell on them just as on us at the beginning. And I remembered the word of the Lord, how he said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’ If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God’s way?”
->
-> When they heard these things they fell silent. And they glorified God, saying, “Then to the Gentiles also **God has granted repentance** that leads to life.”
->
-> — Acts 11:13-18 (ESV)
-
- These people also repented without the information that *Jesus was supposed to be their God*.
-
-### Paul in Pisidian Antioch
-
-Paul recounts God’s dealings with Israel, presents Jesus as the promised Savior, announces his death and God’s resurrection of him, and proclaims forgiveness and justification to believers (Acts 13:16–41). The continuation records both acceptance and opposition.
-
-> So Paul stood up, and motioning with his hand said:
->
-> “Men of Israel and you who fear God, listen. The God of this people Israel chose our fathers and made the people great during their stay in the land of Egypt, and with uplifted arm he led them out of it. And for about forty years he put up with them in the wilderness. And after destroying seven nations in the land of Canaan, he gave them their land as an inheritance. All this took about 450 years. And after that he gave them judges until Samuel the prophet. Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years. And when he had removed him, he raised up David to be their king, of whom he testified and said, ‘I have found in David the son of Jesse a man after my heart, who will do all my will.’ **Of this man’s offspring God has brought to Israel a Savior, Jesus**, as He promised.
->
-> Before his coming, John had proclaimed a baptism of repentance to all the people of Israel. And as John was finishing his course, he said, ‘What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.’
->
-> “Brothers, sons of the family of Abraham, and those among you who fear God, to us has been sent the message of this salvation. For those who live in Jerusalem and their rulers, because they did not recognize him nor understand [the utterances of the prophets](https://prophecies.ofgod.info/messianic), which are read every Sabbath, fulfilled them by condemning him. And though they found in him no guilt worthy of death, they asked Pilate to have him executed. And when they had carried out all that was written of him, they took him down from the tree and laid him in a tomb. But God raised him from the dead, and for many days he appeared to those who had come up with him from Galilee to Jerusalem, who are now his witnesses to the people.
->
-> And we bring you the good news that what God promised to the fathers, this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm,
->
->> “‘You are My son, today I have begotten you.’
->
-> And as for the fact that he raised him from the dead, no more to return to corruption, he has spoken in this way,
->
->> “‘I will give you the holy and sure blessings of David.’
->
-> Therefore he says also in another psalm,
->
->> “‘You will not let your Holy One see corruption.’
->
-> For David, after he had served the purpose of God in his own generation, fell asleep and was laid with his fathers and saw corruption, but he whom God raised up did not see corruption. Let it be known to you therefore, brothers, that through this **man** forgiveness of sins is proclaimed to you, and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses.
->
-> Beware, therefore, lest what is said in the Prophets should come about:
->
->> “‘Look, you scoffers, be astounded and perish; for I am doing a work in your days, a work that you will not believe, even if one tells it to you.’”
->
-> As they went out, the people begged that these things might be told them the next Sabbath. And after the meeting of the synagogue broke up, many Jews and devout converts to Judaism followed Paul and Barnabas, who, as they spoke with them, urged them to continue in the grace of God.
->
-> The next Sabbath almost the whole city gathered to hear the word of the Lord. But when the Jews saw the crowds, they were filled with jealousy and began to contradict what was spoken by Paul, reviling him. And Paul and Barnabas spoke out boldly, saying, “It was necessary that the word of God be spoken first to you. Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles. For so the Lord has commanded us, saying,
->
->> “‘[I have made you a light](https://kingdom.ofgod.info/light) for the Gentiles, that you may bring salvation to the ends of the earth.’”
->
-> And when the Gentiles heard this, they began rejoicing and glorifying [the word](../../name/word.md) of the Lord, and as many as were appointed to eternal life believed. And the word of the Lord was spreading throughout the whole region.
->
-> — Acts 13:16-49 (ESV)
-
-Acts 13:48 explicitly reports belief among those appointed to eternal life. Others reject the message (Acts 13:45–46, 50–51). Paul’s recorded appeal centers on forgiveness through Jesus and the response of belief, not a stated requirement to confess Jesus as Almighty God.
-
-### Paul in Athens
-
-At Athens, calls all people to repent, and says God appointed a man to judge the world, giving assurance by raising him from the dead:
-
-> So Paul, standing in the midst of the Areopagus, said: “Men of Athens, I perceive that in every way you are very religious. For as I passed along and observed the objects of your worship, I found also an altar with this inscription: ‘To the unknown god.’ What therefore you worship as unknown, this I proclaim to you. The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, nor is He served by human hands, as though he needed anything, since He himself gives to all mankind life and breath and everything. And He made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, that they should seek God, and perhaps feel their way toward him and find him. Yet He is actually not far from each one of us, for
->
->> ‘In him we live and move and have our being’;
->
-> as even some of your own poets have said,
->
->> ‘For we are indeed his offspring.’
->
-> Being then God’s offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man. The times of ignorance God overlooked, but now He commands all people everywhere to repent, because He has fixed a day on which he will judge the world in righteousness by **a man whom He has appointed**; and of this He has given assurance to all by raising him from the dead.”
->
-> — Acts 17:22-31 (ESV)
-
-Paul made a distinction between the "Unknown God" and "a man whom He has appointed". Although the audience responded in different ways: some mock, others ask to hear more, and **some join Paul and believe** (Acts 17:32-24). The account reports belief without stating a requirement to confess Jesus as Almighty God or to affirm the Trinity.
-
-### Acts 4:8-22 — No Other Name
-
-The next day the rulers, elders and scribes met in Jerusalem with Annas the high priest, Caiaphas, John and Alexander. They set Peter and John in the midst and asked, “By what power or by what name did you do this?”
-
-> “This Jesus is the **stone that was rejected** by you, the builders, which has become the cornerstone. And there is **salvation** in no one else, for there is **no other name** under heaven given among men by which we must be **saved**.” — Acts 4:11-12 (ESV)
-
-Peter, filled with the Holy Spirit, said the man stood well by the name of Jesus Christ of Nazareth, whom they crucified and God raised (4:8-10). `Plan` is marked `Yes` because Peter cites Psalm 118:22, the rejected stone that became the cornerstone. The rulers saw the boldness of uneducated men and the healed man standing with them, and could say nothing against it. They warned them not to speak in the name and released them (4:13-22). The believers then prayed, the place shook, and they spoke with boldness (4:23-31). The difference: the name they were ordered to suppress became the center of the church's public prayer.
 
 ### Acts 5:29-42 — Obey God Rather Than Men
 

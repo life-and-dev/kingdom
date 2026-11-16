@@ -82,6 +82,7 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 | [John 4:39-42](salvation/examples.md#john-439-42-samaritans)                          | Jesus            | Samaritans           | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
 | [John 5:21-26](salvation/examples.md#john-521-26-jewish-leaders)                      | Jesus            | Jewish leaders       | -    | -       | Yes          | Yes       | -         | -      | -       | -    | Yes       |
 | [John 8:12-30](salvation/examples.md#john-812-30-jews)                                | Jesus            | Jews                 | Yes  | -       | -            | Yes       | -         | -      | -       | Yes  | Yes       |
+| [John 11:25-26](salvation/examples.md#john-1125-26-martha)                            | Jesus            | Martha and Jews      | -    | -       | Yes          | -         | -         | -      | -       | -    | Yes       |
 | [Acts 2:22–43](salvation/examples.md#acts-222-36-peter)                               | Peter            | Mixed multitude      | Yes  | -       | Yes          | -         | No        | Yes    | Yes     | -    | Yes       |
 | [Acts 3 & 4](salvation/examples.md#acts-3--4-jews)                                    | Peter            | Jews                 | Yes  | -       | Yes          | Yes       | No        | Yes    | -       | -    | Yes       |
 | [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household)                 | Peter            | Cornelius' household | -    | -       | Yes          | Yes       | No        | Yes    | Yes     | -    | Yes       |
@@ -142,16 +143,19 @@ The apostles then choose Barsabbas and Silas to send with Paul with a letter tha
 >
 > For it has **seemed good to the Holy Spirit and to us to lay on you no greater burden than these requirements** that you:
 >
-> 1. abstain from what has been sacrificed to idols, and
-> 2. *[abstain]* from blood, and
+> 1. abstain from what has been sacrificed to idols *[Exodus 34:15; Leviticus 17:1-9]*, and
+> 2. *[abstain]* from blood *[Leviticus 17:10-16; Deuteronomy 12:23-24]*, and
 > 3. *[abstain]* from what has been strangled, and
-> 4. *[abstain]* from sexual immorality.
+> 4. *[abstain]* from sexual immorality *[Leviticus 18:6-23,26]*.
 >
 > If you keep yourselves from these, **you will do well**. Farewell.”
 >
 > — Acts 15:24-25,28-29
 
-Many Christian quote Acts 15:28-29 out of context to show that *only these 4 laws should be obeyed*. Yet, Jesus himself said:
+> [!TIP]
+> Although the Torah never explicitly forbid strangling animals, some place law #3 (strangled) and law #4 (blood) together because a strangled animal still contain its blood.
+
+Many modern Christians quote Acts 15:28-29 out of context to show that *only these 4 laws should be obeyed*. This is often done in combination of misquoting Hebrews 8:13 out of context to show that the "Old Testament" is now *obsolute*. Yet, Jesus himself said:
 
 > "**Do not think that I have come to abolish the Law** or the Prophets; I have not come to abolish them but to fulfill them. For truly, I say to you, **until heaven and earth pass away, not an iota, not a dot, will pass from the Law** until all is accomplished. Therefore **whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in [the kingdom of heaven](../index.md)**, but **whoever does them and teaches them will be called great in [the kingdom of heaven](../index.md)**." — Matthew 5:17-19 (ESV)
 

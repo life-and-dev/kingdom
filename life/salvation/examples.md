@@ -236,6 +236,16 @@ The Pharisees replied that Jesus's witness is invalid because they do not know h
 
 The exchange ended with an attempt to stone him (8:59). Some believed, but the leaders grew more hostile.
 
+### John 11:25-26 (Martha)
+
+Lazarus of Bethany, brother of Mary and Martha, was sick. Jesus delayed two days and arrived after Lazarus had been in the tomb four days. Martha went out to meet him on the road.
+
+Martha had said, “Lord, if you had been here, my brother would not have died,” and Jesus answered that her brother would rise again (11:21-23).
+
+> “I am the **resurrection and the life**. Whoever **believes in me**, though he die, **yet shall he live**, and everyone who lives and believes in me shall never die. Do you believe this?” — John 11:25-26 (ESV)
+
+She confessed, “Yes, Lord; I believe that you are the Christ, the Son of God” (11:27). Jesus wept, raised Lazarus, and many Jews believed (11:45). The Sanhedrin then plotted to kill Jesus (11:47-53).
+
 ## Examples after Christ
 
 ### Mark 16:14-16 (Disciples)
