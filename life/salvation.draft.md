@@ -74,22 +74,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 The sections below cover the passages in both [tables](#summaries). Where a response continues the same scene, the request and the response share one sub-section.
 
-### John 14:6 — The Way, the Truth, and the Life
-
-It was the night before the crucifixion. Jesus had washed the disciples' feet, Judas had left, and Jesus had told Peter that he would deny him. He began, “Let not your hearts be troubled” (14:1).
-
-> “I am **the way**, and **the truth**, and **the life**. No one comes to the Father except through me.” — John 14:6 (ESV)
-
-Thomas said, “Lord, we do not know where you are going. How can we know the way?” (14:5). Philip asked to see the Father, and Jesus pointed him back to his words and works (14:8-11), promised the Spirit, and said, “Rise, let us go from here” (14:31). The difference: on the night their leader was taken, the disciples were given a person to follow, not a map.
-
-### Acts 5:29-42 — Obey God Rather Than Men
-
-The apostles had been arrested, freed by an angel, and were teaching in the temple again. The council and the high priest brought them in and reminded them of the order not to teach in this name.
-
-> “We must obey God rather than men. The God of our fathers raised Jesus, whom you killed by hanging him on a tree. God exalted him at his right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins.” — Acts 5:29-31 (ESV)
-
-The high priest accused them of filling Jerusalem with their teaching and of intending to bring Jesus' blood on them (5:28). The council was furious and wanted to kill them, but Gamaliel advised caution. They were beaten, charged again and released. The apostles left “rejoicing that they were counted worthy to suffer dishonor for the name” and kept teaching daily (5:40-42). No call is recorded here: this is a defense before hostile rulers. The difference: the apostles counted suffering for the name as honor instead of backing down.
-
 ### Acts 8:5-13 — Good News in Samaria
 
 Persecution after Stephen's death scattered the Jerusalem church. Philip, one of the seven chosen to serve tables, went down to a city of Samaria, where a magician named Simon had amazed the people for a long time.

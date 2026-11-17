@@ -383,6 +383,27 @@ The council unsuccessfully tried to silenced them (Acts 4:13-18).
 >
 > — Acts 4:19-37 (ESV)
 
+### Acts 5:29-42 (Jerusalem)
+
+Peter did many signs and wonders in Jerusalem. Multitudes of men and women joined the believers. People from towns around Jerusalem traveled to Peter to bring the sick and those afflicted with unclean spirits they were healed. (Acts 5:12-15)
+
+> The people also gathered from the towns around Jerusalem, bringing the sick and those afflicted with unclean spirits, and they were all healed. — Acts 5:16 (ESV)
+
+The apostles had been arrested, freed by an angel, and were teaching in the temple again. The council and the high priest brought them in and reminded them of the order not to teach in this name. The high priest accused them of filling Jerusalem with their teaching and of intending to bring Jesus' blood on them. (Acts 5:17-28)
+
+> But Peter and the apostles answered, “We must obey God rather than men. **The God of our fathers raised Jesus**, whom you **killed** by hanging him on a tree. **God exalted him** at his right hand as **Leader and Savior**, to give **repentance to Israel and forgiveness of sins**. And we are witnesses to these things, and so is the Holy Spirit, *whom* God has given to **those who obey him**.” — Acts 5:29-32 (ESV)
+
+The council was furious and wanted to kill them, but Gamaliel advised caution. They were beaten, charged again and released. The apostles left “rejoicing that they were counted worthy to suffer dishonor for the name” and kept teaching daily (Acts 5:33-42).
+
+> [!WARNING]
+> Instead of teaching that Jesus is the Almighty God, Peter differentiated God from Jesus by saying that **God raised Jesus** and that **God exalted him**. In addition he mentioned that Jesus was **killed**, yet an immortal God cannot die.
+
+So how did Peter identified Jesus?
+
+> And every day, in the temple and from house to house, they did not cease teaching and preaching that **[the Christ](https://kingdom.ofgod.info/christ) is Jesus**. — Acts 5:42 (ESV)
+
+"[The Christ](https://kingdom.ofgod.info/christ)" means "the anointed one", which implies a greater God had anointed Jesus.
+
 ### Acts 10 & 11 (Cornelius’ Household)
 
 > At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, a **devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God**.

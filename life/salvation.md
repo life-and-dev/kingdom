@@ -86,9 +86,10 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 | [John 12:44-50](salvation/examples.md#john-1244-50-jews)                              | Jesus            | Jews                 | -    | -       | -            | Yes       | No        | -      | -       | Yes  | Yes       |
 | [Acts 2:22–43](salvation/examples.md#acts-222-36-peter)                               | Peter            | Mixed multitude      | Yes  | -       | Yes          | -         | No        | Yes    | Yes     | -    | Yes       |
 | [Acts 3 & 4](salvation/examples.md#acts-3--4-jews)                                    | Peter            | Jews                 | Yes  | -       | Yes          | Yes       | No        | Yes    | -       | -    | Yes       |
+| [Acts 5:29-42](salvation/examples.md#acts-529-42-jerusalem)                           | Peter            | Jerusalem            | -    | -       | Yes          | -         | No        | Yes    | -       | -    | Yes       |
 | [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household)                 | Peter            | Cornelius' household | -    | -       | Yes          | Yes       | No        | Yes    | Yes     | -    | Yes       |
 | [Acts 13](salvation/examples.md#acts-13-antioch-jews)                                 | Paul             | Antioch Jews         | -    | -       | Yes          | -         | No        | Yes    | Yes     | -    | Yes       |
-| [Acts 17:1-4](salvaiton/examples.md#acts-171-4-thessalonica)                          | Paul             | Thessalonica         | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
+| [Acts 17:1-4](salvation/examples.md#acts-171-4-thessalonica)                          | Paul             | Thessalonica         | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
 | [Acts 17:16-31](salvation/examples.md#acts-1716-31)                                   | Paul             | Athenians            | -    | -       | -            | Yes       | No        | -      | -       | -    | Yes       |
 
 ### Salvation Response
