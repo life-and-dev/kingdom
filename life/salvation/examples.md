@@ -246,6 +246,31 @@ Martha had said, “Lord, if you had been here, my brother would not have died,�
 
 She confessed, “Yes, Lord; I believe that you are the Christ, the Son of God” (11:27). Jesus wept, raised Lazarus, and many Jews believed (11:45). The Sanhedrin then plotted to kill Jesus (11:47-53).
 
+### John 12:44-50 (Jews)
+
+This is the end of Jesus' public ministry, after the triumphal entry and after Greeks asked to see him. John notes that many believed but would not confess him for fear of the Pharisees (12:42-43).
+
+> And Jesus cried out and said, “Whoever believes in me, **believes not in me but in Him Who sent me**. And whoever sees me sees **Him Who sent me**.
+>
+> I have come into the world as [light](../light.md), so that whoever believes in me may not remain in [darkness](../darkness.md). If anyone hears my words and does not keep them, I do not judge him; for I did not come to judge the world but to **save the world**. The one **who rejects me and does not receive my words has a judge**; the word that I have spoken will **judge him on the last day**. For I have not spoken on my own authority, but **the Father who sent me** has Himself given me a commandment⁠—what to say and what to speak. And I know that **His commandment is eternal life**. What I say, therefore, I say as the Father has told me.”
+>
+> — John 12:44-50 (ESV)
+
+> [!WARNING]
+> John is not correcting himself at John 12:44. He explains that "believing in Christ" means to belief "in Him Who sent" Jesus, which is God, "the Father".
+
+> [!TIP]
+> Belief does not mean "accept" a mysterious faith as true. [Belief means to trust.](https://word.ofgod.info/terms/faith).
+
+This shows:
+
+- "Belief in Christ" means:
+    1. To trust what God spoke truly spoke through Jesus as His anointed Christ
+    2. To trust the words of God is true (trust God Himself)
+- Jesus did not invent the Gospel himself. He spoke on behalf of God the Father.
+- [Jesus acts as God's agent](https://son.ofgod.info/shema/agency) ("what to say and what to speak").
+- [Jesus is not God the Father](https://son.ofgod.info/human/distinct). The Almighty God is not send by another God.
+
 ## Examples after Christ
 
 ### Mark 16:14-16 (Disciples)

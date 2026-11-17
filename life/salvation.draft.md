@@ -74,14 +74,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 The sections below cover the passages in both [tables](#summaries). Where a response continues the same scene, the request and the response share one sub-section.
 
-### John 12:44-50 — The Word That Judges
-
-This is the end of Jesus' public ministry, after the triumphal entry and after Greeks asked to see him. John notes that many believed but would not confess him for fear of the Pharisees (12:42-43).
-
-> “I have come into the world as light, so that whoever **believes in me** may not remain in darkness. If anyone hears my words and **does not keep them**, I do not judge him; for I did not come to judge the world but to **save the world**. The one who rejects me and does not receive my words has a judge; the word that I have spoken will **judge him on the last day**.” — John 12:46-48 (ESV)
-
-Jesus cried out that whoever believes in him believes in the one who sent him (12:44). He said he spoke what the Father commanded. John had already noted that Jesus hid himself from them (12:36), and this cry closes his public teaching (12:49-50). The difference: judgement is deferred to the last day and tied to the words already spoken, while the immediate mission was to save.
-
 ### John 14:6 — The Way, the Truth, and the Life
 
 It was the night before the crucifixion. Jesus had washed the disciples' feet, Judas had left, and Jesus had told Peter that he would deny him. He began, “Let not your hearts be troubled” (14:1).
