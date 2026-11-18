@@ -74,26 +74,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 The sections below cover the passages in both [tables](#summaries). Where a response continues the same scene, the request and the response share one sub-section.
 
-### Acts 8:5-13 — Good News in Samaria
-
-Persecution after Stephen's death scattered the Jerusalem church. Philip, one of the seven chosen to serve tables, went down to a city of Samaria, where a magician named Simon had amazed the people for a long time.
-
-> “Philip went down to the city of Samaria and **proclaimed to them the Christ**.” … “But when they **believed** Philip as he preached good news about the **kingdom of God** and the name of Jesus Christ, they were **baptized**, both men and women.” — Acts 8:5, 12 (ESV)
-
-> “Even Simon himself **believed**, and after being **baptized** he continued with Philip.” — Acts 8:13 (ESV)
-
-The crowds paid attention to Philip because of the signs he did: unclean spirits came out, and the paralyzed and lame were healed (8:6-7). The Response table records that even Simon believed and stayed with Philip, amazed at the signs. The apostles sent Peter and John, who prayed and laid hands on the Samaritans so they received the Spirit (8:14-17). Simon then tried to buy the power and was rebuked (8:18-24). The difference: the gospel crossed from Jews to Samaritans, a group with centuries of hostility.
-
-### Acts 8:26-40 — The Ethiopian Reads Isaiah
-
-An angel told Philip to go south on the desert road from Jerusalem to Gaza. There he met an Ethiopian eunuch, a court official in charge of the treasury of Candace, queen of the Ethiopians. The man had been to Jerusalem to worship and was reading Isaiah aloud.
-
-> “Then Philip opened his mouth, and **beginning with this Scripture** he told him the good news about Jesus.” … “And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him.” — Acts 8:35, 38 (ESV)
-
-> “And the eunuch saw him no more, and **went on his way rejoicing**.” — Acts 8:39 (ESV)
-
-The eunuch was reading Isaiah 53:7-8 and asked whether the prophet spoke of himself or someone else (8:30-34). After the baptism, the Spirit carried Philip away (8:39). Philip preached in Azotus and the towns up to Caesarea (8:40). The difference: the plan announced in Isaiah was applied to one foreign official, which is why `Plan` is marked `Yes`.
-
 ### Acts 9:1-19, 22:12-16 — Saul Baptized
 
 Saul was a young Pharisee who had approved Stephen's death and was “breathing threats and murder” against the disciples. He got letters from the high priest to the synagogues in Damascus so he could arrest believers there. On the road a light from heaven flashed, and he fell to the ground.

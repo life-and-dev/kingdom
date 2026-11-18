@@ -404,6 +404,51 @@ So how did Peter identified Jesus?
 
 "[The Christ](https://kingdom.ofgod.info/christ)" means "the anointed one", which implies a greater God had anointed Jesus.
 
+### Acts 8:5-17 (Samaria)
+
+Persecution after Stephen's death (Acts 7), Saul continue to persecute the church in Jerusalem. This caused believers to scattered but also to preach the word where the went (Acts 8:1-4).
+
+> Philip went down to the city of Samaria and **proclaimed to them the Christ**. And **the crowds with one accord paid attention** to what was being said by Philip, when they heard him and saw the signs that he did. For unclean spirits, crying out with a loud voice, came out of many who had them, and many who were paralyzed or lame were healed. So there was much joy in that city.
+>
+> But there was a man named Simon, who had previously practiced magic in the city and amazed the people of Samaria, saying that he himself was somebody great. They all paid attention to him, from the least to the greatest, saying, “This man is the power of God that is called Great.” And they paid attention to him because for a long time he had amazed them with his magic.
+>
+> But when they believed Philip as **he preached good news about [the kingdom of God](../index.md)** and **the name of Jesus Christ**, they were **baptized**, both men and women. **Even Simon himself believed, and after being baptized he continued with Philip**. And seeing signs and great miracles performed, he was amazed.
+>
+> Now when the apostles at Jerusalem heard that **Samaria had received the word of God**, they sent to them Peter and John, who came down and **prayed for them** that they might receive the Holy Spirit, for he had not yet fallen on any of them, but they had only been **baptized** in the name of the Lord Jesus. Then **they laid their hands on them and they received the Holy Spirit**.
+>
+> — Acts 8:5-17 (ESV)
+
+Simon then tried to buy the power and was rebuked (8:18-24).
+
+### Acts 8:26-40 (Ethiopian Eunuch)
+
+> Now when they had testified and spoken the word of the Lord, they returned to Jerusalem, preaching the gospel to many villages of the Samaritans.
+>
+> Now an angel of the Lord said to Philip, “Rise and go toward the south to the road that goes down from Jerusalem to Gaza.”
+>
+> This is a desert place. And he rose and went. And there was an Ethiopian, a eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship and was returning, seated in his chariot, and he was reading the prophet Isaiah.
+>
+> And the Spirit said to Philip, “Go over and join this chariot.”
+>
+> So Philip ran to him and heard him reading Isaiah the prophet and asked, “Do you understand what you are reading?”  
+> And he said, “How can I, unless someone guides me?”
+>
+> And he invited Philip to come up and sit with him.
+>
+> — Acts 8:25-31
+
+Then the eunuch read the prophecy and Philip explained it to him. (Acts 8:32-34)
+
+> Then Philip opened his mouth, and beginning with this Scripture he told him **the good news about Jesus**. And as they were going along the road they came to some water, and the eunuch said, “See, here is water! What prevents me from being baptized?” And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and **he baptized him**. And when they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, and went on his way **rejoicing**.
+>
+> — Acts 8:35-39 (ESV)
+
+> [!TIP]
+> Possible explanations how we know the eunuch was "rejoicing" *after* Philip was *"carried away"*:
+>
+> - Philip did not immediately disappear, he saw the eunuch's reaction before he went to Azotus.
+> - Since the eunuch was an important person, his testimony might have been well known in the region at that time.
+
 ### Acts 10 & 11 (Cornelius’ Household)
 
 > At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, a **devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God**.
