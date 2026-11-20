@@ -1,3 +1,8 @@
+---
+description: Explore biblical examples of salvation, from Moses' teaching to responses to the gospel and the apostles' decision on the law of Moses.
+keywords: salvation, biblical salvation, salvation before Christ, Moses, faith, gospel, grace, law of Moses, Acts 15
+---
+
 # Salvation
 
 There are no scripture that state do this thing and you are saved forever. There are also no fixed list of steps to follow for salvation. Therefore, I have listed biblical examples that shows how people were saved. The purpose is to establish a pattern for salvation, rather than to read doctrines back into scripture.

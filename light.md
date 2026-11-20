@@ -3,7 +3,7 @@ description: Understanding biblical light as revelation, truth, and righteousnes
 keywords: biblical light, divine revelation, spiritual illumination, lamp of God, children of light, walking in light, shine before others
 ---
 
-# What is Light?
+# Light
 
 I often hear Christians talk about "walking in the light" or "being the light of the world." But what does that actually mean? When Jesus calls us to be light, what is He asking us to do? If we should shine, what is [darkness](darkness.md)?
 

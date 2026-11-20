@@ -1,3 +1,8 @@
+---
+description: Explore biblical examples of salvation before Christ, through Christ's ministry, and after Christ in the apostles' preaching.
+keywords: salvation, biblical salvation, examples of salvation, salvation before Christ, Jesus, gospel, apostles, faith, repentance
+---
+
 # Examples
 
 Everyone needs [salvation](../salvation.md) from [the wrath of God](../../death/judgement.md). This article focus on practical biblical examples on how people really got saved, [before Christ](#examples-before-christ), [by Christ himself](#examples-by-christ) and [after Christ](#examples-after-christ).
