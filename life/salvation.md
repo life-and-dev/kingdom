@@ -105,22 +105,23 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Devotion` a change in behaviour ("good fruit"): often recognized by an act of trust like obeying God (or Christ's) commands or laws which results to turn from a previous wicked lifestyle.
 > - `Jesus=God` the audience identifying [Jesus as their Supreme God](https://son.ofgod.info/divine)
 
-| Scripture                                                             | Audience             | Reaction                                                      | Confess | Baptized  | Devotion | Jesus=God |
-| --------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------- | ------- | --------- | -------- | --------- |
-| [Genesis 16:6](salvation/examples.md#genesis-166-abraham)             | Abraham              | Believed the LORD                                             | -       | -         | Yes      | -         |
-| [2 Samuel 12:13](salvation/examples.md#2-samuel-1213-david)           | King David           | Confessed his sin after prophet approached him                | Yes     | -         | Yes      | -         |
-| [2 Kings 5:1-19](salvation/examples.md#2-kings-51-19-naaman)          | Naaman               | Washed, acknowledged YHWH, pledged exclusive worship          | Yes     | Debatable | Yes      | -         |
-| [Luke 19:1-10](salvation/examples.md#luke-191-10-zacchaeus)           | Zacchaeus            | Sold possession and pay back defrauded people                 | Assume  | -         | Yes      | -         |
-| [Acts 2:22–43](salvation/examples.md#acts-222-36-peter)               | Mixed multitude      | Devotion, prayers, awe, sharing everything                    | Yes     | Yes       | Yes      | -         |
-| [Acts 3 & 4](salvation/examples.md#acts-3--4-jews)                    | Jews                 | Believed, devotion, prayers, shared everything                | -       | -         | Yes      | -         |
-| [Acts 8:26-40](salvation/examples.md#acts-826-40-ethiopian-eunuch)    | Ethiopian eunuch     | Request baptism and rejoiced                                  | -       | Yes       | -        | -         |
-| [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household) | Cornelius' household | Filled with Holy Spirit and speak in tongues                  | -       | Yes       | -        | -         |
-| [Acts 16:13-15](salvation/examples.md#acts-1613-15-lydias-household)  | Lydia's household    | Payed attention to what Paul said                             | -       | Yes       | -        | -         |
-| [Acts 16:26-34](salvation/examples.md#acts-1626-34-jailers-household) | Jailer's household   | Got baptized and rejoiced                                     | -       | Yes       | -        | -         |
-| [Acts 17:10-12](salvation/examples.md#acts-1710-12-berea)             | Berea                | Received the word, examined the scriptures daily and believed | -       | -         | Assume   | -         |
+| Scripture                                                              | Audience             | Reaction                                                            | Confess | Baptized  | Devotion | Jesus=God |
+| ---------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------- | ------- | --------- | -------- | --------- |
+| [Genesis 16:6](salvation/examples.md#genesis-166-abraham)              | Abraham              | Believed the LORD                                                   | -       | -         | Yes      | -         |
+| [2 Samuel 12:13](salvation/examples.md#2-samuel-1213-david)            | King David           | Confessed his sin after prophet approached him                      | Yes     | -         | Yes      | -         |
+| [2 Kings 5:1-19](salvation/examples.md#2-kings-51-19-naaman)           | Naaman               | Washed, acknowledged YHWH, pledged exclusive worship                | Yes     | Debatable | Yes      | -         |
+| [Luke 19:1-10](salvation/examples.md#luke-191-10-zacchaeus)            | Zacchaeus            | Sold possession and pay back defrauded people                       | Assume  | -         | Yes      | -         |
+| [Acts 2:22–43](salvation/examples.md#acts-222-36-peter)                | Mixed multitude      | Devotion, prayers, awe, sharing everything                          | Yes     | Yes       | Yes      | -         |
+| [Acts 3 & 4](salvation/examples.md#acts-3--4-jews)                     | Jews                 | Believed, devotion, prayers, shared everything                      | -       | -         | Yes      | -         |
+| [Acts 8:26-40](salvation/examples.md#acts-826-40-ethiopian-eunuch)     | Ethiopian eunuch     | Request baptism and rejoiced                                        | -       | Yes       | -        | -         |
+| [Acts 9:1-20, 22:12-16](salvation/examples.md#acts-91-20-2212-16-saul) | Saul                 | Radical change from murder to saviour willing to suffer persecution | Yes     | Yes       | Yes      | No        |
+| [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household)  | Cornelius' household | Filled with Holy Spirit and speak in tongues                        | -       | Yes       | -        | -         |
+| [Acts 16:13-15](salvation/examples.md#acts-1613-15-lydias-household)   | Lydia's household    | Payed attention to what Paul said                                   | -       | Yes       | -        | -         |
+| [Acts 16:26-34](salvation/examples.md#acts-1626-34-jailers-household)  | Jailer's household   | Got baptized and rejoiced                                           | -       | Yes       | -        | -         |
+| [Acts 17:10-12](salvation/examples.md#acts-1710-12-berea)              | Berea                | Received the word, examined the scriptures daily and believed       | -       | -         | Assume   | -         |
 
 > [!CAUTION]
-> While it crucial to believe in the existance of God and to believe that Jesus is the [Christ (God's annointed lord)](../christ.md) for salvation, it has **never** been a requirement to [believe that Jesus is *independantly the Supreme God Himself*](https://son.ofgod.info/divine). The latter requirement was only [added by church creeds many centuries later](https://son.ofgod.info/trinity/development) for political reasons.
+> While it crucial to believe in the existance of God and to believe that Jesus is the [Christ (God's annointed lord)](../christ.md) for salvation, it has **never** been a requirement to [believe that Jesus is *the Supreme God Himself*](https://son.ofgod.info/divine). The latter requirement was only [added by church creeds many centuries later](https://son.ofgod.info/trinity/development) for political reasons.
 
 ## Laws Required For Salvation
 

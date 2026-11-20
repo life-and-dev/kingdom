@@ -74,66 +74,6 @@ There are many false teaching about "Salvation" in circulation. Instead of blind
 
 The sections below cover the passages in both [tables](#summaries). Where a response continues the same scene, the request and the response share one sub-section.
 
-### Acts 9:1-19, 22:12-16 — Saul Baptized
-
-Saul was a young Pharisee who had approved Stephen's death and was “breathing threats and murder” against the disciples. He got letters from the high priest to the synagogues in Damascus so he could arrest believers there. On the road a light from heaven flashed, and he fell to the ground.
-
-> “Saul, Saul, why are you persecuting me?” … “I am Jesus, whom you are persecuting.” — Acts 9:4-5 (ESV)
-
-> “And now why do you wait? Rise and be **baptized** and **wash away your sins**, **calling on his name**.” — Acts 22:16 (ESV)
-
-> “Then he rose and was **baptized**; and taking food, he was strengthened.” — Acts 9:18-19 (ESV)
-
-Saul was blind for three days and did not eat or drink (9:9). Ananias was sent by a vision and called him “Brother Saul” (9:10-17). Something like scales fell from his eyes (9:18). He immediately proclaimed Jesus in the Damascus synagogues, and the Jews plotted to kill him; he escaped in a basket (9:20-25). The difference: the chief persecutor became the chief witness.
-
-### Acts 10:34-48 — No Partiality
-
-Cornelius was a centurion of the Italian cohort in Caesarea, a devout man who gave alms and prayed constantly. An angel told him to send for Peter, who was staying in Joppa and had just received a vision of a sheet with unclean animals. Peter came to Cornelius' house, where relatives and close friends were gathered.
-
-> “Truly I understand that **God shows no partiality**, but in every nation anyone who **fears him** and does what is right is acceptable to him.” … “And he commanded us to preach to the people and to testify that he is the one appointed by God to be **judge of the living and the dead**. To him all the prophets bear witness that everyone who **believes in him** receives **forgiveness of sins** through his name.” — Acts 10:34-35, 42-43 (ESV)
-
-> “While Peter was still saying these things, the **Holy Spirit fell** on all who heard the word… For they were hearing them speaking in **tongues** and **extolling God**. … And he commanded them to be **baptized** in the name of Jesus Christ.” — Acts 10:44-48 (ESV)
-
-Peter said, “You yourselves know that it is unlawful for a Jew to associate with or to visit a Gentile, but God has shown me that I should not call any person common or unclean” (10:28). The Response table records what happened while he was still speaking: the Spirit fell, the circumcised believers were amazed, and the household was baptized. `Plan` is marked `Yes` because Peter says all the prophets bear witness to him (10:43), and `Judgement` because he names Jesus as judge of the living and the dead. The difference: this was the first Gentile household to receive the Spirit.
-
-### Acts 13:16-52 — Forgiveness Proclaimed
-
-Paul and Barnabas were on their first journey and came to Pisidian Antioch. On the Sabbath they went into the synagogue, and after the reading of the Law and the Prophets the rulers invited them to speak.
-
-> “Let it be known to you therefore, brothers, that through this man **forgiveness of sins** is proclaimed to you, and by him everyone who **believes** is **freed** from everything from which you could not be freed by the law of Moses.” — Acts 13:38-39 (ESV)
-
-> “And when the Gentiles heard this, they began **rejoicing** and **glorifying the word of the Lord**… And the disciples were filled with **joy** and with the **Holy Spirit**.” — Acts 13:48, 52 (ESV)
-
-Paul reviewed Israel's history from Egypt to David and announced that God had brought to Israel a Savior, Jesus, as promised (13:17-23), which is why `Plan` is marked `Yes`. He said the rulers in Jerusalem had fulfilled the prophets by condemning him (13:27-29). The Gentiles begged to hear more the next Sabbath, and almost the whole city gathered. The Jews were filled with jealousy and contradicted Paul, so Paul and Barnabas turned to the Gentiles. The Response table records that the Gentiles rejoiced, glorified the word, and followed Paul; the Jews stirred up persecution and drove them out. They shook off the dust and went to Iconium (13:42-52). The difference: the message moved from the synagogue to the Gentiles, and the city heard it.
-
-### Acts 16:11-15 — Lydia's Heart Opened
-
-Paul had a vision of a man from Macedonia asking for help, so the team sailed from Troas to Philippi, a Roman colony. On the Sabbath they looked for a place of prayer and found women gathered by the river outside the gate.
-
-> “The Lord **opened her heart** to pay attention to what was said by Paul. And after she was **baptized**, and her household as well, she urged us, saying, ‘If you have judged me to be faithful to the Lord, come to my house and stay.’ And she prevailed upon us.” — Acts 16:14-15 (ESV)
-
-Lydia was from Thyatira, a seller of purple goods, and a worshiper of God (16:14). Her house became the base for the mission. Later Paul and Silas were beaten and jailed, and after the earthquake they returned to Lydia's house, encouraged the brothers and departed (16:40). The difference: the first believer recorded in Philippi, and no call is recorded because the emphasis is on the Lord opening her heart.
-
-### Acts 16:25-34 — What Must I Do to Be Saved?
-
-Paul and Silas had been beaten with rods and put in the inner prison with their feet in stocks. About midnight they were praying and singing hymns, and the other prisoners were listening. An earthquake opened the doors and loosened the chains.
-
-> “Sirs, **what must I do to be saved**?” And they said, “**Believe in the Lord Jesus**, and you will be **saved**, you and your household.” … and he was **baptized** at once, he and all his family. — Acts 16:30-31, 33 (ESV)
-
-> “And he **rejoiced** along with his entire household that he had believed in God.” — Acts 16:34 (ESV)
-
-The jailer woke, saw the doors open and drew his sword to kill himself, thinking the prisoners had escaped. Paul called out that they were all there (16:27-28). The jailer washed their wounds and set food before them (16:33-34). The next day the magistrates released them (16:35-40). The difference: the question came from a frightened Roman jailer, and the answer was a person to trust, followed by baptism. `Baptize` stays `-` because the stated condition was belief, not the baptism that followed.
-
-### Acts 17:16-34 — The Unknown God
-
-Paul was waiting for Silas and Timothy in Athens. He was provoked by the city's idols, so he reasoned in the synagogue, in the marketplace, and with Epicurean and Stoic philosophers, who brought him to the Areopagus.
-
-> “The times of ignorance God overlooked, but now he **commands all people everywhere to repent**, because he has fixed a day on which he will **judge the world** in righteousness by a man whom he has appointed; and of this he has given assurance to all by **raising him from the dead**.” — Acts 17:30-31 (ESV)
-
-> “But some men **joined him** and **believed**, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them.” — Acts 17:34 (ESV)
-
-Paul began with their altar “to the unknown god” and quoted their own poets, saying God made the world and does not live in temples made by hands (17:22-29). Some mocked the resurrection, and others said, “We will hear you again about this” (17:32). `Repent` and `Judgement` are marked `Yes`, but `Risen` is `-`: the resurrection is named as proof of the coming judge, not as the object of a call to trust. The difference: a debate about an unknown god ended with a command to repent and a warning of judgement; some mocked, but a few joined Paul.
-
 ### Acts 26:1-32 — Turning from Darkness
 
 Paul had been held in Caesarea for two years. He was brought before King Agrippa and Bernice, with Festus the governor present, to explain the charges against him. He told the story of the Damascus road and repeated the commission Jesus gave him.

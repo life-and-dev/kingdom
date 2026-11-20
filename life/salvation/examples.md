@@ -449,6 +449,50 @@ Then the eunuch read the prophecy and Philip explained it to him. (Acts 8:32-34)
 > - Philip did not immediately disappear, he saw the eunuch's reaction before he went to Azotus.
 > - Since the eunuch was an important person, his testimony might have been well known in the region at that time.
 
+### Acts 9:1-20, 22:12-16 (Saul)
+
+Saul was a young Pharisee who had approved Stephen's death (Acts 7:58, 8:1, 22:3-5).
+
+> But Saul, **still breathing threats and murder** against the disciples of the Lord, went to the high priest and asked him for letters to the synagogues at Damascus, so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem.
+>
+> Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him. And falling to the ground, he heard a voice saying to him, “Saul, Saul, why are you persecuting me?”  
+> And he said, “Who are you, Lord?” And he said, “I am Jesus *[the Nazarene]*, whom you are persecuting. But rise and enter the city, and you will be told what you are to do.”
+>
+> The men who were traveling with him stood speechless, hearing the voice but seeing no one. Saul rose from the ground, and although his eyes were opened, he saw nothing. So they led him by the hand and brought him into Damascus. And for three days he was without sight, and neither ate nor drank.
+>
+> — Acts 9:1-9 (ESV)
+
+> [!TIP]
+> "I am Jesus the Nazarene" is [included in at least 2 manuscripts: A(02) C(04)](https://corebible.app/ACT/9?verseNumber=%2236%22&translation=AICNT). This is also inline with Acts 22:8.
+
+> [!NOTE]
+> The book of Acts is not contradicting himself when Saul interacted with Jesus while the message in Acts 1:11 was that Jesus would return on the clouds. Jesus did not physically return yet and Saul explained in Acts 26:19 that he saw a "heavenly vision".
+
+In a later testimony Paul adds that the voice also told him:
+
+> But rise and stand upon your feet, for I have appeared to you for this purpose, to **appoint you as a servant and witness** to the things in which you have seen me and to those in which I will appear to you, delivering you from your people and from the Gentiles⁠—to whom **I am sending you** to open their eyes, so that they may turn from [darkness](../../darkness.md) to [light](../../light.md) and from the power of Satan to God, that they may receive **forgiveness of sins** and a place among those who are sanctified by faith in me.’ — Acts 26:16-18 (ESV)
+
+In Damascus, the Lord appeared to Ananias in a vision and sent him Ananias to restore Saul’s sight. Though Ananias feared Saul’s reputation, the Lord said Saul had been chosen to carry his name to Gentiles, kings, and Israel. Then Ananias departed and entered Saul's house, filled by the Holy Spirit and layed hands on Saul (Acts 9:10-17).
+
+Saul recalls that Ananias said:
+
+> “‘Brother Saul, receive your sight.’
+>
+> And at that very hour I received my sight and saw him.
+>
+> And he said, ‘The God of our fathers appointed you to know His will, to see the Righteous One and to hear a voice from his mouth; for **you will be a witness for him** to everyone of what you have seen and heard. And now why do you wait? Rise and **be baptized** and **wash away your sins**, **calling on his name**.’
+>
+> — Acts 22:12-16 (ESV)
+
+> For some days he was with the disciples at Damascus.
+>
+> And immediately **he proclaimed Jesus** in the synagogues, saying, **“He is the Son of God.”** — Acts 9:19-20 (ESV)
+
+> [!WARNING]
+> "Proclaiming Jesus" does not mean proclaiming *[Jesus is God](https://son.ofgod.info/divine)*. Paul proclaimed that Jesus is ["the Son of God"](https://son.ofgod.info) which is a Messianic title and shows his relationship with God.
+>
+> Saul himself differentiated between "The God of our fathers" and "the Righteous One". Saul obeys Jesus' instructions and testified as a witness for him which was significant for someone like Saul who used to persecute people who did it. However, Saul did not replace the God of their fathers with Jesus.
+
 ### Acts 10 & 11 (Cornelius’ Household)
 
 > At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, a **devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God**.
