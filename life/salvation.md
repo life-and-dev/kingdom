@@ -93,6 +93,7 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 | [Acts 13](salvation/examples.md#acts-13-antioch-jews)                                 | Paul             | Antioch Jews                | -    | -       | Yes          | -         | No        | Yes    | Yes     | -    | Yes       |
 | [Acts 17:1-4](salvation/examples.md#acts-171-4-thessalonica)                          | Paul             | Thessalonica                | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
 | [Acts 17:16-31](salvation/examples.md#acts-1716-31)                                   | Paul             | Athenians                   | -    | -       | -            | Yes       | No        | -      | -       | -    | Yes       |
+| [Acts 26](salvation/examples.md#acts-26-king-agrippa)                                 | Paul             | King Agrippa                | Yes  | -       | Yes          | -         | -         | Yes    | -       | -    | Yes       |
 
 ### Salvation Response
 
@@ -114,7 +115,7 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 | [Acts 2:22–43](salvation/examples.md#acts-222-36-peter)                | Mixed multitude      | Devotion, prayers, awe, sharing everything                          | Yes     | Yes       | Yes      | -         |
 | [Acts 3 & 4](salvation/examples.md#acts-3--4-jews)                     | Jews                 | Believed, devotion, prayers, shared everything                      | -       | -         | Yes      | -         |
 | [Acts 8:26-40](salvation/examples.md#acts-826-40-ethiopian-eunuch)     | Ethiopian eunuch     | Request baptism and rejoiced                                        | -       | Yes       | -        | -         |
-| [Acts 9:1-20, 22:12-16](salvation/examples.md#acts-91-20-2212-16-saul) | Saul                 | Radical change from murder to saviour willing to suffer persecution | Yes     | Yes       | Yes      | No        |
+| [Acts 9:1-20, 22:12-16](salvation/examples.md#acts-91-20-2212-16-saul) | Saul                 | Radical change from murder to saviour willing to suffer persecution | Yes     | Yes       | Yes      | -         |
 | [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household)  | Cornelius' household | Filled with Holy Spirit and speak in tongues                        | -       | Yes       | -        | -         |
 | [Acts 16:13-15](salvation/examples.md#acts-1613-15-lydias-household)   | Lydia's household    | Payed attention to what Paul said                                   | -       | Yes       | -        | -         |
 | [Acts 16:26-34](salvation/examples.md#acts-1626-34-jailers-household)  | Jailer's household   | Got baptized and rejoiced                                           | -       | Yes       | -        | -         |

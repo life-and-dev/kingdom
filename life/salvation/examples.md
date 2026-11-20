@@ -489,9 +489,9 @@ Saul recalls that Ananias said:
 > And immediately **he proclaimed Jesus** in the synagogues, saying, **“He is the Son of God.”** — Acts 9:19-20 (ESV)
 
 > [!WARNING]
-> "Proclaiming Jesus" does not mean proclaiming *[Jesus is God](https://son.ofgod.info/divine)*. Paul proclaimed that Jesus is ["the Son of God"](https://son.ofgod.info) which is a Messianic title and shows his relationship with God.
+> "Proclaiming Jesus" does not mean proclaiming *[Jesus is God](https://son.ofgod.info/divine)*. Paul proclaimed that Jesus is ["the Son of God"](https://son.ofgod.info) which is a Messianic title and shows his relationship with God. However, [Trinitarians](https://son.ofgod.info/trinity) interpret "the Son" as a member of the Trinity accordingly to [Creeds written by the church in the fourth century](https://son.ofgod.info/trinity/development).
 >
-> Saul himself differentiated between "The God of our fathers" and "the Righteous One". Saul obeys Jesus' instructions and testified as a witness for him which was significant for someone like Saul who used to persecute people who did it. However, Saul did not replace the God of their fathers with Jesus.
+> Saul himself differentiated between "The God of our fathers" and "the Righteous One". He obeys Jesus' instructions and testify as a witness for Jesus which was significant for someone like Saul who previously persecuted Christians. However, Saul did not replace the God of their fathers with Jesus.
 
 ### Acts 10 & 11 (Cornelius’ Household)
 
@@ -663,7 +663,16 @@ Paul got separated from Timothy and Silas in Berea due to a stirred uproar. Ther
 
 Like previous examples, the audience responded in different ways: some mock, others ask to hear more, and **some join Paul and believe** (Acts 17:32-24).
 
----
+## Acts 26 (King Agrippa)
 
-> [!WARNING]
-> This article is incomplete and does not list all examples of salvation in the Bible. It is a work in progress.
+After the Jews accused Paul of defiling the temple and seized him in Jerusalem, Roman soldiers took him into custody (Acts 21:27-33). Paul was held in Caesarea for two years under Felix (Acts 24:27). When his accusers brought charges before Festus, he appealed to Caesar (Acts 25:6-12). Festus then brought Paul before King Agrippa and Bernice to examine his case (Acts 25:23-27). There, Paul told the story of the Damascus road and how Jesus appointed him as a servant and witness to the Jews and Gentiles (Acts 26:17). He also explains that Jesus send him:
+
+> “To open their eyes, so that they may **turn from [darkness](../../darkness.md) to [light](../../light.md)** and from the power of Satan to God, that they may receive **forgiveness of sins** and a place among those who are sanctified by **faith in me *[Jesus]***.” — Acts 26:18 (ESV)
+
+The Paul explained to the king:
+
+> “Therefore, O King Agrippa, I was **not disobedient** to the heavenly vision, but **declared** first to those in Damascus, then in Jerusalem and throughout all the region of Judea, and also to the Gentiles, that they should **repent and turn to God**, performing **deeds in keeping with their repentance**.
+>
+> For this reason the Jews seized me in the temple and tried to kill me. To this day I have had the help that comes from God, and so I stand here **testifying** both to small and great, **saying nothing but what the prophets and Moses said would come to pass**: that **the Christ must suffer** and that, by being **the first to rise from the dead**, he would proclaim light both to our people and to the Gentiles.” — Acts 26:19-23 (ESV)
+
+Agrippa said, “In a short time would you persuade me to be a Christian?” (Acts 26:28). The officials agreed he had done nothing deserving death or imprisonment, but he had appealed to Caesar (Acts 26:30-32).
