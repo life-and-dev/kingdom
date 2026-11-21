@@ -3,7 +3,7 @@ description: Greek images of the afterlife and biblical teaching on salvation, r
 keywords: Greek afterlife, kingdom of God, resurrection hope, immortal soul, new earth, eternal life
 ---
 
-# Life
+# Life: In God's Kingdom
 
 *What is life in the Kingdom of God?*
 

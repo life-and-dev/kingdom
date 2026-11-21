@@ -3,7 +3,7 @@ description: Explore what the Bible teaches about death, what happens to the bod
 keywords: death in the Bible, what happens when you die, soul sleep, spirit returns to God, body returns to dust, biblical death, resurrection hope, Sheol, unconscious dead, sleep of death
 ---
 
-# Death
+# Death: What Happens To Us
 
 What happens after someone dies remains one of the most debated topics across religions and philosophies. The Bible offers a specific perspective on this question, drawing from passages spanning both the Old and New Testaments.
 

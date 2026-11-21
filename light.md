@@ -3,7 +3,7 @@ description: Understanding biblical light as revelation, truth, and righteousnes
 keywords: biblical light, divine revelation, spiritual illumination, lamp of God, children of light, walking in light, shine before others
 ---
 
-# Light
+# Light: Truth Leading To Life
 
 I often hear Christians talk about "walking in the light" or "being the light of the world." But what does that actually mean? When Jesus calls us to be light, what is He asking us to do? If we should shine, what is [darkness](darkness.md)?
 
@@ -15,9 +15,9 @@ God created physical light on the first day:
 
 > And God said, "Let there be light"
 >
-> **and there was light**.   
+> **and there was light**.  
 > And **God saw the light**, that it was good  
-> and **God divided the light** from the darkness.   
+> and **God divided the light** from the darkness.  
 > And **God called the light** Day, and the darkness he called Night.
 >
 > And the evening and the morning were **the first day**.
@@ -32,7 +32,7 @@ These two truths complement each other: God created **physical light** as part o
 
 ## What is the light?
 
-Generally speaking light is considered information. Your eyes receive light (information about shapes, depth, movement, colours, body language, etc.) from your surroundings so that you can determine what is going on in your environment and act accordingly. 
+Generally speaking light is considered information. Your eyes receive light (information about shapes, depth, movement, colours, body language, etc.) from your surroundings so that you can determine what is going on in your environment and act accordingly.
 
 ### Revelation or Understanding
 
@@ -40,9 +40,9 @@ Generally speaking light is considered information. Your eyes receive light (inf
 
 > Daniel answered and said:
 >
-> “Blessed be the name of God forever and ever, to whom belong wisdom and might.   
-> He changes times and seasons;   
-> He removes kings and sets up kings;   
+> “Blessed be the name of God forever and ever, to whom belong wisdom and might.  
+> He changes times and seasons;  
+> He removes kings and sets up kings;  
 > He gives wisdom to the wise and knowledge to those who have understanding;  
 > **He reveals deep and hidden things**;
 > **He knows what is in the darkness**, and **the Light** dwells with Him.
@@ -177,7 +177,7 @@ The Psalmists also associate light with righteousness.
 > Save us, we pray, O LORD!  
 > O LORD, we pray, give us success!  
 > Blessed is he who comes in the name of the LORD!  
-> We bless you from the house of the LORD.   
+> We bless you from the house of the LORD.
 > The LORD is God, and He has made **His light to shine upon us**.
 >
 > — Psalm 118:25-27 (ESV)
@@ -200,6 +200,7 @@ The Psalmists also associate light with righteousness.
 > — Isaiah 42:6-7 (ESV)
 
 > And the Lord said, ‘I am Jesus whom you are persecuting. But rise and stand upon your feet, for I have appeared to you for this purpose, to appoint you as a servant and witness to the things in which you have seen me and to those in which I will appear to you, delivering you from your people and from the Gentiles — to whom I am sending you to open their eyes, so that
+>
 > * they may **turn from darkness to light** and
 > * from **the power of Satan to God**,
 > * that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.’

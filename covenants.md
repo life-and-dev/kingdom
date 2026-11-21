@@ -1,4 +1,11 @@
-# Covenants
+---
+description: An overview of biblical covenants, their meaning, examples and place in Stephen's testimony.
+keywords: biblical covenant, suzerain-vassal treaties, covenant sacrifice, covenant responsibilities, Stephen's testimony
+---
+
+# God's Covenants with Humanity
+
+Biblical covenants include agreements between people and covenants made by God. This article explores their meaning, examples and place in Stephen's testimony.
 
 ## Definition
 
@@ -66,21 +73,21 @@ For example:
 
 ## God's Covenants
 
-God had made the following covenants with men:
+God made the following covenants with people:
 
-|     | Covenant                                               | God's responsibility                                                  | Party                   | Party's responsibility                                                             |
-| --- | ------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------- |
-| 1   | [The Noahic Covenant](covenants/noahic.md)             | Never again will a flood destroy earth                                | Noah and his offspring  | -                                                                                  |
-| 2   | [The Abrahamic Covenant](covenants/abrahamic.md)       | Abraham's offspring will inherit the land                             | Abraham                 | -                                                                                  |
-| 3   | [The Circumcision Covenant](covenants/circumcision.md) | Abraham's offspring will possess Canaan<br/>God will be a God to them | Abraham's offspring     | Require circumcision                                                               |
-| 4   | [The Mosaic Covenant](covenants/mosaic.md)             | Bless and protect Israel                                              | Israel                  | Keep God's laws                                                                    |
-| 5   | [The Levitical Covenant](covenants/levitical.md)       | Life and peace with God                                               | Levites                 | Fulfill priestly duties                                                            |
-| 6   | [The Davidic Covenant](covenants/davidic.md)           | Establish David's throne forever                                      | David and his offspring | Keep God's statutes                                                                |
-| 7   | [The New Covenant of Christ](covenants/christ.md)      | Save the all nations including gentiles                               | All nations             | [Repent](life/repentance.md) and [obey](life/righteousness.md) [Christ](christ.md) |
+| | Covenant | God's responsibility | Party | Party's responsibility |
+| --- | --- | --- | --- | --- |
+| 1 | [The Noahic Covenant](covenants/noahic.md) | Never again will a flood destroy the earth | Noah and his offspring | - |
+| 2 | [The Abrahamic Covenant](covenants/abrahamic.md) | Abraham's offspring will inherit the land | Abraham | - |
+| 3 | [The Circumcision Covenant](covenants/circumcision.md) | Abraham's offspring will possess Canaan<br>God will be a God to them | Abraham's offspring | Require circumcision |
+| 4 | [The Mosaic Covenant](covenants/mosaic.md) | Bless and protect Israel | Israel | Keep God's laws |
+| 5 | [The Levitical Covenant](covenants/levitical.md) | Life and peace with God | Levites | Fulfil priestly duties |
+| 6 | [The Davidic Covenant](covenants/davidic.md) | Establish David's throne forever | David and his offspring | Keep God's statutes |
+| 7 | [The New Covenant of Christ](covenants/christ.md) | Save all nations, including Gentiles | All nations | [Repent](life/repentance.md) and [obey](life/righteousness.md) [Christ](christ.md) |
 
-I deliberately left out [the Adamic Command](covenants/adamic.md) because technically it was not a "covenant", although it was a command from God with consequences.
+[The Adamic Command](covenants/adamic.md) is omitted because technically it was not a "covenant", although it was a command from God with consequences.
 
-### Testimony
+## Testimony
 
 Stephen said that God kept His promises (covenants) with Abraham, Moses, David and Isaiah until ["the Righteous One"](christ.md) was murdered by the Jews.
 
@@ -147,3 +154,7 @@ Stephen said that God kept His promises (covenants) with Abraham, Moses, David a
 > And **they killed those who announced beforehand the coming of the Righteous One, whom you have now betrayed and murdered**, you who received the law as delivered by angels and did not keep it.”
 >
 > -- Acts 7:2-53 (ESV)
+
+## Conclusion
+
+[Covenants](#definition) establish bonds between parties. God Himself made several important [covenants](#gods-covenants). [Stephen's testimony](#testimony) presents God's promises.

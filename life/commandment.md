@@ -1,11 +1,9 @@
 ---
-description: A scribe's question to Jesus opens a deeper journey through ancient
-  commands about worship, loyalty, and the way people treat one another.
-keywords: Shema, greatest commandment, Deuteronomy 6, Leviticus 19, love God,
-  love neighbour, Mark 12
+description: A scribe's question to Jesus opens a deeper journey through ancient commands about worship, loyalty, and the way people treat one another.
+keywords: Shema, greatest commandment, Deuteronomy 6, Leviticus 19, love God, love neighbour, Mark 12
 ---
 
-# The Most Important Commandment
+# God's Commandment
 
 When a scribe asked Jesus which commandment mattered most, Jesus answered from Israel's Scriptures. His answer brings together worship, loyalty, and ordinary relationships. Reading these passages in their original settings reveals why he placed these commands above every other.
 

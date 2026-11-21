@@ -3,7 +3,7 @@ description: Understand why evil exists despite God's sovereignty, how darkness 
 keywords: kingdom of darkness, spiritual warfare, authority, deliverance, light and darkness, sin, temptation, spiritual armor
 ---
 
-# Darkness
+# Darkness: Why It Reigns
 
 Have you ever wondered who really controls our world? When I look at the suffering, injustice, and wickedness around us, it's tempting to conclude that evil has won. Many people struggle with this question:
 

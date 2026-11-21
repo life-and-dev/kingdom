@@ -3,7 +3,7 @@ description: Discover Jesus the Christ—the King who came to establish the King
 keywords: Jesus Christ, Messiah, Kingdom of God, Gospel of the Kingdom, reconciliation to God, suffering servant prophecies, reigning Messiah, witness to truth, Great Commission, Daniel 7:13-14, Son of Man, Last Adam, bear witness, ministry of reconciliation
 ---
 
-# Christ
+# Christ: God's Anointed King
 
 ["Christ"](https://kingdom.ofgod.info/christ) is the Greek form of "Messiah" as explained by John himself (John 1:41, 4:25). Messiah is an English translation of the Hebrew word [mashiyach](https://biblehub.com/hebrew/4899.htm) pronounced mah-shee'-akh. Both Christ and Messiah means **the annointed one**.
 
