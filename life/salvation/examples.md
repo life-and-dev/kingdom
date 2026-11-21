@@ -11,7 +11,7 @@ Everyone needs [salvation](../salvation.md) from [the wrath of God](../../death/
 
 How did people "come to faith", without [church](https://church.ofgod.info) attendance, confession of sins, Christian baptism, or knowing Jesus Christ?
 
-### Genesis 16:6 (Abraham)
+### Genesis 15:6 (Abraham)
 
 Abraham trusted the Father, and his faith was counted as [righteousness](righteousness.md):
 

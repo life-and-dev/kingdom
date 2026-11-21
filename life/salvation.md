@@ -5,7 +5,7 @@ keywords: salvation, biblical salvation, salvation before Christ, Moses, faith, 
 
 # Salvation
 
-There are no scripture that state do this thing and you are saved forever. There are also no fixed list of steps to follow for salvation. Therefore, I have listed biblical examples that shows how people were saved. The purpose is to establish a pattern for salvation, rather than to read doctrines back into scripture.
+There are no scripture that state do this thing and you are saved forever. There are also no fixed checklist to follow for salvation. Therefore, I have listed biblical examples that shows how people were saved. The purpose is to establish a pattern for salvation, rather than to read doctrines back into scripture.
 
 ## Salvation Before Christ
 
@@ -74,13 +74,13 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Judgement` warning about future [resurrection](../death/resurrection.md) or [judgement](../death/judgement.md)
 > - `Jesus=God` teaching that [Jesus is the Supreme God](https://son.ofgod.info/divine). Titles such as [Son of God](https://son.ofgod.info), [Christ](../christ.md) or [Lord](https://ofgod.info/name#lord) [do not establish that identification](https://son.ofgod.info/name).
 > - `Repent` a call to [repent from sin](repentance.md) or to live in good standing with God ([righteously](righteousness.md)). This is not to be confused with a request to a once off sin confession or *Sinner's Prayer*. Instead "repentance" is often describe as a changed lifestyle (turn from wicked ways).
-> - `Baptize` a call to baptism explicitly required in the stated response for salvation or forgiveness, not merely baptism taking place
+> - `Baptize` a call to baptism in response for salvation or forgiveness
 > - `Laws` a call to love God by obeying His laws or the commands from the Father given by His Son.
 > - `Christ` a call to trust ([belief](https://word.ofgod.info/terms/faith)) that God will/has risen [Christ](../christ.md) and to honor him or to submit under the his authority
 
 | Scripture                                                                             | Agent            | Audience                    | Plan | Kingdom | Resurrection | Judgement | Jesus=God | Repent | Baptize | Laws | Christ    |
 | ------------------------------------------------------------------------------------- | ---------------- | --------------------------- | ---- | ------- | ------------ | --------- | --------- | ------ | ------- | ---- | --------- |
-| [Ezekiel 18:21-22](salvation/examples.md#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel                      | -    | -       | Yes          | Yes       | -         | Yes    | -       | Yes  | -         |
+| [Ezekiel 18:21-22](salvation/examples.md#ezekiel-1821-22-a-wicked-person)             | Ezekiel          | Israel                      | -    | -       | -            | Yes       | -         | Yes    | -       | Yes  | -         |
 | [Matthew 3:5-12; John 3:33-36](salvation/examples.md#matthew-35-12-john-333-36-judea) | John the Baptist | Judea                       | -    | -       | -            | Yes       | -         | Yes    | Yes     | -    | Yes       |
 | [Matthew 4-7](salvation/examples.md#matthew-4-7-galilee)                              | Jesus            | Galilee                     | -    | Yes     | -            | Yes       | -         | Yes    | Yes     | Yes  | Debatable |
 | [Mark 16:14-16](salvation/examples.md#mark-1614-16-disciples)                         | Jesus            | Disciples                   | -    | -       | Yes          | Yes       | -         | -      | Yes     | -    | Yes       |
@@ -95,8 +95,8 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 | [Acts 8:5-17](salvation/examples.md#acts-85-17-samaria)                               | Philip           | Samaria, Simon the magician | -    | Yes     | -            | -         | -         | -      | -       | -    | Yes       |
 | [Acts 8:26-40](salvation/examples.md#acts-826-40-ethiopian-eunuch)                    | Philip           | Ethiopian eunuch            | -    | -       | -            | -         | -         | -      | Assume  | -    | Yes       |
 | [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household)                 | Peter            | Cornelius' household        | -    | -       | Yes          | Yes       | No        | Yes    | Yes     | -    | Yes       |
-| [Acts 13](salvation/examples.md#acts-13-antioch-jews)                                 | Paul             | Antioch Jews                | -    | -       | Yes          | -         | No        | Yes    | Yes     | -    | Yes       |
-| [Acts 17:1-4](salvation/examples.md#acts-171-4-thessalonica)                          | Paul             | Thessalonica                | -    | -       | -            | -         | -         | -      | -       | -    | Yes       |
+| [Acts 13](salvation/examples.md#acts-13-antioch-jews)                                 | Paul             | Antioch Jews                | Yes  | -       | Yes          | -         | No        | Yes    | Yes     | -    | Yes       |
+| [Acts 17:1-4](salvation/examples.md#acts-171-4-thessalonica)                          | Paul             | Thessalonica                | -    | -       | Yes          | -         | -         | -      | -       | -    | Yes       |
 | [Acts 17:16-31](salvation/examples.md#acts-1716-31)                                   | Paul             | Athenians                   | -    | -       | -            | Yes       | No        | -      | -       | -    | Yes       |
 | [Acts 26](salvation/examples.md#acts-26-king-agrippa)                                 | Paul             | King Agrippa                | Yes  | -       | Yes          | -         | -         | Yes    | -       | -    | Yes       |
 
@@ -111,20 +111,20 @@ Paul's explanation does not establish that Abraham, David or other earlier belie
 > - `Devotion` a change in behaviour ("good fruit"): often recognized by an act of trust like obeying God (or Christ's) commands or laws which results to turn from a previous wicked lifestyle.
 > - `Jesus=God` the audience identifying [Jesus as their Supreme God](https://son.ofgod.info/divine)
 
-| Scripture                                                              | Audience             | Reaction                                                            | Confess | Baptized  | Devotion | Jesus=God |
-| ---------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------- | ------- | --------- | -------- | --------- |
-| [Genesis 16:6](salvation/examples.md#genesis-166-abraham)              | Abraham              | Believed the LORD                                                   | -       | -         | Yes      | -         |
-| [2 Samuel 12:13](salvation/examples.md#2-samuel-1213-david)            | King David           | Confessed his sin after prophet approached him                      | Yes     | -         | Yes      | -         |
-| [2 Kings 5:1-19](salvation/examples.md#2-kings-51-19-naaman)           | Naaman               | Washed, acknowledged YHWH, pledged exclusive worship                | Yes     | Debatable | Yes      | -         |
-| [Luke 19:1-10](salvation/examples.md#luke-191-10-zacchaeus)            | Zacchaeus            | Sold possession and pay back defrauded people                       | Assume  | -         | Yes      | -         |
-| [Acts 2:22–43](salvation/examples.md#acts-222-36-peter)                | Mixed multitude      | Devotion, prayers, awe, sharing everything                          | Yes     | Yes       | Yes      | -         |
-| [Acts 3 & 4](salvation/examples.md#acts-3--4-jews)                     | Jews                 | Believed, devotion, prayers, shared everything                      | -       | -         | Yes      | -         |
-| [Acts 8:26-40](salvation/examples.md#acts-826-40-ethiopian-eunuch)     | Ethiopian eunuch     | Request baptism and rejoiced                                        | -       | Yes       | -        | -         |
-| [Acts 9:1-20, 22:12-16](salvation/examples.md#acts-91-20-2212-16-saul) | Saul                 | Radical change from murder to saviour willing to suffer persecution | Yes     | Yes       | Yes      | -         |
-| [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household)  | Cornelius' household | Filled with Holy Spirit and speak in tongues                        | -       | Yes       | -        | -         |
-| [Acts 16:13-15](salvation/examples.md#acts-1613-15-lydias-household)   | Lydia's household    | Payed attention to what Paul said                                   | -       | Yes       | -        | -         |
-| [Acts 16:26-34](salvation/examples.md#acts-1626-34-jailers-household)  | Jailer's household   | Got baptized and rejoiced                                           | -       | Yes       | -        | -         |
-| [Acts 17:10-12](salvation/examples.md#acts-1710-12-berea)              | Berea                | Received the word, examined the scriptures daily and believed       | -       | -         | Assume   | -         |
+| Scripture                                                              | Audience             | Reaction                                                         | Confess   | Baptized  | Devotion | Jesus=God |
+| ---------------------------------------------------------------------- | -------------------- | ---------------------------------------------------------------- | --------- | --------- | -------- | --------- |
+| [Genesis 15:6](salvation/examples.md#genesis-156-abraham)              | Abraham              | Believed the LORD                                                | -         | -         | Yes      | -         |
+| [2 Samuel 12:13](salvation/examples.md#2-samuel-1213-david)            | King David           | Confessed his sin after prophet approached him                   | Yes       | -         | Yes      | -         |
+| [2 Kings 5:1-19](salvation/examples.md#2-kings-51-19-naaman)           | Naaman               | Washed, acknowledged YHWH, pledged exclusive worship             | Debatable | Debatable | Yes      | -         |
+| [Luke 19:1-10](salvation/examples.md#luke-191-10-zacchaeus)            | Zacchaeus            | Gave half of his good to poor and restore where he had defrauded | Assume    | -         | Yes      | -         |
+| [Acts 2:22–43](salvation/examples.md#acts-222-36-peter)                | Mixed multitude      | Devotion, prayers, awe, sharing everything                       | Assume    | Yes       | Yes      | -         |
+| [Acts 3 & 4](salvation/examples.md#acts-3--4-jews)                     | Jews                 | Believed, devotion, prayers, shared everything                   | -         | -         | Yes      | -         |
+| [Acts 8:26-40](salvation/examples.md#acts-826-40-ethiopian-eunuch)     | Ethiopian eunuch     | Request baptism and rejoiced                                     | -         | Yes       | -        | -         |
+| [Acts 9:1-20, 22:12-16](salvation/examples.md#acts-91-20-2212-16-saul) | Saul                 | Radical change from persecutor to witness for Jesus              | -         | Yes       | Yes      | -         |
+| [Acts 10 & 11](salvation/examples.md#acts-10--11-cornelius-household)  | Cornelius' household | Filled with Holy Spirit and speak in tongues                     | -         | Yes       | -        | -         |
+| [Acts 16:13-15](salvation/examples.md#acts-1613-15-lydias-household)   | Lydia's household    | Payed attention to what Paul said                                | -         | Yes       | -        | -         |
+| [Acts 16:26-34](salvation/examples.md#acts-1626-34-jailers-household)  | Jailer's household   | Got baptized and rejoiced                                        | -         | Yes       | -        | -         |
+| [Acts 17:10-12](salvation/examples.md#acts-1710-12-berea)              | Berea                | Received the word, examined the scriptures daily and believed    | -         | -         | Assume   | -         |
 
 > [!CAUTION]
 > While it crucial to believe in the existance of God and to believe that Jesus is the [Christ (God's annointed lord)](../christ.md) for salvation, it has **never** been a requirement to [believe that Jesus is *the Supreme God Himself*](https://son.ofgod.info/divine). The latter requirement was only [added by church creeds many centuries later](https://son.ofgod.info/trinity/development) for political reasons.
@@ -171,7 +171,8 @@ Many modern Christians quote Acts 15:28-29 out of context to show that *only the
 
 > "**Do not think that I have come to abolish the Law** or the Prophets; I have not come to abolish them but to fulfill them. For truly, I say to you, **until heaven and earth pass away, not an iota, not a dot, will pass from the Law** until all is accomplished. Therefore **whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in [the kingdom of heaven](../index.md)**, but **whoever does them and teaches them will be called great in [the kingdom of heaven](../index.md)**." — Matthew 5:17-19 (ESV)
 
-The difference is that the apostles were addressing the minimum requirements for salvation while Jesus were addressing which laws are relevant in the kingdom of heaven. As Paul also wrote in multiple letters, **salvation cannot be earned** by keeping laws, however this does not give any Christian an excuse to disobey God's laws and skip [judgement](../death/judgement.md). Obedience is a voluntary response to show love, honour and respect to the Lord Jesus Christ and to God the Father. The way that we treat the Lord Jesus Christ, God the Father and each other shows weather we have fruit of repentance or not.
+The difference is that the apostles were addressing the requirements for salvation while Jesus were addressing which laws are relevant in the kingdom of heaven. As Paul also wrote in multiple letters, **salvation cannot be earned** by keeping laws, however this does not give any Christian an excuse to disobey God's laws and skip [judgement](../death/judgement.md). Believers obey willingly out of love, honour and respect for God the Father and their Lord Jesus Christ, rather than merely complying under force. The way they treat God, Jesus and one another shows whether their lives bear fruit in keeping with
+repentance.
 
 This decision to reduce the burden on new converts had a very positive impact on the church's growth:
 
